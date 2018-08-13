@@ -1,0 +1,102 @@
+#AREADATA
+Name Beyond the Dark Clouds~
+Builders Blake~
+VNUMs 1200 1299
+LevelRange 52 60
+Credits Blake~
+Security 9
+Continent 0
+AreaFlags 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#1200
+potion crystal vial~
+a crystal vial~
+A crystal vial is here.~
+glass~
+potion G AO
+20 'sanctuary' 'haste' 'heal' 'refresh'
+11 10 0 P
+#0
+
+
+
+#ROOMS
+#1200
+The Immortals Hall~
+You are standing in a giant hall with massive royal looking tapestries
+hanging from the walls and many couches and chairs sitting around the room. 
+There is a fire roaring in the fireplace on the west wall and many windows
+that look out over the land of Arcanis.  
+~
+0 65548 0
+S
+#1212
+The Realm of the Dead~
+You are standing on an immense, grey stone floor that stretches as far as you
+can see in all directions.  Rough winds plunging from the dark, starless sky
+tear savagely at your fragile body.
+~
+0 9224 0
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+E
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+D0
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+D1
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+D2
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+D3
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

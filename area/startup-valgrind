@@ -1,0 +1,43 @@
+#!/bin/csh
+# Written by Furey.
+# With additions from Tony, Alander.
+
+# Set the port number.
+
+set port = 9000
+if ( "$1" != "" ) set port="$1"
+
+# Change to area directory.
+cd ../area
+
+# Set limits.
+if ( -e shutdown.txt ) rm -f shutdown.txt
+
+while ( 1 )
+    # If you want to have logs in a different directory,
+    #   change the 'set logfile' line to reflect the directory name.
+    set index = 1000
+    while ( 1 )
+	set logfile = ../log/$index.log
+	if ( ! -e $logfile ) break
+	@ index++
+    end
+
+    # Run with Valgrind.  Note, a full reboot should be done to implement changes, when
+    # a copyover happens Valgrind appears to stop tracking the memory and never finishes out.
+    set valgrindLogFile = ../log/$index-valgrind.log
+    valgrind --leak-check=full --log-file=$valgrindLogFile -v ../area/game $port >&! $logfile
+
+    # Restart, giving old connections a chance to die.
+    if ( -e shutdown.txt ) then
+	rm -f shutdown.txt
+	exit 0
+    endif
+    sleep 10
+
+    # If the core file exists, move it so we can examine it later, we should
+    # consider only keeping the last few.
+    if ( -e core ) then
+    mv ./core ../core/$index.core
+    endif
+end

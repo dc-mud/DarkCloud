@@ -1,0 +1,2921 @@
+#AREADATA
+Name Sea of Midgaard~
+Builders Blake~
+VNUMs 11100 11199
+LevelRange 51 51
+Credits Blake~
+Security 9
+Continent 3
+AreaFlags 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11100
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11390
+D1
+~
+~
+0 0 11101
+D2
+~
+~
+0 0 11110
+D3
+~
+~
+0 0 12009
+D6
+~
+~
+0 0 11999
+D7
+~
+~
+0 0 11391
+D8
+~
+~
+0 0 12019
+D9
+~
+~
+0 0 11111
+S
+#11101
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11391
+D1
+~
+~
+0 0 11102
+D2
+~
+~
+0 0 11111
+D3
+~
+~
+0 0 11100
+D6
+~
+~
+0 0 11390
+D7
+~
+~
+0 0 11392
+D8
+~
+~
+0 0 11110
+D9
+~
+~
+0 0 11112
+S
+#11102
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11392
+D1
+~
+~
+0 0 11103
+D2
+~
+~
+0 0 11112
+D3
+~
+~
+0 0 11101
+D6
+~
+~
+0 0 11391
+D7
+~
+~
+0 0 11393
+D8
+~
+~
+0 0 11111
+D9
+~
+~
+0 0 11113
+S
+#11103
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11393
+D1
+~
+~
+0 0 11104
+D2
+~
+~
+0 0 11113
+D3
+~
+~
+0 0 11102
+D6
+~
+~
+0 0 11392
+D7
+~
+~
+0 0 11394
+D8
+~
+~
+0 0 11112
+D9
+~
+~
+0 0 11114
+S
+#11104
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11394
+D1
+~
+~
+0 0 11105
+D2
+~
+~
+0 0 11114
+D3
+~
+~
+0 0 11103
+D6
+~
+~
+0 0 11393
+D7
+~
+~
+0 0 11395
+D8
+~
+~
+0 0 11113
+D9
+~
+~
+0 0 11115
+S
+#11105
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11395
+D1
+~
+~
+0 0 11106
+D2
+~
+~
+0 0 11115
+D3
+~
+~
+0 0 11104
+D6
+~
+~
+0 0 11394
+D7
+~
+~
+0 0 11396
+D8
+~
+~
+0 0 11114
+D9
+~
+~
+0 0 11116
+S
+#11106
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11396
+D1
+~
+~
+0 0 11107
+D2
+~
+~
+0 0 11116
+D3
+~
+~
+0 0 11105
+D6
+~
+~
+0 0 11395
+D7
+~
+~
+0 0 11397
+D8
+~
+~
+0 0 11115
+D9
+~
+~
+0 0 11117
+S
+#11107
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11397
+D1
+~
+~
+0 0 11108
+D2
+~
+~
+0 0 11117
+D3
+~
+~
+0 0 11106
+D6
+~
+~
+0 0 11396
+D7
+~
+~
+0 0 11398
+D8
+~
+~
+0 0 11116
+D9
+~
+~
+0 0 11118
+S
+#11108
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11398
+D1
+~
+~
+0 0 11109
+D2
+~
+~
+0 0 11118
+D3
+~
+~
+0 0 11107
+D6
+~
+~
+0 0 11397
+D7
+~
+~
+0 0 11399
+D8
+~
+~
+0 0 11117
+D9
+~
+~
+0 0 11119
+S
+#11109
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11399
+D1
+~
+~
+0 0 11000
+D2
+~
+~
+0 0 11119
+D3
+~
+~
+0 0 11108
+D6
+~
+~
+0 0 11398
+D7
+~
+~
+0 0 11490
+D8
+~
+~
+0 0 11118
+D9
+~
+~
+0 0 11010
+S
+#11110
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11100
+D1
+~
+~
+0 0 11111
+D2
+~
+~
+0 0 11120
+D3
+~
+~
+0 0 12019
+D6
+~
+~
+0 0 12009
+D7
+~
+~
+0 0 11101
+D8
+~
+~
+0 0 12029
+D9
+~
+~
+0 0 11121
+S
+#11111
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11101
+D1
+~
+~
+0 0 11112
+D2
+~
+~
+0 0 11121
+D3
+~
+~
+0 0 11110
+D6
+~
+~
+0 0 11100
+D7
+~
+~
+0 0 11102
+D8
+~
+~
+0 0 11120
+D9
+~
+~
+0 0 11122
+S
+#11112
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11102
+D1
+~
+~
+0 0 11113
+D2
+~
+~
+0 0 11122
+D3
+~
+~
+0 0 11111
+D6
+~
+~
+0 0 11101
+D7
+~
+~
+0 0 11103
+D8
+~
+~
+0 0 11121
+D9
+~
+~
+0 0 11123
+S
+#11113
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11103
+D1
+~
+~
+0 0 11114
+D2
+~
+~
+0 0 11123
+D3
+~
+~
+0 0 11112
+D6
+~
+~
+0 0 11102
+D7
+~
+~
+0 0 11104
+D8
+~
+~
+0 0 11122
+S
+#11114
+Northern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  To
+the north the waters of the Sea of Midgaard extend up to the waters of the
+great northwest ocean.  To the south are the northern plains of Midgaard
+including Ofcol and farther south to Midgaard.  
+~
+0 0 12
+D0
+~
+~
+0 0 11104
+D1
+~
+~
+0 0 11115
+D3
+~
+~
+0 0 11113
+D6
+~
+~
+0 0 11103
+D7
+~
+~
+0 0 11105
+D8
+~
+~
+0 0 11123
+D9
+~
+~
+0 0 11125
+S
+#11115
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11105
+D1
+~
+~
+0 0 11116
+D2
+~
+~
+0 0 11125
+D3
+~
+~
+0 0 11114
+D6
+~
+~
+0 0 11104
+D7
+~
+~
+0 0 11106
+D9
+~
+~
+0 0 11126
+S
+#11116
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11106
+D1
+~
+~
+0 0 11117
+D2
+~
+~
+0 0 11126
+D3
+~
+~
+0 0 11115
+D6
+~
+~
+0 0 11105
+D7
+~
+~
+0 0 11107
+D8
+~
+~
+0 0 11125
+D9
+~
+~
+0 0 11127
+S
+#11117
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11107
+D1
+~
+~
+0 0 11118
+D2
+~
+~
+0 0 11127
+D3
+~
+~
+0 0 11116
+D6
+~
+~
+0 0 11106
+D7
+~
+~
+0 0 11108
+D8
+~
+~
+0 0 11126
+D9
+~
+~
+0 0 11128
+S
+#11118
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11108
+D1
+~
+~
+0 0 11119
+D2
+~
+~
+0 0 11128
+D3
+~
+~
+0 0 11117
+D6
+~
+~
+0 0 11107
+D7
+~
+~
+0 0 11109
+D8
+~
+~
+0 0 11127
+D9
+~
+~
+0 0 11129
+S
+#11119
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11109
+D1
+~
+~
+0 0 11010
+D2
+~
+~
+0 0 11129
+D3
+~
+~
+0 0 11118
+D6
+~
+~
+0 0 11108
+D7
+~
+~
+0 0 11000
+D8
+~
+~
+0 0 11128
+D9
+~
+~
+0 0 11020
+S
+#11120
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11110
+D1
+~
+~
+0 0 11121
+D2
+~
+~
+0 0 11130
+D3
+~
+~
+0 0 12029
+D6
+~
+~
+0 0 12019
+D7
+~
+~
+0 0 11111
+D8
+~
+~
+0 0 12039
+D9
+~
+~
+0 0 11131
+S
+#11121
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11111
+D1
+~
+~
+0 0 11122
+D2
+~
+~
+0 0 11131
+D3
+~
+~
+0 0 11120
+D6
+~
+~
+0 0 11110
+D7
+~
+~
+0 0 11112
+D8
+~
+~
+0 0 11130
+D9
+~
+~
+0 0 11132
+S
+#11122
+Northwest Midgaard Coast~
+You are standing on the soft stands on the coast of the Sea of Midgaard. 
+To the interior are the forests of northwest Midgaard and to the west is the
+Sea of Midgaard and then farther the great barriers seas.  
+~
+0 0 12
+D0
+~
+~
+0 0 11112
+D1
+~
+~
+0 0 11123
+D2
+~
+~
+0 0 11132
+D3
+~
+~
+0 0 11121
+D6
+~
+~
+0 0 11111
+D7
+~
+~
+0 0 11113
+D8
+~
+~
+0 0 11131
+D9
+~
+~
+0 0 7871
+S
+#11123
+Northern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  To
+the north the waters of the Sea of Midgaard extend up to the waters of the
+great northwest ocean.  To the south are the northern plains of Midgaard
+including Ofcol and farther south to the stronghold of Midgaard.  
+~
+0 0 12
+D0
+~
+~
+0 0 11113
+D3
+~
+~
+0 0 11122
+D6
+~
+~
+0 0 11112
+D7
+~
+~
+0 0 11114
+D8
+~
+~
+0 0 11132
+S
+#11125
+Northern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  To
+the north the waters of the Sea of Midgaard extend up to the waters of the
+great northwest ocean.  To the south are the northern plains of Midgaard
+including Ofcol and farther south to the stronghold Midgaard.  
+~
+0 0 12
+D0
+~
+~
+0 0 11115
+D1
+~
+~
+0 0 11126
+D6
+~
+~
+0 0 11114
+D7
+~
+~
+0 0 11116
+S
+#11126
+Northern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  To
+the north the waters of the Sea of Midgaard extend up to the waters of the
+great northwest ocean.  To the south are the northern plains of Midgaard
+including Ofcol and farther south to the stronghold of Midgaard.  
+~
+0 0 12
+D0
+~
+~
+0 0 11116
+D1
+~
+~
+0 0 11127
+D3
+~
+~
+0 0 11125
+D6
+~
+~
+0 0 11115
+D7
+~
+~
+0 0 11117
+D9
+~
+~
+0 0 11137
+S
+#11127
+Northwestern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  To
+The northeast the waters of the Sea of Midgaard extend up to the waters of the
+Frozen Sea.  To the southwest are the lands goverened by New Thalos and the
+northern mountains of Midgaard.  
+~
+0 0 12
+D0
+~
+~
+0 0 11117
+D1
+~
+~
+0 0 11128
+D2
+~
+~
+0 0 11137
+D3
+~
+~
+0 0 11126
+D6
+~
+~
+0 0 11116
+D7
+~
+~
+0 0 11118
+D9
+~
+~
+0 0 11138
+S
+#11128
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11118
+D1
+~
+~
+0 0 11129
+D2
+~
+~
+0 0 11138
+D3
+~
+~
+0 0 11127
+D6
+~
+~
+0 0 11117
+D7
+~
+~
+0 0 11119
+D8
+~
+~
+0 0 11137
+D9
+~
+~
+0 0 11139
+S
+#11129
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11119
+D1
+~
+~
+0 0 11020
+D2
+~
+~
+0 0 11139
+D3
+~
+~
+0 0 11128
+D6
+~
+~
+0 0 11118
+D7
+~
+~
+0 0 11010
+D8
+~
+~
+0 0 11138
+D9
+~
+~
+0 0 11030
+S
+#11130
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11120
+D1
+~
+~
+0 0 11131
+D2
+~
+~
+0 0 11140
+D3
+~
+~
+0 0 12039
+D6
+~
+~
+0 0 12029
+D7
+~
+~
+0 0 11121
+D8
+~
+~
+0 0 12049
+D9
+~
+~
+0 0 11141
+S
+#11131
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11121
+D1
+~
+~
+0 0 11132
+D2
+~
+~
+0 0 11141
+D3
+~
+~
+0 0 11130
+D6
+~
+~
+0 0 11120
+D7
+~
+~
+0 0 11122
+D8
+~
+~
+0 0 11140
+S
+#11132
+Northwest Midgaard Coast~
+You are standing on the soft stands on the coast of the Sea of Midgaard. 
+To the interior are the forests of northwest Midgaard and to the sea is the
+Sea of Midgaard and then farther the great barriers seas.  
+~
+0 0 12
+D0
+~
+~
+0 0 11122
+D3
+~
+~
+0 0 11131
+D6
+~
+~
+0 0 11121
+D7
+~
+~
+0 0 11123
+D8
+~
+~
+0 0 11141
+S
+#11137
+Northwestern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  To
+The northeast the waters of the Sea of Midgaard extend up to the waters of the
+Frozen Sea.  To the southwest are the lands goverened by New Thalos and the
+northern mountains of Midgaard.  
+~
+0 0 12
+D0
+~
+~
+0 0 11127
+D1
+~
+~
+0 0 11138
+D6
+~
+~
+0 0 11126
+D7
+~
+~
+0 0 11128
+D9
+~
+~
+0 0 11148
+S
+#11138
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11128
+D1
+~
+~
+0 0 11139
+D2
+~
+~
+0 0 11148
+D3
+~
+~
+0 0 11137
+D6
+~
+~
+0 0 11127
+D7
+~
+~
+0 0 11129
+D9
+~
+~
+0 0 11149
+S
+#11139
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11129
+D1
+~
+~
+0 0 11030
+D2
+~
+~
+0 0 11149
+D3
+~
+~
+0 0 11138
+D6
+~
+~
+0 0 11128
+D7
+~
+~
+0 0 11020
+D8
+~
+~
+0 0 11148
+D9
+~
+~
+0 0 11040
+S
+#11140
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11130
+D1
+~
+~
+0 0 11141
+D2
+~
+~
+0 0 11150
+D3
+~
+~
+0 0 12049
+D6
+~
+~
+0 0 12039
+D7
+~
+~
+0 0 11131
+D8
+~
+~
+0 0 12059
+D9
+~
+~
+0 0 11151
+S
+#11141
+Western Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  You
+can see sea thriving in the lush waters and nothing but water ahead as the
+Sea of Midgaard jets out to merge with the Great Barrier Sea.  
+~
+0 0 12
+D0
+~
+~
+0 0 11131
+D2
+~
+~
+0 0 11151
+D3
+~
+~
+0 0 11140
+D6
+~
+~
+0 0 11130
+D7
+~
+~
+0 0 11132
+D8
+~
+~
+0 0 11150
+S
+#11148
+Eastern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  To
+the east the waters of the Sea of Midgaard extend into those of the Dragon Sea
+that sit at the center of the world.  
+~
+0 0 12
+D0
+~
+~
+0 0 11138
+D1
+~
+~
+0 0 11149
+D2
+~
+~
+0 0 9789
+D6
+~
+~
+0 0 11137
+D7
+~
+~
+0 0 11139
+D9
+~
+~
+0 0 11159
+S
+#11149
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11139
+D1
+~
+~
+0 0 11040
+D2
+~
+~
+0 0 11159
+D3
+~
+~
+0 0 11148
+D6
+~
+~
+0 0 11138
+D7
+~
+~
+0 0 11030
+D8
+~
+~
+0 0 11158
+D9
+~
+~
+0 0 11050
+S
+#11150
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11140
+D1
+~
+~
+0 0 11151
+D2
+~
+~
+0 0 11160
+D3
+~
+~
+0 0 12059
+D6
+~
+~
+0 0 12049
+D7
+~
+~
+0 0 11141
+D8
+~
+~
+0 0 12069
+D9
+~
+~
+0 0 11161
+S
+#11151
+Western Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  You
+can see sea thriving in the lush waters and nothing but water ahead as the
+Sea of Midgaard jets out to merge with the Great Barrier Sea.  
+~
+0 0 12
+D0
+~
+~
+0 0 11141
+D2
+~
+~
+0 0 11161
+D3
+~
+~
+0 0 11150
+D6
+~
+~
+0 0 11140
+D8
+~
+~
+0 0 11160
+S
+#11158
+Eastern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  To
+the east the waters of the Sea of Midgaard extend into those of the Dragon Sea
+that sit at the center of the world.  
+~
+0 0 12
+D0
+~
+~
+0 0 9789
+D1
+~
+~
+0 0 11159
+D2
+~
+~
+0 0 11168
+D7
+~
+~
+0 0 11149
+D8
+~
+~
+0 0 11167
+D9
+~
+~
+0 0 11169
+S
+#11159
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which
+surrounds the ancient continent of Midgaard.  The sea water is foaming as it
+crashes to and fro and the waves are high a restless.  The current has
+dragged you slightly to the south of the New Thalos port.  
+~
+0 0 11
+D0
+~
+~
+0 0 11149
+D1
+~
+~
+0 0 11050
+D2
+~
+~
+0 0 11169
+D3
+~
+~
+0 0 11158
+D6
+~
+~
+0 0 11148
+D7
+~
+~
+0 0 11040
+D8
+~
+~
+0 0 11168
+D9
+~
+~
+0 0 11060
+S
+#11160
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11150
+D1
+~
+~
+0 0 11161
+D2
+~
+~
+0 0 11170
+D3
+~
+~
+0 0 12069
+D6
+~
+~
+0 0 12059
+D7
+~
+~
+0 0 11151
+D8
+~
+~
+0 0 12079
+D9
+~
+~
+0 0 11171
+S
+#11161
+Western Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  You
+can see sea thriving in the lush waters and nothing but water ahead as the
+Sea of Midgaard jets out to merge with the Great Barrier Sea.  
+~
+0 0 12
+D0
+~
+~
+0 0 11151
+D2
+~
+~
+0 0 11171
+D3
+~
+~
+0 0 11160
+D6
+~
+~
+0 0 11150
+D8
+~
+~
+0 0 11170
+D9
+~
+~
+0 0 11172
+S
+#11167
+Southeastern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  To
+To the north are the lands that New Thalos reigns over and to the southeast
+the Sea of Midgaard extends into the warm waters of the Crystal Sea.  
+~
+0 0 12
+D1
+~
+~
+0 0 11168
+D2
+~
+~
+0 0 11177
+D3
+~
+~
+0 0 9785
+D7
+~
+~
+0 0 11158
+D8
+~
+~
+0 0 11176
+D9
+~
+~
+0 0 11178
+S
+#11168
+Eastern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  To
+the east the waters of the Sea of Midgaard extend into those of the Dragon Sea
+that sit at the center of the world.  
+~
+0 0 12
+D0
+~
+~
+0 0 11158
+D1
+~
+~
+0 0 11169
+D2
+~
+~
+0 0 11178
+D3
+~
+~
+0 0 11167
+D7
+~
+~
+0 0 11159
+D8
+~
+~
+0 0 11177
+D9
+~
+~
+0 0 11179
+S
+#11169
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11159
+D1
+~
+~
+0 0 11060
+D2
+~
+~
+0 0 11179
+D3
+~
+~
+0 0 11168
+D6
+~
+~
+0 0 11158
+D7
+~
+~
+0 0 11050
+D8
+~
+~
+0 0 11178
+D9
+~
+~
+0 0 11070
+S
+#11170
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11160
+D1
+~
+~
+0 0 11171
+D2
+~
+~
+0 0 11180
+D3
+~
+~
+0 0 12079
+D6
+~
+~
+0 0 12069
+D7
+~
+~
+0 0 11161
+D8
+~
+~
+0 0 12089
+D9
+~
+~
+0 0 11181
+S
+#11171
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11161
+D1
+~
+~
+0 0 11172
+D2
+~
+~
+0 0 11181
+D3
+~
+~
+0 0 11170
+D6
+~
+~
+0 0 11160
+D8
+~
+~
+0 0 11180
+D9
+~
+~
+0 0 11182
+S
+#11172
+Southwestern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  You
+can see sea thriving in the lush waters and nothing but water ahead as the
+Sea of Midgaard jets out to merge with the Sea of Despair's dark and haunted
+waters.  
+~
+0 0 12
+D1
+~
+~
+0 0 11173
+D2
+~
+~
+0 0 11182
+D3
+~
+~
+0 0 11171
+D6
+~
+~
+0 0 11161
+D7
+~
+~
+0 0 6135
+D8
+~
+~
+0 0 11181
+D9
+~
+~
+0 0 11183
+S
+#11173
+Southwestern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  You
+can see sea thriving in the lush waters and nothing but water ahead as the
+Sea of Midgaard jets out to merge with the Sea of Despair's dark and haunted
+waters.  
+~
+0 0 12
+D2
+~
+~
+0 0 11183
+D3
+~
+~
+0 0 11172
+D8
+~
+~
+0 0 11182
+D9
+~
+~
+0 0 11184
+S
+#11176
+Southeastern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  To
+To the north are the lands that New Thalos reigns over and to the southeast
+the Sea of Midgaard extends into the warm waters of the Crystal Sea.  
+~
+0 0 12
+D0
+~
+~
+0 0 9785
+D1
+~
+~
+0 0 11177
+D2
+~
+~
+0 0 11186
+D7
+~
+~
+0 0 11167
+D8
+~
+~
+0 0 11185
+D9
+~
+~
+0 0 11187
+S
+#11177
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11167
+D1
+~
+~
+0 0 11178
+D2
+~
+~
+0 0 11187
+D3
+~
+~
+0 0 11176
+D7
+~
+~
+0 0 11168
+D8
+~
+~
+0 0 11186
+D9
+~
+~
+0 0 11188
+S
+#11178
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11168
+D1
+~
+~
+0 0 11179
+D2
+~
+~
+0 0 11188
+D3
+~
+~
+0 0 11177
+D6
+~
+~
+0 0 11167
+D7
+~
+~
+0 0 11169
+D8
+~
+~
+0 0 11187
+D9
+~
+~
+0 0 11189
+S
+#11179
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11169
+D1
+~
+~
+0 0 11070
+D2
+~
+~
+0 0 11189
+D3
+~
+~
+0 0 11178
+D6
+~
+~
+0 0 11168
+D7
+~
+~
+0 0 11060
+D8
+~
+~
+0 0 11188
+D9
+~
+~
+0 0 11080
+S
+#11180
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11170
+D1
+~
+~
+0 0 11181
+D2
+~
+~
+0 0 11190
+D3
+~
+~
+0 0 12089
+D6
+~
+~
+0 0 12079
+D7
+~
+~
+0 0 11171
+D8
+~
+~
+0 0 12099
+D9
+~
+~
+0 0 11191
+S
+#11181
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11171
+D1
+~
+~
+0 0 11182
+D2
+~
+~
+0 0 11191
+D3
+~
+~
+0 0 11180
+D6
+~
+~
+0 0 11170
+D7
+~
+~
+0 0 11172
+D8
+~
+~
+0 0 11190
+D9
+~
+~
+0 0 11192
+S
+#11182
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11172
+D1
+~
+~
+0 0 11183
+D2
+~
+~
+0 0 11192
+D3
+~
+~
+0 0 11181
+D6
+~
+~
+0 0 11171
+D7
+~
+~
+0 0 11173
+D8
+~
+~
+0 0 11191
+D9
+~
+~
+0 0 11193
+S
+#11183
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11173
+D1
+~
+~
+0 0 11184
+D2
+~
+~
+0 0 11193
+D3
+~
+~
+0 0 11182
+D6
+~
+~
+0 0 11172
+D8
+~
+~
+0 0 11192
+D9
+~
+~
+0 0 11194
+S
+#11184
+Southern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  To
+the northern interior is Miden'nir and the Sands of Sorrow and to the
+southern seas the water of the Sea of Midgaard extends into the omnious Sea of
+Despair.  
+~
+0 0 12
+D1
+~
+~
+0 0 11185
+D2
+~
+~
+0 0 11194
+D3
+~
+~
+0 0 11183
+D6
+~
+~
+0 0 11173
+D8
+~
+~
+0 0 11193
+D9
+~
+~
+0 0 11195
+S
+#11185
+Southern Midgaard Coast~
+You are standing on the soft sands of a beach on the Sea of Midgaard.  To
+the northern interior is Miden'nir and the Sands of Sorrow and to the
+southern seas the water of the Sea of Midgaard extends into the omnious Sea of
+Despair.  
+~
+0 0 12
+D1
+~
+~
+0 0 11186
+D2
+~
+~
+0 0 11195
+D3
+~
+~
+0 0 11184
+D7
+~
+~
+0 0 11176
+D8
+~
+~
+0 0 11194
+D9
+~
+~
+0 0 11196
+S
+#11186
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11176
+D1
+~
+~
+0 0 11187
+D2
+~
+~
+0 0 11196
+D3
+~
+~
+0 0 11185
+D7
+~
+~
+0 0 11177
+D8
+~
+~
+0 0 11195
+D9
+~
+~
+0 0 11197
+S
+#11187
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11177
+D1
+~
+~
+0 0 11188
+D2
+~
+~
+0 0 11197
+D3
+~
+~
+0 0 11186
+D6
+~
+~
+0 0 11176
+D7
+~
+~
+0 0 11178
+D8
+~
+~
+0 0 11196
+D9
+~
+~
+0 0 11198
+S
+#11188
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11178
+D1
+~
+~
+0 0 11189
+D2
+~
+~
+0 0 11198
+D3
+~
+~
+0 0 11187
+D6
+~
+~
+0 0 11177
+D7
+~
+~
+0 0 11179
+D8
+~
+~
+0 0 11197
+D9
+~
+~
+0 0 11199
+S
+#11189
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11179
+D1
+~
+~
+0 0 11080
+D2
+~
+~
+0 0 11199
+D3
+~
+~
+0 0 11188
+D6
+~
+~
+0 0 11178
+D7
+~
+~
+0 0 11070
+D8
+~
+~
+0 0 11198
+D9
+~
+~
+0 0 11090
+S
+#11190
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11180
+D1
+~
+~
+0 0 11191
+D2
+~
+~
+0 0 11600
+D3
+~
+~
+0 0 12099
+D6
+~
+~
+0 0 12089
+D7
+~
+~
+0 0 11181
+D8
+~
+~
+0 0 12109
+D9
+~
+~
+0 0 11601
+S
+#11191
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11181
+D1
+~
+~
+0 0 11192
+D2
+~
+~
+0 0 11601
+D3
+~
+~
+0 0 11190
+D6
+~
+~
+0 0 11180
+D7
+~
+~
+0 0 11182
+D8
+~
+~
+0 0 11600
+D9
+~
+~
+0 0 11602
+S
+#11192
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11182
+D1
+~
+~
+0 0 11193
+D2
+~
+~
+0 0 11602
+D3
+~
+~
+0 0 11191
+D6
+~
+~
+0 0 11181
+D7
+~
+~
+0 0 11183
+D8
+~
+~
+0 0 11601
+D9
+~
+~
+0 0 11603
+S
+#11193
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11183
+D1
+~
+~
+0 0 11194
+D2
+~
+~
+0 0 11603
+D3
+~
+~
+0 0 11192
+D6
+~
+~
+0 0 11182
+D7
+~
+~
+0 0 11184
+D8
+~
+~
+0 0 11602
+D9
+~
+~
+0 0 11604
+S
+#11194
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11184
+D1
+~
+~
+0 0 11195
+D2
+~
+~
+0 0 11604
+D3
+~
+~
+0 0 11193
+D6
+~
+~
+0 0 11183
+D7
+~
+~
+0 0 11185
+D8
+~
+~
+0 0 11603
+D9
+~
+~
+0 0 11605
+S
+#11195
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11185
+D1
+~
+~
+0 0 11196
+D2
+~
+~
+0 0 11605
+D3
+~
+~
+0 0 11194
+D6
+~
+~
+0 0 11184
+D7
+~
+~
+0 0 11186
+D8
+~
+~
+0 0 11604
+D9
+~
+~
+0 0 11606
+S
+#11196
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11186
+D1
+~
+~
+0 0 11197
+D2
+~
+~
+0 0 11606
+D3
+~
+~
+0 0 11195
+D6
+~
+~
+0 0 11185
+D7
+~
+~
+0 0 11187
+D8
+~
+~
+0 0 11605
+D9
+~
+~
+0 0 11607
+S
+#11197
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11187
+D1
+~
+~
+0 0 11198
+D2
+~
+~
+0 0 11607
+D3
+~
+~
+0 0 11196
+D6
+~
+~
+0 0 11186
+D7
+~
+~
+0 0 11188
+D8
+~
+~
+0 0 11606
+D9
+~
+~
+0 0 11608
+S
+#11198
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11188
+D1
+~
+~
+0 0 11199
+D2
+~
+~
+0 0 11608
+D3
+~
+~
+0 0 11197
+D6
+~
+~
+0 0 11187
+D7
+~
+~
+0 0 11189
+D8
+~
+~
+0 0 11607
+D9
+~
+~
+0 0 11609
+S
+#11199
+Sea of Midgaard~
+You are surrounded by the dark waters of the Sea of Midgaard which surrounds
+the ancient continent of Midgaard.  The sea water is foaming as it crashes to
+and fro and the waves are high a restless.
+~
+0 0 11
+D0
+~
+~
+0 0 11189
+D1
+~
+~
+0 0 11090
+D2
+~
+~
+0 0 11609
+D3
+~
+~
+0 0 11198
+D6
+~
+~
+0 0 11188
+D7
+~
+~
+0 0 11080
+D8
+~
+~
+0 0 11608
+D9
+~
+~
+0 0 11700
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11008 100 11100 1 Load a jellyfish
+M 0 11001 100 11105 1 Load a octopus
+M 0 11001 100 11112 1 Load a octopus
+M 0 11008 100 11112 1 Load a jellyfish
+M 0 11001 100 11116 1 Load a octopus
+M 0 11008 100 11117 1 Load a jellyfish
+M 0 11002 100 11119 1 Load a man o'war
+M 0 11002 100 11129 1 Load a man o'war
+M 0 11006 100 11131 1 Load a dolphin
+M 0 11001 100 11131 1 Load a octopus
+M 0 11002 100 11139 1 Load a man o'war
+M 0 11006 100 11150 1 Load a dolphin
+M 0 11004 100 11159 1 Load a seagull
+M 0 11004 100 11178 1 Load a seagull
+M 0 11006 100 11180 1 Load a dolphin
+M 0 11004 100 11182 1 Load a seagull
+M 0 11004 100 11183 1 Load a seagull
+M 0 11008 100 11186 1 Load a jellyfish
+M 0 11004 100 11187 1 Load a seagull
+M 0 11006 100 11193 1 Load a dolphin
+M 0 11006 100 11194 1 Load a dolphin
+M 0 11008 100 11194 1 Load a jellyfish
+M 0 11008 100 11198 1 Load a jellyfish
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

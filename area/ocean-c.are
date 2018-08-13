@@ -1,0 +1,4241 @@
+#AREADATA
+Name Dragon Sea~
+Builders Blake~
+VNUMs 11000 11099
+LevelRange 51 51
+Credits Blake~
+Security 9
+Continent 3
+AreaFlags 0
+End
+
+
+
+#MOBILES
+#11000
+tuna fish~
+a tuna fish~
+A tuna fish is swimming here.
+~
+An active and agile predator, the tuna has a sleek, streamlined body, and
+is among the fastest-swimming pelagic fish.  
+~
+fish~
+AG b 1 0
+5 0 2d6+60 2d9+100 1d6+1 none
+5 5 5 9
+0 0 R 0
+stand stand either 0
+AGHMVb ADEFKO small unknown
+F for W
+#11001
+octopus~
+a octopus~
+An octopus with long and moving tentacles is here.
+~
+An octopus is here with its eight tentacles moving to and fro in the
+water.  It's long tentacles have many very visible suction cups.  
+~
+fish~
+AG b 3 0
+30 0 6d12+853 15d9+100 4d6+8 suction
+-9 -9 -9 6
+EFU 0 R 0
+stand stand either 0
+AGHMVW ABCDEFJKN medium unknown
+F par O
+#11002
+man o'war jellyfish~
+a man o'war~
+A man o'war jellyfish is here.
+~
+The man o'war has a white clear jelly like composition with long dangling
+tentacles flopping about.  It is aggresive in these parts and appears to be
+moving towards you.  
+~
+fish~
+AFG b 2 0
+25 0 5d10+550 12d9+100 2d10+7 none
+-7 -7 -7 6
+EFU 0 R 0
+stand stand either 0
+AGHMVb ABCDEFHJKNO small unknown
+F for W
+#11003
+sea dragon~
+a {Csea{x dragon~
+A {Csea{x dragon is soaring overhead.
+~
+A giant sea dragon is soaring overhead here.  It's scales glisten in
+the sun as it's wings create a ripple on the sea below.  It's majestic,
+inspiring a feeling of awe and caution.  
+~
+dragon~
+A DFJTV 1 0
+52 0 50d10+5500 26d9+100 6d7+20 none
+-22 -22 -22 2
+FNU 0 BEH F
+stand stand none 5000
+AHMVZ ABCDEFGHIJKPQUVX giant unknown
+F vul I
+#11004
+seagull gull~
+a seagull~
+A seagull is flying overhead.
+~
+A long gray seagull is flaying overhead and floating along with the wind
+coming of the ocean.  
+~
+water fowl~
+AG Tb 2 0
+9 0 2d6+110 4d9+100 1d8+2 peck
+2 2 2 8
+F 0 R 0
+stand stand either 0
+AGHVW ACDEFHJKP small unknown
+#11005
+aboleths~
+an aboleth~
+An aboleth is here.
+~
+The aboleth resembles a bizarre eel, with long a tubular bodies that has
+a tail at one end and two fins near the head and another along the back.  
+~
+fish~
+AFG JVb 1 0
+44 0 25d10+2250 21d9+100 3d12+14 none
+-14 -14 -14 4
+EFU 0 R 0
+stand stand either 0
+AGHMVW ABCDEFGHJKO huge unknown
+#11006
+dolphin~
+a dolphin~
+A dolphin is here.
+~
+The dolphin before you is long, gray and smooth.  It bobs quickly in and
+out of the water without a care in the world.  
+~
+fish~
+ABF b 3 0
+20 0 3d9+333 10d9+100 2d8+5 peck
+-4 -4 -4 7
+EFM 0 R 0
+stand stand either 0
+AGHMVW ADEFHJKO medium unknown
+#11007
+sea hag~
+a sea hag~
+A sea hag is here searching for her next victim.
+~
+The sea hag floating here letting out soul splitting howls and searching
+for her next pray.  
+~
+human~
+AFR JTV 1 0
+44 0 25d10+2500 44d9+100 4d8+14 none
+-15 -15 -15 -2
+FU R 0 J
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#11008
+jellyfish~
+a jellyfish~
+A jellyfish is here.
+~
+A jellyfish is here floating in the water with it's tentacles swaying to
+and fro.  You wouldn't want to step on it..  
+~
+fish~
+ABG b 2 0
+9 0 2d6+110 4d9+100 1d8+2 none
+2 2 2 8
+0 0 R 0
+stand stand none 0
+AGHMV ADEFJKNO medium unknown
+F for W
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11000
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11490
+D1
+~
+~
+0 0 11001
+D2
+~
+~
+0 0 11010
+D3
+~
+~
+0 0 11109
+D6
+~
+~
+0 0 11399
+D7
+~
+~
+0 0 11491
+D8
+~
+~
+0 0 11119
+D9
+~
+~
+0 0 11011
+S
+#11001
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11491
+D1
+~
+~
+0 0 11002
+D2
+~
+~
+0 0 11011
+D3
+~
+~
+0 0 11000
+D6
+~
+~
+0 0 11490
+D7
+~
+~
+0 0 11492
+D8
+~
+~
+0 0 11010
+D9
+~
+~
+0 0 11012
+S
+#11002
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11492
+D1
+~
+~
+0 0 11003
+D2
+~
+~
+0 0 11012
+D3
+~
+~
+0 0 11001
+D6
+~
+~
+0 0 11491
+D7
+~
+~
+0 0 11493
+D8
+~
+~
+0 0 11011
+D9
+~
+~
+0 0 11013
+S
+#11003
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11493
+D1
+~
+~
+0 0 11004
+D2
+~
+~
+0 0 11013
+D3
+~
+~
+0 0 11002
+D6
+~
+~
+0 0 11492
+D7
+~
+~
+0 0 11494
+D8
+~
+~
+0 0 11012
+D9
+~
+~
+0 0 11014
+S
+#11004
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11494
+D1
+~
+~
+0 0 11005
+D2
+~
+~
+0 0 11014
+D3
+~
+~
+0 0 11003
+D6
+~
+~
+0 0 11493
+D7
+~
+~
+0 0 11495
+D8
+~
+~
+0 0 11013
+D9
+~
+~
+0 0 11015
+S
+#11005
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11495
+D1
+~
+~
+0 0 11006
+D2
+~
+~
+0 0 11015
+D3
+~
+~
+0 0 11004
+D6
+~
+~
+0 0 11494
+D7
+~
+~
+0 0 11496
+D8
+~
+~
+0 0 11014
+D9
+~
+~
+0 0 11016
+S
+#11006
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11496
+D1
+~
+~
+0 0 11007
+D2
+~
+~
+0 0 11016
+D3
+~
+~
+0 0 11005
+D6
+~
+~
+0 0 11495
+D7
+~
+~
+0 0 11497
+D8
+~
+~
+0 0 11015
+D9
+~
+~
+0 0 11017
+S
+#11007
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11497
+D1
+~
+~
+0 0 11008
+D2
+~
+~
+0 0 11017
+D3
+~
+~
+0 0 11006
+D6
+~
+~
+0 0 11496
+D7
+~
+~
+0 0 11498
+D8
+~
+~
+0 0 11016
+D9
+~
+~
+0 0 11018
+S
+#11008
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11498
+D1
+~
+~
+0 0 11009
+D2
+~
+~
+0 0 11018
+D3
+~
+~
+0 0 11007
+D6
+~
+~
+0 0 11497
+D7
+~
+~
+0 0 11499
+D8
+~
+~
+0 0 11017
+D9
+~
+~
+0 0 11019
+S
+#11009
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11499
+D1
+~
+~
+0 0 11200
+D2
+~
+~
+0 0 11019
+D3
+~
+~
+0 0 11008
+D6
+~
+~
+0 0 11498
+D7
+~
+~
+0 0 11590
+D8
+~
+~
+0 0 11018
+D9
+~
+~
+0 0 11210
+S
+#11010
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11000
+D1
+~
+~
+0 0 11011
+D2
+~
+~
+0 0 11020
+D3
+~
+~
+0 0 11119
+D6
+~
+~
+0 0 11109
+D7
+~
+~
+0 0 11001
+D8
+~
+~
+0 0 11129
+D9
+~
+~
+0 0 11021
+S
+#11011
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11001
+D1
+~
+~
+0 0 11012
+D2
+~
+~
+0 0 11021
+D3
+~
+~
+0 0 11010
+D6
+~
+~
+0 0 11000
+D7
+~
+~
+0 0 11002
+D8
+~
+~
+0 0 11020
+D9
+~
+~
+0 0 11022
+S
+#11012
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11002
+D1
+~
+~
+0 0 11013
+D2
+~
+~
+0 0 11022
+D3
+~
+~
+0 0 11011
+D6
+~
+~
+0 0 11001
+D7
+~
+~
+0 0 11003
+D8
+~
+~
+0 0 11021
+D9
+~
+~
+0 0 11023
+S
+#11013
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11003
+D1
+~
+~
+0 0 11014
+D2
+~
+~
+0 0 11023
+D3
+~
+~
+0 0 11012
+D6
+~
+~
+0 0 11002
+D7
+~
+~
+0 0 11004
+D8
+~
+~
+0 0 11022
+D9
+~
+~
+0 0 11024
+S
+#11014
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11004
+D1
+~
+~
+0 0 11015
+D2
+~
+~
+0 0 11024
+D3
+~
+~
+0 0 11013
+D6
+~
+~
+0 0 11003
+D7
+~
+~
+0 0 11005
+D8
+~
+~
+0 0 11023
+D9
+~
+~
+0 0 11025
+S
+#11015
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11005
+D1
+~
+~
+0 0 11016
+D2
+~
+~
+0 0 11025
+D3
+~
+~
+0 0 11014
+D6
+~
+~
+0 0 11004
+D7
+~
+~
+0 0 11006
+D8
+~
+~
+0 0 11024
+D9
+~
+~
+0 0 11026
+S
+#11016
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11006
+D1
+~
+~
+0 0 11017
+D2
+~
+~
+0 0 11026
+D3
+~
+~
+0 0 11015
+D6
+~
+~
+0 0 11005
+D7
+~
+~
+0 0 11007
+D8
+~
+~
+0 0 11025
+D9
+~
+~
+0 0 11027
+S
+#11017
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11007
+D1
+~
+~
+0 0 11018
+D2
+~
+~
+0 0 11027
+D3
+~
+~
+0 0 11016
+D6
+~
+~
+0 0 11006
+D7
+~
+~
+0 0 11008
+D8
+~
+~
+0 0 11026
+D9
+~
+~
+0 0 11028
+S
+#11018
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11008
+D1
+~
+~
+0 0 11019
+D2
+~
+~
+0 0 11028
+D3
+~
+~
+0 0 11017
+D6
+~
+~
+0 0 11007
+D7
+~
+~
+0 0 11009
+D8
+~
+~
+0 0 11027
+D9
+~
+~
+0 0 11029
+S
+#11019
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11009
+D1
+~
+~
+0 0 11210
+D2
+~
+~
+0 0 11029
+D3
+~
+~
+0 0 11018
+D6
+~
+~
+0 0 11008
+D7
+~
+~
+0 0 11200
+D8
+~
+~
+0 0 11028
+D9
+~
+~
+0 0 11220
+S
+#11020
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11010
+D1
+~
+~
+0 0 11021
+D2
+~
+~
+0 0 11030
+D3
+~
+~
+0 0 11129
+D6
+~
+~
+0 0 11119
+D7
+~
+~
+0 0 11011
+D8
+~
+~
+0 0 11139
+D9
+~
+~
+0 0 11031
+S
+#11021
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11011
+D1
+~
+~
+0 0 11022
+D2
+~
+~
+0 0 11031
+D3
+~
+~
+0 0 11020
+D6
+~
+~
+0 0 11010
+D7
+~
+~
+0 0 11012
+D8
+~
+~
+0 0 11030
+D9
+~
+~
+0 0 11032
+S
+#11022
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11012
+D1
+~
+~
+0 0 11023
+D2
+~
+~
+0 0 11032
+D3
+~
+~
+0 0 11021
+D6
+~
+~
+0 0 11011
+D7
+~
+~
+0 0 11013
+D8
+~
+~
+0 0 11031
+D9
+~
+~
+0 0 11033
+S
+#11023
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11013
+D1
+~
+~
+0 0 11024
+D2
+~
+~
+0 0 11033
+D3
+~
+~
+0 0 11022
+D6
+~
+~
+0 0 11012
+D7
+~
+~
+0 0 11014
+D8
+~
+~
+0 0 11032
+D9
+~
+~
+0 0 11034
+S
+#11024
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11014
+D1
+~
+~
+0 0 11025
+D2
+~
+~
+0 0 11034
+D3
+~
+~
+0 0 11023
+D6
+~
+~
+0 0 11013
+D7
+~
+~
+0 0 11015
+D8
+~
+~
+0 0 11033
+D9
+~
+~
+0 0 11035
+S
+#11025
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11015
+D1
+~
+~
+0 0 11026
+D2
+~
+~
+0 0 11035
+D3
+~
+~
+0 0 11024
+D6
+~
+~
+0 0 11014
+D7
+~
+~
+0 0 11016
+D8
+~
+~
+0 0 11034
+D9
+~
+~
+0 0 11036
+S
+#11026
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11016
+D1
+~
+~
+0 0 11027
+D2
+~
+~
+0 0 11036
+D3
+~
+~
+0 0 11025
+D6
+~
+~
+0 0 11015
+D7
+~
+~
+0 0 11017
+D8
+~
+~
+0 0 11035
+D9
+~
+~
+0 0 11037
+S
+#11027
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11017
+D1
+~
+~
+0 0 11028
+D2
+~
+~
+0 0 11037
+D3
+~
+~
+0 0 11026
+D6
+~
+~
+0 0 11016
+D7
+~
+~
+0 0 11018
+D8
+~
+~
+0 0 11036
+D9
+~
+~
+0 0 11038
+S
+#11028
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11018
+D1
+~
+~
+0 0 11029
+D2
+~
+~
+0 0 11038
+D3
+~
+~
+0 0 11027
+D6
+~
+~
+0 0 11017
+D7
+~
+~
+0 0 11019
+D8
+~
+~
+0 0 11037
+D9
+~
+~
+0 0 11039
+S
+#11029
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11019
+D1
+~
+~
+0 0 11220
+D2
+~
+~
+0 0 11039
+D3
+~
+~
+0 0 11028
+D6
+~
+~
+0 0 11018
+D7
+~
+~
+0 0 11210
+D8
+~
+~
+0 0 11038
+D9
+~
+~
+0 0 11230
+S
+#11030
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11020
+D1
+~
+~
+0 0 11031
+D2
+~
+~
+0 0 11040
+D3
+~
+~
+0 0 11139
+D6
+~
+~
+0 0 11129
+D7
+~
+~
+0 0 11021
+D8
+~
+~
+0 0 11149
+D9
+~
+~
+0 0 11041
+S
+#11031
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11021
+D1
+~
+~
+0 0 11032
+D2
+~
+~
+0 0 11041
+D3
+~
+~
+0 0 11030
+D6
+~
+~
+0 0 11020
+D7
+~
+~
+0 0 11022
+D8
+~
+~
+0 0 11040
+D9
+~
+~
+0 0 11042
+S
+#11032
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11022
+D1
+~
+~
+0 0 11033
+D2
+~
+~
+0 0 11042
+D3
+~
+~
+0 0 11031
+D6
+~
+~
+0 0 11021
+D7
+~
+~
+0 0 11023
+D8
+~
+~
+0 0 11041
+D9
+~
+~
+0 0 11043
+S
+#11033
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11023
+D1
+~
+~
+0 0 11034
+D2
+~
+~
+0 0 11043
+D3
+~
+~
+0 0 11032
+D6
+~
+~
+0 0 11022
+D7
+~
+~
+0 0 11024
+D8
+~
+~
+0 0 11042
+D9
+~
+~
+0 0 11044
+S
+#11034
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11024
+D1
+~
+~
+0 0 11035
+D2
+~
+~
+0 0 11044
+D3
+~
+~
+0 0 11033
+D6
+~
+~
+0 0 11023
+D7
+~
+~
+0 0 11025
+D8
+~
+~
+0 0 11043
+D9
+~
+~
+0 0 11045
+S
+#11035
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11025
+D1
+~
+~
+0 0 11036
+D2
+~
+~
+0 0 11045
+D3
+~
+~
+0 0 11034
+D6
+~
+~
+0 0 11024
+D7
+~
+~
+0 0 11026
+D8
+~
+~
+0 0 11044
+D9
+~
+~
+0 0 11046
+S
+#11036
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11026
+D1
+~
+~
+0 0 11037
+D2
+~
+~
+0 0 11046
+D3
+~
+~
+0 0 11035
+D6
+~
+~
+0 0 11025
+D7
+~
+~
+0 0 11027
+D8
+~
+~
+0 0 11045
+D9
+~
+~
+0 0 11047
+S
+#11037
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11027
+D1
+~
+~
+0 0 11038
+D2
+~
+~
+0 0 11047
+D3
+~
+~
+0 0 11036
+D6
+~
+~
+0 0 11026
+D7
+~
+~
+0 0 11028
+D8
+~
+~
+0 0 11046
+D9
+~
+~
+0 0 11048
+S
+#11038
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11028
+D1
+~
+~
+0 0 11039
+D2
+~
+~
+0 0 11048
+D3
+~
+~
+0 0 11037
+D6
+~
+~
+0 0 11027
+D7
+~
+~
+0 0 11029
+D8
+~
+~
+0 0 11047
+D9
+~
+~
+0 0 11049
+S
+#11039
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11029
+D1
+~
+~
+0 0 11230
+D2
+~
+~
+0 0 11049
+D3
+~
+~
+0 0 11038
+D6
+~
+~
+0 0 11028
+D7
+~
+~
+0 0 11220
+D8
+~
+~
+0 0 11048
+D9
+~
+~
+0 0 11240
+S
+#11040
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11030
+D1
+~
+~
+0 0 11041
+D2
+~
+~
+0 0 11050
+D3
+~
+~
+0 0 11149
+D6
+~
+~
+0 0 11139
+D7
+~
+~
+0 0 11031
+D8
+~
+~
+0 0 11159
+D9
+~
+~
+0 0 11051
+S
+#11041
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11031
+D1
+~
+~
+0 0 11042
+D2
+~
+~
+0 0 11051
+D3
+~
+~
+0 0 11040
+D6
+~
+~
+0 0 11030
+D7
+~
+~
+0 0 11032
+D8
+~
+~
+0 0 11050
+D9
+~
+~
+0 0 11052
+S
+#11042
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11032
+D1
+~
+~
+0 0 11043
+D2
+~
+~
+0 0 11052
+D3
+~
+~
+0 0 11041
+D6
+~
+~
+0 0 11031
+D7
+~
+~
+0 0 11033
+D8
+~
+~
+0 0 11051
+D9
+~
+~
+0 0 11053
+S
+#11043
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11033
+D1
+~
+~
+0 0 11044
+D2
+~
+~
+0 0 11053
+D3
+~
+~
+0 0 11042
+D6
+~
+~
+0 0 11032
+D7
+~
+~
+0 0 11034
+D8
+~
+~
+0 0 11052
+D9
+~
+~
+0 0 11054
+S
+#11044
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11034
+D1
+~
+~
+0 0 11045
+D2
+~
+~
+0 0 11054
+D3
+~
+~
+0 0 11043
+D6
+~
+~
+0 0 11033
+D7
+~
+~
+0 0 11035
+D8
+~
+~
+0 0 11053
+D9
+~
+~
+0 0 11055
+S
+#11045
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11035
+D1
+~
+~
+0 0 11046
+D2
+~
+~
+0 0 11055
+D3
+~
+~
+0 0 11044
+D6
+~
+~
+0 0 11034
+D7
+~
+~
+0 0 11036
+D8
+~
+~
+0 0 11054
+D9
+~
+~
+0 0 11056
+S
+#11046
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11036
+D1
+~
+~
+0 0 11047
+D2
+~
+~
+0 0 11056
+D3
+~
+~
+0 0 11045
+D6
+~
+~
+0 0 11035
+D7
+~
+~
+0 0 11037
+D8
+~
+~
+0 0 11055
+D9
+~
+~
+0 0 11057
+S
+#11047
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11037
+D1
+~
+~
+0 0 11048
+D2
+~
+~
+0 0 11057
+D3
+~
+~
+0 0 11046
+D6
+~
+~
+0 0 11036
+D7
+~
+~
+0 0 11038
+D8
+~
+~
+0 0 11056
+D9
+~
+~
+0 0 11058
+S
+#11048
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11038
+D1
+~
+~
+0 0 11049
+D2
+~
+~
+0 0 11058
+D3
+~
+~
+0 0 11047
+D6
+~
+~
+0 0 11037
+D7
+~
+~
+0 0 11039
+D8
+~
+~
+0 0 11057
+D9
+~
+~
+0 0 11059
+S
+#11049
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11039
+D1
+~
+~
+0 0 11240
+D2
+~
+~
+0 0 11059
+D3
+~
+~
+0 0 11048
+D6
+~
+~
+0 0 11038
+D7
+~
+~
+0 0 11230
+D8
+~
+~
+0 0 11058
+D9
+~
+~
+0 0 11250
+S
+#11050
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11040
+D1
+~
+~
+0 0 11051
+D2
+~
+~
+0 0 11060
+D3
+~
+~
+0 0 11159
+D6
+~
+~
+0 0 11149
+D7
+~
+~
+0 0 11041
+D8
+~
+~
+0 0 11169
+D9
+~
+~
+0 0 11061
+S
+#11051
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11041
+D1
+~
+~
+0 0 11052
+D2
+~
+~
+0 0 11061
+D3
+~
+~
+0 0 11050
+D6
+~
+~
+0 0 11040
+D7
+~
+~
+0 0 11042
+D8
+~
+~
+0 0 11060
+D9
+~
+~
+0 0 11062
+S
+#11052
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11042
+D1
+~
+~
+0 0 11053
+D2
+~
+~
+0 0 11062
+D3
+~
+~
+0 0 11051
+D6
+~
+~
+0 0 11041
+D7
+~
+~
+0 0 11043
+D8
+~
+~
+0 0 11061
+D9
+~
+~
+0 0 11063
+S
+#11053
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11043
+D1
+~
+~
+0 0 11054
+D2
+~
+~
+0 0 11063
+D3
+~
+~
+0 0 11052
+D6
+~
+~
+0 0 11042
+D7
+~
+~
+0 0 11044
+D8
+~
+~
+0 0 11062
+D9
+~
+~
+0 0 11064
+S
+#11054
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11044
+D1
+~
+~
+0 0 11055
+D2
+~
+~
+0 0 11064
+D3
+~
+~
+0 0 11053
+D6
+~
+~
+0 0 11043
+D7
+~
+~
+0 0 11045
+D8
+~
+~
+0 0 11063
+D9
+~
+~
+0 0 11065
+S
+#11055
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11045
+D1
+~
+~
+0 0 11056
+D2
+~
+~
+0 0 11065
+D3
+~
+~
+0 0 11054
+D6
+~
+~
+0 0 11044
+D7
+~
+~
+0 0 11046
+D8
+~
+~
+0 0 11064
+D9
+~
+~
+0 0 11066
+S
+#11056
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11046
+D1
+~
+~
+0 0 11057
+D2
+~
+~
+0 0 11066
+D3
+~
+~
+0 0 11055
+D6
+~
+~
+0 0 11045
+D7
+~
+~
+0 0 11047
+D8
+~
+~
+0 0 11065
+D9
+~
+~
+0 0 11067
+S
+#11057
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11047
+D1
+~
+~
+0 0 11058
+D2
+~
+~
+0 0 11067
+D3
+~
+~
+0 0 11056
+D6
+~
+~
+0 0 11046
+D7
+~
+~
+0 0 11048
+D8
+~
+~
+0 0 11066
+D9
+~
+~
+0 0 11068
+S
+#11058
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11048
+D1
+~
+~
+0 0 11059
+D2
+~
+~
+0 0 11068
+D3
+~
+~
+0 0 11057
+D6
+~
+~
+0 0 11047
+D7
+~
+~
+0 0 11049
+D8
+~
+~
+0 0 11067
+D9
+~
+~
+0 0 11069
+S
+#11059
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11049
+D1
+~
+~
+0 0 11250
+D2
+~
+~
+0 0 11069
+D3
+~
+~
+0 0 11058
+D6
+~
+~
+0 0 11048
+D7
+~
+~
+0 0 11240
+D8
+~
+~
+0 0 11068
+D9
+~
+~
+0 0 11260
+S
+#11060
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11050
+D1
+~
+~
+0 0 11061
+D2
+~
+~
+0 0 11070
+D3
+~
+~
+0 0 11169
+D6
+~
+~
+0 0 11159
+D7
+~
+~
+0 0 11051
+D8
+~
+~
+0 0 11179
+D9
+~
+~
+0 0 11071
+S
+#11061
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11051
+D1
+~
+~
+0 0 11062
+D2
+~
+~
+0 0 11071
+D3
+~
+~
+0 0 11060
+D6
+~
+~
+0 0 11050
+D7
+~
+~
+0 0 11052
+D8
+~
+~
+0 0 11070
+D9
+~
+~
+0 0 11072
+S
+#11062
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11052
+D1
+~
+~
+0 0 11063
+D2
+~
+~
+0 0 11072
+D3
+~
+~
+0 0 11061
+D6
+~
+~
+0 0 11051
+D7
+~
+~
+0 0 11053
+D8
+~
+~
+0 0 11071
+D9
+~
+~
+0 0 11073
+S
+#11063
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11053
+D1
+~
+~
+0 0 11064
+D2
+~
+~
+0 0 11073
+D3
+~
+~
+0 0 11062
+D6
+~
+~
+0 0 11052
+D7
+~
+~
+0 0 11054
+D8
+~
+~
+0 0 11072
+D9
+~
+~
+0 0 11074
+S
+#11064
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11054
+D1
+~
+~
+0 0 11065
+D2
+~
+~
+0 0 11074
+D3
+~
+~
+0 0 11063
+D6
+~
+~
+0 0 11053
+D7
+~
+~
+0 0 11055
+D8
+~
+~
+0 0 11073
+D9
+~
+~
+0 0 11075
+S
+#11065
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11055
+D1
+~
+~
+0 0 11066
+D2
+~
+~
+0 0 11075
+D3
+~
+~
+0 0 11064
+D6
+~
+~
+0 0 11054
+D7
+~
+~
+0 0 11056
+D8
+~
+~
+0 0 11074
+D9
+~
+~
+0 0 11076
+S
+#11066
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11056
+D1
+~
+~
+0 0 11067
+D2
+~
+~
+0 0 11076
+D3
+~
+~
+0 0 11065
+D6
+~
+~
+0 0 11055
+D7
+~
+~
+0 0 11057
+D8
+~
+~
+0 0 11075
+D9
+~
+~
+0 0 11077
+S
+#11067
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11057
+D1
+~
+~
+0 0 11068
+D2
+~
+~
+0 0 11077
+D3
+~
+~
+0 0 11066
+D6
+~
+~
+0 0 11056
+D7
+~
+~
+0 0 11058
+D8
+~
+~
+0 0 11076
+D9
+~
+~
+0 0 11078
+S
+#11068
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11058
+D1
+~
+~
+0 0 11069
+D2
+~
+~
+0 0 11078
+D3
+~
+~
+0 0 11067
+D6
+~
+~
+0 0 11057
+D7
+~
+~
+0 0 11059
+D8
+~
+~
+0 0 11077
+D9
+~
+~
+0 0 11079
+S
+#11069
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11059
+D1
+~
+~
+0 0 11260
+D2
+~
+~
+0 0 11079
+D3
+~
+~
+0 0 11068
+D6
+~
+~
+0 0 11058
+D7
+~
+~
+0 0 11250
+D8
+~
+~
+0 0 11078
+D9
+~
+~
+0 0 11270
+S
+#11070
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11060
+D1
+~
+~
+0 0 11071
+D2
+~
+~
+0 0 11080
+D3
+~
+~
+0 0 11179
+D6
+~
+~
+0 0 11169
+D7
+~
+~
+0 0 11061
+D8
+~
+~
+0 0 11189
+D9
+~
+~
+0 0 11081
+S
+#11071
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11061
+D1
+~
+~
+0 0 11072
+D2
+~
+~
+0 0 11081
+D3
+~
+~
+0 0 11070
+D6
+~
+~
+0 0 11060
+D7
+~
+~
+0 0 11062
+D8
+~
+~
+0 0 11080
+D9
+~
+~
+0 0 11082
+S
+#11072
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11062
+D1
+~
+~
+0 0 11073
+D2
+~
+~
+0 0 11082
+D3
+~
+~
+0 0 11071
+D6
+~
+~
+0 0 11061
+D7
+~
+~
+0 0 11063
+D8
+~
+~
+0 0 11081
+D9
+~
+~
+0 0 11083
+S
+#11073
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11063
+D1
+~
+~
+0 0 11074
+D2
+~
+~
+0 0 11083
+D3
+~
+~
+0 0 11072
+D6
+~
+~
+0 0 11062
+D7
+~
+~
+0 0 11064
+D8
+~
+~
+0 0 11082
+D9
+~
+~
+0 0 11084
+S
+#11074
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11064
+D1
+~
+~
+0 0 11075
+D2
+~
+~
+0 0 11084
+D3
+~
+~
+0 0 11073
+D6
+~
+~
+0 0 11063
+D7
+~
+~
+0 0 11065
+D8
+~
+~
+0 0 11083
+D9
+~
+~
+0 0 11085
+S
+#11075
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11065
+D1
+~
+~
+0 0 11076
+D2
+~
+~
+0 0 11085
+D3
+~
+~
+0 0 11074
+D6
+~
+~
+0 0 11064
+D7
+~
+~
+0 0 11066
+D8
+~
+~
+0 0 11084
+D9
+~
+~
+0 0 11086
+S
+#11076
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11066
+D1
+~
+~
+0 0 11077
+D2
+~
+~
+0 0 11086
+D3
+~
+~
+0 0 11075
+D6
+~
+~
+0 0 11065
+D7
+~
+~
+0 0 11067
+D8
+~
+~
+0 0 11085
+D9
+~
+~
+0 0 11087
+S
+#11077
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11067
+D1
+~
+~
+0 0 11078
+D2
+~
+~
+0 0 11087
+D3
+~
+~
+0 0 11076
+D6
+~
+~
+0 0 11066
+D7
+~
+~
+0 0 11068
+D8
+~
+~
+0 0 11086
+D9
+~
+~
+0 0 11088
+S
+#11078
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11068
+D1
+~
+~
+0 0 11079
+D2
+~
+~
+0 0 11088
+D3
+~
+~
+0 0 11077
+D6
+~
+~
+0 0 11067
+D7
+~
+~
+0 0 11069
+D8
+~
+~
+0 0 11087
+D9
+~
+~
+0 0 11089
+S
+#11079
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11069
+D1
+~
+~
+0 0 11270
+D2
+~
+~
+0 0 11089
+D3
+~
+~
+0 0 11078
+D6
+~
+~
+0 0 11068
+D7
+~
+~
+0 0 11260
+D8
+~
+~
+0 0 11088
+D9
+~
+~
+0 0 11280
+S
+#11080
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11070
+D1
+~
+~
+0 0 11081
+D2
+~
+~
+0 0 11090
+D3
+~
+~
+0 0 11189
+D6
+~
+~
+0 0 11179
+D7
+~
+~
+0 0 11071
+D8
+~
+~
+0 0 11199
+D9
+~
+~
+0 0 11091
+S
+#11081
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11071
+D1
+~
+~
+0 0 11082
+D2
+~
+~
+0 0 11091
+D3
+~
+~
+0 0 11080
+D6
+~
+~
+0 0 11070
+D7
+~
+~
+0 0 11072
+D8
+~
+~
+0 0 11090
+D9
+~
+~
+0 0 11092
+S
+#11082
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11072
+D1
+~
+~
+0 0 11083
+D2
+~
+~
+0 0 11092
+D3
+~
+~
+0 0 11081
+D6
+~
+~
+0 0 11071
+D7
+~
+~
+0 0 11073
+D8
+~
+~
+0 0 11091
+D9
+~
+~
+0 0 11093
+S
+#11083
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11073
+D1
+~
+~
+0 0 11084
+D2
+~
+~
+0 0 11093
+D3
+~
+~
+0 0 11082
+D6
+~
+~
+0 0 11072
+D7
+~
+~
+0 0 11074
+D8
+~
+~
+0 0 11092
+D9
+~
+~
+0 0 11094
+S
+#11084
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11074
+D1
+~
+~
+0 0 11085
+D2
+~
+~
+0 0 11094
+D3
+~
+~
+0 0 11083
+D6
+~
+~
+0 0 11073
+D7
+~
+~
+0 0 11075
+D8
+~
+~
+0 0 11093
+D9
+~
+~
+0 0 11095
+S
+#11085
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11075
+D1
+~
+~
+0 0 11086
+D2
+~
+~
+0 0 11095
+D3
+~
+~
+0 0 11084
+D6
+~
+~
+0 0 11074
+D7
+~
+~
+0 0 11076
+D8
+~
+~
+0 0 11094
+D9
+~
+~
+0 0 11096
+S
+#11086
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11076
+D1
+~
+~
+0 0 11087
+D2
+~
+~
+0 0 11096
+D3
+~
+~
+0 0 11085
+D6
+~
+~
+0 0 11075
+D7
+~
+~
+0 0 11077
+D8
+~
+~
+0 0 11095
+D9
+~
+~
+0 0 11097
+S
+#11087
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11077
+D1
+~
+~
+0 0 11088
+D2
+~
+~
+0 0 11097
+D3
+~
+~
+0 0 11086
+D6
+~
+~
+0 0 11076
+D7
+~
+~
+0 0 11078
+D8
+~
+~
+0 0 11096
+D9
+~
+~
+0 0 11098
+S
+#11088
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11078
+D1
+~
+~
+0 0 11089
+D2
+~
+~
+0 0 11098
+D3
+~
+~
+0 0 11087
+D6
+~
+~
+0 0 11077
+D7
+~
+~
+0 0 11079
+D8
+~
+~
+0 0 11097
+D9
+~
+~
+0 0 11099
+S
+#11089
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11079
+D1
+~
+~
+0 0 11280
+D2
+~
+~
+0 0 11099
+D3
+~
+~
+0 0 11088
+D6
+~
+~
+0 0 11078
+D7
+~
+~
+0 0 11270
+D8
+~
+~
+0 0 11098
+D9
+~
+~
+0 0 11290
+S
+#11090
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11080
+D1
+~
+~
+0 0 11091
+D2
+~
+~
+0 0 11700
+D3
+~
+~
+0 0 11199
+D6
+~
+~
+0 0 11189
+D7
+~
+~
+0 0 11081
+D8
+~
+~
+0 0 11609
+D9
+~
+~
+0 0 11701
+S
+#11091
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11081
+D1
+~
+~
+0 0 11092
+D2
+~
+~
+0 0 11701
+D3
+~
+~
+0 0 11090
+D6
+~
+~
+0 0 11080
+D7
+~
+~
+0 0 11082
+D8
+~
+~
+0 0 11700
+D9
+~
+~
+0 0 11702
+S
+#11092
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11082
+D1
+~
+~
+0 0 11093
+D2
+~
+~
+0 0 11702
+D3
+~
+~
+0 0 11091
+D6
+~
+~
+0 0 11081
+D7
+~
+~
+0 0 11083
+D8
+~
+~
+0 0 11701
+D9
+~
+~
+0 0 11703
+S
+#11093
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11083
+D1
+~
+~
+0 0 11094
+D2
+~
+~
+0 0 11703
+D3
+~
+~
+0 0 11092
+D6
+~
+~
+0 0 11082
+D7
+~
+~
+0 0 11084
+D8
+~
+~
+0 0 11702
+D9
+~
+~
+0 0 11704
+S
+#11094
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11084
+D1
+~
+~
+0 0 11095
+D2
+~
+~
+0 0 11704
+D3
+~
+~
+0 0 11093
+D6
+~
+~
+0 0 11083
+D7
+~
+~
+0 0 11085
+D8
+~
+~
+0 0 11703
+D9
+~
+~
+0 0 11705
+S
+#11095
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11085
+D1
+~
+~
+0 0 11096
+D2
+~
+~
+0 0 11705
+D3
+~
+~
+0 0 11094
+D6
+~
+~
+0 0 11084
+D7
+~
+~
+0 0 11086
+D8
+~
+~
+0 0 11704
+D9
+~
+~
+0 0 11706
+S
+#11096
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11086
+D1
+~
+~
+0 0 11097
+D2
+~
+~
+0 0 11706
+D3
+~
+~
+0 0 11095
+D6
+~
+~
+0 0 11085
+D7
+~
+~
+0 0 11087
+D8
+~
+~
+0 0 11705
+D9
+~
+~
+0 0 11707
+S
+#11097
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11087
+D1
+~
+~
+0 0 11098
+D2
+~
+~
+0 0 11707
+D3
+~
+~
+0 0 11096
+D6
+~
+~
+0 0 11086
+D7
+~
+~
+0 0 11088
+D8
+~
+~
+0 0 11706
+D9
+~
+~
+0 0 11708
+S
+#11098
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11088
+D1
+~
+~
+0 0 11099
+D2
+~
+~
+0 0 11708
+D3
+~
+~
+0 0 11097
+D6
+~
+~
+0 0 11087
+D7
+~
+~
+0 0 11089
+D8
+~
+~
+0 0 11707
+D9
+~
+~
+0 0 11709
+S
+#11099
+The Dragon Sea~
+You are surrounded by the light green waters of the dragon sea.  The
+surface of the water is rising and falling with each wave.  The smell of
+salt is in the air and there are many sea gulls passing overhead.
+~
+0 0 11
+D0
+~
+~
+0 0 11089
+D1
+~
+~
+0 0 11290
+D2
+~
+~
+0 0 11709
+D3
+~
+~
+0 0 11098
+D6
+~
+~
+0 0 11088
+D7
+~
+~
+0 0 11280
+D8
+~
+~
+0 0 11708
+D9
+~
+~
+0 0 11800
+S
+#0
+
+
+
+#SPECIALS
+M 11002 spec_cast_judge
+M 11007 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 11000 100 11000 2 Load a tuna fish
+M 0 11005 100 11002 2 Load an aboleth
+M 0 11005 100 11006 2 Load an aboleth
+M 0 11003 100 11010 2 Load a {Csea{x dragon
+M 0 11000 100 11011 2 Load a tuna fish
+M 0 11008 100 11013 2 Load a jellyfish
+M 0 11008 100 11013 2 Load a jellyfish
+M 0 11008 100 11015 2 Load a jellyfish
+M 0 11008 100 11016 2 Load a jellyfish
+M 0 11000 100 11017 2 Load a tuna fish
+M 0 11000 100 11017 2 Load a tuna fish
+M 0 11008 100 11019 2 Load a jellyfish
+M 0 11003 100 11019 2 Load a {Csea{x dragon
+M 0 11001 100 11020 2 Load a octopus
+M 0 11002 100 11021 2 Load a man o'war
+M 0 11000 100 11022 2 Load a tuna fish
+M 0 11005 100 11022 2 Load an aboleth
+M 0 11006 100 11027 2 Load a dolphin
+M 0 11001 100 11028 2 Load a octopus
+M 0 11002 100 11028 2 Load a man o'war
+M 0 11000 100 11030 2 Load a tuna fish
+M 0 11000 100 11032 2 Load a tuna fish
+M 0 11005 100 11034 2 Load an aboleth
+M 0 11002 100 11035 2 Load a man o'war
+M 0 11008 100 11036 2 Load a jellyfish
+M 0 11005 100 11037 2 Load an aboleth
+M 0 11008 100 11038 2 Load a jellyfish
+M 0 11006 100 11042 2 Load a dolphin
+M 0 11006 100 11049 2 Load a dolphin
+M 0 11003 100 11050 2 Load a {Csea{x dragon
+M 0 11005 100 11052 2 Load an aboleth
+M 0 11005 100 11053 2 Load an aboleth
+M 0 11002 100 11057 2 Load a man o'war
+M 0 11005 100 11064 2 Load an aboleth
+M 0 11006 100 11066 2 Load a dolphin
+M 0 11008 100 11067 2 Load a jellyfish
+M 0 11001 100 11069 2 Load a octopus
+M 0 11005 100 11071 2 Load an aboleth
+M 0 11007 100 11073 2 Load a sea hag
+M 0 11000 100 11075 2 Load a tuna fish
+M 0 11003 100 11081 2 Load a {Csea{x dragon
+M 0 11002 100 11082 2 Load a man o'war
+M 0 11003 100 11088 2 Load a {Csea{x dragon
+M 0 11001 100 11090 2 Load a octopus
+M 0 11000 100 11091 2 Load a tuna fish
+M 0 11000 100 11091 2 Load a tuna fish
+M 0 11005 100 11092 2 Load an aboleth
+M 0 11003 100 11095 2 Load a {Csea{x dragon
+M 0 11006 100 11097 2 Load a dolphin
+M 0 11006 100 11099 2 Load a dolphin
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

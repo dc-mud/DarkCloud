@@ -1,0 +1,2752 @@
+#AREADATA
+Name The Dungeon~
+Builders Yaegar Aurorix Blake~
+VNUMs 15100 15169
+LevelRange 20 45
+Credits Yaegar Aurorix Blake~
+Security 9
+Continent 2
+AreaFlags A
+End
+
+
+
+#MOBILES
+#15100
+maniacal prisoner~
+a maniacal prisoner~
+A maniacal prisoner giggles insanely at you.
+~
+This poor soul has been in here so long it has broken his mind. No one even
+remembers why he is here.
+~
+human~
+ABFGH 0 2 0
+18 3 1d37+323 1d1+99 1d15+5 none
+-2 -2 -2 3
+0 0 0 0
+stand stand male 180
+AHMV ABCDEFGHIJK medium unknown
+#15101
+turnkey~
+a drunken turnkey~
+The turnkey snores loudly as he sleeps off another binge.
+~
+His job bores him to tears. No one ever tries to escape. His duties are
+limited to escorting prisoners to and from their cells, and occasionally
+beating a noisy or frightened prisoner into submission. So he spends most
+(heck, ALL) of his time drinking.
+~
+human~
+ABG H 1 0
+32 5 1d65+1023 1d1+99 1d25+9 none
+-11 -11 -11 -6
+0 0 0 0
+stand stand male 320
+AHMV ABCDEFGHIJK medium unknown
+#15102
+inquisitor~
+the inquisitor~
+The inquisitor stands here, extracting "confessions".
+~
+He seems somewhat puzzled by your presence, then shrugs and turns back to
+his task. The world is full of sickos, and if you get your jollies watching
+a man being tortured to death, well... that's how he gets his, too.
+~
+human~
+ABGH DFH 1 0
+40 6 1d81+1599 1d1+99 1d30+12 none
+-16 -16 -16 -11
+0 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJK medium unknown
+#15103
+master torturer~
+the master torturer~
+The master torturer grins wickedly and gives the rack another turn.
+~
+This gap-toothed moron is quite adept at causing hapless prisoners exquisite
+pain without any grave danger to their lives. And, what's more, he enjoys it!
+Job satisfaction is SO important, really. I mean, if you don't enjoy your
+job, what have you got?
+~
+human~
+ABG N 1 0
+36 6 1d73+1295 1d1+99 1d27+11 none
+-14 -14 -14 -9
+0 0 0 0
+stand stand male 360
+AHMV ABCDEFGHIJK medium unknown
+#15104
+noble prisoner~
+a noble prisoner~
+A noble prisoner is being kept here.
+~
+This fellow was imprisoned by the Castellan for offensive behavior towards
+the Castellan's daughter during the Castellan's Ball held recently. He is of
+high status, however, and thus the Castellan afforded him a decent cell. For
+a price, of course.
+~
+human~
+ABGH 0 3 0
+25 4 1d51+624 1d1+99 1d20+7 none
+-6 -6 -6 -1
+0 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJK medium unknown
+#15105
+man iron mask~
+the man in the iron mask~
+The man in the iron mask prepares to dig another tunnel with a spoon.
+~
+The man in the iron mask managed to escape his last cell, but ended up
+digging into this jail. Thus he has to try and escape again.
+~
+human~
+ABG N 3 0
+28 4 1d57+783 1d1+99 1d22+8 none
+-8 -8 -8 -3
+0 0 0 0
+stand stand male 280
+AHMV ABCDEFGHIJK medium unknown
+#15106
+skeleton~
+an animated skeleton~
+A pile of bones comes to life before you!
+~
+The former occupant of this cell died a slow, painful death of starvation,
+and thus his spirit lingers still, animating his earthly remains to attack
+anyone he can.
+~
+human~
+ABFG DKN 1 0
+24 4 1d49+575 1d1+99 1d19+7 none
+-6 -6 -6 -1
+0 0 0 0
+stand stand none 240
+AHMV ABCDEFGHIJK medium unknown
+#15107
+bat~
+a bat~
+A huge bat flies into your face!
+~
+These massive bats are disturbed by your light.
+~
+human~
+AFGH T 1 0
+20 3 1d41+399 1d1+99 1d17+5 none
+-3 -3 -3 2
+0 0 0 0
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+#15108
+spider~
+a giant spider~
+A huge spider crawls toward you.
+~
+These massive spiders are disturbed by your light.
+~
+human~
+ABFGH N 1 0
+20 3 1d41+399 1d1+99 1d17+5 none
+-3 -3 -3 2
+0 0 0 0
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+#15109
+rat~
+a rat~
+A rat squeaks and runs away.
+~
+This Dungeon is crawling with rats!
+~
+human~
+AFGH 0 2 0
+5 0 1d12+59 1d1+99 1d7+0 none
+7 7 7 12
+0 0 0 0
+stand stand none 50
+AHMV ABCDEFGHIJK medium unknown
+#15110
+cockroach~
+a cockroach~
+A cockroach scuttles across the floor.
+~
+This Dungeon is crawling with roaches!
+~
+human~
+AFGH PQU 2 0
+3 0 1d12+35 1d1+99 1d5+0 none
+8 8 8 13
+0 0 0 0
+stand stand none 30
+AHMV ABCDEFGHIJK medium unknown
+#15111
+wretched prisoner~
+a wretched prisoner~
+A wretched prisoner cries out for pity.
+~
+These doomed souls will spend years rotting away in this hell hole.
+~
+human~
+ABGH 0 2 0
+12 2 1d12+143 1d1+99 1d11+3 none
+2 2 2 7
+0 0 0 0
+stand stand male 120
+AHMV ABCDEFGHIJK medium unknown
+#15112
+wretched prisoner~
+a wretched prisoner~
+A wretched prisoner cries out for pity.
+~
+These doomed souls will spend years rotting away in this hell hole.
+~
+human~
+ABGH 0 2 0
+12 2 1d12+143 1d1+99 1d11+3 none
+2 2 2 7
+0 0 0 0
+stand stand female 120
+AHMV ABCDEFGHIJK medium unknown
+#15113
+political prisoner~
+a political prisoner~
+A political prisoner is on hunger strike.
+~
+Hunger strike doesn't really work when no one gives a shit whether you live
+or die...
+~
+human~
+ABG N 3 0
+27 4 1d55+728 1d1+99 1d21+8 none
+-8 -8 -8 -3
+0 0 0 0
+stand stand male 270
+AHMV ABCDEFGHIJK medium unknown
+#15114
+grubby child~
+a grubby child~
+A grubby child holds out his hands for food.
+~
+He can't talk- the guards cut out his tongue to silence his incessant
+whining.
+~
+human~
+ABGH 0 2 0
+8 1 1d12+95 1d1+99 1d9+1 none
+5 5 5 10
+0 0 0 0
+stand stand male 80
+AHMV ABCDEFGHIJK medium unknown
+#15115
+cook~
+the Dungeon cook~
+The cook for the Dungeon grunts as you enter.
+~
+He wasn't expecting anyone would want to eat yet. Actually, he wasn't
+expecting anyone to EVER want to eat while he was cook...
+~
+human~
+ABGH 0 2 0
+22 3 1d45+483 1d1+99 1d18+6 none
+-4 -4 -4 1
+0 0 0 0
+stand stand male 220
+AHMV ABCDEFGHIJK medium unknown
+#15116
+dungeon guard~
+a Dungeon guard~
+A Dungeon guard stands wearily at his post.
+~
+This fellow is bored beyond measure. He is itching for some action.
+~
+human~
+AG 0 2 0
+30 5 1d61+899 1d1+99 1d23+9 none
+-10 -10 -10 -5
+0 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJK medium unknown
+#15117
+war dog~
+a war dog~
+A war dog bares its fangs and growls menacingly.
+~
+These dogs are huge, ferocious canines with teeth six inches long. Is that
+foam coating their muzzles?
+~
+human~
+ABFG 0 1 0
+21 3 1d43+440 1d1+99 1d17+6 none
+-4 -4 -4 1
+0 0 0 0
+stand stand none 210
+AHMV ABCDEFGHIJK medium unknown
+#15118
+escaped prisoner~
+an escaped prisoner~
+An escaped prisoner begs you to help her.
+~
+She has been on the run for three days, but hasn't managed to get out of
+this cell block. How unadmirable. Call a guard and claim the reward.
+~
+human~
+ABGH 0 2 0
+18 3 1d37+323 1d1+99 1d15+5 none
+-2 -2 -2 3
+0 0 0 0
+stand stand female 180
+AHMV ABCDEFGHIJK medium unknown
+#15119
+ghost~
+the ubiquitous Dungeon ghost~
+The ubiquitous Dungeon ghost is here doing its job.
+~
+Every jail, Dungeon, prison etc has a ghost. This one is no exception. Harry
+the ghost approaches and says "Boo" in a manner that makes Steve Wright seem
+animated. He sure seems to love his job.
+~
+human~
+ABGH BHTU 2 0
+39 6 1d79+1520 1d1+99 1d29+12 none
+-16 -16 -16 -11
+0 0 0 0
+stand stand none 390
+AHMV ABCDEFGHIJK medium unknown
+#15120
+crypt walker~
+a crypt walker~
+A crypt walker shambles past you.
+~
+This doomed soul is damned to wander here for eternity.
+~
+human~
+AGM DN 2 0
+34 5 1d69+1155 1d1+99 1d26+10 none
+-12 -12 -12 -7
+0 0 0 0
+stand stand none 340
+AHMV ABCDEFGHIJK medium unknown
+#15121
+coffer corpse~
+a coffer corpse~
+A coffer corpse charges you!
+~
+This evil undead wants to eat your spleen!
+~
+human~
+AFG DJN 1 0
+31 5 1d63+960 1d1+99 1d24+9 none
+-10 -10 -10 -5
+0 0 0 0
+stand stand none 310
+AHMV ABCDEFGHIJK medium unknown
+#15122
+lich ael~
+the lich Ael~
+The lich Ael screams at your intrusion.
+~
+Ael was a powerful mage in life, and in death he remains so.
+~
+human~
+ABFGM DHJN 1 0
+45 7 1d91+2024 1d1+99 1d33+14 none
+-20 -20 -20 -15
+0 0 0 0
+stand stand none 450
+AHMV ABCDEFGHIJK medium unknown
+#15123
+vampire baraga~
+the vampiure Baraga~
+The vampire Baraga sneers at you.
+~
+Baraga was once a powerful noble. Now, Baraga lives only to suck blood.
+~
+human~
+ABFGM DHJNT 1 0
+42 7 1d85+1763 1d1+99 1d31+13 none
+-18 -18 -18 -13
+0 0 0 0
+stand stand none 420
+AHMV ABCDEFGHIJK medium unknown
+#15124
+spectre cas~
+the spectre Cas~
+The spectre Cas moves into combat.
+~
+Cas was once a thief of some importance. Now he is a ruthless undead.
+~
+human~
+ABFG DHJNTU 1 0
+39 6 1d79+1520 1d1+99 1d29+12 none
+-16 -16 -16 -11
+0 0 0 0
+stand stand none 390
+AHMV ABCDEFGHIJK medium unknown
+#15125
+wraith deros~
+the wraith Deros~
+The wraith Deros snarls and attacks.
+~
+Deros was once an evil cleric. Now he's an evil undead cleric.
+~
+human~
+ABFG DHJ 1 0
+36 6 1d73+1295 1d1+99 1d27+11 none
+-14 -14 -14 -9
+0 0 0 0
+stand stand none 360
+AHMV ABCDEFGHIJK medium unknown
+#15126
+wight emur~
+the wight emur~
+The wight Emur wearily rises to defend his tomb.
+~
+Emur is not hostile, but is not good either. Emur was a cowardly autocrat
+slain centuries ago and imprisoned down here by a holy cleric of Argh.
+~
+human~
+ABGH DJN 1 0
+33 5 1d67+1088 1d1+99 1d25+10 none
+-12 -12 -12 -7
+0 0 0 0
+stand stand none 330
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#15100
+manacles~
+a pair of iron manacles~
+A pair of iron manacles lie here.~
+iron~
+armor M AI
+0 0 0 0 A
+5 15 0 P
+A
+14 -50
+A
+2 -3
+#15101
+straw~
+some filthy straw~
+Some filthy straw is scattered about the floor of this cell.~
+straw~
+furniture 0 0
+BD EIJKN EHK 0 0
+1 1 0 P
+#15102
+bowl~
+a wooden bowl~
+A wooden bowl sits here.~
+wood~
+container 0 AO
+2 0 0 2 100
+1 1 50 P
+#15103
+gruel~
+some watery gruel~
+Some watery gruel has been slopped here.~
+oats~
+food 0 A
+C C 0 0 0
+1 1 0 P
+#15104
+ball chain~
+a ball and chain~
+A ball and chain has been left here.~
+iron~
+armor M AF
+0 0 0 0 A
+5 25 0 P
+A
+14 -200
+A
+2 -3
+#15105
+bones~
+some bones~
+Some bones are scattered about here.~
+bone~
+trash 0 A
+0 0 0 0 0
+1 10 0 P
+#15106
+iron maiden~
+an iron maiden~
+An iron maiden stands in one corner.~
+iron~
+furniture 0 0
+BD EIJKN E 0 0
+1 1 0 P
+#15107
+rack~
+a rack~
+The rack is being used to stretch a dying prisoner.~
+wood~
+furniture 0 0
+BD EIJKN E 0 0
+1 1 0 P
+#15108
+key~
+a cell key~
+A cell key hangs here.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+it is labelled "Cell A"
+~
+#15109
+key~
+a cell key~
+A cell key hangs here.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+it is labelled "Cell B"
+~
+#15110
+key~
+a cell key~
+A cell key hangs here.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+it is labelled "Cell C"
+~
+#15111
+key~
+a cell key~
+A cell key hangs here.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+it is labelled "Cell D"
+~
+#15112
+key~
+a cell key~
+A cell key hangs here.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+it is labelled "Cell E"
+~
+#15113
+key~
+a cell key~
+A cell key hangs here.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+it is labelled "Cell F"
+~
+#15114
+key~
+a cell key~
+A cell key hangs here.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+it is labelled "Cell G"
+~
+#15115
+key~
+a cell key~
+A cell key hangs here.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+it is labelled "Cell H"
+~
+#15116
+key~
+a cell key~
+A cell key hangs here.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+it is labelled "Cell I"
+~
+#15117
+key~
+a cell key~
+A cell key hangs here.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+it is labelled "Cell J"
+~
+#15118
+key~
+a cell key~
+A cell key hangs here.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+it is labelled "Cell K"
+~
+#15119
+key~
+a cell key~
+A cell key hangs here.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+it is labelled "Cell L"
+~
+#15120
+bottle grog~
+a bottle of grog~
+A bottle of grog sits here.~
+glass~
+drink 0 AO
+5 3 'firebreather' 0 0
+1 2 0 P
+#15121
+sturdy axe~
+a sturdy axe~
+A sturdy hand axe lies here.~
+iron~
+weapon 0 AN
+axe 1 8 slice 0
+12 10 500 P
+A
+19 4
+#15122
+leather belt~
+a leather belt~
+A leather belt once held up someone's trousers.~
+leather~
+armor 0 AL
+AC AC AC AC A
+15 3 500 P
+#15123
+trousers~
+a pair of stained trousers~
+A pair of stained trousers lie here.~
+cotton~
+armor 0 AF
+A A A A A
+10 5 0 G
+#15124
+hairy chest~
+a hairy chest~
+A hairy chest lies here. Yes, someone's hairy chest.~
+skin~
+armor 0 AD
+B AC AC A A
+14 2 0 P
+A
+5 2
+#15125
+robes~
+the inquisitor's robes~
+The inquisitor's robes lie crumpled up here.~
+cloth~
+armor 0 AK
+C C C AC A
+29 4 500 P
+A
+12 25
+#15126
+boots~
+the inquisitor's boots~
+The inquisitor's boots sit here.~
+leather~
+armor 0 AG
+A A A A A
+10 5 500 P
+A
+14 75
+#15127
+hood~
+the inquisitor's hood~
+The inquisitor's hood has been left here.~
+cloth~
+armor 0 AE
+B B B B A
+10 2 500 P
+A
+3 2
+#15128
+hot iron~
+a hot iron~
+A hot iron lies here.~
+iron~
+light A AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 2 500 P
+#15129
+brazier~
+a metal brazier~
+A metal brazier sits on a tripod here.~
+metal~
+container A 0
+10 A 0 10 100
+14 1 0 P
+#15130
+cabinet~
+a cabinet~
+A cabinet full of torture implements stands near one wall.~
+wood~
+container 0 0
+1000 A 0 1000 100
+1 1 0 P
+#15131
+iron mask~
+an iron mask~
+The man's iron mask has been removed.~
+iron~
+armor M AE
+0 0 0 0 A
+20 10 0 P
+A
+17 -10
+#15132
+prison rags~
+prison rags~
+Some rags worn by a prisoner fester here.~
+cloth~
+armor 0 AD
+0 0 0 0 A
+1 1 0 P
+#15133
+bed~
+a narrow bed~
+A narrow bed sits here.~
+wood~
+furniture 0 0
+AB EIJKN EHK 0 0
+1 1 0 P
+#15134
+bat feces~
+some bat feces~
+Some bat feces are scattered about here.~
+feces~
+trash 0 A
+0 0 0 0 0
+1 1 0 P
+#15135
+rat shit~
+some rat feces~
+Some rat feces are scattered about here.~
+feces~
+trash 0 A
+0 0 0 0 0
+1 1 0 P
+#15136
+roach feces~
+some cockroach feces~
+Some cockroach feces are scattered about here.~
+nothingness~
+trash 0 A
+0 0 0 0 0
+1 1 0 P
+#15137
+pot~
+a massive iron pot~
+A massive iron pot bubbles away over a hearth here.~
+iron~
+container A 0
+10 A 0 10 100
+1 5 0 P
+#15138
+stew~
+a huge amount of stew~
+This stew is enough to feed a man for days.~
+nothingness~
+food 0 A
+E E 0 0 0
+1 10 0 P
+#15139
+hearth~
+a hearth~
+A hearth burns away here.~
+stone~
+light A 0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 0 P
+#15140
+broad sword~
+a broad sword~
+A broad sword rests here, gleaming dully.~
+steel~
+weapon 0 AN
+sword 2 5 slash 0
+15 10 500 P
+A
+19 1
+A
+18 1
+#15141
+shield~
+a shield~
+A shield bearing the Coat of Arms of Anon rests here.~
+steel~
+armor 0 AJ
+AB B AB B A
+15 5 500 P
+A
+17 -2
+#15142
+black gold tunic~
+a black and gold tunic~
+A tunic bearing the Coat of Arms of Anon rests here.~
+nothingness~
+armor 0 AD
+AB AB AB AB A
+17 2 500 P
+A
+5 1
+#15143
+coif~
+a metal coif~
+A metal coif lies here.~
+metal~
+armor 0 AE
+AB AB AB AB A
+15 4 500 P
+#15144
+leggings~
+some metal leggings~
+A pair of metal leggings lie here.~
+metal~
+armor 0 AF
+AB AB AB AB A
+15 7 500 P
+A
+14 15
+#15145
+gloves~
+a pair of leather gloves~
+A pair of leather gloves lies here.~
+leather~
+armor 0 AH
+AB AB AB AB A
+15 2 500 P
+A
+2 1
+#15146
+torch~
+a torch~
+A torch burns brightly here.~
+wood~
+light 0 AOQ
+0 0 EF 0 0
+1 1 100 P
+#15147
+bracer~
+a steel bracer~
+A steel bracer lies here.~
+steel~
+armor 0 AM
+AB AB AB AB A
+15 5 500 P
+A
+13 10
+A
+1 1
+#15148
+dog collar~
+a spiked dog collar~
+A spiked dog collar would make a good punching weapon.~
+metal~
+weapon 0 AN
+exotic 2 2 punch 0
+10 5 250 P
+#15149
+file~
+an iron file~
+An iron file lies here.~
+iron~
+weapon 0 AN
+dagger 2 2 pierce 0
+10 3 100 P
+#15150
+spoon~
+a spoon~
+This spoon has done a LOT of digging.~
+wood~
+weapon 0 AN
+exotic 1 1 thwack 0
+1 1 50 P
+#15151
+chains~
+some rattling chains~
+Some chains that could be rattled lie here.~
+iron~
+armor 0 AK
+0 0 0 0 A
+10 15 0 P
+A
+14 -25
+A
+2 -2
+#15152
+saliva coated fangs~
+some saliva coated fangs~
+Some saliva coated fangs have been torn from a dog's maw.~
+bone~
+jewelry 0 AC
+0 0 0 0 0
+5 1 0 P
+A
+18 1
+#15153
+thumbscrews~
+some thumbscrews~
+Some tumbscrews lie here.~
+nothingness~
+armor 0 AH
+0 0 0 0 A
+10 1 0 P
+A
+13 -10
+A
+2 -1
+A
+1 -1
+#15154
+pincers~
+a pair of pincers~
+A pair of pincers hang here.~
+iron~
+weapon 0 AN
+exotic 2 2 bite 0
+10 5 500 P
+#15155
+iron chair~
+an iron chair~
+An iron chair with leather straps sits here.~
+iron~
+furniture 0 0
+BD EIJKN E 0 0
+1 1 0 P
+#15156
+flaming feather dulphur~
+a flaming feather dipped in sulphur~
+A flaming feather dipped in sulphur has been placed here.~
+feather~
+light Q AOQ
+0 0 CFG 0 0
+1 1 0 P
+#15157
+hot bath lime~
+a hot bath containing lime~
+A hot bath containing lime bubbles away here.~
+nothingness~
+furniture 0 0
+BD EIJKN EH 0 0
+1 1 0 P
+#15158
+a pulley~
+a pulley~
+A pulley with a hooked rope attached hangs from the ceiling.~
+nothingness~
+furniture 0 0
+BD EIJKN E 0 0
+1 1 0 P
+#15159
+heavy weights~
+a row of heavy weights~
+A row of heavy weights sit here.~
+nothingness~
+furniture 0 A
+BD EIJKN E 0 0
+1 75 0 P
+#15160
+bellows~
+a bellows~
+A bellows used to fan the fires rests here.~
+nothingness~
+trash 0 0
+0 0 0 0 0
+1 1 0 P
+#15161
+hot coals~
+some hot coals~
+Ouch! These coals will burn your fingers!~
+nothingness~
+light Q AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+15 5 0 P
+A
+19 1
+#15162
+scourge~
+a scourge~
+A spiky scourge affixed to a wheel is used to beat victims.~
+nothingness~
+trash 0 0
+0 0 0 0 0
+1 1 0 P
+#15163
+sword ael~
+the sword of Ael~
+The sword of Ael glows evilly here.~
+nothingness~
+weapon ABEGJ AN
+dagger 4 4 pierce 0
+20 20 2000 P
+A
+12 15
+A
+13 15
+#15164
+jewelled necklace~
+a jewelled necklace~
+A jewelled necklace lies here.~
+jewels~
+armor AEJ AC
+0 0 0 0 A
+30 1 1000 P
+A
+4 1
+A
+3 1
+A
+12 20
+#15165
+boots quickness~
+boots of quickness~
+A pair of nice boots rest here.~
+leather~
+armor 0 AG
+C C C C A
+29 1 0 P
+A
+2 2
+A
+14 50
+#15166
+platinum helm~
+a platinum helm~
+A platinum helm rests here.~
+nothingness~
+armor BEJ AE
+C C C C A
+29 5 2000 P
+A
+12 5
+A
+3 1
+A
+4 1
+#15167
+cloak~
+a plain gray cloak~
+A plain gray cloak has been left here.~
+nothingness~
+armor 0 AK
+C C C C A
+29 2 1000 P
+#0
+
+
+
+#ROOMS
+#15100
+Inside the Gates~
+You are walking along a short corridor toward the yard. Torch brackets
+line the stone walls on either side, but it still has a cold, merciless
+feel to it.
+~
+0 8 0
+D1
+~
+~
+0 0 1811
+D3
+~
+~
+0 -1 15101
+S
+#15101
+The Yard~
+Here those few fortunate prisoners with privileges are allowed a short walk.
+Guards stroll back and forth, keeping an eye on them. A chill wind blows
+across this only open air space in the dungeons.
+~
+0 0 2
+D0
+~
+~
+0 -1 15102
+D1
+~
+~
+0 0 15100
+D2
+~
+~
+0 -1 15103
+D3
+~
+~
+0 -1 15105
+S
+#15102
+The Yard~
+Here those few fortunate prisoners with privileges are allowed a short walk.
+Guards stroll back and forth, keeping an eye on them. A chill wind blows
+across this only open air space in the dungeons.
+~
+0 0 0
+D2
+~
+~
+0 -1 15101
+D3
+~
+~
+0 -1 15104
+S
+#15103
+The Yard~
+Here those few fortunate prisoners with privileges are allowed a short walk.
+Guards stroll back and forth, keeping an eye on them. A chill wind blows
+across this only open air space in the dungeons.
+~
+0 0 0
+D0
+~
+~
+0 -1 15101
+D3
+~
+~
+0 -1 15106
+S
+#15104
+The Yard~
+Here those few fortunate prisoners with privileges are allowed a short walk.
+Guards stroll back and forth, keeping an eye on them. A chill wind blows
+across this only open air space in the dungeons.
+
+North lie the Kitchens.
+~
+0 0 0
+D0
+~
+~
+0 -1 15107
+D1
+~
+~
+0 0 15102
+D2
+~
+~
+0 -1 15105
+S
+#15105
+The Yard~
+Here those few fortunate prisoners with privileges are allowed a short walk.
+Guards stroll back and forth, keeping an eye on them. A chill wind blows
+across this only open air space in the dungeons.
+
+A gate to the west marks the entrance down the stairs to the cells below.
+~
+0 0 0
+D0
+~
+~
+0 -1 15104
+D1
+~
+~
+0 -1 15101
+D2
+~
+~
+0 -1 15106
+D5
+~
+gate~
+0 -1 15108
+S
+#15106
+The Yard~
+Here those few fortunate prisoners with privileges are allowed a short walk.
+Guards stroll back and forth, keeping an eye on them. A chill wind blows
+across this only open air space in the dungeons.
+~
+0 0 0
+D0
+~
+~
+0 -1 15105
+D1
+~
+~
+0 0 15103
+S
+#15107
+The Kitchens~
+Several surly wenches move slowly about here preparing the crap they serve
+the prisoners below (as well as the guards). You see little you would like
+(or be game to) take.
+~
+0 8 0
+D2
+~
+~
+0 0 15104
+S
+#15108
+The Dungeon~
+You are in a dank, dismal corridor, lined with dirty stone blocks into which
+the occasional torch bracket has been wedged. A few stubs gutter feebly,
+providing little illumination. Cries of woe and pain echo down this
+depressing passageway.
+~
+0 9 0
+D3
+~
+~
+0 -1 15109
+D4
+~
+gate~
+0 0 15105
+S
+#15109
+The Dungeon~
+You are in a dank, dismal corridor, lined with dirty stone blocks into which
+the occasional torch bracket has been wedged. A few stubs gutter feebly,
+providing little illumination. Cries of woe and pain echo down this
+depressing passageway.
+
+A door to the north marks the entrance to Cell Block One.
+~
+0 9 0
+D0
+~
+~
+0 0 15110
+D1
+~
+~
+0 -1 15108
+D3
+~
+~
+0 -1 15118
+S
+#15110
+Cell Block One~
+You are marching along a north south passageway lined with several cell
+doors. Cries come from behind some of them, and form behind other comes only
+silence. A guard room lies directly north of here.
+~
+0 9 0
+D0
+~
+~
+0 -1 15113
+D1
+Cell D~
+cell~
+0 15111 15112
+D2
+~
+~
+0 0 15109
+D3
+Cell C~
+cell~
+0 15110 15111
+S
+#15111
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+0 9 0
+D1
+~
+~
+0 15110 15110
+S
+#15112
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+0 9 0
+D3
+~
+~
+0 15111 15110
+S
+#15113
+Cell Block One~
+You are marching along a north south passageway lined with several cell
+doors. Cries come from behind some of them, and form behind other comes only
+silence. A guard room lies directly north of here.
+~
+0 9 0
+D0
+~
+~
+0 -1 15116
+D1
+Cell B~
+cell~
+0 15109 15115
+D2
+~
+~
+0 0 15110
+D3
+Cell A~
+cell~
+0 15108 15114
+S
+#15114
+A Well-Appointed Cell~
+This cell is clean and well-lit, and has some rather decent furnishings.
+Doubtless someone of some means has managed to requisition this cell, to
+spend their interrment in relative comfort.
+~
+0 9 0
+D1
+~
+~
+0 15108 15113
+S
+#15115
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+0 9 0
+D3
+~
+~
+0 15109 15113
+S
+#15116
+A Guard Room~
+You have entered the quarters of the dungeon guards. There are usually a few
+off duty guards here at any given time, playing cards, dice, etc. to while
+away the time before their next shift.  A door to the west is marked- DOGS!
+KEEP OUT!
+
+A trapdoor leads upward to the city square, where prisoners who are
+sentenced to death are led for their execution.
+~
+0 8 0
+D2
+~
+~
+0 0 15113
+D3
+~
+~
+0 0 15117
+S
+#15117
+The Dog Kennels~
+The dungeon hounds are kept in here, ready to be released on rioting
+prisoners in emergencies. They are rabid creatures, underfed and constantly
+tormented to keep their anger at a peak.
+~
+0 9 0
+D1
+~
+~
+0 0 15116
+S
+#15118
+The Turnkey's Room~
+Here the Turnkey stands his post, managing and guarding the keys to all the
+cells, and keeping an eye out for any trouble. He is a recalcitrant and lazy
+sod, and not much use at either task.
+
+A door to the west leads to Cell Block Two. The torture chamber lies south.
+~
+0 8 0
+D1
+~
+~
+0 -1 15109
+D2
+~
+~
+0 -1 15119
+D3
+~
+~
+0 0 15122
+S
+#15119
+The Torture Chamber~
+This is the most feared place in all the dungeon. Any and all prisoners who
+end up here rarely leave in one piece. And even if they do, they are usually
+driven quite insane by the weeks of torture. Long chains hanging from the
+ceiling suspend dead or dying victims, while fresher ones are currently
+being subjected to cruel tortures on the nightmarish devices below.
+~
+0 9 0
+D0
+~
+~
+0 -1 15118
+D1
+~
+~
+0 0 15120
+D2
+~
+~
+0 -1 15121
+S
+#15120
+The Torture Chamber~
+This is the most feared place in all the dungeon. Any and all prisoners who
+end up here rarely leave in one piece. And even if they do, they are usually
+driven quite insane by the weeks of torture. Long chains hanging from the
+ceiling suspend dead or dying victims, while fresher ones are currently
+being subjected to cruel tortures on the nightmarish devices below.
+~
+0 9 0
+D3
+~
+~
+0 -1 15119
+S
+#15121
+The Torture Chamber~
+This is the most feared place in all the dungeon. Any and all prisoners who
+end up here rarely leave in one piece. And even if they do, they are usually
+driven quite insane by the weeks of torture. Long chains hanging from the
+ceiling suspend dead or dying victims, while fresher ones are currently
+being subjected to cruel tortures on the nightmarish devices below.
+~
+0 9 0
+D0
+~
+~
+0 -1 15119
+S
+#15122
+Cell Block One~
+You are marching along a east west passageway lined with several cell
+doors. Cries come from behind some of them, and from behind others comes only
+silence.
+~
+0 9 0
+D0
+Cell E~
+cell~
+0 15112 15123
+D1
+~
+~
+0 0 15118
+D2
+Cell F~
+cell~
+0 15113 15124
+D3
+~
+~
+0 -1 15125
+S
+#15123
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+0 9 0
+D2
+~
+~
+0 15112 15122
+S
+#15124
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+0 9 0
+D0
+~
+~
+0 15113 15122
+S
+#15125
+Cell Block One~
+You are marching along a east west passageway lined with several cell
+doors. Cries come from behind some of them, and from behind others comes only
+silence.
+~
+0 9 0
+D0
+Cell G~
+cell~
+0 15114 15126
+D1
+~
+~
+0 0 15122
+D2
+Cell H~
+cell~
+0 15115 15127
+D3
+~
+~
+0 -1 15128
+S
+#15126
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+0 9 0
+D2
+~
+~
+0 15114 15125
+S
+#15127
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+0 9 0
+D0
+~
+~
+0 15115 15125
+S
+#15128
+Cell Block One~
+You are marching along a east west passageway lined with several cell
+doors. Cries come from behind some of them, and from behind others comes only
+silence.
+~
+0 9 0
+D0
+Cell I~
+cell~
+0 15116 15129
+D1
+~
+~
+0 0 15125
+D2
+Cell J~
+cell~
+0 15117 15130
+D3
+~
+~
+0 -1 15131
+S
+#15129
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+0 9 0
+D2
+~
+~
+0 15116 15128
+S
+#15130
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+0 9 0
+D0
+~
+~
+0 15117 15128
+S
+#15131
+Cell Block One~
+You are marching along a east west passageway lined with several cell
+doors. Cries come from behind some of them, and from behind others comes only
+silence. The passage bends downwards to the west.
+~
+0 9 0
+D0
+Cell K~
+cell~
+0 15118 15132
+D1
+~
+~
+0 0 15128
+D2
+Cell L~
+cell~
+0 15119 15133
+D3
+~
+~
+0 -1 15134
+S
+#15132
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+0 9 0
+D2
+~
+~
+0 15118 15131
+S
+#15133
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+0 9 0
+D0
+~
+~
+0 15119 15131
+S
+#15134
+The Lower Chambers~
+These chambers once held cells, but were long ago abandoned. Rotted doors
+hang open to the north and south, while a hole in the floor gives rise to
+an awful smell. You really don't want to go down there... really.
+~
+0 9 0
+D0
+~
+~
+0 -1 15137
+D1
+~
+~
+0 -1 15131
+D2
+~
+~
+0 -1 15135
+D5
+~
+~
+0 -1 15136
+S
+#15135
+A Ruined Cell~
+Naught remains of whoever once occupied this cell save for some bones. Rats
+scurry away from your light, and you grimace at the stench in this hole.
+~
+0 9 0
+D0
+~
+~
+0 -1 15134
+S
+#15136
+The PIT~
+This foul hole is used for disposal of garbage and of unruly prisoners. You
+land in this muck with a squelching noise, and you almost vomit when you
+realize you are chest-deep in human and animal waste. A chill wind whips
+eerily at you from nowhere, and you suddenly get the feeling you're not
+alone down here...
+~
+0 8201 0
+D4
+~
+~
+0 -1 15134
+S
+#15137
+A Ruined Cell~
+Naught remains of whoever once occupied this cell save for some bones. Rats
+scurry away from your light, and you grimace at the stench in this hole.
+A hole in the north wall allows passage into a cave.
+~
+0 13 0
+D0
+~
+~
+0 -1 15138
+D2
+~
+~
+0 -1 15135
+S
+#15138
+A Cavern~
+This natural cavern is home to variety of animals who have become trapped
+down here after entering from the city above and losing their way back.
+You smell guano everywhere, and see thick cobwebs.
+~
+0 9 0
+D0
+~
+~
+0 -1 15139
+D2
+~
+~
+0 -1 15137
+S
+#15139
+A Cavern~
+This natural cavern is home to variety of animals who have become trapped
+down here after entering from the city above and losing their way back.
+You smell guano everywhere, and see thick cobwebs. A passage running
+westward leads into a dark maze.
+~
+0 9 0
+D2
+~
+~
+0 -1 15138
+D3
+~
+~
+0 -1 15140
+S
+#15140
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D2
+~
+~
+0 -1 15141
+D3
+~
+~
+0 -1 15145
+D1
+~
+~
+0 -1 15139
+S
+#15141
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D3
+~
+~
+0 -1 15146
+D0
+~
+~
+0 -1 15140
+D2
+~
+~
+0 -1 15142
+S
+#15142
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D0
+~
+~
+0 -1 15141
+D2
+~
+~
+0 -1 15143
+D3
+~
+~
+0 -1 15147
+S
+#15143
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D3
+~
+~
+0 -1 15148
+D2
+~
+~
+0 -1 15144
+D0
+~
+~
+0 -1 15142
+S
+#15144
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D0
+~
+~
+0 -1 15143
+D3
+~
+~
+0 -1 15149
+D5
+~
+~
+0 0 15169
+S
+#15145
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D3
+~
+~
+0 -1 15150
+D2
+~
+~
+0 -1 15146
+D1
+~
+~
+0 -1 15140
+D5
+~
+~
+0 0 15168
+S
+#15146
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D2
+~
+~
+0 -1 15147
+D1
+~
+~
+0 -1 15141
+D3
+~
+~
+0 -1 15151
+D0
+~
+~
+0 -1 15145
+S
+#15147
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D0
+~
+~
+0 -1 15146
+D1
+~
+~
+0 -1 15142
+D2
+~
+~
+0 -1 15148
+D3
+~
+~
+0 -1 15152
+S
+#15148
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D1
+~
+~
+0 -1 15143
+D0
+~
+~
+0 -1 15147
+D2
+~
+~
+0 -1 15149
+D3
+~
+~
+0 -1 15153
+S
+#15149
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D1
+~
+~
+0 -1 15144
+D0
+~
+~
+0 -1 15148
+D3
+~
+~
+0 -1 15154
+S
+#15150
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D3
+~
+~
+0 -1 15155
+D1
+~
+~
+0 -1 15145
+D2
+~
+~
+0 -1 15151
+S
+#15151
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D1
+~
+~
+0 -1 15146
+D2
+~
+~
+0 -1 15152
+D3
+~
+~
+0 -1 15156
+D0
+~
+~
+0 -1 15150
+S
+#15152
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D3
+~
+~
+0 -1 15157
+D1
+~
+~
+0 -1 15147
+D0
+~
+~
+0 -1 15151
+D2
+~
+~
+0 -1 15153
+S
+#15153
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D3
+~
+~
+0 -1 15158
+D2
+~
+~
+0 -1 15154
+D0
+~
+~
+0 -1 15152
+D1
+~
+~
+0 -1 15148
+D5
+~
+~
+0 0 15167
+S
+#15154
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D1
+~
+~
+0 -1 15149
+D3
+~
+~
+0 -1 15159
+D0
+~
+~
+0 -1 15153
+S
+#15155
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D2
+~
+~
+0 -1 15156
+D3
+~
+~
+0 -1 15160
+D1
+~
+~
+0 -1 15150
+S
+#15156
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D1
+~
+~
+0 -1 15151
+D2
+~
+~
+0 -1 15157
+D3
+~
+~
+0 -1 15161
+D0
+~
+~
+0 -1 15155
+D5
+~
+~
+0 0 15166
+S
+#15157
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D0
+~
+~
+0 -1 15156
+D1
+~
+~
+0 -1 15152
+D3
+~
+~
+0 -1 15162
+D2
+~
+~
+0 -1 15158
+S
+#15158
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D0
+~
+~
+0 -1 15157
+D2
+~
+~
+0 -1 15159
+D3
+~
+~
+0 -1 15163
+D1
+~
+~
+0 -1 15153
+S
+#15159
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D1
+~
+~
+0 -1 15154
+D0
+~
+~
+0 -1 15158
+D3
+~
+~
+0 -1 15164
+S
+#15160
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D1
+~
+~
+0 -1 15155
+D2
+~
+~
+0 -1 15161
+S
+#15161
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D0
+~
+~
+0 -1 15160
+D1
+~
+~
+0 -1 15156
+D2
+~
+~
+0 -1 15162
+S
+#15162
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D1
+~
+~
+0 -1 15157
+D0
+~
+~
+0 -1 15161
+D2
+~
+~
+0 -1 15163
+D5
+~
+~
+0 0 15165
+S
+#15163
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D2
+~
+~
+0 -1 15164
+D1
+~
+~
+0 -1 15158
+D0
+~
+~
+0 -1 15162
+S
+#15164
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+0 8201 0
+D0
+~
+~
+0 -1 15163
+D1
+~
+~
+0 -1 15159
+S
+#15165
+Tomb of Ael~
+This dark tomb contains a sarcophagus and the mortal remains of a powerful
+spellcaster of ancient times. Unfortunately this spellcaster was also
+rather evil... You could be in trouble.
+~
+0 9 0
+D4
+~
+~
+0 -1 15162
+S
+#15166
+Tomb of Baraga~
+This dark tomb contains a sarcophagus and the mortal remains of a powerful
+spellcaster of ancient times. Unfortunately this spellcaster was also
+rather evil... You could be in trouble.
+~
+0 9 0
+D4
+~
+~
+0 -1 15156
+S
+#15167
+Tomb of Cas~
+This dark tomb contains a sarcophagus and the mortal remains of a powerful
+spellcaster of ancient times. Unfortunately this spellcaster was also
+rather evil... You could be in trouble.
+~
+0 9 0
+D4
+~
+~
+0 -1 15153
+S
+#15168
+Tomb of Deros~
+This dark tomb contains a sarcophagus and the mortal remains of a powerful
+spellcaster of ancient times. Unfortunately this spellcaster was also
+rather evil... You could be in trouble.
+~
+0 9 0
+D4
+~
+~
+0 -1 15145
+S
+#15169
+Tomb of Emur~
+This dark tomb contains a sarcophagus and the mortal remains of a powerful
+spellcaster of ancient times. Unfortunately this spellcaster was also
+rather evil... You could be in trouble.
+~
+0 9 0
+D4
+~
+~
+0 -1 15144
+S
+#0
+
+
+
+#SPECIALS
+M 15100 spec_poison
+M 15101 spec_guard
+M 15102 spec_cast_cleric
+M 15103 spec_executioner
+M 15107 spec_poison
+M 15108 spec_poison
+M 15109 spec_poison
+M 15110 spec_poison
+M 15114 spec_thief
+M 15116 spec_guard
+M 15117 spec_fido
+M 15118 spec_fido
+M 15119 spec_cast_undead
+M 15120 spec_breath_frost
+M 15121 spec_cast_undead
+M 15122 spec_cast_undead
+M 15123 spec_cast_undead
+M 15124 spec_cast_undead
+M 15125 spec_cast_undead
+S
+
+
+
+#RESETS
+M 0 15116 12 15101 12 Load a Dungeon guard
+E 0 15140 0 16 A broad sword is loaded wielded of a Dungeon guard
+E 0 15141 0 11 A shield is loaded as a shield of a Dungeon guard
+E 0 15142 0 5 A black and gold tunic is loaded on the body of a Dungeon guard
+E 0 15143 0 6 A metal coif is loaded over the head of a Dungeon guard
+E 0 15144 0 7 Some metal leggings is loaded on the legs of a Dungeon guard
+E 0 15145 0 8 A pair of leather gloves is loaded on the feet of a Dungeon guard
+E 0 15146 0 0 A torch is loaded as a light of a Dungeon guard
+E 0 15147 0 14 A steel bracer is loaded on the left wrist of a Dungeon guard
+E 0 15148 0 15 A spiked dog collar is loaded on the right wrist of a Dungeon guard
+M 0 15115 1 15107 1 Load the Dungeon cook
+E 0 15121 0 16 A sturdy axe is loaded wielded of the Dungeon cook
+O 0 15137 0 15107 A massive iron pot loaded to The Kitchens
+P 0 15128 0 15137 1 A hot iron put inside a hot iron
+O 0 15139 0 15107 A hearth loaded to The Kitchens
+M 0 15116 12 15108 12 Load a Dungeon guard
+E 0 15140 0 16 A broad sword is loaded wielded of a Dungeon guard
+E 0 15141 0 11 A shield is loaded as a shield of a Dungeon guard
+E 0 15142 0 5 A black and gold tunic is loaded on the body of a Dungeon guard
+E 0 15143 0 6 A metal coif is loaded over the head of a Dungeon guard
+E 0 15144 0 7 Some metal leggings is loaded on the legs of a Dungeon guard
+E 0 15145 0 8 A pair of leather gloves is loaded on the feet of a Dungeon guard
+E 0 15146 0 0 A torch is loaded as a light of a Dungeon guard
+E 0 15147 0 14 A steel bracer is loaded on the left wrist of a Dungeon guard
+E 0 15148 0 15 A spiked dog collar is loaded on the right wrist of a Dungeon guard
+M 0 15109 20 15109 20 Load a rat
+O 0 15135 0 15109 Some rat feces loaded to The Dungeon
+M 0 15110 29 15109 29 Load a cockroach
+M 0 15110 29 15110 29 Load a cockroach
+O 0 15101 0 15111 Some filthy straw loaded to A Cell
+M 0 15110 29 15111 29 Load a cockroach
+M 0 15111 5 15111 5 Load a wretched prisoner
+E 0 15132 0 5 Prison rags is loaded on the body of a wretched prisoner
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of a wretched prisoner
+E 0 15104 0 7 A ball and chain is loaded on the legs of a wretched prisoner
+M 0 15112 5 15111 5 Load a wretched prisoner
+E 0 15132 0 5 Prison rags is loaded on the body of a wretched prisoner
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of a wretched prisoner
+E 0 15104 0 7 A ball and chain is loaded on the legs of a wretched prisoner
+G 0 15102 0 A wooden bowl is given to a wretched prisoner
+P 0 15103 0 15102 1 Some watery gruel put inside some watery gruel
+O 0 15101 0 15112 Some filthy straw loaded to A Cell
+M 0 15110 29 15112 29 Load a cockroach
+M 0 15111 5 15112 5 Load a wretched prisoner
+E 0 15132 0 5 Prison rags is loaded on the body of a wretched prisoner
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of a wretched prisoner
+E 0 15104 0 7 A ball and chain is loaded on the legs of a wretched prisoner
+M 0 15112 5 15112 5 Load a wretched prisoner
+E 0 15132 0 5 Prison rags is loaded on the body of a wretched prisoner
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of a wretched prisoner
+E 0 15104 0 7 A ball and chain is loaded on the legs of a wretched prisoner
+M 0 15110 29 15113 29 Load a cockroach
+O 0 15101 0 15114 Some filthy straw loaded to A Well-Appointed Cell
+M 0 15104 1 15114 1 Load a noble prisoner
+E 0 15132 0 5 Prison rags is loaded on the body of a noble prisoner
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of a noble prisoner
+E 0 15104 0 7 A ball and chain is loaded on the legs of a noble prisoner
+G 0 15102 0 A wooden bowl is given to a noble prisoner
+P 0 15103 0 15102 1 Some watery gruel put inside some watery gruel
+O 0 15133 0 15114 A narrow bed loaded to A Well-Appointed Cell
+M 0 15110 29 15114 29 Load a cockroach
+O 0 15101 0 15115 Some filthy straw loaded to A Cell
+M 0 15105 1 15115 1 Load the man in the iron mask
+E 0 15132 0 5 Prison rags is loaded on the body of the man in the iron mask
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of the man in the iron mask
+E 0 15131 0 6 An iron mask is loaded over the head of the man in the iron mask
+E 0 15150 0 16 A spoon is loaded wielded of the man in the iron mask
+E 0 15104 0 7 A ball and chain is loaded on the legs of the man in the iron mask
+G 0 15102 0 A wooden bowl is given to the man in the iron mask
+P 0 15103 0 15102 1 Some watery gruel put inside some watery gruel
+M 0 15110 29 15115 29 Load a cockroach
+O 0 15101 0 15116 Some filthy straw loaded to A Guard Room
+M 0 15110 29 15116 29 Load a cockroach
+M 0 15116 12 15116 12 Load a Dungeon guard
+E 0 15140 0 16 A broad sword is loaded wielded of a Dungeon guard
+E 0 15141 0 11 A shield is loaded as a shield of a Dungeon guard
+E 0 15142 0 5 A black and gold tunic is loaded on the body of a Dungeon guard
+E 0 15143 0 6 A metal coif is loaded over the head of a Dungeon guard
+E 0 15144 0 7 Some metal leggings is loaded on the legs of a Dungeon guard
+E 0 15145 0 8 A pair of leather gloves is loaded on the feet of a Dungeon guard
+E 0 15146 0 0 A torch is loaded as a light of a Dungeon guard
+E 0 15147 0 14 A steel bracer is loaded on the left wrist of a Dungeon guard
+E 0 15148 0 15 A spiked dog collar is loaded on the right wrist of a Dungeon guard
+O 0 15101 0 15117 Some filthy straw loaded to The Dog Kennels
+O 0 15105 0 15117 Some bones loaded to The Dog Kennels
+M 0 15110 29 15117 29 Load a cockroach
+M 0 15117 6 15117 6 Load a war dog
+E 0 15152 0 6 Some saliva coated fangs is loaded over the head of a war dog
+E 0 15148 0 16 A spiked dog collar is loaded wielded of a war dog
+O 0 15103 0 15117 Some watery gruel loaded to The Dog Kennels
+M 0 15101 1 15118 1 Load a drunken turnkey
+E 0 15121 0 16 A sturdy axe is loaded wielded of a drunken turnkey
+E 0 15122 0 13 A leather belt is loaded around the waist of a drunken turnkey
+E 0 15123 0 7 A pair of stained trousers is loaded on the legs of a drunken turnkey
+E 0 15124 0 5 A hairy chest is loaded on the body of a drunken turnkey
+G 0 15120 0 A bottle of grog is given to a drunken turnkey
+O 0 15108 0 15118 A cell key loaded to The Turnkey's Room
+O 0 15109 0 15118 A cell key loaded to The Turnkey's Room
+O 0 15110 0 15118 A cell key loaded to The Turnkey's Room
+O 0 15111 0 15118 A cell key loaded to The Turnkey's Room
+O 0 15112 0 15118 A cell key loaded to The Turnkey's Room
+O 0 15113 0 15118 A cell key loaded to The Turnkey's Room
+O 0 15114 0 15118 A cell key loaded to The Turnkey's Room
+O 0 15115 0 15118 A cell key loaded to The Turnkey's Room
+O 0 15116 0 15118 A cell key loaded to The Turnkey's Room
+O 0 15117 0 15118 A cell key loaded to The Turnkey's Room
+O 0 15118 0 15118 A cell key loaded to The Turnkey's Room
+O 0 15119 0 15118 A cell key loaded to The Turnkey's Room
+M 0 15110 29 15118 29 Load a cockroach
+O 0 15106 0 15119 An iron maiden loaded to The Torture Chamber
+O 0 15130 0 15119 A cabinet loaded to The Torture Chamber
+P 0 15153 0 15130 1 Some thumbscrews put inside some thumbscrews
+P 0 15154 0 15130 1 A pair of pincers put inside a pair of pincers
+P 0 15156 0 15130 1 A flaming feather dipped in sulphur put inside a flaming feather dipped in sulphur
+P 0 15159 0 15130 1 A row of heavy weights put inside a row of heavy weights
+M 0 15109 20 15119 20 Load a rat
+O 0 15135 0 15119 Some rat feces loaded to The Torture Chamber
+M 0 15110 29 15119 29 Load a cockroach
+O 0 15162 0 15120 A scourge loaded to The Torture Chamber
+O 0 15155 0 15120 An iron chair loaded to The Torture Chamber
+O 0 15157 0 15120 A hot bath containing lime loaded to The Torture Chamber
+O 0 15158 0 15120 A pulley loaded to The Torture Chamber
+M 0 15102 1 15120 1 Load the inquisitor
+E 0 15125 0 12 The inquisitor's robes is loaded about the shoulders of the inquisitor
+E 0 15126 0 8 The inquisitor's boots is loaded on the feet of the inquisitor
+E 0 15127 0 6 The inquisitor's hood is loaded over the head of the inquisitor
+M 0 15110 29 15120 29 Load a cockroach
+O 0 15107 0 15121 A rack loaded to The Torture Chamber
+O 0 15129 0 15121 A metal brazier loaded to The Torture Chamber
+P 0 15128 0 15129 1 A hot iron put inside a hot iron
+P 0 15161 0 15129 1 Some hot coals put inside some hot coals
+O 0 15160 0 15121 A bellows loaded to The Torture Chamber
+M 0 15103 1 15121 1 Load the master torturer
+E 0 15121 0 16 A sturdy axe is loaded wielded of the master torturer
+E 0 15128 0 0 A hot iron is loaded as a light of the master torturer
+M 0 15110 29 15121 29 Load a cockroach
+M 0 15109 20 15122 20 Load a rat
+O 0 15135 0 15122 Some rat feces loaded to Cell Block One
+M 0 15110 29 15122 29 Load a cockroach
+O 0 15101 0 15123 Some filthy straw loaded to A Cell
+M 0 15106 2 15123 2 Load an animated skeleton
+E 0 15132 0 5 Prison rags is loaded on the body of an animated skeleton
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of an animated skeleton
+E 0 15104 0 7 A ball and chain is loaded on the legs of an animated skeleton
+M 0 15110 29 15123 29 Load a cockroach
+M 0 15116 12 15123 12 Load a Dungeon guard
+E 0 15140 0 16 A broad sword is loaded wielded of a Dungeon guard
+E 0 15141 0 11 A shield is loaded as a shield of a Dungeon guard
+E 0 15142 0 5 A black and gold tunic is loaded on the body of a Dungeon guard
+E 0 15143 0 6 A metal coif is loaded over the head of a Dungeon guard
+E 0 15144 0 7 Some metal leggings is loaded on the legs of a Dungeon guard
+E 0 15145 0 8 A pair of leather gloves is loaded on the feet of a Dungeon guard
+E 0 15146 0 0 A torch is loaded as a light of a Dungeon guard
+E 0 15147 0 14 A steel bracer is loaded on the left wrist of a Dungeon guard
+E 0 15148 0 15 A spiked dog collar is loaded on the right wrist of a Dungeon guard
+O 0 15101 0 15124 Some filthy straw loaded to A Cell
+M 0 15110 29 15124 29 Load a cockroach
+M 0 15111 5 15124 5 Load a wretched prisoner
+E 0 15132 0 5 Prison rags is loaded on the body of a wretched prisoner
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of a wretched prisoner
+E 0 15104 0 7 A ball and chain is loaded on the legs of a wretched prisoner
+M 0 15112 5 15124 5 Load a wretched prisoner
+E 0 15132 0 5 Prison rags is loaded on the body of a wretched prisoner
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of a wretched prisoner
+E 0 15104 0 7 A ball and chain is loaded on the legs of a wretched prisoner
+M 0 15110 29 15125 29 Load a cockroach
+O 0 15101 0 15126 Some filthy straw loaded to A Cell
+M 0 15110 29 15126 29 Load a cockroach
+M 0 15111 5 15126 5 Load a wretched prisoner
+E 0 15132 0 5 Prison rags is loaded on the body of a wretched prisoner
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of a wretched prisoner
+E 0 15104 0 7 A ball and chain is loaded on the legs of a wretched prisoner
+M 0 15112 5 15126 5 Load a wretched prisoner
+E 0 15132 0 5 Prison rags is loaded on the body of a wretched prisoner
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of a wretched prisoner
+E 0 15104 0 7 A ball and chain is loaded on the legs of a wretched prisoner
+O 0 15101 0 15127 Some filthy straw loaded to A Cell
+M 0 15110 29 15127 29 Load a cockroach
+M 0 15113 1 15127 1 Load a political prisoner
+E 0 15132 0 5 Prison rags is loaded on the body of a political prisoner
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of a political prisoner
+E 0 15104 0 7 A ball and chain is loaded on the legs of a political prisoner
+M 0 15109 20 15128 20 Load a rat
+O 0 15135 0 15128 Some rat feces loaded to Cell Block One
+M 0 15110 29 15128 29 Load a cockroach
+O 0 15101 0 15129 Some filthy straw loaded to A Cell
+M 0 15100 1 15129 1 Load a maniacal prisoner
+E 0 15132 0 5 Prison rags is loaded on the body of a maniacal prisoner
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of a maniacal prisoner
+E 0 15104 0 7 A ball and chain is loaded on the legs of a maniacal prisoner
+M 0 15110 29 15129 29 Load a cockroach
+O 0 15101 0 15130 Some filthy straw loaded to A Cell
+M 0 15106 2 15130 2 Load an animated skeleton
+E 0 15132 0 5 Prison rags is loaded on the body of an animated skeleton
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of an animated skeleton
+E 0 15104 0 7 A ball and chain is loaded on the legs of an animated skeleton
+M 0 15110 29 15130 29 Load a cockroach
+M 0 15110 29 15131 29 Load a cockroach
+M 0 15116 12 15131 12 Load a Dungeon guard
+E 0 15140 0 16 A broad sword is loaded wielded of a Dungeon guard
+E 0 15141 0 11 A shield is loaded as a shield of a Dungeon guard
+E 0 15142 0 5 A black and gold tunic is loaded on the body of a Dungeon guard
+E 0 15143 0 6 A metal coif is loaded over the head of a Dungeon guard
+E 0 15144 0 7 Some metal leggings is loaded on the legs of a Dungeon guard
+E 0 15145 0 8 A pair of leather gloves is loaded on the feet of a Dungeon guard
+E 0 15146 0 0 A torch is loaded as a light of a Dungeon guard
+E 0 15147 0 14 A steel bracer is loaded on the left wrist of a Dungeon guard
+E 0 15148 0 15 A spiked dog collar is loaded on the right wrist of a Dungeon guard
+O 0 15101 0 15132 Some filthy straw loaded to A Cell
+M 0 15110 29 15132 29 Load a cockroach
+M 0 15114 2 15132 2 Load a grubby child
+E 0 15132 0 5 Prison rags is loaded on the body of a grubby child
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of a grubby child
+E 0 15104 0 7 A ball and chain is loaded on the legs of a grubby child
+G 0 15102 0 A wooden bowl is given to a grubby child
+P 0 15103 0 15102 1 Some watery gruel put inside some watery gruel
+O 0 15101 0 15133 Some filthy straw loaded to A Cell
+M 0 15110 29 15133 29 Load a cockroach
+M 0 15114 2 15133 2 Load a grubby child
+E 0 15132 0 5 Prison rags is loaded on the body of a grubby child
+E 0 15100 0 10 A pair of iron manacles is loaded on the arms of a grubby child
+E 0 15104 0 7 A ball and chain is loaded on the legs of a grubby child
+G 0 15102 0 A wooden bowl is given to a grubby child
+P 0 15103 0 15102 1 Some watery gruel put inside some watery gruel
+M 0 15109 20 15134 20 Load a rat
+O 0 15135 0 15134 Some rat feces loaded to The Lower Chambers
+M 0 15110 29 15134 29 Load a cockroach
+O 0 15105 0 15135 Some bones loaded to A Ruined Cell
+M 0 15108 4 15135 4 Load a giant spider
+M 0 15110 29 15135 29 Load a cockroach
+M 0 15118 1 15135 1 Load an escaped prisoner
+E 0 15149 0 16 An iron file is loaded wielded of an escaped prisoner
+E 0 15104 0 7 A ball and chain is loaded on the legs of an escaped prisoner
+O 0 15105 0 15136 Some bones loaded to The PIT
+M 0 15110 29 15136 29 Load a cockroach
+O 0 15136 0 15136 Some cockroach feces loaded to The PIT
+M 0 15119 1 15136 1 Load the ubiquitous Dungeon ghost
+E 0 15151 0 12 Some rattling chains is loaded about the shoulders of the ubiquitous Dungeon ghost
+E 0 15104 0 7 A ball and chain is loaded on the legs of the ubiquitous Dungeon ghost
+O 0 15105 0 15137 Some bones loaded to A Ruined Cell
+O 0 15105 0 15138 Some bones loaded to A Cavern
+M 0 15107 10 15138 10 Load a bat
+O 0 15134 0 15138 Some bat feces loaded to A Cavern
+O 0 15105 0 15139 Some bones loaded to A Cavern
+M 0 15107 10 15139 10 Load a bat
+O 0 15134 0 15139 Some bat feces loaded to A Cavern
+M 0 15108 4 15139 4 Load a giant spider
+R 0 15140 4 Randomize The Dark Maze
+O 0 15105 0 15140 Some bones loaded to The Dark Maze
+M 0 15107 10 15140 10 Load a bat
+O 0 15134 0 15140 Some bat feces loaded to The Dark Maze
+R 0 15141 4 Randomize The Dark Maze
+M 0 15120 5 15141 5 Load a crypt walker
+E 0 15104 0 7 A ball and chain is loaded on the legs of a crypt walker
+R 0 15142 4 Randomize The Dark Maze
+R 0 15143 4 Randomize The Dark Maze
+R 0 15144 4 Randomize The Dark Maze
+M 0 15121 5 15144 5 Load a coffer corpse
+R 0 15145 4 Randomize The Dark Maze
+R 0 15146 4 Randomize The Dark Maze
+R 0 15147 4 Randomize The Dark Maze
+M 0 15120 5 15147 5 Load a crypt walker
+E 0 15104 0 7 A ball and chain is loaded on the legs of a crypt walker
+R 0 15148 4 Randomize The Dark Maze
+R 0 15149 4 Randomize The Dark Maze
+M 0 15121 5 15149 5 Load a coffer corpse
+R 0 15150 4 Randomize The Dark Maze
+M 0 15121 5 15150 5 Load a coffer corpse
+R 0 15151 4 Randomize The Dark Maze
+R 0 15152 4 Randomize The Dark Maze
+O 0 15105 0 15152 Some bones loaded to The Dark Maze
+M 0 15120 5 15152 5 Load a crypt walker
+E 0 15104 0 7 A ball and chain is loaded on the legs of a crypt walker
+R 0 15153 4 Randomize The Dark Maze
+R 0 15154 4 Randomize The Dark Maze
+R 0 15155 4 Randomize The Dark Maze
+M 0 15121 5 15155 5 Load a coffer corpse
+R 0 15156 4 Randomize The Dark Maze
+R 0 15157 4 Randomize The Dark Maze
+R 0 15158 4 Randomize The Dark Maze
+R 0 15159 4 Randomize The Dark Maze
+M 0 15120 5 15159 5 Load a crypt walker
+E 0 15104 0 7 A ball and chain is loaded on the legs of a crypt walker
+R 0 15160 4 Randomize The Dark Maze
+R 0 15161 4 Randomize The Dark Maze
+M 0 15120 5 15161 5 Load a crypt walker
+E 0 15104 0 7 A ball and chain is loaded on the legs of a crypt walker
+R 0 15162 4 Randomize The Dark Maze
+R 0 15163 4 Randomize The Dark Maze
+R 0 15164 4 Randomize The Dark Maze
+M 0 15121 5 15164 5 Load a coffer corpse
+O 0 15105 0 15165 Some bones loaded to Tomb of Ael
+M 0 15122 1 15165 1 Load the lich Ael
+E 0 15163 0 16 The sword of ael is loaded wielded of the lich Ael
+O 0 15105 0 15166 Some bones loaded to Tomb of Baraga
+M 0 15123 1 15166 1 Load the vampiure Baraga
+E 0 15164 0 3 A jewelled necklace is loaded around the neck (1) of the vampiure Baraga
+O 0 15105 0 15167 Some bones loaded to Tomb of Cas
+M 0 15124 1 15167 1 Load the spectre Cas
+E 0 15165 0 8 Boots of quickness is loaded on the feet of the spectre Cas
+O 0 15105 0 15168 Some bones loaded to Tomb of Deros
+M 0 15125 1 15168 1 Load the wraith Deros
+E 0 15166 0 6 A platinum helm is loaded over the head of the wraith Deros
+E 0 15167 0 12 A plain gray cloak is loaded about the shoulders of the wraith Deros
+O 0 15105 0 15169 Some bones loaded to Tomb of Emur
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

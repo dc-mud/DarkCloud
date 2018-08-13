@@ -1,0 +1,1142 @@
+#AREADATA
+Name Storm Keep~
+Builders Zvithan~
+VNUMs 5500 5549
+LevelRange 51 51
+Credits Zvithan~
+Security 9
+Continent 2
+AreaFlags ABFHI
+End
+
+
+
+#MOBILES
+#5500
+storm keep guard~
+A Storm Keep Guard~
+A guard of the Storm Keep stands here.
+~
+The guard stands 6 feet tall with black plated armor and an obsidian
+sword at his side.  
+~
+human~
+AB DFJV 1 0
+51 0 50d10+5500 26d9+100 6d7+20 none
+-22 -22 -22 2
+EFNU 0 0 0
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+#5501
+storm keep lord~
+the Storm Keep Lord~
+The Storm Keep Lord looms large over the room.
+~
+~
+human~
+AB DFHJV 2 0
+60 0 50d10+12000 27d9+100 8d8+30 none
+-24 -24 -24 2
+DEFKNU 0 0 F
+stand stand male 5000
+AHMV ABCDEFGHIJK giant unknown
+#0
+
+
+
+#OBJECTS
+#5500
+portal arcanis~
+a large {Ggreen{x portal~
+A large {Ggreen portal{x lingers in the room.~
+unknown~
+portal ABOT 0
+0 0 0 BCDEHIKM 0
+0 0 0 P
+#5501
+portal arcanis~
+a large {Ggreen{x portal~
+A large {Ggreen portal{x rises up from the obsidian platform.~
+unknown~
+portal ABOT 0
+0 0 0 CDEFGIKM 0
+0 0 0 P
+#5502
+portal storm keep~
+a portal to the Storm Keep~
+A portal to the Storm Keep.~
+unknown~
+portal ABT 0
+0 0 0 ACDEHIKM 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#5500
+The Gates of the Storm Keep~
+You are standing at the gates of the Storm Keep.  Behind you a cliff
+drops off into the depths of an unknown part of the ocean.  The walls of the
+keep are made of obsidian which is glistening from the steady flow of rain
+that is falling and always seems to be falling.  The gates are large and
+wrought of darkned iron.  
+~
+0 8208 2
+D0
+~
+gate~
+1 0 5501
+S
+#5501
+Inside the Storm Keep~
+The high walls that still rise up are made of huge obsidian blocks.
+You are standing inside a huge hall whose ceiling has long since caved in.
+~
+0 8208 2
+D0
+~
+~
+0 0 5508
+D1
+~
+~
+0 0 5502
+D2
+~
+~
+1 0 5500
+D3
+~
+~
+0 0 5504
+D6
+~
+~
+0 0 5507
+D7
+~
+~
+0 0 5509
+S
+#5502
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5509
+D1
+~
+~
+0 0 5503
+D3
+~
+~
+0 0 5501
+D6
+~
+~
+0 0 5508
+D7
+~
+~
+0 0 5510
+S
+#5503
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5510
+D3
+~
+~
+0 0 5502
+D6
+~
+~
+0 0 5509
+S
+#5504
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5507
+D1
+~
+~
+0 0 5501
+D3
+~
+~
+0 0 5505
+D6
+~
+~
+0 0 5506
+D7
+~
+~
+0 0 5508
+S
+#5505
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5506
+D1
+~
+~
+0 0 5504
+D7
+~
+~
+0 0 5507
+S
+#5506
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5511
+D1
+~
+~
+0 0 5507
+D2
+~
+~
+0 0 5505
+D7
+~
+~
+0 0 5512
+D9
+~
+~
+0 0 5504
+S
+#5507
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5512
+D1
+~
+~
+0 0 5508
+D2
+~
+~
+0 0 5504
+D3
+~
+~
+0 0 5506
+D6
+~
+~
+0 0 5511
+D7
+~
+~
+0 0 5513
+D8
+~
+~
+0 0 5505
+D9
+~
+~
+0 0 5501
+S
+#5508
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5513
+D1
+~
+~
+0 0 5509
+D2
+~
+~
+0 0 5501
+D3
+~
+~
+0 0 5507
+D6
+~
+~
+0 0 5512
+D7
+~
+~
+0 0 5514
+D8
+~
+~
+0 0 5504
+D9
+~
+~
+0 0 5502
+S
+#5509
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5514
+D1
+~
+~
+0 0 5510
+D2
+~
+~
+0 0 5502
+D3
+~
+~
+0 0 5508
+D6
+~
+~
+0 0 5513
+D7
+~
+~
+0 0 5515
+D8
+~
+~
+0 0 5501
+D9
+~
+~
+0 0 5503
+S
+#5510
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5515
+D2
+~
+~
+0 0 5503
+D3
+~
+~
+0 0 5509
+D6
+~
+~
+0 0 5514
+D8
+~
+~
+0 0 5502
+S
+#5511
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5516
+D1
+~
+~
+0 0 5512
+D2
+~
+~
+0 0 5506
+D7
+~
+~
+0 0 5517
+D9
+~
+~
+0 0 5507
+S
+#5512
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5517
+D1
+~
+~
+0 0 5513
+D2
+~
+~
+0 0 5507
+D3
+~
+~
+0 0 5511
+D6
+~
+~
+0 0 5516
+D7
+~
+~
+0 0 5518
+D8
+~
+~
+0 0 5506
+D9
+~
+~
+0 0 5508
+S
+#5513
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5518
+D1
+~
+~
+0 0 5514
+D2
+~
+~
+0 0 5508
+D3
+~
+~
+0 0 5512
+D6
+~
+~
+0 0 5517
+D7
+~
+~
+0 0 5519
+D8
+~
+~
+0 0 5507
+D9
+~
+~
+0 0 5509
+S
+#5514
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5519
+D1
+~
+~
+0 0 5515
+D2
+~
+~
+0 0 5509
+D3
+~
+~
+0 0 5513
+D6
+~
+~
+0 0 5518
+D7
+~
+~
+0 0 5520
+D8
+~
+~
+0 0 5508
+D9
+~
+~
+0 0 5510
+S
+#5515
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5520
+D2
+~
+~
+0 0 5510
+D3
+~
+~
+0 0 5514
+D6
+~
+~
+0 0 5519
+D8
+~
+~
+0 0 5509
+S
+#5516
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5521
+D1
+~
+~
+0 0 5517
+D2
+~
+~
+0 0 5511
+D7
+~
+~
+0 0 5522
+D9
+~
+~
+0 0 5512
+S
+#5517
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5522
+D1
+~
+~
+0 0 5518
+D2
+~
+~
+0 0 5512
+D3
+~
+~
+0 0 5516
+D6
+~
+~
+0 0 5521
+D7
+~
+~
+0 0 5523
+D8
+~
+~
+0 0 5511
+D9
+~
+~
+0 0 5513
+S
+#5518
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5523
+D1
+~
+~
+0 0 5519
+D2
+~
+~
+0 0 5513
+D3
+~
+~
+0 0 5517
+D6
+~
+~
+0 0 5522
+D7
+~
+~
+0 0 5524
+D8
+~
+~
+0 0 5512
+D9
+~
+~
+0 0 5514
+S
+#5519
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5524
+D1
+~
+~
+0 0 5520
+D2
+~
+~
+0 0 5514
+D3
+~
+~
+0 0 5518
+D6
+~
+~
+0 0 5523
+D7
+~
+~
+0 0 5525
+D8
+~
+~
+0 0 5513
+D9
+~
+~
+0 0 5515
+S
+#5520
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D0
+~
+~
+0 0 5525
+D2
+~
+~
+0 0 5515
+D3
+~
+~
+0 0 5519
+D6
+~
+~
+0 0 5524
+D8
+~
+~
+0 0 5514
+S
+#5521
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D1
+~
+~
+0 0 5522
+D2
+~
+~
+0 0 5516
+D9
+~
+~
+0 0 5517
+S
+#5522
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D1
+~
+~
+0 0 5523
+D2
+~
+~
+0 0 5517
+D3
+~
+~
+0 0 5521
+D8
+~
+~
+0 0 5516
+D9
+~
+~
+0 0 5518
+S
+#5523
+Bottom of the Stairwell~
+You are standing at the bottom of a large obsidian stairwell.  An high
+looming arch hangs overhead and the sounds of guards can be heard from up in
+the tower above.  
+~
+0 8208 2
+D1
+~
+~
+0 0 5524
+D2
+~
+~
+0 0 5518
+D3
+~
+~
+0 0 5522
+D4
+~
+~
+0 0 5526
+D8
+~
+~
+0 0 5517
+D9
+~
+~
+0 0 5519
+S
+#5524
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D1
+~
+~
+0 0 5525
+D2
+~
+~
+0 0 5519
+D3
+~
+~
+0 0 5523
+D8
+~
+~
+0 0 5518
+D9
+~
+~
+0 0 5520
+S
+#5525
+Inside the Storm Keep~
+You are standing inside a huge hall whose ceiling has long since caved in.
+The high walls that still rise up are made of huge obsidian blocks.  
+~
+0 8208 2
+D2
+~
+~
+0 0 5520
+D3
+~
+~
+0 0 5524
+D8
+~
+~
+0 0 5519
+S
+#5526
+The Stairwell~
+These stairs wind up the tower of the Storm Keep.  They are steep and
+wide, made of the same obsidian as the walls.  
+~
+0 8216 0
+D5
+~
+~
+0 0 5523
+D9
+~
+~
+0 0 5527
+S
+#5527
+The Stairwell~
+These stairs wind up the tower of the Storm Keep.  They are steep and
+wide, made of the same obsidian as the walls.  
+~
+0 8216 0
+D6
+~
+~
+0 0 5526
+D8
+~
+~
+0 0 5528
+S
+#5528
+The Stairwell~
+These stairs wind up the tower of the Storm Keep.  They are steep and
+wide, made of the same obsidian as the walls.  
+~
+0 8216 0
+D6
+~
+~
+0 0 5529
+D7
+~
+~
+0 0 5527
+S
+#5529
+The Stairwell~
+These stairs wind up the tower of the Storm Keep.  They are steep and
+wide, made of the same obsidian as the walls.  
+~
+0 8216 0
+D4
+~
+~
+0 0 5530
+D9
+~
+~
+0 0 5528
+S
+#5530
+The Stairwell~
+These stairs wind up the tower of the Storm Keep.  They are steep and
+wide, made of the same obsidian as the walls.  
+~
+0 8216 0
+D5
+~
+~
+0 0 5529
+D9
+~
+~
+1 0 5531
+S
+#5531
+The Stairwell~
+These stairs wind up the tower of the Storm Keep.  They are steep and
+wide, made of the same obsidian as the walls.  
+~
+0 8216 0
+D6
+~
+~
+1 0 5530
+D8
+~
+~
+1 0 5532
+S
+#5532
+The Stairwell~
+These stairs wind up the tower of the Storm Keep.  They are steep and
+wide, made of the same obsidian as the walls.  
+~
+0 8216 0
+D6
+~
+~
+1 0 5533
+D7
+~
+~
+1 0 5531
+S
+#5533
+Top of the Tower~
+You are at the top of the Storm Keep Tower.  It is a large round room of
+obsidian blocks.  A circle of light shimmers against the wall.  
+~
+0 24 0
+D9
+~
+~
+1 0 5532
+S
+#5534
+{GThe Lord of the Shadow Keep's Throne Room{x~
+The room is made from an old black roughly surfaced rock.  It's cold and
+damp, and the humidity in this room makes even the toughest races breathe
+heavy.  This dark room has a black marbles slate in the middle in which the
+Lord of this keep rests upon.  
+~
+0 28 0
+M 0 H 0
+S
+#5535
+On a Rocky Path~
+You are on a rocky path that is rising up into the mountains off of the
+eastern coast of Arcanis.  Far up the path you can make out what appears to
+be a large black structure looming over the vast sea.  
+~
+0 0 5
+D1
+~
+~
+0 0 11209
+D3
+~
+~
+0 0 5536
+S
+#5536
+On a Rocky Path~
+You are on a rocky path that is rising up into the mountains off of the
+eastern coast of Arcanis.  As you walk farther down the path the large
+structure ahead begins to come more in focus.  It appears clouds there are
+clouds looming almost soley around the castle.  
+~
+0 0 5
+D1
+~
+~
+0 0 5535
+D3
+~
+~
+0 0 5537
+S
+#5537
+Farther Down a Rocky Path~
+You are on a rocky path that is rising up into the mountains off of the
+eastern coast of Arcanis.  As you walk farther down the path the large
+structure ahead begins to come more in focus.  It appears clouds there are
+clouds looming almost soley around the castle.  The path bends to the
+northwest here but is still continuing an upward climb.  
+~
+0 0 5
+D1
+~
+~
+0 0 5536
+D6
+~
+~
+0 0 5538
+S
+#5538
+Farther Down a Rocky Path~
+You have come to the end of the rocky path and are now standing in front
+of a large obsidian wall that has stairs etched into it that appear to
+almost to have been carved by the rain itself.  They appear to lead upwards
+to a platform where a glowing light seems to be emanating from.  The castle
+now is much larger but is out of walking reach from here as the cliffs go
+nearly vertical in order to reach it.  
+~
+0 0 5
+D4
+~
+~
+0 0 5539
+D9
+~
+~
+0 0 5537
+S
+#5539
+Threshold of the Storm Keep~
+You are standing on a large obsidian platform.  In front of you looms a
+glowing portal that emanates with an ancient magic.  
+~
+0 0 0
+D5
+~
+~
+0 0 5538
+S
+#0
+
+
+
+#SPECIALS
+M 5500 spec_keep_guard
+M 5501 spec_keep_lord
+S
+
+
+
+#RESETS
+D 0 5500 0 1
+D 0 5501 2 1
+D 0 5530 9 1
+D 0 5531 6 1
+D 0 5531 8 1
+D 0 5532 6 1
+D 0 5532 7 1
+D 0 5533 9 1
+M 0 5500 49 5500 5 Load A Storm Keep Guard
+M 0 5500 49 5500 5 Load A Storm Keep Guard
+M 0 5500 49 5500 5 Load A Storm Keep Guard
+M 0 5500 49 5500 5 Load A Storm Keep Guard
+M 0 5500 49 5500 5 Load A Storm Keep Guard
+M 0 5500 49 5501 3 Load A Storm Keep Guard
+M 0 5500 49 5501 3 Load A Storm Keep Guard
+M 0 5500 49 5501 3 Load A Storm Keep Guard
+M 0 5500 49 5503 2 Load A Storm Keep Guard
+M 0 5500 49 5503 2 Load A Storm Keep Guard
+M 0 5500 49 5505 2 Load A Storm Keep Guard
+M 0 5500 49 5505 2 Load A Storm Keep Guard
+M 0 5500 49 5507 3 Load A Storm Keep Guard
+M 0 5500 49 5507 3 Load A Storm Keep Guard
+M 0 5500 49 5507 3 Load A Storm Keep Guard
+M 0 5500 49 5509 3 Load A Storm Keep Guard
+M 0 5500 49 5509 3 Load A Storm Keep Guard
+M 0 5500 49 5509 3 Load A Storm Keep Guard
+M 0 5500 49 5513 2 Load A Storm Keep Guard
+M 0 5500 49 5513 2 Load A Storm Keep Guard
+M 0 5500 49 5517 3 Load A Storm Keep Guard
+M 0 5500 49 5517 3 Load A Storm Keep Guard
+M 0 5500 49 5517 3 Load A Storm Keep Guard
+M 0 5500 49 5519 3 Load A Storm Keep Guard
+M 0 5500 49 5519 3 Load A Storm Keep Guard
+M 0 5500 49 5519 3 Load A Storm Keep Guard
+M 0 5500 49 5521 2 Load A Storm Keep Guard
+M 0 5500 49 5521 2 Load A Storm Keep Guard
+M 0 5500 49 5523 5 Load A Storm Keep Guard
+M 0 5500 49 5523 5 Load A Storm Keep Guard
+M 0 5500 49 5523 5 Load A Storm Keep Guard
+M 0 5500 49 5523 5 Load A Storm Keep Guard
+M 0 5500 49 5523 5 Load A Storm Keep Guard
+M 0 5500 49 5525 2 Load A Storm Keep Guard
+M 0 5500 49 5525 2 Load A Storm Keep Guard
+M 0 5500 49 5526 2 Load A Storm Keep Guard
+M 0 5500 49 5526 2 Load A Storm Keep Guard
+M 0 5500 49 5528 2 Load A Storm Keep Guard
+M 0 5500 49 5529 2 Load A Storm Keep Guard
+M 0 5500 49 5529 2 Load A Storm Keep Guard
+M 0 5500 49 5530 2 Load A Storm Keep Guard
+M 0 5500 49 5530 2 Load A Storm Keep Guard
+M 0 5500 49 5532 2 Load A Storm Keep Guard
+M 0 5500 49 5532 2 Load A Storm Keep Guard
+M 0 5500 49 5533 5 Load A Storm Keep Guard
+M 0 5500 49 5533 5 Load A Storm Keep Guard
+M 0 5500 49 5533 5 Load A Storm Keep Guard
+M 0 5500 49 5533 5 Load A Storm Keep Guard
+M 0 5500 49 5533 5 Load A Storm Keep Guard
+O 0 5500 0 5533 A large {ggreen{x portal loaded to Top of the Tower
+M 0 5501 1 5534 1 Load the Storm Keep Lord
+O 0 5501 0 5539 A large {ggreen{x portal loaded to Threshold of the Storm Keep
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

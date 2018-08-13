@@ -1,0 +1,2028 @@
+#AREADATA
+Name Gray Mountains~
+Builders Solinari~
+VNUMs 2400 2499
+LevelRange 10 30
+Credits Solinari~
+Security 9
+Continent 2
+AreaFlags A
+End
+
+
+
+#MOBILES
+#2400
+lone knight~
+A lone knight~
+A lone knight rides past on horseback.
+~
+This solitary knight is clad in an ancient armor that he tries to hide
+underneath his cloak. He has a long mustache and looks away from you as he
+rides past. 
+~
+human~
+A HN 3 0
+25 25 51d8+253 25d10+85 8d3+17 slash
+-7 -7 -7 -1
+EFNU 0 0 0
+stand stand male 1250
+AHMV ABCDEFGHIJK medium unknown
+#2401
+curious kender~
+A curious kender~
+A kender looks at the trees in wonder.
+~
+The kender, caught in the midst of his wanderlust, explores the forest,
+staring up at the massive vallenwoods. 
+~
+kender~
+AS J 2 0
+20 20 41d6+203 20d10+85 6d3+15 slash
+-3 -3 -3 0
+I a E IL
+stand stand male 250
+AHMV ABCDEFGHIJK medium unknown
+#2402
+barbarian man ranger~
+A barbarian ranger~
+A barbarian man runs across the plains.
+~
+He looks like your typical barbarian plainsman with his long hair and
+hand-made leather clothing. He quickly runs across the plains to bring news
+to his village. 
+~
+human~
+AT 0 2 0
+19 19 39d6+192 19d10+85 6d3+14 none
+-3 -3 -3 0
+F 0 0 0
+stand stand male 1250
+AHMV ABCDEFGHIJK medium unknown
+#2403
+large rock toad~
+A large rock toad~
+A rather large rock toad sits here, croaking loudly.
+~
+A grey toad. Its about the size of a cow. Small horns grow all over its body.
+~
+unique~
+AH Pb 2 0
+14 14 29d4+142 14d10+85 4d3+12 thwack
+0 0 0 2
+F 0 0 0
+sit sit none 0
+AGa ACDEFKL medium unknown
+#2404
+baaz draconian tracker scout~
+A draconian scout~
+A Baaz draconian tracks through the swamp.
+~
+A common Baaz draconian, he tracks through the swamp looking for
+outsiders. His scaly, brass colored face breaks into a grin as he sees you
+approach. 
+~
+unique~
+AT T 1 0
+25 25 51d8+253 25d10+85 8d3+17 scratch
+-7 -7 -7 -1
+F 0 0 0
+stand stand male 1000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#2405
+oldstyle mist mistling~
+the Mistling~
+A mistling emerges from the mist surrounding you.
+~
+It looks like a thin wisp of mist that has gained substance and size.
+~
+human~
+ABF Q 2 0
+15 0 3d9+208 7d9+100 2d6+3 none
+-2 -2 -2 7
+EFNU 0 0 0
+stand stand none 50
+AHMV ABCDEFGHIJK medium unknown
+#2406
+trapper man leather skinner~
+A trapper~
+A man wearing leather skins carries an animal over his shoulder.
+~
+He has been in the mountains for some time and has a bit of an odor. He
+wears leather clothing made from the animals he catches and his face can
+barely be seen from underneath his large, bushy beard. 
+~
+human~
+AC 0 2 0
+20 20 41d6+203 20d10+85 6d3+15 punch
+-3 -3 -3 0
+EFN 0 0 0
+stand stand male 1250
+AHMV ABCDEFGHIJK medium unknown
+#2407
+baaz draconian prostrated worshipping~
+A worshipping Baaz draconian~
+A Baaz draconian lies prostrated near the fire.
+~
+Wearing a dirty robe over his scales, you can only notice that he is
+indeed a draconian by looking at his hands as he lies prone on the ground. 
+~
+unique~
+ABF T 1 0
+18 18 37d6+182 18d10+85 6d3+14 none
+-2 -2 -2 0
+F 0 0 0
+stand stand none 198
+AHZ ACDEFGHIJKPQUVX medium unknown
+#2408
+barbarian plainsman patrol~
+A barbarian patrol~
+A barbarian plainsman patrols the area.
+~
+The barbarian is dressed in thick furs to fight against the constant wind
+of the plains. He scans the horizon looking for any threats to his village. 
+~
+human~
+AT 0 3 0
+23 8 5d10+450 4d23+230 3d6+6 pierce
+-2 -2 -2 4
+EFN 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#2409
+kapak officer guard lieutenant~
+A Kapak Guard Lieutenant~
+A Kapak officer walks through the camp.
+~
+The Kapak guard warily watches the trees outside of the camp, not paying
+attention to the commotion of the priest and his followers. 
+~
+unique~
+ABF T 1 0
+23 23 47d7+233 23d10+85 7d3+16 claw
+-5 -5 -5 -1
+E 0 0 0
+stand stand male 500
+AHZ ACDEFGHIJKPQUVX medium unknown
+#2410
+baaz draconian patrol guard~
+A Baaz guard~
+A Baaz draconian patrols the camp perimeter.
+~
+Obviously not happy with patrolling through the muck while his comrades
+sit near the warm fire, the Baaz nonetheless does his duty without
+complaint. 
+~
+unique~
+ABF T 1 0
+20 20 41d6+203 20d10+85 6d3+15 punch
+-3 -3 -3 0
+F 0 0 0
+stand stand male 130
+AHZ ACDEFGHIJKPQUVX medium unknown
+#2411
+bozak draconian priest~
+A Bozak Priest~
+A Bozak draconian stand near the dragon.
+~
+A large Bozak draconian, he wears a black robe with the hood pulled over
+his head. He seems to be leading the other draconians in worship of the
+dragon. 
+~
+unique~
+ABF T 1 0
+25 25 51d8+253 25d10+85 8d3+17 slash
+-7 -7 -7 -1
+F 0 0 0
+stand stand male 2500
+AHZ ACDEFGHIJKPQUVX medium unknown
+#0
+
+
+
+#OBJECTS
+#2404
+potion misty~
+a misty potion~
+A small misty potion rests here.~
+unknown~
+potion 0 A
+8 'cure critical' '' '' ''
+11 30 500 P
+#2405
+leather bag satchel~
+a leather satchel~
+A bag made of leather lies here.~
+unknown~
+container 0 AL
+200 0 0 2 100
+0 50 20 P
+A
+2 1
+#2406
+barbarian hunting spear~
+a barbarian hunting spear~
+A barbarian hunting spear lies on the ground.~
+unknown~
+weapon 0 AN
+staff 2 10 pierce 0
+25 100 1720 P
+A
+18 1
+#2407
+club ogre war~
+an ogre war club~
+A large, crude club rests here.~
+unknown~
+weapon 0 AN
+mace 4 3 pound 0
+17 100 880 P
+#2408
+cloak bear skin bearskin~
+a bearskin cloak~
+A rough bearskin rests here.~
+unknown~
+armor 0 AK
+BC ABC BC 0 0
+20 120 1450 P
+#2409
+ear ring earring feathered~
+a pair of feathered earrings~
+Some feathered earrings rest here.~
+unknown~
+jewelry AG AE
+0 0 0 0 0
+0 1 500 P
+#2410
+ancient solamnic guantlets~
+a pair of ancient Solamnic guantlets~
+A pair of ancient looking guantlets lie here.~
+unknown~
+armor BG AH
+BC BC BC C C
+23 24 19 P
+A
+19 1
+A
+1 1
+#2411
+club massive~
+a massive club~
+A massive club lies here, discarded.~
+unknown~
+weapon 0 AN
+mace 3 7 blast F
+25 190 1520 P
+#2412
+cape thick fur~
+a thick fur cape~
+A thick pile of fur lies here.~
+unknown~
+armor 0 AC
+AB AB AB A 0
+15 50 1050 P
+#2413
+tunic fur lined~
+a fur lined tunic~
+A fur lined tunic rests here.~
+unknown~
+armor 0 AD
+AB AB AB 0 0
+15 60 1000 P
+#2433
+ancient stone obelisk~
+an ancient obelisk~
+An ancient stone obelisk lies across the banks of a stream.~
+unknown~
+trash Y P
+0 0 0 0 0
+0 0 0 P
+E
+obelisk~
+The letters read "The gods reward us in the grace of our home".
+~
+#2446
+ancient suit solamnic armor~
+a suit of ancient Solamnic armor~
+An ancient suit of armor lies here.~
+unknown~
+armor 0 AD
+BC BC BC C C
+27 20 2000 P
+A
+19 1
+A
+18 1
+#2447
+ancient horned helmet~
+an ancient horned helmet~
+An ancient helmet topped with a set of horns lies here.~
+unknown~
+armor 0 AE
+BC BC BC C 0
+25 50 2200 P
+A
+19 1
+A
+18 1
+#2448
+ancient solamnic longsword sword~
+an ancient Solamnic longsword~
+An ancient longsword lies here.~
+unknown~
+weapon 0 AN
+sword 2 10 slash 0
+25 30 3200 P
+A
+13 15
+A
+18 1
+A
+19 1
+#2449
+branch willow~
+a willow branch~
+A small willow branch lies here.~
+unknown~
+wand G AO
+20 5 5 'water breathing' 0
+20 30 1000 P
+#2498
+large bonfire~
+a large bonfire~
+A large bonfire crackles loudly.~
+unknown~
+trash AY P
+0 0 0 0 0
+0 0 0 P
+#2499
+black dragonmask mask~
+a {Dblack{x dragonmask~
+A mask shaped like the head of a black dragon lies here.~
+unknown~
+armor G AET
+BC BC BC BC AB
+25 26 2000 P
+A
+12 10
+A
+20 -1
+#0
+
+
+
+#ROOMS
+#2400
+The dark woods~
+You are traveling through woods that are as dark as night. The trees
+above block all light and wind. The air is stagnant and smells of death and
+decay. The lack of sounds and other signs of life make your skin crawl and
+you feel very much like turning back and heading for safer areas. The path
+leads east and south into the darkness of the forest. 
+~
+0 1 3
+D1
+~
+~
+0 0 2401
+D2
+~
+~
+0 0 2404
+S
+#2401
+The dark woods~
+You wearily travel through the darkness of the forest. Huge skeletal
+trees line the edges of the path and tower above you. Errant rays of light
+spear down through the gaps in the canopy above and provide small spots of
+light that seem to attract what little foliage can grow on the dark forest
+floor. The path winds west and east into darkness. 
+~
+0 1 3
+D1
+~
+~
+0 0 2402
+D3
+~
+~
+0 0 2400
+S
+#2402
+A dark path through the forest~
+You wearily travel through the darkness of the forest. Huge skeletal
+trees line the edges of the path and tower above you. Errant rays of light
+spear down through the gaps in the canopy above and provide small spots of
+light that seem to attract what little foliage can grow on the dark forest
+floor. The path winds west and east into darkness. 
+~
+0 0 3
+D1
+~
+~
+0 0 2403
+D3
+~
+~
+0 0 2401
+S
+#2403
+A path through the dying forest~
+All around you area dead or dying trees. The plant and grass life nearby
+is also wasting away in the darkness of the heavy clouds overhead. Through
+the desolation to the east some structures can be seen, while the path
+continues west into the forest. 
+~
+0 0 3
+D3
+~
+~
+0 0 2402
+D9
+~
+~
+0 0 1811
+S
+#2404
+In the dense forest~
+You walk along a small path leading through a dark forest. No sounds can
+be heard and little light penetrates the canopy of trees above you. The air
+here smells musty and you long for a fresh breath. The path you are on leads
+north and south into the darkening woods. 
+~
+0 1 3
+D0
+~
+~
+0 0 2400
+D2
+~
+~
+0 0 2405
+S
+#2405
+The dark forest path~
+Continuing on through darkness and gloom the path below you has become a
+wet quagmire. It is difficult to walk, and you make squishing sounds as you
+move on. The main path leads through the dark trees to the north and south. 
+~
+0 1 3
+D0
+~
+~
+0 0 2404
+D2
+~
+~
+0 0 2406
+S
+#2406
+A turn in the path~
+The forest path turns here towards the north and west. To the north, you see
+that the ground has become dank and swampy, while the western path appears
+to be entering a hilly area. You hear sounds of swamp creatures to the north
+east.
+~
+0 1 3
+D0
+~
+~
+0 0 2405
+D3
+~
+~
+0 0 2407
+S
+#2407
+A path through the dead forest~
+Clouds hang overhead casting a pall over the forest. The trees are grey
+and rotting, their bark dead and infested with insects. The road passes
+through the trees leading to the south and east. Another path leads up into
+the mountains to the west. 
+~
+0 1 3
+D1
+~
+~
+0 0 2406
+D2
+~
+~
+0 0 2411
+D3
+~
+~
+0 0 2408
+S
+#2408
+A hilly path~
+The road leads down the hilly path through the Gray Mountains.  Several
+dead trees stand on the hillside, leading down into the forest to the east. 
+You can smell the scent of salty air coming off the winds flowing over the
+Arcanis Ocean.  
+~
+0 4 4
+D1
+~
+~
+0 0 2407
+D3
+~
+~
+0 0 2409
+S
+#2409
+The rocky path~
+The road leads sharply down the rocky path through the Gray Mountains. 
+The way is steep and very treacherous, you come close to slipping several
+times.  You can see the Arcanis ocean coming into view and what appears to
+be a castle protruding through the water's surface.  A few dead trees stand
+about on the hillside, matching the trees in the forest below in the
+distance to the east.  
+~
+0 0 5
+D1
+~
+~
+0 0 2408
+D3
+~
+~
+0 0 2410
+S
+#2410
+Near the shoreline~
+You are standing at the base of the Gray mountains at the edge of the
+shoreline of the Arcanis ocean.  To the west are the sands of the beach and
+farther what appears to be a giant castle that is protruding through the
+water's surface.  
+~
+0 4 1
+D1
+~
+~
+0 0 2409
+D3
+~
+~
+0 0 11202
+S
+#2411
+A path through the foothills~
+The foothills are sparsely covered by scraggly bushes and weather beaten
+trees. There are little signs of life here. Only bare rock and dry dirt can
+be seen. Looking northwest, you see a small pass that runs through the
+mountains. The foothills themselves extend to the south. 
+~
+0 1 3
+D0
+~
+~
+0 0 2407
+D2
+~
+~
+0 0 2413
+S
+#2412
+A path in the murky swamp~
+The steep mountainside meets the murky swamp here at the base of the
+Gray Mountains. The air is filled with the fetid stench of the swamp, as
+well as the noise from various insects and animals. A dank mist swirls
+around the few diseased trees that rise up out of the swamp. 
+~
+0 1 3
+D0
+~
+~
+0 0 2417
+D2
+~
+~
+0 0 2414
+S
+#2413
+A path through the foothills~
+The foothills are sparsely covered by scraggly bushes and weather beaten
+trees here at the base of the Gray Mountains. There are little signs of
+life here, only bare rock and dry dirt can be seen. A strange smell drifts
+in from the south, in the direction that the foothill extend. 
+~
+0 1 3
+D0
+~
+~
+0 0 2411
+D2
+~
+~
+0 0 2417
+S
+#2414
+A path in the murky swamp~
+The steep mountainside meets the murky swamp here at the base of the
+Gray Mountains. The air is filled with the fetid stench of the swamp, as
+well as the noise from various insects and animals. The mountain ridge bends
+around to the north and west. 
+~
+0 1 3
+D0
+~
+~
+0 0 2412
+D3
+~
+~
+0 0 2415
+S
+#2415
+A path in the murky swamp~
+The steep mountainside meets the murky swamp here at the base of the
+Gray Mountains. The air is filled with the fetid stench of the swamp, as
+well as the noise from various insects and animals. The mountain ridge bends
+around to the south and east. 
+~
+0 1 3
+D1
+~
+~
+0 0 2414
+D2
+~
+~
+0 0 2416
+S
+#2416
+A path in the murky swamp~
+The steep mountainside meets the murky swamp here at the base of the
+Gray Mountains. The air is filled with the fetid stench of the swamp, as
+well as the noise from various insects and animals. The path becomes very
+narrow as foul water laps up against the mountside. 
+~
+0 1 3
+D0
+~
+~
+0 0 2415
+D2
+~
+~
+0 0 2418
+S
+#2417
+A murky swamp~
+The ground becomes soft and the air fills with a fetid stench. A swamp
+has formed here at the base of the Gray Mountains and extends out to the
+south and east, filling the landscape. Rotting, dead trees rise up from the
+muck, and the only path south is at the base of the mountains, where the
+ground slightly more firm. 
+~
+0 1 3
+D0
+~
+~
+0 0 2413
+D2
+~
+~
+0 0 2412
+S
+#2418
+A path in the murky swamp~
+The steep mountainside meets the murky swamp here at the base of the
+Gray Mountains. The air is filled with the fetid stench of the swamp, as
+well as the noise from various insects and animals. The foul water has
+pushed up the mountainside, nearly to your knees, and covering the path
+entirely. 
+~
+0 1 3
+D0
+~
+~
+0 0 2416
+D2
+~
+~
+0 0 2419
+S
+#2419
+A path in the murky swamp~
+The steep mountainside meets the murky swamp here at the base of the
+Gray Mountains. The air is filled with the fetid stench of the swamp, as
+well as the noise from various insects and animals. The path becomes very
+narrow as foul water laps up against the mountside. 
+~
+0 1 3
+D0
+~
+~
+0 0 2418
+D2
+~
+~
+0 0 2420
+S
+#2420
+A path in the murky swamp~
+The steep mountainside meets the murky swamp here at the base of the
+Gray Mountains. The air is filled with the fetid stench of the swamp, as
+well as the noise from various insects and animals. The mountains curves
+around the swamp to the north and west. 
+~
+0 1 3
+D0
+~
+~
+0 0 2419
+D3
+~
+~
+0 0 2421
+S
+#2421
+A path in the murky swamp~
+The steep mountainside meets the murky swamp here at the base of the
+Gray Mountains. The air is filled with the fetid stench of the swamp, as
+well as the noise from various insects and animals. The mountains curves
+around the swamp to the south and east. 
+~
+0 0 3
+D1
+~
+~
+0 0 2420
+D2
+~
+~
+0 0 2422
+S
+#2422
+A path in the murky swamp~
+The steep mountainside meets the murky swamp here at the base of the
+Gray Mountains. The air is filled with the fetid stench of the swamp, as
+well as the noise from various insects and animals. A dark mist swirls
+around a number of dead trees that rise up from the foul water. 
+~
+0 1 3
+D0
+~
+~
+0 0 2421
+D2
+~
+~
+0 0 2423
+S
+#2423
+A path in the murky swamp~
+The steep mountainside meets the murky swamp here at the base of the
+Gray Mountains. The air is filled with the fetid stench of the swamp, as
+well as the noise from various insects and animals. A dark mist swirls
+around a number of dead trees that rise up from the foul water. 
+~
+0 1 3
+D0
+~
+~
+0 0 2422
+D2
+~
+~
+0 0 2424
+S
+#2424
+A murky swamp~
+The old, broken road ends suddenly, dumping you, literally, into a swamp.
+Strange, twisted trees rise up all around you and a strange miasma drifts
+through them, blotting out the sun, and making the air became foul to
+breathe. The stones of the broken road barely appear out of the muck, and
+lead to the north and south. 
+~
+0 0 3
+D0
+~
+~
+0 0 2423
+D2
+~
+~
+0 0 2425
+D3
+~
+~
+0 0 2435
+S
+#2425
+A path through the swamp~
+Strange, twisted trees rise up on either side of the broken path and a
+foul mist drifts above, blocking out the light. The murky swamp water that
+surrounds you is icy cold, and bubbles with gas and insect life. The road
+continues to the north and south. 
+~
+0 1 3
+D0
+~
+~
+0 0 2424
+D2
+~
+~
+0 0 2426
+S
+#2426
+A path through the swamp~
+Ironclaw trees rise out of the watery muck, their roots standing exposed,
+twisting into the mud. Vines droop from their branches and stretch across
+the faint path. A large watery pool covers the road, but a narrow vine
+bridge spans the gap. The mist swirls about your feet, waking the way
+dangerous with every step. 
+~
+0 1 3
+D0
+~
+~
+0 0 2425
+D2
+~
+~
+0 0 2427
+S
+#2427
+The swampy path~
+This damp path seems to lead into a deep, dark swamp. The trees above
+block out all light and stifle the wind. You smell swamp gas and hear damp
+squashing sounds all around you. The path leads east deeper into the swamp.
+The path continues to the north and east. 
+~
+0 1 3
+D0
+~
+~
+0 0 2426
+D1
+~
+~
+0 0 2428
+S
+#2428
+The swampy path~
+You walk along a wet, swampy path surrounded by crooked, sickly trees.
+All around you are pools of water and muck framing either side of the trail.
+A smaller side trail east off to the east, where the smell of smoke drifts
+in on the wind. 
+~
+0 1 3
+D1
+~
+~
+0 0 2488
+D2
+~
+~
+0 0 2429
+D3
+~
+~
+0 0 2427
+S
+#2429
+The swampy path~
+You weave your way through the treacherous swamp. Large, gnarled trees
+rise above you. Their moss covered branches block out all traces of the sun.
+The sound of many voices, as well as the smell of smoke drifts in from the
+northeast. The path here leads east and north. 
+~
+0 1 3
+D0
+~
+~
+0 0 2428
+D1
+~
+~
+0 0 2430
+S
+#2430
+The turn in the swampy path~
+You come upon a bend in the swampy path. The ground here is fairly sturdy,
+as this place is elevated above the rest of the swamp. Looking around, you see
+a dark, mist filled swamp. Small paths lead south and west into the mist.
+~
+0 1 3
+D2
+~
+~
+0 0 2431
+D3
+~
+~
+0 0 2429
+S
+#2431
+The swampy path~
+Murky brown water flows past in a slough too large to jump across.
+Luckily, a huge ironclaw tree lies across the water, its thick trunk making
+a bridge wide enough for two people to walk across side-by-side. The path
+continues beyond the tree to the east where you can see a thick mist. More
+swampland lies to the north. 
+~
+0 1 3
+D0
+~
+~
+0 0 2430
+D1
+~
+~
+0 0 2434
+S
+#2432
+A mist covered path~
+The ground underneath you is still damp and spongy, despite the fact that
+you can't see it. A thick mist has concealed the forest floor, swirling
+around on the currents of a chill wind blowing from the north. Icy water
+fills your boots as you walk on the barely-seen path that runs east-to-west.
+~
+0 1 4
+D1
+~
+~
+0 0 2433
+D3
+~
+~
+0 0 2434
+S
+#2433
+A mist covered path~
+The ground underneath you is still damp and spongy, despite the fact that
+you can't see it. A thick mist has concealed the forest floor, swirling
+around on the currents of a chill wind blowing from the north. Ancient stone
+ruins can be seen in the distance, rising out of the mists to the south. 
+~
+0 1 3
+D3
+~
+~
+0 0 2432
+S
+#2434
+A mist covered path~
+The ground underneath you is still damp and spongy, despite the fact that
+you can't see it. A thick mist has concealed the forest floor, swirling
+around on the currents of a chill wind blowing from the north. Voices echo
+through the mist and the smell of smoke is also carried on the wind. 
+~
+0 1 3
+D0
+~
+~
+0 0 2499
+D1
+~
+~
+0 0 2432
+D3
+~
+~
+0 0 2431
+S
+#2435
+On a broken road~
+The ground beneath you gives noticeably as you step along what is left of
+the broken road once known as the Gray Pass. The mountain canyon to the west
+has retreated, giving way to strange, twisted trees. A foul mist hangs in
+the air, reeking of decay. 
+~
+0 4 3
+D1
+~
+~
+0 0 2424
+D3
+~
+~
+0 0 2436
+S
+#2436
+On a broken road~
+Walking along the broken road you notice that as you step on patches of
+earth that they are becoming spongier. Also, the tall, sturdy trees of the
+mountain canyon are dwindling away and becoming thinner. The broken path
+continues to the west and leads into a darkening forest to the east. 
+~
+0 0 4
+D1
+~
+~
+0 0 2435
+D3
+~
+~
+0 0 2437
+S
+#2437
+On a broken road~
+You walk along a broken stone roadway built long before this age of the world.
+The road cuts through a wide canyon in the Gray Mountains, though it
+levels out the farther east you travel. A few evergreen trees rise up around
+you, growing denser as the canyon receeds. The stone path continues to the
+east and west. 
+~
+0 1 3
+D1
+~
+~
+0 0 2436
+D3
+~
+~
+0 0 2438
+S
+#2438
+On a broken road~
+You walk along a broken stone roadway built long before this age of the world.
+The road cuts through a wide canyon in the Gray Mountains, though it
+levels out the farther east you travel. A few evergreen trees rise up around
+you, growing denser as the canyon receeds. The stone path continues to the
+east and west. 
+~
+0 1 3
+D1
+~
+~
+0 0 2437
+D3
+~
+~
+0 0 2439
+S
+#2439
+On a broken road~
+The broken, scattered stones that used to be the road called the Gray Pass
+wind their way down the mountains and into this wide canyon. The snow-capped
+peaks of the Gray Mountains rise up above you to the west, while a dark
+forest lies to the east. 
+~
+0 0 4
+D1
+~
+~
+0 0 2438
+D3
+~
+~
+0 0 2440
+S
+#2440
+A winding road through the Gray Mountains~
+The weather this high up in the mountains as eroded the ancient roadway
+once called the Gray Pass. A chill fills the air and other nearby mountains
+are capped with snow. Broken stones that used to be the road twist and wind
+here to the north and east. 
+~
+0 0 5
+D0
+~
+~
+0 0 2487
+D1
+~
+~
+0 0 2439
+S
+#2441
+A winding road through the Gray Mountains~
+The weather this high up in the mountains as eroded the ancient roadway
+once called the Gray Pass. A chill fills the air and other nearby mountains
+are capped with snow. Broken stones that used to be the road twist and wind
+here to the north and west. 
+~
+0 0 5
+D1
+~
+~
+0 0 2486
+D2
+~
+~
+0 0 2442
+S
+#2442
+A winding road through the Gray Mountains~
+The weather this high up in the mountains as eroded the ancient roadway
+once called the Gray Pass. A chill fills the air and other nearby mountains
+are capped with snow. Broken stones that used to be the road twist and wind
+here to the north and west. 
+~
+0 0 5
+D0
+~
+~
+0 0 2441
+D3
+~
+~
+0 0 2443
+S
+#2443
+The Gray Pass~
+You walk along an ancient roadway that dates to a time long before this age
+of the world. The worn stones wind their way through the Gray Mountains,
+overlooking the vast plains of Arcanis. The air feels thinner here as the
+mountains climb higher and higher. Snow caps appear on nearby mountains as
+the temperature drops as well. 
+~
+0 0 4
+D1
+~
+~
+0 0 2442
+D3
+~
+~
+0 0 2444
+S
+#2444
+The Gray Pass~
+You walk along an ancient roadway that dates to a time long before this age
+of the world. The worn stones wind their way through a hillside in the Gray
+Mountains, overlooking the vast plains and forests of Arcanis. Fields of 
+grass expand out to the west in between here and the coast of the Silver
+Sea.  The mountain peaks grow taller and capped with snow as one
+continues to the east. 
+~
+0 0 4
+D1
+~
+~
+0 0 2443
+D2
+~
+~
+0 0 2460
+D3
+~
+~
+0 0 2445
+S
+#2445
+The Gray Pass~
+Tall waves of prairie grass meet the foothills of a small mountain range
+as an ancient roadway known as the Gray Pass cuts through them both. Gentle
+winds blow down the mountainside as large animals graze in the distance. Far
+down the road to the west one can see a distant village, while the roadway
+to the east twists its way through the peaks. 
+~
+0 0 4
+D1
+~
+~
+0 0 2444
+D3
+~
+~
+0 0 2497
+S
+#2446
+A road through the plains~
+The vast plains of Arcanis and its massive landscape of prairies and
+tall grass stretch out in all directions but the south. There stands a large
+walled village belonging to the barbarian tribe of Que-shu. Smoke lifts
+lazily into the air and the sound of voices are carried on the wind. Far to
+the east, you can see the Gray Mountains, and the road north seems
+to lead eventually in their direction. 
+~
+0 0 2
+D0
+~
+door~
+0 0 2448
+S
+#2447
+A road through the plains~
+You stand amidst the tall prairie grass that covers the vast plains of
+Arcanis. Herds of animals can be seen grazing in the distance while a
+gentle wind blows in from the mountains far to the east. The dirt road
+continues through the plains to the east and west. 
+~
+0 0 2
+D1
+~
+~
+0 0 2451
+D3
+~
+~
+0 0 2450
+S
+#2448
+A road through the plains~
+The vast plains of Arcanis and its massive landscape of prairies and
+tall grass stretch out in all directions but the south. In the distance in
+that direction stands a large walled village belonging to the barbarian
+tribe of Que-shu. Smoke lifts lazily into the air and the sound of voices
+are carried on the wind. Far to the east, you can see the Gray Mountains,
+and the road north seems to lead eventually in their direction, while
+following it south would lead to the village. 
+~
+0 0 2
+D0
+~
+~
+0 0 2449
+D2
+~
+door~
+0 0 2446
+S
+#2449
+A road through the plains~
+You stand amidst the tall prairie grass that covers the vast plains of
+Arcanis. Herds of animals can be seen grazing in the distance while a
+gentle wind blows in from the mountains far to the east. The dirt road
+continues through the plains to the north and south. 
+~
+0 0 2
+D0
+~
+~
+0 0 2450
+D2
+~
+~
+0 0 2448
+S
+#2450
+A bend in the road~
+You stand amidst the tall prairie grass that covers the vast plains of
+Arcanis. Herds of animals can be seen grazing in the distance while a
+gentle wind blows in from the mountains far to the east. The dirt road
+continues through the plains, bending to the east and south. 
+~
+0 0 2
+D1
+~
+~
+0 0 2447
+D2
+~
+~
+0 0 2449
+S
+#2451
+A road through the plains~
+You stand amidst the tall prairie grass that covers the vast plains of
+Arcanis. Herds of animals can be seen grazing in the distance while a
+gentle wind blows in from the mountains far to the east. The dirt road
+continues through the plains to the east and west. 
+~
+0 0 2
+D1
+~
+~
+0 0 2452
+D3
+~
+~
+0 0 2447
+S
+#2452
+A bend in the road~
+You stand amidst the tall prairie grass that covers the vast plains of
+Arcanis. Herds of animals can be seen grazing in the distance while a
+gentle wind blows in from the mountains far to the east. The dirt road
+continues through the plains, bending to the west and north. 
+~
+0 0 2
+D0
+~
+~
+0 0 2453
+D3
+~
+~
+0 0 2451
+S
+#2453
+A road through the plains~
+The vast prairies of the Arcanis plains stretch out before you to the
+west, their tall grasses waving in the wind. Numerous wildlife mills around
+in the distance, some solitary, some in herds. The road you travel on
+currently runs parallel to the small mountain range that lies a short
+distance to the east. 
+~
+0 0 2
+D0
+~
+~
+0 0 2454
+D2
+~
+~
+0 0 2452
+S
+#2454
+A road through the plains~
+The vast prairies of the Arcanis plains stretch out before you to the
+west, their tall grasses waving in the wind. Numerous wildlife mills around
+in the distance, some solitary, some in herds. The road you travel on
+currently runs parallel to the small mountain range that lies a short
+distance to the east. 
+~
+0 0 2
+D0
+~
+~
+0 0 2455
+D2
+~
+~
+0 0 2453
+S
+#2455
+A bend in the road~
+You stand amidst the tall prairie grass that covers the vast plains of
+Arcanis. Herds of animals can be seen grazing in the distance while a
+gentle wind blows in from the mountains that lie up the road to the east.
+The road continues through the plains to the south. 
+~
+0 0 2
+D1
+~
+~
+0 0 2456
+D2
+~
+~
+0 0 2454
+S
+#2456
+A road through the hills~
+The plains of Arcanis have receeded here, turning into grassy hills
+the lead into the Gray Mountains. From this vantage point you can see
+many things, including a village to the southwest and a large forest very
+far to the west. The road to the east grows steeper as it travels into the
+mountains. 
+~
+0 0 4
+D1
+~
+~
+0 0 2458
+D3
+~
+~
+0 0 2455
+S
+#2458
+A narrow mountain road~
+As the road climbs higher into the mountains the air grows colder and the
+path more dangerous. The road has narrowed considerably, winding through the
+peaks towards a castle that lies in the distance to the east. Looking west
+you can see the massive expanse of plains that lie beyond the base of the
+mountains. 
+~
+0 0 4
+D1
+~
+~
+0 0 2459
+D3
+~
+~
+0 0 2456
+S
+#2459
+A narrow mountain road~
+A cold wind blows across the road as it climbs higher into the mountains.
+Perched atop a mountain to the east you can see a large castle rising up
+over the road. Looking back to the west you can see the massive expanse of
+plains that lie beyond the base of the mountains. 
+~
+0 0 4
+D3
+~
+~
+0 0 2458
+S
+#2460
+A valley in the mountains~
+The forest becomes darker and thicker as it leads down through this
+valley. The trail itself looks ancient and a cold wind blows through the
+hills.  To the north the valley leads up a steep hill barely climbable
+that appears to be an ancient pass.
+~
+0 0 2
+D0
+~
+~
+0 0 2444
+D2
+~
+~
+0 0 2489
+D3
+~
+~
+0 0 2461
+S
+#2461
+A valley in the mountains~
+The forest becomes darker and thicker as it leads down through this
+valley. The trail itself looks ancient and a cold wind blows through the
+hills. 
+~
+0 0 2
+D1
+~
+~
+0 0 2460
+D3
+~
+~
+0 0 2462
+S
+#2462
+A valley in the mountains~
+The forest becomes darker and thicker as it leads down through this
+valley. The trail itself looks ancient and a cold wind blows through the
+hills. 
+~
+0 0 2
+D1
+~
+~
+0 0 2461
+D3
+~
+~
+0 0 2463
+S
+#2463
+A valley in the mountains~
+The forest becomes darker and thicker as it leads down through this
+valley. The trail itself looks ancient and a cold wind blows through the
+hills. 
+~
+0 0 2
+D1
+~
+~
+0 0 2462
+D3
+~
+~
+0 0 2464
+S
+#2464
+A road through the vallenwoods~
+Light filters through the massive boughs of the giant vallenwood trees
+that rise up all around the forest floor. A small range of mountains rise up
+over the trees to the north. 
+~
+0 0 2
+D1
+~
+~
+0 0 2463
+D2
+~
+~
+0 0 2469
+D3
+~
+~
+0 0 2465
+S
+#2465
+A road through the vallenwoods~
+Light filters through the massive boughs of the giant vallenwood trees
+that rise up all around the forest floor. A small range of mountains rise up
+over the trees to the north. 
+~
+0 0 2
+D1
+~
+~
+0 0 2464
+D3
+~
+~
+0 0 2466
+S
+#2466
+A road through the vallenwoods~
+Light filters through the massive boughs of the giant vallenwood trees
+that rise up all around the forest floor. A small range of mountains rise up
+over the trees to the northeast. 
+~
+0 0 2
+D1
+~
+~
+0 0 2465
+D3
+~
+~
+0 0 2467
+S
+#2467
+A road through the vallenwoods~
+Light filters through the massive boughs of the giant vallenwood trees
+that rise up all around the forest floor. A small range of mountains rise up
+over the trees to the northeast. 
+~
+0 0 2
+D1
+~
+~
+0 0 2466
+D3
+~
+~
+0 0 2468
+S
+#2468
+A road through the vallenwoods~
+Light filters through the massive boughs of the giant vallenwood trees
+that rise up all around the forest floor. A small range of mountains rise up
+over the trees to the northeast. The path comes to a dead end here westward. 
+~
+0 4 2
+D1
+~
+~
+0 0 2467
+S
+#2469
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the foothills of the mountains that lies in the
+distance to the east. 
+~
+0 0 2
+D0
+~
+~
+0 0 2464
+D2
+~
+~
+0 0 2470
+S
+#2470
+A road through the foothills~
+The tall vallenwood trees that inhabit this area tower above you. A warm
+breeze blows in from the foothills of the mountains that rise up to the
+east. 
+~
+0 0 2
+D0
+~
+~
+0 0 2469
+D2
+~
+~
+0 0 2471
+S
+#2471
+A road through the foothills~
+The tall vallenwood trees that inhabit this area tower above you. A warm
+breeze blows in from the foothills of the mountains that rise up to the
+east. 
+~
+0 0 2
+D0
+~
+~
+0 0 2470
+D2
+~
+~
+0 0 2472
+S
+#2472
+A road through the foothills~
+The tall vallenwood trees that inhabit this area tower above you. A warm
+breeze blows in from the foothills of the mountains that rise up to the
+east. 
+~
+0 0 2
+D0
+~
+~
+0 0 2471
+D3
+~
+~
+0 0 2473
+S
+#2473
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the foothills of the mountains that lies in the
+distance to the east. 
+~
+0 0 2
+D1
+~
+~
+0 0 2472
+D2
+~
+~
+0 0 2474
+S
+#2474
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the foothills of the mountains that lies in the
+distance to the east. 
+~
+0 0 2
+D0
+~
+~
+0 0 2473
+D2
+~
+~
+0 0 2475
+S
+#2475
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the foothills of the mountains that lies in the
+distance to the east. 
+~
+0 0 2
+D0
+~
+~
+0 0 2474
+D2
+~
+~
+0 0 2476
+S
+#2476
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the foothills of the mountains that lies in the
+distance to the east. 
+~
+0 0 2
+D0
+~
+~
+0 0 2475
+D2
+~
+~
+0 0 2477
+S
+#2477
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the plains that sit below the foothills of the
+mountains to the east. 
+~
+0 0 2
+D0
+~
+~
+0 0 2476
+D3
+~
+~
+0 0 2478
+S
+#2478
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the plains that sit below the foothills of the
+mountains to the east. 
+~
+0 0 2
+D1
+~
+~
+0 0 2477
+D3
+~
+~
+0 0 2479
+S
+#2479
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the plains that sit below the foothills of the
+mountains to the east. 
+~
+0 0 2
+D1
+~
+~
+0 0 2478
+D2
+~
+~
+0 0 2480
+S
+#2480
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the plains that sit below the foothills of the
+mountains to the east. 
+~
+0 0 2
+D0
+~
+~
+0 0 2479
+D2
+~
+~
+0 0 2481
+S
+#2481
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the plains that sit below the foothills of the
+mountains to the east. 
+~
+0 0 2
+D0
+~
+~
+0 0 2480
+D2
+~
+~
+0 0 2482
+S
+#2482
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the plains that sit below the foothills of the
+mountains to the east. 
+~
+0 0 2
+D0
+~
+~
+0 0 2481
+D2
+~
+~
+0 0 2483
+S
+#2483
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the foothills of the mountains that lies in the
+distance to the east. The roaring sounds of a small river echo through the
+trees to the south. 
+~
+0 0 2
+D0
+~
+~
+0 0 2482
+D3
+~
+~
+0 0 2484
+S
+#2484
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the foothills of the mountains that lies in the
+distance to the east. The roaring sounds of a small river echo through the
+trees to the south. 
+~
+0 0 2
+D1
+~
+~
+0 0 2483
+D3
+~
+~
+0 0 2485
+S
+#2485
+A road through the foothills~
+The tall vallenwood trees that inhabit this area rise all around you. A
+warm breeze blows in from the foothills of the mountains that lies in the
+distance to the east. There appears to be a crossroads to the south. 
+~
+0 0 2
+D1
+~
+~
+0 0 2484
+D2
+~
+~
+0 0 1801
+S
+#2486
+A rickety rope bridge~
+Here atop the Gray Mountains you've come across a large canyon which
+has been spanned with a very decrepit looking rope bridge. A strong wind
+blows through the canyon, making the prospect of crossing the bridge a
+dangerous one. 
+~
+0 0 5
+D1
+~
+~
+0 0 2487
+D3
+~
+~
+0 0 2441
+S
+#2487
+A winding road through the Gray Mountains~
+The weather this high up in the mountains as eroded the ancient roadway
+once called the Gray Pass. A chill fills the air and other nearby mountains
+are capped with snow. Broken stones that used to be the road twist and wind
+here to the south and west. 
+~
+0 0 5
+D2
+~
+~
+0 0 2440
+D3
+~
+~
+0 0 2486
+S
+#2488
+A dark encampment~
+You finally stumble upon a patch of dry land in this swamp only to find
+it is being occupied by draconians. The creatures have cleared away the
+trees and set up came here, using the timber to build large bonfires that
+fight to keep back the darkness. Some of the draconians patrol the camp, but
+most seem to be engrossed in some sort of religious ceremony. 
+~
+0 1 3
+D1
+~
+~
+0 0 2498
+D3
+~
+~
+0 0 2428
+S
+#2489
+A valley in the mountains~
+The forest becomes darker and thicker as it leads down through this
+valley. The trail itself looks ancient and a cold wind blows through the
+hills.  The trail southward has been obstructed by a mass of overgrowth.
+~
+0 0 2
+D0
+~
+~
+0 0 2460
+S
+#2496
+A road from the mountain~
+A gentle breeze can be felt here amid the waves of grass that fall lush
+between the stretch of land binding the Gray Mountains to the Silver Sea.
+The path to the west has been obstructed by land that has eroded away
+leaving a gaping hole in the ground.
+~
+0 0 2
+E
+sign~
+~
+D1
+~
+~
+0 0 2497
+S
+#2497
+A road on the plains~
+A gentle breeze causes the waves of tall prairie grass that surrounds
+either side of the road to sway back and forth. Besides the sound of the
+wind, little else can be heard on this large expanse of plains. An ancient
+roadway stretches through the plains to the east and west, past a plainsman
+village that stands to the northwest. 
+~
+0 0 2
+E
+sign~
+~
+D1
+~
+~
+0 0 2445
+D3
+~
+~
+0 0 2496
+S
+#2498
+Dragon's Clearing~
+The clearing is very dark despite the large bonfires that spew smoke all
+about. The crackling of the burning wood drowns out the usual noise of the
+swamp. You also notice that at the far side of the clearing there is an
+enormous black dragon towering over you! It doesn't seem to be moving
+however... 
+~
+0 1 3
+E
+dragon~
+You nervously approach the dragon and slowly reach out a hand...
+
+only to discover that it's made of wicker! 
+~
+D2
+~
+~
+0 0 2499
+D3
+~
+~
+0 0 2488
+S
+#2499
+A dark encampment~
+You finally stumble upon a patch of dry land in this swamp only to find
+it is being occupied by draconians. The creatures have cleared away the
+trees and set up came here, using the timber to build large bonfires that
+fight to keep back the darkness. Some of the draconians patrol the camp, but
+most seem to be engrossed in some sort of religious ceremony. 
+~
+0 1 3
+D0
+~
+~
+0 0 2498
+D2
+~
+~
+0 0 2434
+S
+#0
+
+
+
+#SPECIALS
+M 2411 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 2400 1 2407 1 Load A lone knight
+E 0 2446 0 5 A suit of ancient solamnic armor is loaded on the body of A lone knight
+E 0 2447 0 6 An ancient horned helmet is loaded over the head of A lone knight
+E 0 2448 0 16 An ancient solamnic longsword is loaded wielded of A lone knight
+M 0 2403 4 2413 1 Load A large rock toad
+M 0 2403 2 2429 1 Load A large rock toad
+M 0 2404 1 2430 1 Load A draconian scout
+M 0 2403 5 2432 1 Load A large rock toad
+M 0 2405 1 2433 1 Load the Mistling
+O 0 2433 0 2433 An ancient obelisk loaded to A mist covered path
+M 0 2406 1 2436 1 Load A trapper
+G 0 2404 0 A misty potion is given to A trapper
+M 0 2402 1 2440 1 Load A barbarian ranger
+M 0 2408 1 2447 1 Load A barbarian patrol
+E 0 2406 0 16 A barbarian hunting spear is loaded wielded of A barbarian patrol
+M 0 2401 3 2464 1 Load A curious kender
+G 0 2404 0 A misty potion is given to A curious kender
+M 0 2400 1 2473 1 Load A lone knight
+E 0 2410 0 9 A pair of ancient solamnic guantlets is loaded on the hands of A lone knight
+E 0 2405 0 13 A leather satchel is loaded around the waist of A lone knight
+O 0 2498 0 2488 A large bonfire loaded to A dark encampment
+M 0 2407 5 2488 1 Load A worshipping Baaz draconian
+M 0 2409 1 2488 1 Load A Kapak Guard Lieutenant
+O 0 2498 0 2498 A large bonfire loaded to Dragon's Clearing
+M 0 2411 1 2498 1 Load A Bozak Priest
+E 0 2499 0 21 A {dblack{x dragonmask is loaded none of A Bozak Priest
+M 0 2407 5 2498 1 Load A worshipping Baaz draconian
+O 0 2498 0 2499 A large bonfire loaded to A dark encampment
+M 0 2407 5 2499 1 Load A worshipping Baaz draconian
+M 0 2409 1 2499 1 Load A Kapak Guard Lieutenant
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

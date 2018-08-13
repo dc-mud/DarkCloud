@@ -1,0 +1,391 @@
+#AREADATA
+Name Limbo~
+Builders Diku Blake~
+VNUMs 1 199
+LevelRange 1 60
+Credits Diku Blake~
+Security 9
+Continent 0
+AreaFlags A
+End
+
+
+
+#MOBILES
+#10
+guardian angel~
+A guardian angel~
+A guardian angel levitates above the ground.
+~
+~
+human~
+AB DFHJZ 1 0
+20 0 3d9+333 10d9+100 2d8+5 none
+-4 -4 -4 7
+FK 0 0 0
+stand stand male 0
+HMV ABCDEFGHIJK medium unknown
+F for A
+#0
+
+
+
+#OBJECTS
+#1
+coin silver gcash~
+a silver coin~
+One miserable silver coin.~
+silver~
+money 0 A
+A 0 0 0 0
+0 10 0 P
+#2
+coin gold gcash~
+a gold coin~
+One valuable gold coin.~
+gold~
+money 0 A
+0 A 0 0 0
+0 10 0 P
+#3
+coins gold gcash~
+%d gold coins~
+A pile of gold coins.~
+gold~
+money 0 A
+0 0 0 0 0
+0 10 0 P
+#4
+coins silver gcash~
+%d silver coins~
+A pile of silver coins.~
+silver~
+money 0 A
+0 0 0 0 0
+0 10 0 P
+#5
+coins silver gold gcash~
+%d silver coins and %d gold coins~
+A pile of coins.~
+gold~
+money 0 A
+0 0 0 0 0
+0 10 0 P
+#6
+jeweled egg~
+a beautiful jeweled egg~
+A stunningly intricate jeweled egg rolls around.~
+gem~
+gem TW AO
+0 0 0 0 0
+0 1 500000 P
+#7
+blue diamond~
+a {Bblue{x diamond~
+A stunning {Bblue{x diamond lays here.~
+gem~
+gem W AO
+0 0 0 0 0
+0 1 50000 P
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+npc_corpse 0 A
+0 0 0 A 0
+0 1000 0 D
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+pc_corpse O A
+0 0 0 A 0
+0 1000 0 D
+#12
+head~
+the head of %s~
+The severed head of %s is lying here.~
+meat~
+trash 0 A
+0 0 0 0 0
+0 50 0 D
+#13
+heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+meat~
+food 0 A
+E E 0 0 0
+0 20 0 D
+#14
+arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+meat~
+food 0 A
+CE CE 0 0 0
+0 50 0 D
+#15
+leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+meat~
+food 0 A
+CE CE 0 0 0
+0 50 0 D
+#16
+guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+meat~
+food 0 A
+AC AC 0 A 0
+0 20 0 D
+#17
+brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+meat~
+food 0 A
+BD BD 0 0 0
+0 20 0 D
+#18
+fog~
+a wall of fog~
+A wall of fog looms here.~
+fog~
+fog 0 P
+50 0 0 0 0
+0 0 0 P
+#20
+mushroom~
+a mushroom~
+A mushroom is here.~
+food~
+food 0 A
+D D 0 0 0
+0 10 0 P
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+energy~
+light A A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+water~
+fountain G 0
+100000 100000 'water' 0 0
+0 0 0 P
+#23
+disc disk floating black~
+a floating disc~
+A floating black disc hangs in the air.~
+energy~
+container GMPUYZ AQ
+0 E 0 0 0
+0 0 0 P
+#24
+glittering white stone~
+a glittering {Wwhite{x stone~
+A glittering {Wwhite{x stone lays here.~
+pearl~
+warp_stone T AO
+0 0 0 0 0
+1 10 0 P
+#25
+gate portal~
+a shimmering gate~
+A shimmering black gate rises from the ground, leading to parts unknown.~
+shadow~
+portal GOT 0
+0 0 0 0 0
+0 0 0 P
+#26
+healers bind~
+a healers bind stone~
+A healers bind stone stands here filled with magical imbuement.~
+unknown~
+trash ABG P
+0 0 0 0 0
+0 0 0 P
+#27
+butchered steak~
+a steak~
+A delicious butchered steak is here~
+food~
+food 0 A
+BD BD 0 0 0
+0 10 0 P
+#28
+campfire fire~
+a campfire~
+A campfire burns here.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#29
+spring~
+a small spring~
+A small spring flows from the ground here.~
+water~
+fountain G 0
+100000 100000 'water' 0 0
+0 0 0 P
+#30
+dummy object~
+a dummy object~
+Dummy object is used for loading non-existent objects~
+~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#31
+bind stone bindstone~
+a bind stone~
+A very large bind stone is here.~
+stone~
+treasure AO P
+0 0 0 0 0
+0 0 0 P
+E
+bind~
+A very large boulder is here with ancient runes on it.  The inscription
+reads: This bind stone holds the power to allow an individual to recall to
+it forever after. (see: help recall, help bind stone)
+~
+#32
+sword gods~
+the sword of the {WGODS{x~
+The sword of the {WGODS{x lies here.~
+energy~
+weapon B AN
+sword 8 5 shock G
+51 80 0 P
+#33
+decanter endless water~
+a decanter of endless water~
+A magical decanter of endless water lies here.~
+steel~
+drink 0 A
+500000 500000 'water' 0 0
+0 20 0 P
+#34
+book knowledge~
+a book of knowledge~
+A book of knowledge lies here.~
+paper~
+treasure 0 AO
+0 0 0 0 0
+1 10 0 P
+A
+4 3
+A
+3 3
+#35
+blue crystal shard~
+a {Bblue{x crystal shard~
+A {Bblue{x crystal shard lies here.~
+crystal~
+treasure 0 A
+0 0 0 0 0
+0 1 0 P
+#36
+crown jewels~
+the {Gcrown{x jewels~
+The {Gcrown{x jewels lie here.~
+crystal~
+treasure 0 A
+0 0 0 0 0
+0 1 0 P
+#37
+mystic dagger~
+a {wmystic{x dagger~
+A runed {wmystic{x dagger lies here.~
+energy~
+weapon B AN
+sword 5 6 pierce I
+51 80 0 P
+#38
+sword truth~
+a sword of truth~
+A sword of truth lies here.~
+energy~
+weapon B AN
+sword 5 6 pierce J
+51 80 0 P
+#39
+portal arcanis~
+a portal to the Arcanis port.~
+A portal to the Arcanis port.~
+unknown~
+portal ABT 0
+0 0 0 FGHIJLN 0
+0 0 0 P
+#40
+portal Miden'nir~
+a portal to Miden'nir~
+A portal to Miden'nir~
+unknown~
+portal ABT 0
+0 0 0 AJKL 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+You are floating in nothing.
+~
+0 12 1
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 12 1
+S
+#3
+Ethereal Plane~
+You are floating in the misty white light of the Ethereal plane.  All
+around you in silence as glints of lightseem to bend and shift almost
+without logical progression.  
+~
+0 533516 0
+M 0 H 100
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

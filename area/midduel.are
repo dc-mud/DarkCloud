@@ -1,0 +1,534 @@
+#AREADATA
+Name Midgaard Dueling Grounds~
+Builders Blake~
+VNUMs 6575 6599
+LevelRange 1 51
+Credits Blake~
+Security 9
+Continent 1
+AreaFlags AF
+End
+
+
+
+#MOBILES
+#6575
+guard~
+A guard~
+A guard is here ready to keep the peace.
+~
+A very route and gruff looking guard is here tasked with keeping the
+peace in the dueling grounds.  He looks very capable and is eyeing your
+every move.  
+~
+unique~
+ABTV CDFJVZ 3 3000
+45 30 1d1+3999 1d1+499 5d4+40 crush
+-25 -25 -25 -15
+ACDEFHIKLNOT ABP CDHI JP
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+M GRALL 6575 100~
+#6576
+ticket merchant~
+The ticket merchant~
+A ticket merchant is here selling tickets to enter the arena floor.
+~
+The merchant stands here waiting to sell you a ticket.  
+~
+human~
+ABMV DFH 3 0
+40 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK BCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#6577
+ticket taker~
+The ticket taker~
+The arena ticket taker is here waiting for you to hand them your ticket.
+~
+The arena ticket taker stands here wearing a red and white candry striped
+vest.  They have a large silver beard and look like they have been at this
+job for many years.  
+~
+human~
+ABMV DFH 3 0
+40 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK BCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 6576 6576~
+#0
+
+
+
+#OBJECTS
+#6575
+portal~
+a portal to the dueling grounds floor.~
+A portal to the dueling grounds floor.~
+unknown~
+portal 0 0
+0 0 0 CDEFHILM 0
+0 0 0 P
+#6576
+dueling ground ticket~
+a dueling ground ticket~
+A dueling ground ticket lies here.~
+paper~
+trash 0 A
+0 0 0 0 0
+0 0 1000 P
+#0
+
+
+
+#ROOMS
+#6575
+Entrance to the Midgaard Dueling Grounds~
+You are standing at the entrance to the Midgaard dueling grounds.  There
+are large stone walls hovering around the grounds which create an small open
+air arena.  A single guard stands at the gate making sure that none of the
+fighting from inside spills out into the peaceful city streets.  
+~
+0 4 1
+D7
+~
+~
+0 0 6576
+D8
+~
+~
+0 0 3264
+S
+#6576
+Inside the Dueling Grounds~
+You are standing inside the stone gates of the dueling grounds.  You can
+see that you are standing at a higher elevation than the floor of the
+grounds where the fighting occurs.  Open hallways extend northwest and
+northeast that encircle the floor of the grounds.  A ticket taker stands
+here waiting to escort those who give him a ticket to the arena floor where
+they can take part in combat.  
+
+There is a sign here which reads "Beware, there are no rules in the dueling
+grounds.  All skill levels are welcome and all skill levels must be beware
+that upon entering they must be prepared to fight.  Tickets maybe purchased
+at the entrance and must be then given to the ticket taker here for
+entrance."  
+~
+0 4 2
+D6
+~
+~
+0 0 6577
+D7
+~
+~
+0 0 6583
+D8
+~
+~
+0 0 6575
+S
+#6577
+An Open Hallway Surrounded the Grounds~
+You are stnading in the southwest corner of an open air hallway
+overlooking the dueling grounds below.  The floor is cobble stone beneath
+your feet and the large stone walls rise up behind you.  Overhead you can
+see the sky above.  There are wooden benches for spectators to sit on.  
+~
+0 0 1
+D6
+~
+~
+0 0 6578
+D9
+~
+~
+0 0 6576
+S
+#6578
+An Open Hallway Surrounded the Grounds~
+You are stnading in the southwest corner of an open air hallway
+overlooking the dueling grounds below.  The floor is cobble stone beneath
+your feet and the large stone walls rise up behind you.  Overhead you can
+see the sky above.  There are wooden benches for spectators to sit on.  
+~
+0 0 1
+D7
+~
+~
+0 0 6579
+D9
+~
+~
+0 0 6577
+S
+#6579
+An Open Hallway Surrounded the Grounds~
+You are stnading in the southwest corner of an open air hallway
+overlooking the dueling grounds below.  The floor is cobble stone beneath
+your feet and the large stone walls rise up behind you.  Overhead you can
+see the sky above.  There are wooden benches for spectators to sit on.  
+~
+0 0 1
+D7
+~
+~
+0 0 6580
+D8
+~
+~
+0 0 6578
+S
+#6580
+An Open Hallway Surrounded the Grounds~
+You are stnading in the southwest corner of an open air hallway
+overlooking the dueling grounds below.  The floor is cobble stone beneath
+your feet and the large stone walls rise up behind you.  Overhead you can
+see the sky above.  There are wooden benches for spectators to sit on.  
+~
+0 0 1
+D8
+~
+~
+0 0 6579
+D9
+~
+~
+0 0 6581
+S
+#6581
+An Open Hallway Surrounded the Grounds~
+You are stnading in the southwest corner of an open air hallway
+overlooking the dueling grounds below.  The floor is cobble stone beneath
+your feet and the large stone walls rise up behind you.  Overhead you can
+see the sky above.  There are wooden benches for spectators to sit on.  
+~
+0 0 1
+D6
+~
+~
+0 0 6580
+D9
+~
+~
+0 0 6582
+S
+#6582
+An Open Hallway Surrounded the Grounds~
+You are stnading in the southwest corner of an open air hallway
+overlooking the dueling grounds below.  The floor is cobble stone beneath
+your feet and the large stone walls rise up behind you.  Overhead you can
+see the sky above.  There are wooden benches for spectators to sit on.  
+~
+0 0 1
+D6
+~
+~
+0 0 6581
+D8
+~
+~
+0 0 6583
+S
+#6583
+An Open Hallway Surrounded the Grounds~
+You are stnading in the southwest corner of an open air hallway
+overlooking the dueling grounds below.  The floor is cobble stone beneath
+your feet and the large stone walls rise up behind you.  Overhead you can
+see the sky above.  There are wooden benches for spectators to sit on.  
+~
+0 0 1
+D7
+~
+~
+0 0 6582
+D8
+~
+~
+0 0 6576
+S
+#6584
+Northwest Corner of the Dueling Grounds~
+You are standing in the western end of the dueling grounds.  The ground
+is flat and covered with trampled grass.  The stone walls of the grounds
+loom up around you.  
+~
+0 2 1
+D1
+~
+~
+0 0 6585
+D2
+~
+~
+0 0 6587
+D9
+~
+~
+0 0 6588
+S
+#6585
+North End of the Dueling Grounds~
+You are standing in the western end of the dueling grounds.  The ground
+is flat and covered with trampled grass.  The stone walls of the grounds
+loom up around you.  
+~
+0 2 1
+D1
+~
+~
+0 0 6586
+D2
+~
+~
+0 0 6588
+D3
+~
+~
+0 0 6584
+D8
+~
+~
+0 0 6587
+D9
+~
+~
+0 0 6589
+S
+#6586
+Northwest Corner of the Dueling Grounds~
+You are standing in the western end of the dueling grounds.  The ground
+is flat and covered with trampled grass.  The stone walls of the grounds
+loom up around you.  
+~
+0 2 1
+D2
+~
+~
+0 0 6589
+D3
+~
+~
+0 0 6585
+D8
+~
+~
+0 0 6588
+S
+#6587
+West End of the Dueling Grounds~
+You are standing in the western end of the dueling grounds.  The ground
+is flat and covered with trampled grass.  The stone walls of the grounds
+loom up around you.  
+~
+0 2 1
+D0
+~
+~
+0 0 6584
+D1
+~
+~
+0 0 6588
+D2
+~
+~
+0 0 6590
+D7
+~
+~
+0 0 6585
+D9
+~
+~
+0 0 6591
+S
+#6588
+Center of the Dueling Grounds~
+You are standing in the center of the dueling grounds.  The ground is
+flat and covered with trampled grass.  The stone walls loom up around you
+and from here you can see into the stands that lay above the walls.  
+~
+0 2 1
+D0
+~
+~
+0 0 6585
+D1
+~
+~
+0 0 6589
+D2
+~
+~
+0 0 6591
+D3
+~
+~
+0 0 6587
+D6
+~
+~
+0 0 6584
+D7
+~
+~
+0 0 6586
+D8
+~
+~
+0 0 6590
+D9
+~
+~
+0 0 6592
+S
+#6589
+East End of the Dueling Grounds~
+You are standing in the western end of the dueling grounds.  The ground
+is flat and covered with trampled grass.  The stone walls of the grounds
+loom up around you.  
+~
+0 2 1
+D0
+~
+~
+0 0 6586
+D2
+~
+~
+0 0 6592
+D3
+~
+~
+0 0 6588
+D6
+~
+~
+0 0 6585
+D8
+~
+~
+0 0 6591
+S
+#6590
+Southwest Corner of the Dueling Grounds~
+You are standing in the southwest corner of the dueling grounds.  The
+ground is flat and covered with trampled grass.  The stone walls of the
+grounds loom up around you.  
+~
+0 2 1
+D0
+~
+~
+0 0 6587
+D1
+~
+~
+0 0 6591
+D7
+~
+~
+0 0 6588
+S
+#6591
+South End of the Dueling Grounds~
+You are standing in the western end of the dueling grounds.  The ground
+is flat and covered with trampled grass.  The stone walls of the grounds
+loom up around you.  
+~
+0 2 1
+D0
+~
+~
+0 0 6588
+D1
+~
+~
+0 0 6592
+D3
+~
+~
+0 0 6590
+D6
+~
+~
+0 0 6587
+D7
+~
+~
+0 0 6589
+S
+#6592
+Southeast Corner of the Dueling Grounds~
+You are standing in the western end of the dueling grounds.  The ground
+is flat and covered with trampled grass.  The stone walls of the grounds
+loom up around you.  
+~
+0 2 1
+D0
+~
+~
+0 0 6589
+D3
+~
+~
+0 0 6591
+D6
+~
+~
+0 0 6588
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 6575 1 6575 1 Load A guard
+M 0 6576 1 6575 1 Load The ticket merchant
+G 0 6576 0 A dueling ground ticket is given to The ticket merchant
+M 0 6577 1 6576 1 Load The ticket taker
+S
+
+
+
+#SHOPS
+6576 13 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#6575
+Guard Entrance Program~
+if isevil $n
+    pmote eye's $n suspiciously.
+endif
+if isgood $n
+    nod $n
+endif
+> $n If ye wish to purchase a ticket, buy it here and then take it to the northeast.
+> $n You can hand 'er purchased ticket to the taker there.
+ 
+~
+#6576
+Dueling Grounds Ticket Taker~
+mob junk ticket
+> $n Thank you for your ticket $n, I will now escort you to the arena.
+> $n Once in the arena you may exit through recalling if you are able.
+> $n Best of luck should you find a battle.
+mob zecho $I shouts '{YLet it be know, $n has entered the arena!{x'
+mob transfer $n 6588
+~
+#0
+
+#$

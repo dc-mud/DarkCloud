@@ -1,0 +1,976 @@
+#AREADATA
+Name Bard Camp~
+Builders Blake Generic~
+VNUMs 200 249
+LevelRange 1 10
+Credits Blake Generic~
+Security 9
+Continent 1
+AreaFlags A
+End
+
+
+
+#MOBILES
+#201
+bard~
+a bard~
+A bard is here is singing and walking along.
+~
+A bard is standing here wearing a leather tunic and singing a tune.  
+~
+human~
+AGHS DF 3 0
+1 0 2d4+2 0d9+100 1d2+0 none
+10 10 10 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#202
+bard~
+a bard~
+A bard is here, whistling a merry tune.
+~
+A bard is here whistling a merry tune.  He seems to hardly notice you.
+~
+human~
+ABHS DF 3 0
+1 0 2d4+2 0d9+100 1d2+0 none
+10 10 10 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#203
+willow bard~
+Willow the Bard~
+Willow the Bard is here in thoughtful contemplation.
+~
+Willow the Bard is here hardly paying attention to you while he's in thoughtful contemplation.  
+~
+human~
+AGHS DF 3 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#204
+crafting bard~
+A crafting bard~
+A crafting bard is building something here.
+~
+A crafting bard is here widdling on a small piece of wood and humming a tune.  It looks
+like he might be making a flute.
+~
+human~
+AGHS DF 3 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#205
+sleeping bard~
+A sleeping bard~
+A sleeping bard is sleep walking here.
+~
+A bard wanders slowly back and forth, appearing to be sleep walking.  The bard has a slight
+smile on his face as if he's having a pleasant dream.
+~
+human~
+AGHS DF 3 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+sleep sleep male 1
+AHMV ABCDEFGHIJK medium unknown
+#206
+poetic bard~
+A poetic bard~
+A poetic bard is here jovially reciting poetry.
+~
+A poetic bard is here jovially reciting poetry.  He is plump with rosey cheeks that
+burn redder the longer he recites his rhymes.  He has a green hat on that slides
+down as he bobs his head up an down. 
+~
+human~
+AGHS DF 3 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#207
+juggling bard~
+A juggling bard~
+A bard is here juggling.
+~
+A bard is here juggling multicolored balls with his eyes closed.
+~
+human~
+AGHS DF 3 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#208
+magician~
+A magician~
+A magician is here levitating off the ground.
+~
+A magician is here practicing slight of hand tricks.  It almost seems as if he's 
+levitating off of the ground..
+~
+human~
+AGHS DF 3 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#209
+woman~
+A buxom woman~
+A buxom woman is here, looking beautiful.
+~
+A buxom woman is here, pacing back and forth and muttering to herself something about useless
+bards.
+~
+human~
+AGHS DF 3 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#210
+bard leader~
+The bard leader~
+The bard leader is here, sitting next to the camp fire by his quarters.
+~
+The bard leader is sitting here next to the camp fire looking over all of his flock.  His
+quarters which look to be an old run down home are behind him (he does appear to be squatting
+in the house).
+~
+human~
+AGHR 0 3 0
+10 0 2d6+110 10d9+100 1d8+1 none
+2 2 2 6
+FU 0 0 0
+stand stand male 2
+AHMV ABCDEFGHIJK medium unknown
+#211
+old man~
+old man~
+An old man is here observing all of the hustle and bustle.
+~
+An old man is here, observing all of the hustle and bustly around camp.  He's face is worn
+and leathery and he has a long beard which extends down a foot.
+~
+human~
+ABHQ 0 2 0
+10 0 2d7+120 10d9+100 1d7+2 none
+1 1 1 7
+EIKU 0 0 0
+stand stand male 2
+AHMV ABCDEFGHIJK medium unknown
+#212
+stray cat~
+A stray cat~
+A stray cat is here.
+~
+A stray cat is here who has taken up camp with the bards.  It seems to enjoy the companionship
+of the traveling company.
+~
+human~
+ABH 0 2 0
+8 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 9
+EFNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#213
+snake~
+the snake~
+A small brown snake sits and watches you.
+~
+A small brown snake sits here and watches you, you get the feeling it thinks you might be food.
+ 
+~
+snake~
+ABFU 0 1 0
+9 1 4d10+100 1d1+99 2d6+1 bite
+0 2 2 5
+FGNR 0 EL I
+stand stand either 0
+AGXYc ADEFKLQVX small unknown
+#214
+bard~
+a bard~
+A bard is sitting here watching the campfire.
+~
+A bard is sitting here watching the campfire contently.
+~
+human~
+AGHS DF 3 0
+3 0 2d4+2 0d9+100 1d4+0 none
+10 10 10 10
+BEFJNU 0 0 0
+rest rest male 100
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#200
+bunch glowing berries~
+a bunch of glowing berries~
+A bunch of mysterious glowing berries lie here.~
+oldstyle~
+pill 0 A
+8 '' '' 'change sex' ''
+0 20 180 P
+#201
+glasses~
+a pair of glasses~
+An odd pair of glasses has been left here.~
+oldstyle~
+clothing A AE
+0 0 0 0 0
+3 20 270 P
+A
+2 -1
+A
+4 1
+#202
+cloth hat~
+a cloth hat~
+A cloth hat has been left here.~
+oldstyle~
+armor 0 AE
+AB AB AB 0 0
+3 20 310 P
+#203
+axe small~
+a small axe~
+A small axe has been dropped here.~
+oldstyle~
+weapon 0 AN
+axe 1 7 slash 0
+3 20 370 P
+#204
+necklace~
+a small necklace~
+A small necklace is lying on the ground.~
+oldstyle~
+jewelry A AC
+0 0 0 0 0
+5 20 550 P
+A
+3 1
+#205
+pink potion~
+a pink potion~
+A pink potion is barely visible on the ground.~
+oldstyle~
+potion 0 A
+6 'armor' 'cure blindness' '' ''
+0 20 160 P
+#206
+wand~
+a small wand~
+A small wand lies on the ground.~
+oldstyle~
+wand 0 AO
+5 1 1 'burning hands' 0
+3 20 540 P
+#207
+key~
+a tiny key~
+A tiny key is lying on the ground.~
+oldstyle~
+key 0 A
+B 0 0 0 0
+0 20 0 P
+#208
+well~
+a stone well~
+A small stone well is here.~
+oldstyle~
+fountain 0 0
+50 50 'water' 0 0
+0 0 0 P
+#209
+key~
+a small key~
+A key to the old man's door lies here.~
+oldstyle~
+key 0 A
+B 0 0 0 0
+0 20 0 P
+#210
+flimsy wand~
+a flimsy wand~
+A flimsy wand lays here with some unreadable etchings on it.~
+wood~
+staff 0 AO
+2 1 1 'fly' 0
+0 2 0 P
+#0
+
+
+
+#ROOMS
+#200
+Around the camp fire~
+You are in a clearing where a roaring camp fire is burning.  There are
+musical instruments laying around and many people sitting and watching the
+fire and galavating about.  
+~
+0 0 2
+D2
+~
+~
+0 0 214
+S
+#201
+Dimly Lit Path~
+This path is made of crushed granite.  The path continues north to a
+camp, or south to the eastern road.  
+~
+0 0 3
+D0
+The path continues toward the village.
+~
+~
+0 -1 202
+D2
+The path heads back toward the eastern road.
+~
+~
+0 -1 3525
+S
+#202
+Dimly Lit Path~
+This section of the road is badly worn and frequently traversed.  There is
+faint singing to the north.  The path back to the road lies to the south.
+~
+0 4 3
+D0
+The path continues toward the village.
+~
+~
+0 -1 203
+D2
+The dimly lit path.
+~
+~
+0 -1 201
+S
+#203
+Dimly Lit Path~
+This section of the road is badly worn and frequently traversed.  Singing is
+getting stronger to the north.  The path back to the road lies to the south.
+~
+0 0 3
+D0
+The entrance to bard camp.
+~
+~
+0 -1 204
+D2
+The dimly lit path.
+~
+~
+0 -1 202
+S
+#204
+Entrance to the Bard Camp~
+You stand at the entrance to a tiny camp.  You can see across the whole
+village easily.  Many bards with colors clothing are scattered about.  
+You hear continous singing and laughter.
+~
+0 0 2
+D0
+Dirt Road
+~
+~
+0 -1 205
+D2
+Dimly Lit Path
+~
+~
+0 -1 203
+S
+#205
+Dirt Road~
+You are standing on a make shift dirt road where all of the crash has been
+trampled away by the constant moving of feet over it.
+~
+0 0 1
+D0
+Dirt Road
+~
+~
+0 -1 206
+D1
+Dirt Road
+~
+~
+0 -1 210
+D2
+Entrance to the Bard Camp
+~
+~
+0 -1 204
+D3
+Dirt Road
+~
+~
+0 -1 211
+S
+#206
+Dirt Road~
+You continue to travel down the make shirt dirt road.  It continues to the north, west, and south.
+A tent lays to the east along a small tree line.
+~
+0 0 1
+D0
+Dirt Road
+~
+~
+0 -1 207
+D1
+A small tent
+~
+~
+0 -1 220
+D2
+Dirt Road
+~
+~
+0 -1 205
+D3
+Dirt Road
+~
+~
+0 -1 212
+S
+#207
+Dirt Road~
+Oh boy, another trampled and muddy dirt road!  The road continues north and south here.  There
+is another tent to the west.  A beautiful patch is to the east that appears to be growing bushes
+and bushes of berries.
+~
+0 0 1
+D0
+Dirt Road
+~
+~
+0 -1 208
+D1
+Berry Patch
+~
+~
+0 -1 216
+D2
+Dirt Road
+~
+~
+0 -1 206
+D3
+A small tent
+~
+~
+0 -1 229
+S
+#208
+Dirt Road~
+A dirt road continues here.  It extends to the south and looks to end just to the
+north.  A berry patch is to the east.  A stone path lies to the west.
+~
+0 0 1
+D0
+Dirt Road
+~
+~
+0 -1 209
+D1
+Berry patch
+~
+~
+0 -1 217
+D2
+Dirt Road
+~
+~
+0 -1 207
+D3
+A stone path
+~
+~
+0 -1 213
+S
+#209
+Dirt Road~
+A stone well lies here in the middle of the dirt road somewhat obstructing the path.  A fence 
+separates the bards from harm to the north although it was here for ages longer than the bards camp
+has been.  A berry patch is to the east and the dirt road continues to the south and west.
+~
+0 0 1
+E
+stone well~
+A small stone well is here.  It is very deep and dark and smell damp as you peer down into it.
+~
+D1
+Berry Patch
+~
+~
+0 -1 218
+D2
+Dirt Road
+~
+~
+0 -1 208
+D3
+Dirt Road
+~
+~
+0 -1 214
+S
+#210
+Dirt Road~
+A corner of the dirt road is where you stand.  A large fence blocks passage
+to the east or south.  A small tent is to the north.  The dirt road goes back
+to the west.
+~
+0 0 1
+D0
+Small Tent
+~
+~
+0 -1 219
+D3
+Dirt Road
+~
+~
+0 -1 205
+S
+#211
+Dirt Road~
+Western corner of the dirt road.  You can continue to walk down the road
+to the east and north.  You can also go into a small tent to the south.
+~
+0 0 1
+D0
+Dirt Road
+~
+~
+0 -1 212
+D1
+Dirt Road
+~
+~
+0 -1 205
+D2
+Dirt Home
+~
+~
+0 -1 221
+S
+#212
+Dirt Road~
+A small tent is to the west.  The bard leaders quarters appear to be to the
+north but you can't go there.  A dirt road continues to the south and east.
+~
+0 0 1
+D1
+Dirt Road
+~
+~
+0 -1 206
+D2
+Dirt Road
+~
+~
+0 -1 211
+D3
+Dirt Home
+~
+~
+0 -1 222
+S
+#213
+Stone Path~
+You are walking along a cute little stone path.  To the south lies the bard
+leaders quarters.  A small tent is to the west.  A dirt road is to the east.
+Everything is so peaceful here.  You could stay forever.
+~
+0 0 1
+D1
+Dirt Road
+~
+~
+0 -1 208
+D2
+The bard leaders quarters
+~
+door~
+0 207 225
+D3
+A small tent
+~
+~
+0 -1 223
+S
+#214
+Dirt Road~
+Yet another part of the dirt road.  If you go west it appears to be the
+last section of the road.  You can go back to the stone well to the east. 
+To appears to be a light coming from the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 200
+D1
+Dirt Road
+~
+~
+0 -1 209
+D3
+Dirt Road
+~
+~
+0 -1 215
+S
+#215
+Dirt Road~
+This appears to be the last seciton of the dirt road.  You can go back on the dirt road 
+to the east.  A large tent is to the south.  In the distance to the north you can see what 
+appears to be a run down house.
+~
+0 0 1
+D0
+Stone Path
+~
+~
+0 -1 226
+D1
+Dirt Road
+~
+~
+0 -1 214
+D2
+Dirt Home
+~
+~
+0 -1 224
+S
+#216
+Berry Patch~
+Berries grow here.  They almost seem like they're glowing and there is a interesting perfume like aroma
+in the area.  A dirt road is back to the west.  Another berry patch is to the north.
+~
+0 0 1
+D0
+Berry Patch
+~
+~
+0 -1 217
+D3
+Dirt Road
+~
+~
+0 -1 207
+S
+#217
+Berry Patch~
+Another patch of berries is growing here.  The smell is driving your
+nostrils crazy.  It almost, ALMOST, makes you forget all the singing going
+on.  A dirt road is to the west, while more berry patches are to the north
+and south.
+~
+0 0 1
+D0
+Berry Patch
+~
+~
+0 -1 218
+D2
+Berry Patch
+~
+~
+0 -1 216
+D3
+A dirt road
+~
+~
+0 -1 208
+S
+#218
+Berry Patch~
+The northernmost of the berry patches grows here.  It looks just
+as scrumptious as all the rest.  Just take a few; they'll never know.  A dirt road 
+is to the west.  A berry patch is to the south.
+~
+0 0 1
+D2
+Berry Patch
+~
+~
+0 -1 217
+D3
+A dirt road
+~
+~
+0 -1 209
+S
+#219
+Willow the Bard's Home~
+You are standing in Willow the Bard's home.  It is very quiet with a small fire glowing
+in the fireplace and many books laying strewn across the room.
+~
+0 0 1
+D2
+Smurfy Road
+~
+~
+0 -1 210
+S
+#220
+A small tent~
+This is a small tent.  It is empty inside except for some leaves that have blown in through
+the open front.  A dirt road is back to the west.
+~
+0 0 1
+D3
+A dirt road
+~
+~
+0 -1 206
+S
+#221
+A small tent~
+A small tent is here that is cluttered with trinkets and papers.  A dirt road is back to the 
+north.
+~
+0 0 1
+D0
+A dirt road
+~
+~
+0 -1 211
+S
+#222
+A small tent~
+Be very quiet.  There is a very tired bard sleeping here.  You see so many
+blankets that it's hard to tell if he's even there.  Maybe you should quietly go 
+back to the dirt road to the east.
+~
+0 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 212
+S
+#223
+A small tent~
+This is yet another small tent, surrounded by a row of large green shrub like bushes that 
+offer it some protection from the wind.
+~
+0 0 1
+D1
+A dirt road
+~
+~
+0 -1 213
+S
+#224
+A small tent~
+This tent smells horid... I would hate to meet the unsanitary person who frequents it.  The dirt 
+road is to the north.
+~
+0 0 1
+D0
+A dirt road
+~
+~
+0 -1 215
+S
+#225
+Bard Leaders Quarters~
+You are standing in the bard leaders quarters.  There are many musical instruments laying around as well
+as papers and trinkets that other bards have made or he has collected.  A stone path lies to the north.
+~
+0 0 1
+D0
+Stone Path
+~
+door~
+0 207 213
+S
+#226
+Path to a run down house~
+You are walking along a path to what appears to be a run down house to the North.
+The dirt road lies to the south.
+~
+0 0 1
+D0
+Outside a run down house
+~
+~
+0 -1 227
+D2
+A dirt road
+~
+~
+0 -1 215
+S
+#227
+Outside a rundown house~
+You are standing outside a run down house to the north.  The shutters are
+barely hanging onto the house, the roof appears to have holes in it, the
+eastern wall is buldging out a bit and there is no front door.  The dirt
+road is to the south.  
+~
+0 0 1
+D0
+A rundown house
+~
+door~
+0 209 228
+D2
+Path to a run down house
+~
+~
+0 -1 226
+S
+#228
+A rundown house~
+There is only one room in this house.  You can see the sky through the holes in the rough and 
+there is a musty scent from the mold that has started to grow here.  Everything that was of 
+any value has long since been removed and no one seems to have frequented here in ages.
+There appears to be what looks like a door to a cellar built into the floor.
+~
+0 0 1
+D2
+Outside a rundown house
+~
+door~
+0 209 227
+D5
+~
+~
+1 0 230
+S
+#229
+An overgrown garden~
+This appears to be an overgrown garden.  There are rotting wooden planting boxes strewn all around
+but all that seems to grow here now is a vast amount of weeds.  The only exit is to the east.
+~
+0 0 1
+D1
+A dirt road
+~
+~
+0 -1 207
+S
+#230
+A dark cellar~
+You are standing in a dark cellar.  There are old rotted wooden beams attempting
+to hold back the earth that has started to creep seep through them.
+The air is moist but everything around is quiet and insulated by earth.
+~
+0 1 0
+D4
+~
+~
+1 0 228
+S
+#0
+
+
+
+#SPECIALS
+M 201 spec_thief
+M 202 spec_thief
+M 203 spec_thief
+M 204 spec_thief
+M 205 spec_thief
+M 206 spec_thief
+M 207 spec_thief
+M 208 spec_thief
+M 209 spec_thief
+M 210 spec_cast_mage
+M 211 spec_cast_cleric
+M 212 spec_cat
+M 213 spec_poison
+M 214 spec_thief
+S
+
+
+
+#RESETS
+D 0 228 5 1
+D 0 230 4 1
+M 0 214 3 200 3 Load a bard
+M 0 214 3 200 3 Load a bard
+M 0 201 8 204 1 Load a bard
+G 0 202 0 A cloth hat is given to a bard
+M 0 201 8 205 1 Load a bard
+M 0 201 8 207 1 Load a bard
+M 0 201 8 208 1 Load a bard
+G 0 202 0 A cloth hat is given to a bard
+O 0 208 0 209 A stone well loaded to Dirt Road
+M 0 201 8 209 1 Load a bard
+M 0 201 8 210 1 Load a bard
+G 0 202 0 A cloth hat is given to a bard
+M 0 201 8 211 1 Load a bard
+M 0 201 8 212 1 Load a bard
+G 0 202 0 A cloth hat is given to a bard
+M 0 202 3 216 1 Load a bard
+G 0 200 0 A bunch of glowing berries is given to a bard
+M 0 202 3 217 1 Load a bard
+G 0 200 0 A bunch of glowing berries is given to a bard
+O 0 200 0 217 A bunch of glowing berries loaded to Berry Patch
+M 0 202 3 218 1 Load a bard
+G 0 200 0 A bunch of glowing berries is given to a bard
+O 0 200 0 218 A bunch of glowing berries loaded to Berry Patch
+M 0 203 1 219 1 Load Willow the Bard
+E 0 201 0 6 A pair of glasses is loaded over the head of Willow the Bard
+M 0 204 1 220 1 Load A crafting bard
+E 0 203 0 16 A small axe is loaded wielded of A crafting bard
+M 0 206 1 221 1 Load A poetic bard
+E 0 203 0 16 A small axe is loaded wielded of A poetic bard
+M 0 205 1 222 1 Load A sleeping bard
+M 0 207 1 223 1 Load A juggling bard
+M 0 208 1 224 1 Load A magician
+E 0 210 0 17 A flimsy wand is loaded held in the hands of A magician
+M 0 210 1 225 1 Load The bard leader
+G 0 205 0 A pink potion is given to The bard leader
+G 0 209 0 A small key is given to The bard leader
+M 0 211 1 228 1 Load old man
+E 0 206 0 17 A small wand is loaded held in the hands of old man
+M 0 212 1 228 1 Load A stray cat
+M 0 209 1 229 1 Load A buxom woman
+E 0 204 0 3 A small necklace is loaded around the neck (1) of A buxom woman
+G 0 207 0 A tiny key is given to A buxom woman
+M 0 213 1 230 1 Load the snake
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

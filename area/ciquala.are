@@ -1,0 +1,1010 @@
+#AREADATA
+Name Ciquala's Lair~
+Builders Binky~
+VNUMs 4175 4199
+LevelRange 40 50
+Credits Binky~
+Security 9
+Continent 1
+AreaFlags 0
+End
+
+
+
+#MOBILES
+#4175
+lich guardian~
+Guardian Lich~
+The Guardian Lich steps out of the shadows and attacks!
+~
+The Guardian lich looks like a decaying corpse, with small glowing points of
+light for eyes.
+~
+human~
+ABCF BJQT 1 0
+33 0 10d10+1100 329d1+1 6d4+10 slash
+-11 -11 -11 5
+BCDEH AB T K
+stand stand male 4200
+AHMV ABCDEFGHIJK medium unknown
+#4176
+vampire assistant~
+the vampire lab assistant~
+A lab assistant turns toward you and bares his fangs!
+~
+This lab assistant was chosen from amongst the undead for both his knowledge
+of magic, and his rather nasty disposition.  He revels in creating loathesome,
+twisted, warped creatures to serve Ciquala.
+~
+human~
+ABCFH DFJ 1 4176
+22 0 5d10+400 219d1+1 4d4+6 beating
+-5 -5 -5 7
+BCDEH AB T K
+stand stand male 1200
+AHMV ABCDEFGHIJK medium unknown
+#4177
+creature nightmare~
+a warped creature from a nightmare~
+A warped creature as if from a nightmare is here.
+~
+This creature may resemble some kind of serpent, but some parts of it are
+covered with scales, and others with hair.  It's head has 1 large bulbous eye,
+much like that of an insect.  Long talons reach out for you to shred you alive.
+~
+human~
+AFGH DFT 1 0
+40 0 15d10+1850 399d1+1 4d8+13 beating
+-13 -13 -13 4
+BCDEH AB T K
+stand stand male 5800
+AHMV ABCDEFGHIJK medium unknown
+#4178
+creature docile~
+a docile creature~
+A docile creature stands here, probably from an experiment that failed.
+~
+The creature would probably not hurt a fly.  Actually, it is unaware of its own
+existence.
+~
+human~
+AB HNO 1 0
+35 0 10d10+1300 349d1+1 4d7+11 pierce
+-11 -11 -11 5
+HO BEJ PS K
+stand stand either 5199
+AHMV ABCDEFGHIJK medium unknown
+#4179
+black pudding crate~
+the black pudding~
+A crate stands here.
+~
+As you examine this crate, a black tarlike substance seeps between the boards
+slowly eating the wood away.  It is a black pudding!
+~
+human~
+ABF 0 1 0
+37 0 10d10+1500 369d1+1 3d10+12 slash
+-12 -12 -12 5
+BEF ABI 0 K
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#4180
+gigantic automaton~
+a gigantic automaton~
+A gigantic automaton blocks your way.
+~
+This gigantic construct is made of a metallic substance that you do not
+recognize.  He stands about 8' tall, brushing the ceiling.
+~
+human~
+AB H 2 0
+50 0 50d10+4500 499d1+1 5d8+19 beating
+-20 -20 -20 3
+BEF ABI 0 K
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4181
+undead guardian~
+the undead guardian~
+An undead guardian screams at you and attacks!
+~
+This creature is a hovering dark shape.  It does not seem to have a body so
+to speak.  As it approaches you, a harsh chill makes you shiver.
+~
+human~
+ABF BDT 1 0
+45 0 25d10+3000 449d1+1 8d4+16 beating
+-15 -15 -15 4
+BEF ABI 0 K
+stand stand male 7500
+AHMV ABCDEFGHIJK medium unknown
+#4182
+roof ceiling lurker above~
+the lurker above~
+~
+The ceiling appears rather shiny.  Not like dirt at all.  You suddenly realize
+that it isn't a ceiling, but a LURKER ABOVE!  You had better attack before
+it drops on you!
+~
+human~
+ABFH 0 1 0
+27 0 5d10+650 269d1+1 5d4+7 pierce
+-8 -8 -8 6
+BCDEH AB T K
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4183
+vampire servant~
+a vampire servant~
+A vampire servant to Ciquala is here, hungering for your blood.
+~
+This vampire looks very pale and thin.  Ciquala has not been allowing him
+enough time at night to feed properly.  He is VERY happy that you walked in
+on him.
+~
+human~
+ABF BDFH 1 0
+37 0 10d10+1500 369d1+1 3d10+12 none
+-12 -12 -12 5
+BEF AB 0 K
+stand stand male 5300
+AHMV ABCDEFGHIJK medium unknown
+#4184
+human automaton~
+the human automaton~
+A mindless automaton that used to be human is standing here.
+~
+This mindless lump of flesh used to be human.  It's flesh has been converted
+to a dull grey substance.  The automaton is very strong, and will be a fierce
+opponent.
+~
+human~
+ABF NO 1 0
+30 0 6d12+853 299d1+1 4d6+8 beating
+-9 -9 -9 6
+BEF AB 0 K
+stand stand male 3400
+AHMV ABCDEFGHIJK medium unknown
+#4185
+human automaton~
+the human automaton~
+A mindless automaton that used to be human is standing here.
+~
+This mindless lump of flesh used to be human.  It's flesh has been converted
+to a dull grey substance.  The automaton is very strong, and will be a fierce
+opponent.
+~
+human~
+AB NO 2 0
+33 0 10d10+1100 329d1+1 6d4+10 beating
+-11 -11 -11 5
+BEF AB 0 K
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4186
+human automaton~
+the human automaton~
+A mindless automaton that used to be human is standing here.
+~
+This mindless lump of flesh used to be human.  It's flesh has been converted
+to a dull grey substance.  The automaton is very strong, and will be a fierce
+opponent.
+~
+human~
+ABF NO 2 0
+36 0 10d10+1400 359d1+1 3d10+11 beating
+-12 -12 -12 5
+BEF AB 0 K
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4187
+human automaton~
+the human automaton~
+A mindless automaton that used to be human is standing here.
+~
+This mindless lump of flesh used to be human.  It's flesh has been converted
+to a dull grey substance.  The automaton is very strong, and will be a fierce
+opponent.
+~
+human~
+ABF NO 3 0
+39 0 15d10+1700 389d1+1 5d6+13 beating
+-13 -13 -13 4
+BEF AB 0 K
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4188
+torturer lich~
+the torturer lich~
+A blackened creature stands here, ready to cause you excruciating pain.
+~
+You'd better not look to close, he may charm you.
+~
+human~
+ABF HJ 1 0
+41 0 25d10+2000 409d1+1 4d8+14 pierce
+-14 -14 -14 4
+B AB 0 K
+stand stand male 7500
+AHMV ABCDEFGHIJK medium unknown
+#4189
+undead dragon~
+Ciquala's Undead Dragon~
+Ciquala's undead pet dragon is here, snacking on a fresh corpse.
+~
+This skeletal dragon is an ancient red dragon preserved through arcane magic.
+~
+dragon~
+ABF DFHJT 1 0
+50 0 50d10+4500 499d1+1 5d8+19 beating
+-20 -20 -20 3
+B AB BEH FIK
+stand stand female 9500
+AHZ ACDEFGHIJKPQUVX medium unknown
+#4190
+Ciquala lich~
+the lich Ciquala~
+A powerful, evil looking lich stands here, Ciquala, 
+the oldest of all the undead.
+~
+Ciquala still looks majestic after all these thousands of years.  But you can
+see the menace in her eye as she looks at you, and prepares her first spell.
+~
+human~
+ABF DFHJT 1 0
+52 0 50d10+5500 519d1+1 6d7+20 pierce
+-22 -22 -22 2
+BCDEH AB T K
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#4191
+lich~
+Lich~
+The Lich wonders what you are doing in its crypt.
+~
+The Lich looks like a decaying corpse, with small glowing points of
+light for eyes.
+~
+human~
+ABCF BD 1 0
+37 0 10d10+1500 369d1+1 3d10+12 slash
+-12 -12 -12 5
+B AB 0 K
+stand stand male 6500
+AHMV ABCDEFGHIJK medium unknown
+#4192
+vampire~
+vampire~
+The vampire is very hungry.  
+With you here, he won't even have to go out hunting for fresh blood tonight.
+~
+The vampire looks incredibly strong.  He is wearing musty clothes, and has
+large fangs that seem to grow longer as he looks back at you.
+~
+human~
+ABCF BDT 1 0
+47 0 25d10+3500 469d1+1 6d6+17 slash
+-17 -17 -17 3
+B AB 0 K
+stand stand male 7800
+AHMV ABCDEFGHIJK medium unknown
+#4193
+vampire assistant~
+the vampire lab assistant~
+A lab assistant turns toward you and bares her fangs!
+~
+This lab assistant was chosen from amongst the undead for both his knowledge
+of magic, and his rather nasty disposition.  She revels in creating loathesome,
+twisted, warped creatures to serve Ciquala.
+~
+human~
+ABCFH DFJ 1 13401
+22 0 5d10+400 219d1+1 4d4+6 beating
+-5 -5 -5 7
+BCDEH AB T K
+stand stand female 1200
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#4175
+ciquala's sword~
+Ciquala's sword~
+A large, black sword lies here.~
+iron~
+weapon BCH AN
+sword 5 7 slice C
+51 80 12000 P
+A
+19 1
+A
+18 1
+A
+1 2
+A
+5 2
+#4176
+ciquala's robe~
+Ciquala's robe~
+A heavy pile of black cloth lies in the dust.~
+leather~
+armor G AK
+BCD BCD BCD B 0
+51 50 29470 G
+A
+2 2
+A
+20 -1
+#4177
+Ciquala's staff~
+ciquala's staff~
+A black staff lies on the ground.~
+wood~
+staff G AO
+10 5 10 'cure critical' 0
+45 20 12000 P
+A
+3 3
+A
+4 -1
+#4178
+crate~
+crate~
+A crate stands here.~
+iron~
+furniture 0 A
+B EGHIJK NO CFG CFG
+0 0 0 P
+#4179
+key~
+a key~
+A key lies on the ground.~
+iron~
+key 0 A
+0 0 0 0 0
+1 0 0 P
+#4180
+key~
+a iron key~
+A iron key lies on the ground.~
+iron~
+key 0 A
+0 0 0 0 0
+1 0 0 P
+#4181
+key large~
+a large key~
+A large key lies on the ground.~
+iron~
+key 0 A
+0 0 0 0 0
+1 0 0 P
+#4182
+blue potion~
+a blue potion~
+A blue bottle of liquid lies here.~
+glass~
+potion H A
+38 'acid blast' 'change sex' 'detect hidden' 'detect invis'
+20 20 3200 P
+#4183
+emerald vial~
+an emerald vial~
+An emerald vial lies here~
+glass~
+potion 0 A
+10 '' 'heal' 'blindness' 'change sex'
+20 20 3350 P
+#4184
+purple potion~
+purple potion~
+A purple potion lies forgotten on the ground.~
+glass~
+potion FH A
+25 'stone skin' 'sanctuary' 'blindness' ''
+20 20 5600 P
+#4185
+testube clear~
+a clear testube~
+A clear testube contains an unknown liquid.~
+glass~
+potion H A
+38 'burning hands' '' 'protection evil' 'giant strength'
+20 20 3300 P
+#4186
+vial green~
+a green vial~
+A green vial sits on  a shelf.~
+glass~
+potion 0 A
+28 'create spring' 'energy drain' 'poison' 'armor'
+20 20 2300 P
+#4187
+gold liquid vial~
+a vial with gold liquid~
+A vial with a gold colored liquid sits on the floor.~
+glas~
+potion 0 A
+30 'weaken' 'poison' 'teleport' 'curse'
+20 20 4300 P
+#4188
+milky liquid vial~
+a vial with milky liquid~
+A vial with milky liquid sits on the shelf.~
+glas~
+potion 0 A
+30 '' 'pass door' 'teleport' 'sanctuary'
+20 20 4400 P
+#4189
+black potion~
+a black potion~
+A black potion is waiting to be picked up.~
+glass~
+potion 0 A
+30 'shield' 'infravision' 'cause critical' 'protection good'
+20 20 4900 P
+#4190
+beaker yellow~
+a beaker with yellow liquid~
+A beaker filled with yellow bubbling liquid sits on the counter.~
+glass~
+potion 0 A
+30 'harm' 'poison' 'weaken' 'sleep'
+20 20 3400 P
+#4191
+iron maiden~
+an iron maiden~
+An iron maiden sits here, looking rather unused.  Why not try it on?~
+iron~
+armor 0 AD
+CE CE CE AC 0
+33 1000 0 G
+A
+5 -5
+A
+1 -5
+A
+2 -1
+#4192
+torturer's whip~
+the torturer's whip~
+An enormous whip lies here.~
+iron~
+weapon ABFG AN
+whip 5 6 whip C
+40 90 14700 P
+#4193
+treasure coins gold~
+a humongous pile of gold~
+A humongous pile of gold is waiting to be picked up.~
+gold~
+money 0 A
+0 CE 0 0 0
+0 0 0 P
+#4194
+gems pile~
+a pile of gems~
+A pile of gems lies on the ground.~
+iron~
+money A A
+FJKLO 0 0 0 0
+0 0 0 P
+#4195
+crate~
+crate~
+A crate stands here.~
+iron~
+furniture 0 A
+B EGHIJK NO CFG CFG
+0 0 0 P
+#4196
+crate~
+crate~
+A crate stands here.~
+iron~
+furniture 0 A
+B EGHIJK NO CFG CFG
+0 0 0 P
+#4197
+crate~
+crate~
+A crate stands here.~
+iron~
+furniture 0 A
+B EGHIJK NO CFG CFG
+0 0 0 P
+#4198
+crate~
+crate~
+A crate stands here.~
+iron~
+furniture 0 A
+B EGHIJK NO CFG CFG
+0 0 0 P
+#4199
+fizzing bottle~
+a fizzing bottle~
+A bottle of fizzing liquid lies here.~
+glass~
+potion 0 A
+28 'word of recall' 'sleep' 'poison' ''
+20 20 1000 P
+#0
+
+
+
+#ROOMS
+#4175
+A large knothole in a tree~
+You stand in a cramped space inside an old, gnarled tree.  A frigid
+breeze rises from the ground.
+~
+0 0 1
+D4
+~
+~
+0 0 901
+D5
+~
+trapdoor~
+1 -1 4176
+S
+#4176
+A ladder descending into the darkness!~
+You are climbing on a ladder.  Above you is a trapdoor.  Below you
+is only darkness, from which a frigid breeze blows.
+~
+0 1 0
+D4
+~
+trapdoor~
+1 -1 4175
+D5
+~
+~
+0 -1 4177
+S
+#4177
+A ladder descending into the darkness!~
+You are climbing on a ladder.  Above you the ladder disappears in the
+dark.  Below is only darkness, from which a frigid breeze blows.
+~
+0 1 0
+D4
+~
+~
+0 -1 4176
+D5
+~
+~
+0 -1 4178
+S
+#4178
+A dusty tunnel deep under the ground~
+You stand in a tunnel that appears to have been dug out of the dirt.
+You do not understand what is keeping the tunnel walls from caving in.  This
+would probably be a very bad place to use a dispel magic spell!  You do see
+some footprints in the dust, and looking up, you see who they belong to!
+~
+0 9 0
+D1
+~
+~
+0 -1 4179
+D3
+~
+door~
+1 -1 4184
+D4
+~
+~
+0 -1 4177
+S
+#4179
+A room with a large pool of water in the center~
+This room has a large pool of black water in the center.  You see
+many runes and glyphs surrounding it.  The room is lit by torches held in
+sconces.  Each of these items in the room merits more investigation.
+~
+0 8 0
+E
+runes~
+These runes are carved into the rock about the pool.  You think you
+recognize the rune of vision, and another that has something to do with
+projecting power at a distance.
+~
+E
+glyphs~
+The glyphs are drawn upon the stone with what appears to be blood.
+You do not recognize any of them, and it would probably be a good idea not to
+touch any of them.
+~
+E
+sconces~
+The sconces are black and shaped liked two hands, cradling the torches
+between their pointed nails.
+~
+E
+torches~
+The torches are made of a black wood, and as you draw nearer, you find
+that they do not emit any heat.  Indeed, they seem to be radiating cold.  The
+flames are an icy blue, that makes you think twice about getting too close to
+them.
+~
+E
+pool~
+As you lean forward and look in the pool, you see nothing but the dark
+murky water.  Gradually though, an image forms before you.  You recognize the
+person the image shows.  It is the Avatar!  Apparently this is a pool that
+Ciquala uses to scry upon her enemies. The image is so clear, you almost
+believe you could step into the pool, and appear in Lord British's castle.
+~
+D1
+~
+~
+0 -1 4180
+D3
+~
+~
+0 -1 4178
+S
+#4180
+Ciquala's Laboratory~
+This room is lined with shelves that contain a multitude of jars,
+boxes, vials, chests, tubes, glasses, beakers, and other assorted containers.
+You think that drinking the contents of any might have undesireable effects.
+~
+0 9 0
+D0
+~
+celldoor~
+2 4179 4183
+D1
+~
+celldoor~
+2 4179 4182
+D2
+~
+door~
+1 -1 4181
+D3
+~
+~
+0 -1 4179
+S
+#4181
+Supply room~
+This supply room keeps many of the items that are too large to fit in
+the laboratory itself.  You see several corpses that are preserved by the
+ever-present cold that you have encountered in every room in this tunnel
+system.  Also several crates hold contents, whose scent is enought to make
+you wish to shut the door immediately.  You believe that you hear a noise
+from behind one of the crates.
+~
+0 9 0
+D0
+~
+door~
+1 -1 4180
+S
+#4182
+Holding Cell~
+This is nothing more than a small room with a very heavy iron door
+closing it off from the laboratory.  This is where Ciquala's assistants keep
+the experiments they are working on.
+~
+0 9 0
+D3
+~
+celldoor~
+2 4179 4180
+S
+#4183
+Holding Cell~
+This is nothing more than a small room with a very heavy iron door
+closing it off from the laboratory.  This is where Ciquala's minions keep
+the experiments they are working on.
+~
+0 9 0
+D2
+~
+celldoor~
+2 4179 4180
+S
+#4184
+Guard room~
+The occupants of this room were obviously left here by the Lich to
+keep intruders like you from bothering her, or learning her plans.  There
+are doors to both the east and west.
+~
+0 9 0
+D1
+~
+door~
+1 -1 4178
+D3
+~
+~
+0 0 4185
+S
+#4185
+A seemingly empty tunnel~
+This empty tunnel has doors leading in all directions.  The roof of
+the tunnel seems abnormally low and shiny, almost as if it is not dirt.  This
+room is also as cold as all the others were.
+~
+0 9 0
+D0
+~
+door~
+2 4180 4186
+D1
+~
+~
+0 0 4184
+D2
+~
+door~
+1 -1 4187
+D3
+~
+door~
+1 -1 4188
+S
+#4186
+The Map Room~
+This room is filled with maps, apparently containing some of Ciquala's
+plans.  You notice many maps of Lord British's castle.  You might be able to
+gain some information on Ciquala's plans, as well as learn your way through
+British's castle if you examine the map more closely.
+~
+0 9 0
+E
+map~
+As you reach for a map to examine it closer, it bursts into ice cold flames and
+disintegrates before your eyes.  Apparently Ciquala has taken precautions
+against people snooping in her Lair.
+~
+D2
+~
+door~
+2 4180 4185
+S
+#4187
+Storage Room~
+You see many boxes before you, apparently this is a storage room of
+some sort.  You can bet that whatever a lich is storing, that it can't be good
+for the world in general.
+~
+0 9 0
+D0
+~
+door~
+1 -1 4185
+S
+#4188
+A tunnel with a grate in the floor~
+You see a grate on the floor.  When you look down it, you see several
+creatures below, humanoid, but you can't make out exactly what they are.
+There are also doors leading all directions but west.
+~
+0 9 0
+D0
+~
+door~
+1 -1 4190
+D1
+~
+door~
+1 -1 4185
+D2
+~
+door~
+1 -1 4191
+D5
+~
+grate~
+1 -1 4189
+S
+#4189
+The Room of the Automatons~
+You gasp as you realize that these pasty faced people do not seem to
+have a will of their own.  No doubt the work of the Lich.  If these
+monstrosities are allowed to escape into the world, they will cause no end
+of problems for Midgaard.
+~
+0 9 0
+D4
+~
+grate~
+1 -1 4188
+S
+#4190
+Torture Chamber~
+This room is fitted with many instruments and tools designed to cause
+pain and fear in anyone who enters.  However, you don't pay as much attention
+to the racks and iron maidens as you would if were not for the lich in the
+room.
+~
+0 9 0
+D2
+~
+door~
+1 -1 4188
+S
+#4191
+Entrance to Ciquala's Throne Room~
+This does not look like any of the other rooms you have been in up till
+now.  The ceiling rises a full 40 feet in the air above you.  The walls are
+covered with murals proclaiming the might and majesty of Ciquala.  She does
+not look old and decayed as you would have pictured her.  Instead, she looks
+rather regal and stately, but undoubtedly evil.
+~
+0 9 0
+D0
+~
+door~
+1 -1 4188
+D2
+~
+~
+0 -1 4192
+S
+#4192
+Ciquala's Throne Room~
+This room is clothed in darkness, and a chill eminates from the foul
+monarch of the undead.  A large tapestry hangs behind her throne.  The
+ceiling rises above you, hidden in the darkness beyond the range your
+light can penetrate.  A feeling of hopelessness and insignificance overwhelms
+you as you face the Lich, Ciquala!
+~
+0 9 0
+D0
+~
+~
+0 -1 4191
+D2
+~
+tapestry~
+2 4181 4193
+S
+#4193
+Treasure Chamber of Ciquala~
+This room contains enough wealth to fund an army, perhaps a small
+kingdom.  Racks or weapons, and spellbooks, and potions, not to mention large
+piles of coins that cover the floor.  A large paving stone in this room seems
+slightly disturbed.
+~
+0 9 0
+E
+paving~
+The paving stone seems to be masking a passage down into a pit below this room.
+~
+D0
+~
+tapestry~
+2 4181 4192
+D5
+The stone appears to hide a secret passage going down.~
+stone~
+1 -1 4194
+S
+#4194
+The hidden crypt of Ciquala~
+This room contains several crypts where the lichs and vampires rest.
+Unfortunately, they all seem to be out of their crypts right now.
+~
+0 9 0
+D4
+~
+stone~
+1 -1 4193
+S
+#0
+
+
+
+#SPECIALS
+M 4176 spec_cast_undead
+M 4178 spec_breath_acid
+M 4181 spec_cast_undead
+M 4183 spec_cast_undead
+M 4189 spec_breath_gas
+M 4190 spec_cast_undead
+M 4191 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 4175 5 1
+D 0 4176 4 1
+D 0 4178 3 1
+D 0 4180 0 2
+D 0 4180 1 2
+D 0 4180 2 1
+D 0 4181 0 1
+D 0 4182 3 2
+D 0 4183 2 2
+D 0 4184 1 1
+D 0 4185 0 2
+D 0 4185 2 1
+D 0 4185 3 1
+D 0 4186 2 2
+D 0 4187 0 1
+D 0 4188 0 1
+D 0 4188 1 1
+D 0 4188 2 1
+D 0 4188 5 1
+D 0 4189 4 1
+D 0 4190 2 1
+D 0 4191 0 1
+D 0 4192 2 2
+D 0 4193 0 2
+D 0 4193 5 1
+D 0 4194 4 1
+M 0 4175 1 4178 1 Load Guardian Lich
+M 0 4176 2 4180 1 Load the vampire lab assistant
+G 0 4179 0 A key is given to the vampire lab assistant
+G 0 4188 0 A vial with milky liquid is given to the vampire lab assistant
+G 0 4189 0 A black potion is given to the vampire lab assistant
+G 0 4190 0 A beaker with yellow liquid is given to the vampire lab assistant
+G 0 4199 0 A fizzing bottle is given to the vampire lab assistant
+M 0 4193 2 4180 1 Load the vampire lab assistant
+G 0 4182 0 A blue potion is given to the vampire lab assistant
+G 0 4183 0 An emerald vial is given to the vampire lab assistant
+G 0 4184 0 Purple potion is given to the vampire lab assistant
+G 0 4185 0 A clear testube is given to the vampire lab assistant
+G 0 4186 0 A green vial is given to the vampire lab assistant
+G 0 4187 0 A vial with gold liquid is given to the vampire lab assistant
+M 0 4179 2 4181 1 Load the black pudding
+O 0 4178 0 4181 Crate loaded to Supply room
+O 0 4195 0 4181 Crate loaded to Supply room
+O 0 4196 0 4181 Crate loaded to Supply room
+M 0 4177 4 4182 2 Load a warped creature from a nightmare
+M 0 4178 4 4182 2 Load a docile creature
+M 0 4177 4 4183 2 Load a warped creature from a nightmare
+M 0 4178 4 4183 2 Load a docile creature
+M 0 4180 1 4184 1 Load a gigantic automaton
+G 0 4180 0 A iron key is given to a gigantic automaton
+M 0 4181 1 4184 1 Load the undead guardian
+M 0 4182 1 4185 1 Load the lurker above
+M 0 4183 1 4186 1 Load a vampire servant
+M 0 4179 2 4187 1 Load the black pudding
+O 0 4197 0 4187 Crate loaded to Storage Room
+O 0 4198 0 4187 Crate loaded to Storage Room
+M 0 4184 1 4189 1 Load the human automaton
+M 0 4185 1 4189 1 Load the human automaton
+M 0 4186 1 4189 1 Load the human automaton
+M 0 4187 1 4189 1 Load the human automaton
+M 0 4188 1 4190 1 Load the torturer lich
+E 0 4192 0 16 The torturer's whip is loaded wielded of the torturer lich
+O 0 4191 0 4190 An iron maiden loaded to Torture Chamber
+M 0 4189 1 4191 1 Load Ciquala's Undead Dragon
+M 0 4190 1 4192 1 Load the lich Ciquala
+E 0 4175 0 16 Ciquala's sword is loaded wielded of the lich Ciquala
+E 0 4176 0 12 Ciquala's robe is loaded about the shoulders of the lich Ciquala
+E 0 4177 0 17 Ciquala's staff is loaded held in the hands of the lich Ciquala
+G 0 4181 0 A large key is given to the lich Ciquala
+O 0 4193 0 4193 A humongous pile of gold loaded to Treasure Chamber of Ciquala
+O 0 4194 0 4193 A pile of gems loaded to Treasure Chamber of Ciquala
+M 0 4191 4 4194 2 Load Lich
+M 0 4191 4 4194 2 Load Lich
+M 0 4192 4 4194 2 Load vampire
+M 0 4192 4 4194 2 Load vampire
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,2672 @@
+#SKILL
+Name        reserved~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       0
+Race        0
+End
+
+#SKILL
+Name        acid blast~
+SpellFun    spell_acid_blast~
+Target      1
+MinPos      7
+MinMana     20
+Beats       12
+Damage      acid blast~
+MsgOff      !Acid Blast!~
+Race        0
+End
+
+#SKILL
+Name        armor~
+SpellFun    spell_armor~
+Target      2
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      You feel less armored.~
+Race        0
+End
+
+#SKILL
+Name        bless~
+SpellFun    spell_bless~
+Target      5
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      You feel less righteous.~
+MsgObj      $p's holy aura fades.~
+Race        0
+End
+
+#SKILL
+Name        blindness~
+SpellFun    spell_blindness~
+Target      1
+MinPos      7
+MinMana     5
+Beats       12
+MsgOff      You can see again.~
+Race        0
+End
+
+#SKILL
+Name        water breathing~
+SpellFun    spell_water_breathing~
+Target      2
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      You begin to breath normally again.~
+Race        0
+End
+
+#SKILL
+Name        burning hands~
+SpellFun    spell_burning_hands~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+Damage      burning hands~
+MsgOff      !Burning Hands!~
+Race        0
+End
+
+#SKILL
+Name        call lightning~
+SpellFun    spell_call_lightning~
+Target      0
+MinPos      7
+MinMana     15
+Beats       12
+Damage      lightning bolt~
+MsgOff      !Call Lightning!~
+Race        0
+End
+
+#SKILL
+Name        calm~
+SpellFun    spell_calm~
+Target      0
+MinPos      7
+MinMana     30
+Beats       12
+MsgOff      You have lost your peace of mind.~
+Race        0
+End
+
+#SKILL
+Name        cancellation~
+SpellFun    spell_cancellation~
+Target      2
+MinPos      7
+MinMana     20
+Beats       12
+Damage      !cancellation!~
+Race        0
+End
+
+#SKILL
+Name        cause critical~
+SpellFun    spell_cause_critical~
+Target      1
+MinPos      7
+MinMana     20
+Beats       12
+Damage      spell~
+MsgOff      !Cause Critical!~
+Race        0
+End
+
+#SKILL
+Name        cause light~
+SpellFun    spell_cause_light~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+Damage      spell~
+MsgOff      !Cause Light!~
+Race        0
+End
+
+#SKILL
+Name        cause serious~
+SpellFun    spell_cause_serious~
+Target      1
+MinPos      7
+MinMana     17
+Beats       12
+Damage      spell~
+MsgOff      !Cause Serious!~
+Race        0
+End
+
+#SKILL
+Name        chain lightning~
+SpellFun    spell_chain_lightning~
+Target      1
+MinPos      7
+MinMana     25
+Beats       12
+Damage      lightning~
+MsgOff      !Chain Lightning!~
+Race        0
+End
+
+#SKILL
+Name        change sex~
+SpellFun    spell_change_sex~
+Target      2
+MinPos      7
+MinMana     15
+Beats       12
+MsgOff      Your body feels familiar again.~
+Race        0
+End
+
+#SKILL
+Name        charm person~
+SpellFun    spell_charm_person~
+Target      1
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      You feel more self-confident.~
+Race        0
+End
+
+#SKILL
+Name        chill touch~
+SpellFun    spell_chill_touch~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+Damage      chilling touch~
+MsgOff      You feel less cold.~
+Race        0
+End
+
+#SKILL
+Name        color spray~
+SpellFun    spell_color_spray~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+Damage      color spray~
+MsgOff      !Color Spray!~
+Race        0
+End
+
+#SKILL
+Name        continual light~
+SpellFun    spell_continual_light~
+Target      0
+MinPos      8
+MinMana     7
+Beats       12
+MsgOff      !Continual Light!~
+Race        0
+End
+
+#SKILL
+Name        control weather~
+SpellFun    spell_control_weather~
+Target      0
+MinPos      8
+MinMana     25
+Beats       12
+MsgOff      !Control Weather!~
+Race        0
+End
+
+#SKILL
+Name        create food~
+SpellFun    spell_create_food~
+Target      0
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      !Create Food!~
+Race        0
+End
+
+#SKILL
+Name        create rose~
+SpellFun    spell_create_rose~
+Target      0
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      !Create Rose!~
+Race        0
+End
+
+#SKILL
+Name        create spring~
+SpellFun    spell_create_spring~
+Target      0
+MinPos      8
+MinMana     20
+Beats       12
+MsgOff      !Create Spring!~
+Race        0
+End
+
+#SKILL
+Name        create water~
+SpellFun    spell_create_water~
+Target      4
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      !Create Water!~
+Race        0
+End
+
+#SKILL
+Name        cure blindness~
+SpellFun    spell_cure_blindness~
+Target      2
+MinPos      7
+MinMana     5
+Beats       12
+MsgOff      !Cure Blindness!~
+Race        0
+End
+
+#SKILL
+Name        cure critical~
+SpellFun    spell_cure_critical~
+Target      2
+MinPos      7
+MinMana     20
+Beats       12
+MsgOff      !Cure Critical!~
+Race        0
+End
+
+#SKILL
+Name        cure disease~
+SpellFun    spell_cure_disease~
+Target      2
+MinPos      8
+MinMana     20
+Beats       12
+MsgOff      !Cure Disease!~
+Race        0
+End
+
+#SKILL
+Name        cure light~
+SpellFun    spell_cure_light~
+Target      2
+MinPos      7
+MinMana     10
+Beats       12
+MsgOff      !Cure Light!~
+Race        0
+End
+
+#SKILL
+Name        cure poison~
+SpellFun    spell_cure_poison~
+Target      2
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      !Cure Poison!~
+Race        0
+End
+
+#SKILL
+Name        cure serious~
+SpellFun    spell_cure_serious~
+Target      2
+MinPos      7
+MinMana     15
+Beats       12
+MsgOff      !Cure Serious!~
+Race        0
+End
+
+#SKILL
+Name        curse~
+SpellFun    spell_curse~
+Target      6
+MinPos      7
+MinMana     20
+Beats       12
+Damage      curse~
+MsgOff      The curse wears off.~
+MsgObj      $p is no longer impure.~
+Race        0
+End
+
+#SKILL
+Name        demonfire~
+SpellFun    spell_demonfire~
+Target      1
+MinPos      7
+MinMana     20
+Beats       12
+Damage      torments~
+MsgOff      !Demonfire!~
+Race        0
+End
+
+#SKILL
+Name        detect evil~
+SpellFun    spell_detect_evil~
+Target      3
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      The red in your vision disappears.~
+Race        0
+End
+
+#SKILL
+Name        detect good~
+SpellFun    spell_detect_good~
+Target      3
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      The gold in your vision disappears.~
+Race        0
+End
+
+#SKILL
+Name        detect hidden~
+SpellFun    spell_detect_hidden~
+Target      3
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      You feel less aware of your surroundings.~
+Race        0
+End
+
+#SKILL
+Name        detect invis~
+SpellFun    spell_detect_invis~
+Target      3
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      You no longer see invisible objects.~
+Race        0
+End
+
+#SKILL
+Name        detect magic~
+SpellFun    spell_detect_magic~
+Target      3
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      The detect magic wears off.~
+Race        0
+End
+
+#SKILL
+Name        detect poison~
+SpellFun    spell_detect_poison~
+Target      4
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      !Detect Poison!~
+Race        0
+End
+
+#SKILL
+Name        dispel evil~
+SpellFun    spell_dispel_evil~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+Damage      dispel evil~
+MsgOff      !Dispel Evil!~
+Race        0
+End
+
+#SKILL
+Name        dispel good~
+SpellFun    spell_dispel_good~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+Damage      dispel good~
+MsgOff      !Dispel Good!~
+Race        0
+End
+
+#SKILL
+Name        dispel magic~
+SpellFun    spell_dispel_magic~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+MsgOff      !Dispel Magic!~
+Race        0
+End
+
+#SKILL
+Name        earthquake~
+SpellFun    spell_earthquake~
+Target      0
+MinPos      7
+MinMana     15
+Beats       12
+Damage      earthquake~
+MsgOff      !Earthquake!~
+Race        0
+End
+
+#SKILL
+Name        enchant armor~
+SpellFun    spell_enchant_armor~
+Target      4
+MinPos      8
+MinMana     100
+Beats       12
+MsgOff      !Enchant Armor!~
+Race        0
+End
+
+#SKILL
+Name        enchant weapon~
+SpellFun    spell_enchant_weapon~
+Target      4
+MinPos      8
+MinMana     100
+Beats       12
+MsgOff      !Enchant Weapon!~
+Race        0
+End
+
+#SKILL
+Name        enchant person~
+SpellFun    spell_enchant_person~
+Target      2
+MinPos      8
+MinMana     25
+Beats       24
+Damage      enchant person~
+MsgOff      The translucent blue aura around your body fades.~
+Race        0
+End
+
+#SKILL
+Name        withering enchant~
+SpellFun    spell_withering_enchant~
+Target      4
+MinPos      8
+MinMana     25
+Beats       24
+MsgOff      !Withering Enchant!~
+Race        0
+End
+
+#SKILL
+Name        sequestor~
+SpellFun    spell_sequestor~
+Target      4
+MinPos      8
+MinMana     50
+Beats       24
+MsgOff      !Sequestor!~
+Race        0
+End
+
+#SKILL
+Name        interlace spirit~
+SpellFun    spell_interlace_spirit~
+Target      4
+MinPos      8
+MinMana     25
+Beats       24
+MsgOff      !Interlace Spirit!~
+Race        0
+End
+
+#SKILL
+Name        wizard mark~
+SpellFun    spell_wizard_mark~
+Target      4
+MinPos      8
+MinMana     150
+Beats       24
+MsgOff      !Wizard Mark!~
+Race        0
+End
+
+#SKILL
+Name        enchant gem~
+SpellFun    spell_enchant_gem~
+Target      4
+MinPos      8
+MinMana     25
+Beats       24
+MsgOff      !Enchant Gem!~
+Race        0
+End
+
+#SKILL
+Name        restore weapon~
+SpellFun    spell_restore_weapon~
+Target      4
+MinPos      8
+MinMana     25
+Beats       24
+MsgOff      !Restore Weapon!~
+Race        0
+End
+
+#SKILL
+Name        restore armor~
+SpellFun    spell_restore_armor~
+Target      4
+MinPos      8
+MinMana     25
+Beats       24
+MsgOff      !Restore Armor!~
+Race        0
+End
+
+#SKILL
+Name        disenchant~
+SpellFun    spell_disenchant~
+Target      4
+MinPos      8
+MinMana     10
+Beats       24
+MsgOff      !Disenchant!~
+Race        0
+End
+
+#SKILL
+Name        energy drain~
+SpellFun    spell_energy_drain~
+Target      1
+MinPos      7
+MinMana     35
+Beats       12
+Damage      energy drain~
+MsgOff      !Energy Drain!~
+Race        0
+End
+
+#SKILL
+Name        faerie fire~
+SpellFun    spell_faerie_fire~
+Target      1
+MinPos      7
+MinMana     5
+Beats       12
+Damage      faerie fire~
+MsgOff      The pink aura around you fades away.~
+Race        0
+End
+
+#SKILL
+Name        faerie fog~
+SpellFun    spell_faerie_fog~
+Target      0
+MinPos      8
+MinMana     12
+Beats       12
+Damage      faerie fog~
+MsgOff      !Faerie Fog!~
+Race        0
+End
+
+#SKILL
+Name        farsight~
+SpellFun    spell_farsight~
+Target      0
+MinPos      8
+MinMana     10
+Beats       20
+Damage      farsight~
+MsgOff      !Farsight!~
+Race        0
+End
+
+#SKILL
+Name        fireball~
+SpellFun    spell_fireball~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+Damage      fireball~
+MsgOff      !Fireball!~
+Race        0
+Ranged       1
+End
+
+#SKILL
+Name        ice blast~
+SpellFun    spell_ice_blast~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+Damage      ice blast~
+MsgOff      !Ice Blast!~
+Race        0
+Ranged       1
+End
+
+#SKILL
+Name        fireproof~
+SpellFun    spell_fireproof~
+Target      4
+MinPos      8
+MinMana     10
+Beats       12
+MsgObj      $p's protective aura fades.~
+Race        0
+End
+
+#SKILL
+Name        flamestrike~
+SpellFun    spell_flamestrike~
+Target      1
+MinPos      7
+MinMana     20
+Beats       12
+Damage      flamestrike~
+MsgOff      !Flamestrike!~
+Race        0
+End
+
+#SKILL
+Name        fly~
+SpellFun    spell_fly~
+Target      2
+MinPos      8
+MinMana     10
+Beats       18
+MsgOff      You slowly float to the ground.~
+Race        0
+End
+
+#SKILL
+Name        floating disc~
+SpellFun    spell_floating_disc~
+Target      0
+MinPos      8
+MinMana     40
+Beats       24
+MsgOff      !Floating disc!~
+Race        0
+End
+
+#SKILL
+Name        frenzy~
+SpellFun    spell_frenzy~
+Target      2
+MinPos      8
+MinMana     30
+Beats       24
+MsgOff      Your rage ebbs.~
+Race        0
+End
+
+#SKILL
+Name        gate~
+SpellFun    spell_gate~
+Target      0
+MinPos      7
+MinMana     80
+Beats       12
+MsgOff      !Gate!~
+Race        0
+End
+
+#SKILL
+Name        giant strength~
+SpellFun    spell_giant_strength~
+Target      2
+MinPos      8
+MinMana     20
+Beats       12
+MsgOff      You feel weaker.~
+Race        0
+End
+
+#SKILL
+Name        harm~
+SpellFun    spell_harm~
+Target      1
+MinPos      7
+MinMana     35
+Beats       12
+Damage      harm spell~
+MsgOff      !Harm!,        ~
+Race        0
+End
+
+#SKILL
+Name        haste~
+SpellFun    spell_haste~
+Target      2
+MinPos      7
+MinMana     30
+Beats       12
+MsgOff      You feel yourself slow down.~
+Race        0
+End
+
+#SKILL
+Name        heal~
+SpellFun    spell_heal~
+Target      2
+MinPos      7
+MinMana     50
+Beats       12
+MsgOff      !Heal!~
+Race        0
+End
+
+#SKILL
+Name        heat metal~
+SpellFun    spell_heat_metal~
+Target      1
+MinPos      7
+MinMana     25
+Beats       18
+Damage      spell~
+MsgOff      !Heat Metal!~
+Race        0
+End
+
+#SKILL
+Name        holy word~
+SpellFun    spell_holy_word~
+Target      0
+MinPos      7
+MinMana     200
+Beats       24
+Damage      divine wrath~
+MsgOff      !Holy Word!~
+Race        0
+End
+
+#SKILL
+Name        identify~
+SpellFun    spell_identify~
+Target      4
+MinPos      8
+MinMana     12
+Beats       24
+MsgOff      !Identify!~
+Race        0
+End
+
+#SKILL
+Name        infravision~
+SpellFun    spell_infravision~
+Target      2
+MinPos      8
+MinMana     5
+Beats       18
+MsgOff      You no longer see in the dark.~
+Race        0
+End
+
+#SKILL
+Name        invisibility~
+SpellFun    spell_invis~
+Target      5
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      You are no longer invisible.~
+MsgObj      $p fades into view.~
+Race        0
+End
+
+#SKILL
+Name        know alignment~
+SpellFun    spell_know_alignment~
+Target      2
+MinPos      7
+MinMana     9
+Beats       12
+MsgOff      !Know Alignment!~
+Race        0
+End
+
+#SKILL
+Name        lightning bolt~
+SpellFun    spell_lightning_bolt~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+Damage      lightning bolt~
+MsgOff      !Lightning Bolt!~
+Race        0
+Ranged       1
+End
+
+#SKILL
+Name        locate object~
+SpellFun    spell_locate_object~
+Target      0
+MinPos      8
+MinMana     20
+Beats       18
+MsgOff      !Locate Object!~
+Race        0
+End
+
+#SKILL
+Name        magic missile~
+SpellFun    spell_magic_missile~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+Damage      magic missile~
+MsgOff      !Magic Missile!~
+Race        0
+Ranged       1
+End
+
+#SKILL
+Name        mass healing~
+SpellFun    spell_mass_healing~
+Target      0
+MinPos      8
+MinMana     100
+Beats       36
+MsgOff      !Mass Healing!~
+Race        0
+End
+
+#SKILL
+Name        mass invisibility~
+SpellFun    spell_mass_invis~
+Target      0
+MinPos      8
+MinMana     20
+Beats       24
+MsgOff      You are no longer invisible.~
+Race        0
+End
+
+#SKILL
+Name        nexus~
+SpellFun    spell_nexus~
+Target      0
+MinPos      8
+MinMana     150
+Beats       36
+MsgOff      !Nexus!~
+Race        0
+End
+
+#SKILL
+Name        pass door~
+SpellFun    spell_pass_door~
+Target      3
+MinPos      8
+MinMana     20
+Beats       12
+MsgOff      You feel solid again.~
+Race        0
+End
+
+#SKILL
+Name        plague~
+SpellFun    spell_plague~
+Target      1
+MinPos      7
+MinMana     20
+Beats       12
+Damage      sickness~
+MsgOff      Your sores vanish.~
+Race        0
+End
+
+#SKILL
+Name        poison~
+SpellFun    spell_poison~
+Target      6
+MinPos      7
+MinMana     10
+Beats       12
+Damage      poison~
+MsgOff      You feel less sick.~
+MsgObj      The poison on $p dries up.~
+Race        0
+End
+
+#SKILL
+Name        portal~
+SpellFun    spell_portal~
+Target      0
+MinPos      8
+MinMana     100
+Beats       24
+MsgOff      !Portal!~
+Race        0
+End
+
+#SKILL
+Name        protection evil~
+SpellFun    spell_protection_evil~
+Target      3
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      You feel less protected.~
+Race        0
+End
+
+#SKILL
+Name        protection good~
+SpellFun    spell_protection_good~
+Target      3
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      You feel less protected.~
+Race        0
+End
+
+#SKILL
+Name        ray of truth~
+SpellFun    spell_ray_of_truth~
+Target      1
+MinPos      7
+MinMana     20
+Beats       12
+Damage      ray of truth~
+MsgOff      !Ray of Truth!~
+Race        0
+End
+
+#SKILL
+Name        recharge~
+SpellFun    spell_recharge~
+Target      4
+MinPos      8
+MinMana     60
+Beats       24
+MsgOff      !Recharge!~
+Race        0
+End
+
+#SKILL
+Name        refresh~
+SpellFun    spell_refresh~
+Target      2
+MinPos      8
+MinMana     12
+Beats       18
+Damage      refresh~
+MsgOff      !Refresh!~
+Race        0
+End
+
+#SKILL
+Name        remove curse~
+SpellFun    spell_remove_curse~
+Target      5
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      !Remove Curse!~
+Race        0
+End
+
+#SKILL
+Name        sanctuary~
+SpellFun    spell_sanctuary~
+Target      2
+MinPos      8
+MinMana     75
+Beats       12
+MsgOff      The white aura around your body fades.~
+Race        0
+End
+
+#SKILL
+Name        shield~
+SpellFun    spell_shield~
+Target      2
+MinPos      8
+MinMana     12
+Beats       18
+MsgOff      Your force shield shimmers then fades away.~
+Race        0
+End
+
+#SKILL
+Name        shocking grasp~
+SpellFun    spell_shocking_grasp~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+Damage      shocking grasp~
+MsgOff      !Shocking Grasp!~
+Race        0
+End
+
+#SKILL
+Name        sleep~
+SpellFun    spell_sleep~
+Target      1
+MinPos      8
+MinMana     15
+Beats       12
+MsgOff      You feel less tired.~
+Race        0
+End
+
+#SKILL
+Name        slow~
+SpellFun    spell_slow~
+Target      1
+MinPos      7
+MinMana     30
+Beats       12
+MsgOff      You feel yourself speed up.~
+Race        0
+End
+
+#SKILL
+Name        stone skin~
+SpellFun    spell_stone_skin~
+Target      3
+MinPos      8
+MinMana     12
+Beats       18
+MsgOff      Your skin feels soft again.~
+Race        0
+End
+
+#SKILL
+Name        summon~
+SpellFun    spell_summon~
+Target      0
+MinPos      8
+MinMana     50
+Beats       12
+MsgOff      !Summon!~
+Race        0
+End
+
+#SKILL
+Name        teleport~
+SpellFun    spell_teleport~
+Target      2
+MinPos      7
+MinMana     35
+Beats       12
+MsgOff      !Teleport!~
+Race        0
+End
+
+#SKILL
+Name        ventriloquate~
+SpellFun    spell_ventriloquate~
+Target      0
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      !Ventriloquate!~
+Race        0
+End
+
+#SKILL
+Name        weaken~
+SpellFun    spell_weaken~
+Target      1
+MinPos      7
+MinMana     20
+Beats       12
+Damage      spell~
+MsgOff      You feel stronger.~
+Race        0
+End
+
+#SKILL
+Name        word of recall~
+SpellFun    spell_word_of_recall~
+Target      3
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      !Word of Recall!~
+Race        0
+End
+
+#SKILL
+Name        acid breath~
+SpellFun    spell_acid_breath~
+Target      1
+MinPos      7
+MinMana     100
+Beats       24
+Damage      blast of acid~
+MsgOff      !Acid Breath!~
+Race        0
+End
+
+#SKILL
+Name        fire breath~
+SpellFun    spell_fire_breath~
+Target      1
+MinPos      7
+MinMana     200
+Beats       24
+Damage      blast of flame~
+MsgOff      The smoke leaves your eyes.~
+Race        0
+End
+
+#SKILL
+Name        frost breath~
+SpellFun    spell_frost_breath~
+Target      1
+MinPos      7
+MinMana     125
+Beats       24
+Damage      blast of frost~
+MsgOff      !Frost Breath!~
+Race        0
+End
+
+#SKILL
+Name        gas breath~
+SpellFun    spell_gas_breath~
+Target      0
+MinPos      7
+MinMana     175
+Beats       24
+Damage      blast of gas~
+MsgOff      !Gas Breath!~
+Race        0
+End
+
+#SKILL
+Name        lightning breath~
+SpellFun    spell_lightning_breath~
+Target      1
+MinPos      7
+MinMana     150
+Beats       24
+Damage      blast of lightning~
+MsgOff      !Lightning Breath!~
+Race        0
+End
+
+#SKILL
+Name        general purpose~
+SpellFun    spell_general_purpose~
+Target      1
+MinPos      7
+MinMana     0
+Beats       12
+Damage      general purpose ammo~
+MsgOff      !General Purpose Ammo!~
+Race        0
+End
+
+#SKILL
+Name        high explosive~
+SpellFun    spell_high_explosive~
+Target      1
+MinPos      7
+MinMana     0
+Beats       12
+Damage      high explosive ammo~
+MsgOff      !High Explosive Ammo!~
+Race        0
+End
+
+#SKILL
+Name        locate wizard mark~
+SpellFun    spell_locate_wizard_mark~
+Target      0
+MinPos      8
+MinMana     20
+Beats       18
+MsgOff      !Locate Wizard Mark!~
+Race        0
+End
+
+#SKILL
+Name        axe~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Axe!~
+Race        0
+End
+
+#SKILL
+Name        dagger~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Dagger!~
+Race        0
+End
+
+#SKILL
+Name        flail~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Flail!~
+Race        0
+End
+
+#SKILL
+Name        mace~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Mace!~
+Race        0
+End
+
+#SKILL
+Name        polearm~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Polearm!~
+Race        0
+End
+
+#SKILL
+Name        shield block~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Shield!~
+Race        0
+End
+
+#SKILL
+Name        spear~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Spear!~
+Race        0
+End
+
+#SKILL
+Name        sword~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !sword!~
+Race        0
+End
+
+#SKILL
+Name        whip~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Whip!~
+Race        0
+End
+
+#SKILL
+Name        backstab~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       24
+Damage      backstab~
+MsgOff      !Backstab!~
+Race        0
+End
+
+#SKILL
+Name        bash~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       24
+Damage      bash~
+MsgOff      !Bash!~
+Race        0
+End
+
+#SKILL
+Name        berserk~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       24
+MsgOff      You feel your pulse slow down.~
+Race        0
+End
+
+#SKILL
+Name        dirt kicking~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       24
+Damage      kicked dirt~
+MsgOff      You rub the dirt out of your eyes.~
+Race        0
+End
+
+#SKILL
+Name        disarm~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       24
+MsgOff      !Disarm!~
+Race        0
+End
+
+#SKILL
+Name        dodge~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Dodge!~
+Race        0
+End
+
+#SKILL
+Name        enhanced damage~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Enhanced Damage!~
+Race        0
+End
+
+#SKILL
+Name        envenom~
+SpellFun    spell_null~
+Target      0
+MinPos      5
+MinMana     0
+Beats       36
+MsgOff      !Envenom!~
+Race        0
+End
+
+#SKILL
+Name        hand to hand~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Hand to Hand!~
+Race        0
+End
+
+#SKILL
+Name        kick~
+SpellFun    spell_null~
+Target      1
+MinPos      7
+MinMana     0
+Beats       12
+Damage      kick~
+MsgOff      !Kick!~
+Race        0
+End
+
+#SKILL
+Name        parry~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Parry!~
+Race        0
+End
+
+#SKILL
+Name        rescue~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       12
+MsgOff      !Rescue!~
+Race        0
+End
+
+#SKILL
+Name        trip~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       24
+Damage      trip~
+MsgOff      !Trip!~
+Race        0
+End
+
+#SKILL
+Name        second attack~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Second Attack!~
+Race        0
+End
+
+#SKILL
+Name        third attack~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Third Attack!~
+Race        0
+End
+
+#SKILL
+Name        fast healing~
+SpellFun    spell_null~
+Target      0
+MinPos      4
+MinMana     0
+Beats       0
+MsgOff      !Fast Healing!~
+Race        0
+End
+
+#SKILL
+Name        haggle~
+SpellFun    spell_null~
+Target      0
+MinPos      5
+MinMana     0
+Beats       0
+MsgOff      !Haggle!~
+Race        0
+End
+
+#SKILL
+Name        hide~
+SpellFun    spell_null~
+Target      0
+MinPos      5
+MinMana     0
+Beats       12
+MsgOff      !Hide!~
+Race        0
+End
+
+#SKILL
+Name        lore~
+SpellFun    spell_null~
+Target      0
+MinPos      5
+MinMana     0
+Beats       12
+MsgOff      !Lore!~
+Race        0
+End
+
+#SKILL
+Name        meditation~
+SpellFun    spell_null~
+Target      0
+MinPos      4
+MinMana     0
+Beats       0
+MsgOff      Meditation~
+Race        0
+End
+
+#SKILL
+Name        peek~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       0
+MsgOff      !Peek!~
+Race        0
+End
+
+#SKILL
+Name        pick lock~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       12
+MsgOff      !Pick!~
+Race        0
+End
+
+#SKILL
+Name        sneak~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       12
+MsgOff      You no longer feel stealthy.~
+Race        0
+End
+
+#SKILL
+Name        steal~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       24
+MsgOff      !Steal!~
+Race        0
+End
+
+#SKILL
+Name        scrolls~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       24
+MsgOff      !Scrolls!~
+Race        0
+End
+
+#SKILL
+Name        staves~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       12
+MsgOff      !Staves!~
+Race        0
+End
+
+#SKILL
+Name        wands~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       12
+MsgOff      !Wands!~
+Race        0
+End
+
+#SKILL
+Name        recall~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       12
+MsgOff      !Recall!~
+Race        0
+End
+
+#SKILL
+Name        dual wield~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       12
+MsgOff      !Dual Wield!~
+Race        0
+End
+
+#SKILL
+Name        spellcraft~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       0
+MsgOff      !Spellcraft!~
+Race        0
+End
+
+#SKILL
+Name        swim~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+Race        0
+End
+
+#SKILL
+Name        waves of weariness~
+SpellFun    spell_waves_of_weariness~
+Target      1
+MinPos      8
+MinMana     20
+Beats       12
+MsgOff      You feel less weary.~
+Race        0
+End
+
+#SKILL
+Name        sacrificial heal~
+SpellFun    spell_sacrificial_heal~
+Target      2
+MinPos      8
+MinMana     250
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        mass refresh~
+SpellFun    spell_mass_refresh~
+Target      2
+MinPos      8
+MinMana     15
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        vitalizing presence~
+SpellFun    spell_vitalizing_presence~
+Target      2
+MinPos      8
+MinMana     25
+Beats       12
+MsgOff      You feel the vitalizing presence leave your body.~
+Race        0
+End
+
+#SKILL
+Name        life boost~
+SpellFun    spell_life_boost~
+Target      2
+MinPos      8
+MinMana     10
+Beats       12
+MsgOff      You no longer feel as vitalized.~
+Race        0
+End
+
+#SKILL
+Name        magic resistance~
+SpellFun    spell_magic_resistance~
+Target      3
+MinPos      8
+MinMana     25
+Beats       12
+MsgOff      You no longer have a resistance to magic.~
+Race        0
+End
+
+#SKILL
+Name        mana transfer~
+SpellFun    spell_mana_transfer~
+Target      2
+MinPos      8
+MinMana     50
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        cure weaken~
+SpellFun    spell_cure_weaken~
+Target      2
+MinPos      8
+MinMana     10
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        restore mental presence~
+SpellFun    spell_restore_mental_presence~
+Target      2
+MinPos      8
+MinMana     10
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        sense affliction~
+SpellFun    spell_sense_affliction~
+Target      3
+MinPos      8
+MinMana     20
+Beats       12
+MsgOff      You can no longer sense those that are afflicted.~
+Race        0
+End
+
+#SKILL
+Name        cure slow~
+SpellFun    spell_cure_slow~
+Target      2
+MinPos      8
+MinMana     10
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        immortal blessing~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+Race        0
+End
+
+#SKILL
+Name        nourishment~
+SpellFun    spell_nourishment~
+Target      2
+MinPos      0
+MinMana     5
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        enhanced recovery~
+SpellFun    spell_enhanced_recovery~
+Target      2
+MinPos      8
+MinMana     20
+Beats       12
+MsgOff      The enhanced recovery leaves your body.~
+Race        0
+End
+
+#SKILL
+Name        dirge~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      You are no longer affected by the mystic dirge.~
+Race        0
+End
+
+#SKILL
+Name        disorientation~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+MsgOff      You feel less disoriented.~
+Race        0
+End
+
+#SKILL
+Name        blind fighting~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+Race        0
+End
+
+#SKILL
+Name        song of protection~
+SpellFun    spell_song_of_protection~
+Target      2
+MinPos      8
+MinMana     5
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        healers bind~
+SpellFun    spell_healers_bind~
+Target      0
+MinPos      8
+MinMana     200
+Beats       36
+Race        0
+End
+
+#SKILL
+Name        song of dissonance~
+SpellFun    spell_song_of_dissonance~
+Target      0
+MinPos      7
+MinMana     25
+Beats       12
+MsgOff      You can hear again.~
+Race        0
+End
+
+#SKILL
+Name        cure deafness~
+SpellFun    spell_cure_deafness~
+Target      2
+MinPos      8
+MinMana     10
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        enhanced recall~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+MsgOff      !Enhanced Recall!~
+Race        0
+End
+
+#SKILL
+Name        disorient~
+SpellFun    spell_null~
+Target      1
+MinPos      7
+MinMana     0
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        remove faerie fire~
+SpellFun    spell_remove_faerie_fire~
+Target      2
+MinPos      7
+MinMana     10
+Beats       12
+MsgOff      !Remove Faerie Fire!~
+Race        0
+End
+
+#SKILL
+Name        gore~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       36
+Damage      gore~
+Race        14
+End
+
+#SKILL
+Name        ghost~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+MsgOff      You return to your corporeal form.~
+Race        0
+End
+
+#SKILL
+Name        acute vision~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+Race        0
+End
+
+#SKILL
+Name        track~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       6
+Race        0
+End
+
+#SKILL
+Name        butcher~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        bandage~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        bark skin~
+SpellFun    spell_bark_skin~
+Target      3
+MinPos      8
+MinMana     15
+Beats       12
+MsgOff      Your skin loses it's bark like texture.~
+Race        0
+End
+
+#SKILL
+Name        self growth~
+SpellFun    spell_self_growth~
+Target      3
+MinPos      0
+MinMana     30
+Beats       12
+MsgOff      You feel less vitalized.~
+Race        0
+End
+
+#SKILL
+Name        quiet movement~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       0
+MsgOff      You are no longer moving quietly.~
+Race        0
+End
+
+#SKILL
+Name        camping~
+SpellFun    spell_null~
+Target      0
+MinPos      4
+MinMana     0
+Beats       12
+MsgOff      You break camp.~
+Race        0
+End
+
+#SKILL
+Name        camouflage~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       0
+MsgOff      You are no longer camouflaged.~
+Race        0
+End
+
+#SKILL
+Name        ambush~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       12
+Damage      ambush~
+Race        0
+End
+
+#SKILL
+Name        find water~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       6
+Race        0
+End
+
+#SKILL
+Name        fog~
+SpellFun    spell_fog~
+Target      0
+MinPos      8
+MinMana     20
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        dispel fog~
+SpellFun    spell_dispel_fog~
+Target      0
+MinPos      8
+MinMana     10
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        locate bind~
+SpellFun    spell_locate_bind~
+Target      0
+MinPos      8
+MinMana     10
+Beats       12
+MsgOff      !Locate Bind!~
+Race        0
+End
+
+#SKILL
+Name        poison prick~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       24
+MsgOff      The rogue's poison leaves your body.~
+Race        0
+End
+
+#SKILL
+Name        shiv~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       24
+Damage      shiv~
+Race        0
+End
+
+#SKILL
+Name        protection neutral~
+SpellFun    spell_protection_neutral~
+Target      3
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      You feel less protected.~
+Race        0
+End
+
+#SKILL
+Name        escape~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+Race        0
+End
+
+#SKILL
+Name        peer~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       6
+Race        0
+End
+
+#SKILL
+Name        bludgeon~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        revolt~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       24
+Race        0
+End
+
+#SKILL
+Name        imbue~
+SpellFun    spell_imbue~
+Target      2
+MinPos      8
+MinMana     50
+Beats       12
+MsgOff      Your magical ability is no longer augmented.~
+Race        0
+End
+
+#SKILL
+Name        preserve~
+SpellFun    spell_preserve~
+Target      4
+MinPos      8
+MinMana     200
+Beats       12
+MsgOff      You feel the strain from preserve dissipate.~
+Race        0
+End
+
+#SKILL
+Name        psionic blast~
+SpellFun    spell_psionic_blast~
+Target      1
+MinPos      7
+MinMana     20
+Beats       12
+Damage      psionic blast~
+MsgOff      !Psionic Blast!~
+Race        0
+End
+
+#SKILL
+Name        healing dream~
+SpellFun    spell_healing_dream~
+Target      2
+MinPos      8
+MinMana     40
+Beats       12
+MsgOff      The healing dream begins to fade.~
+Race        0
+End
+
+#SKILL
+Name        mental weight~
+SpellFun    spell_mental_weight~
+Target      1
+MinPos      8
+MinMana     30
+Beats       12
+MsgOff      You feel the mental burden lift away.~
+Race        0
+End
+
+#SKILL
+Name        forget~
+SpellFun    spell_forget~
+Target      1
+MinPos      8
+MinMana     20
+Beats       12
+MsgOff      Your mind feels clear again.~
+Race        0
+End
+
+#SKILL
+Name        psionic focus~
+SpellFun    spell_psionic_focus~
+Target      2
+MinPos      8
+MinMana     20
+Beats       0
+MsgOff      The psionic focus wears off.~
+Race        0
+End
+
+#SKILL
+Name        clairvoyance~
+SpellFun    spell_clairvoyance~
+Target      0
+MinPos      8
+MinMana     150
+Beats       0
+MsgOff      Your clairvoyance has faded.~
+Race        0
+End
+
+#SKILL
+Name        psionic shield~
+SpellFun    spell_psionic_shield~
+Target      2
+MinPos      8
+MinMana     10
+Beats       12
+MsgOff      The psionic shield surrounding you dissipates.~
+Race        0
+End
+
+#SKILL
+Name        boost~
+SpellFun    spell_boost~
+Target      0
+MinPos      8
+MinMana     20
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        prayer~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+MsgOff      You feel the wisdom from your god fade.~
+Race        0
+End
+
+#SKILL
+Name        agony~
+SpellFun    spell_agony~
+Target      1
+MinPos      7
+MinMana     10
+Beats       12
+Damage      agony~
+MsgOff      You feel the veil of agony lift.~
+Race        0
+End
+
+#SKILL
+Name        holy presence~
+SpellFun    spell_holy_presence~
+Target      2
+MinPos      8
+MinMana     20
+Beats       12
+MsgOff      The holy presence protecting you fades.~
+Race        0
+End
+
+#SKILL
+Name        displacement~
+SpellFun    spell_displacement~
+Target      1
+MinPos      8
+MinMana     20
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        holy flame~
+SpellFun    spell_holy_flame~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+Damage      holy flame~
+MsgOff      The holy flames around you subside.~
+Race        0
+Ranged       1
+End
+
+#SKILL
+Name        divine wisdom~
+SpellFun    spell_divine_wisdom~
+Target      2
+MinPos      8
+MinMana     10
+Beats       12
+MsgOff      The divine wisdom leaves your soul.~
+Race        0
+End
+
+#SKILL
+Name        know religion~
+SpellFun    spell_know_religion~
+Target      2
+MinPos      8
+MinMana     5
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        guardian angel~
+SpellFun    spell_guardian_angel~
+Target      0
+MinPos      7
+MinMana     50
+Beats       12
+MsgOff      The guardian angel fades from existence.~
+Race        0
+End
+
+#SKILL
+Name        water walk~
+SpellFun    spell_water_walk~
+Target      3
+MinPos      8
+MinMana     20
+Beats       12
+MsgOff      You feel the blessing of water walking fade.~
+Race        0
+End
+
+#SKILL
+Name        fourth attack~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       0
+MsgOff      !Fourth Attack!~
+Race        0
+End
+
+#SKILL
+Name        warcry~
+SpellFun    spell_null~
+Target      0
+MinPos      7
+MinMana     0
+Beats       24
+MsgOff      You feel your pulse slow down.~
+Race        0
+End
+
+#SKILL
+Name        cleanse~
+SpellFun    spell_null~
+Target      0
+MinPos      5
+MinMana     0
+Beats       24
+MsgOff      !Cleanse!~
+Race        0
+End
+
+#SKILL
+Name        natural refresh~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+Race        0
+End
+
+#SKILL
+Name        power swing~
+SpellFun    spell_null~
+Target      1
+MinPos      7
+MinMana     0
+Beats       24
+Damage      power swing~
+MsgOff      !Powerswing!~
+Race        0
+End
+
+#SKILL
+Name        second wind~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+Race        0
+End
+
+#SKILL
+Name        magic protection~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+MsgOff      Your magical protection fades.~
+Race        0
+End
+
+#SKILL
+Name        precision striking~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+Race        0
+End
+
+#SKILL
+Name        stab~
+SpellFun    spell_null~
+Target      1
+MinPos      7
+MinMana     0
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        detect fireproof~
+SpellFun    spell_detect_fireproof~
+Target      3
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      You are no longer able to detect fireproofed items.~
+Race        0
+End
+
+#SKILL
+Name        survey terrain~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+MsgOff      !Survey Terrain!~
+Race        0
+End
+
+#SKILL
+Name        smoke bomb~
+SpellFun    spell_null~
+Target      0
+MinPos      8
+MinMana     0
+Beats       24
+MsgOff      !SmokeBomb!~
+Race        0
+End
+
+#SKILL
+Name        self projection~
+SpellFun    spell_self_projection~
+Target      3
+MinPos      8
+MinMana     10
+Beats       12
+MsgOff      Your projected image suddenly disappears.~
+Race        0
+End
+
+#SKILL
+Name        curse of the storm~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+MsgOff      The curse of the storm has lifted.~
+Race        0
+End
+
+#SKILL
+Name        dark vision~
+SpellFun    spell_dark_vision~
+Target      3
+MinPos      8
+MinMana     10
+Beats       12
+MsgOff      Your heightened sense of darkness fades.~
+Race        0
+End
+
+#SKILL
+Name        increase armor~
+SpellFun    spell_increase_armor~
+Target      2
+MinPos      8
+MinMana     10
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        knock~
+SpellFun    spell_knock~
+Target      0
+MinPos      8
+MinMana     50
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        increased damage~
+SpellFun    spell_null~
+Target      0
+MinPos      0
+MinMana     0
+Beats       0
+Race        0
+End
+
+#SKILL
+Name        extend portal~
+SpellFun    spell_extend_portal~
+Target      0
+MinPos      8
+MinMana     50
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        heaviness~
+SpellFun    spell_heaviness~
+Target      1
+MinPos      7
+MinMana     5
+Beats       12
+MsgOff      You feel the magical heaviness dissipate.~
+Race        0
+End
+
+#SKILL
+Name        feeble mind~
+SpellFun    spell_feeble_mind~
+Target      1
+MinPos      7
+MinMana     15
+Beats       12
+MsgOff      You feel clarity return to your mind.~
+Race        0
+End
+
+#SKILL
+Name        blink~
+SpellFun    spell_blink~
+Target      0
+MinPos      8
+MinMana     40
+Beats       12
+Race        0
+End
+
+#SKILL
+Name        mental presence~
+SpellFun    spell_mental_presence~
+Target      3
+MinPos      8
+MinMana     20
+Beats       0
+MsgOff      The aura of mental clarity surrounding you fades.~
+Race        0
+End
+
+#SKILL
+Name        poison spray~
+SpellFun    spell_poison_spray~
+Target      1
+MinPos      7
+MinMana     20
+Beats       12
+Damage      poison spray~
+Race        0
+End
+
+#SKILL
+Name        false life~
+SpellFun    spell_false_life~
+Target      3
+MinPos      8
+MinMana     5
+Beats       12
+MsgOff      The condition of your health is no longer obscured.~
+Race        0
+End
+
+#END

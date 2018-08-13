@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\act_comm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\act_info.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\act_move.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\act_obj.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\act_wiz.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ban.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\comm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\db.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\effects.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\fight.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\handler.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\interp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\lookup.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\magic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mob_cmds.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mob_prog.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\nanny.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\olc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\olc_act.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\olc_save.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\recycle.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\save.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\skills.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\special.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tables.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\update.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\act_mob.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\log.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\misc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\note.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\olc_bit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\olc_mem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\olc_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\random.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\alias.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\timer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\disable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ini.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\settings.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sha256.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\hunt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\name_generator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\experience.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\map.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\quest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sqlite\sqlite3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\login_menu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\clan.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\grid.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\nature.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\parchment.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\bank.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gsn.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\class_rogue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\class_ranger.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\class_healer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\class_mage.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\class_thief.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\class_warrior.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\class_cleric.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\class_psionicist.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\class_priest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\merit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\language.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\keeps.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\database_export.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\database.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\class_wizard.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\debug.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\reclass.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\class_barbarian.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\class_dirge.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\class_enchanter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\db.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\interp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\lookup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\magic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\merc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\mob_cmds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\olc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\recycle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\telnet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gsn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ini.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\sha256.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\sqlite\sqlite3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\grid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="area\air.are" />
+    <None Include="area\arachnos.are" />
+    <None Include="area\area.lst" />
+    <None Include="area\astral.are" />
+    <None Include="area\canyon.are" />
+    <None Include="area\catacomb.are" />
+    <None Include="area\chapel.are" />
+    <None Include="area\daycare.are" />
+    <None Include="area\draconia.are" />
+    <None Include="area\dream.are" />
+    <None Include="area\drow.are" />
+    <None Include="area\dwarven.are" />
+    <None Include="area\eastern.are" />
+    <None Include="area\galaxy.are" />
+    <None Include="area\gnome.are" />
+    <None Include="area\grave.are" />
+    <None Include="area\grove.are" />
+    <None Include="area\haon.are" />
+    <None Include="area\hitower.are" />
+    <None Include="area\hood.are" />
+    <None Include="area\limbo.are" />
+    <None Include="area\mahntor.are" />
+    <None Include="area\marsh.are" />
+    <None Include="area\mega1.are" />
+    <None Include="area\midennir.are" />
+    <None Include="area\midgaard.are" />
+    <None Include="area\mirror.are" />
+    <None Include="area\mobfact.are" />
+    <None Include="area\moria.are" />
+    <None Include="area\newthalos.are" />
+    <None Include="area\nirvana.are" />
+    <None Include="area\ofcol.are" />
+    <None Include="area\ofcol2.are" />
+    <None Include="area\olc.hlp" />
+    <None Include="area\olympus.are" />
+    <None Include="area\plains.are" />
+    <None Include="area\proto.are" />
+    <None Include="area\pyramid.are" />
+    <None Include="area\redferne.are" />
+    <None Include="area\school.are" />
+    <None Include="area\sewer.are" />
+    <None Include="area\shire.are" />
+    <None Include="area\smurf.are" />
+    <None Include="area\social.are" />
+    <None Include="area\startup" />
+    <None Include="area\thalos.are" />
+    <None Include="area\tohell.are" />
+    <None Include="area\trollden.are" />
+    <None Include="area\valley.are" />
+    <None Include="area\wyvern.are" />
+    <None Include="doc\MPDocs\mobprog.doc" />
+    <None Include="doc\changes.olc" />
+    <None Include="doc\README.quickmud" />
+    <None Include="doc\README.rom" />
+    <None Include="doc\rom.credits" />
+    <None Include="README.md" />
+    <None Include="src\Makefile" />
+    <None Include="area\help.are" />
+    <None Include="doc\historical\telnet.html" />
+    <None Include="area\clouds.are" />
+    <None Include="area\bardcamp.are" />
+    <None Include="area\immortal.are" />
+    <None Include="area\arcanis-inland.are" />
+    <None Include="area\bladance.are" />
+    <None Include="area\ciquala.are" />
+    <None Include="area\darkness.are" />
+    <None Include="area\idungeon.are" />
+    <None Include="area\mahntor-caves.are" />
+    <None Include="area\midduel.are" />
+    <None Include="area\ocean-w.are" />
+    <None Include="area\ocean-barrier-c.are" />
+    <None Include="area\ocean-barrier-n.are" />
+    <None Include="area\ocean-barrier-s.are" />
+    <None Include="area\ocean-c.are" />
+    <None Include="area\ocean-e.are" />
+    <None Include="area\ocean-n.are" />
+    <None Include="area\ocean-ne.are" />
+    <None Include="area\ocean-nw.are" />
+    <None Include="area\ocean-s.are" />
+    <None Include="area\ocean-se.are" />
+    <None Include="area\ocean-sw.are" />
+    <None Include="area\seacastle.are" />
+    <None Include="area\tournament-ground.are" />
+    <None Include="area\warlock-keep.are" />
+    <None Include="classes\warrior.class" />
+    <None Include="classes\class.lst" />
+    <None Include="classes\cleric.class" />
+    <None Include="classes\enchantor.class" />
+    <None Include="classes\groups.dat" />
+    <None Include="classes\healer.class" />
+    <None Include="classes\mage.class" />
+    <None Include="classes\skills.dat" />
+    <None Include="classes\thief.class" />
+    <None Include="system\ban.dat" />
+    <None Include="system\settings.dat" />
+    <None Include="classes\ranger.class" />
+    <None Include="doc\historical\license.doc" />
+    <None Include="doc\historical\Makefile.linux" />
+    <None Include="doc\historical\Makefile.normal" />
+    <None Include="doc\historical\Makefile.solaris" />
+    <None Include="doc\historical\README.merc" />
+    <None Include="doc\historical\rom.license" />
+    <None Include="doc\historical\Rom2.4.doc" />
+    <None Include="doc\index.md" />
+    <None Include="doc\supported-operating-systems.md" />
+    <None Include="doc\setup-linux-ubuntu.md" />
+    <None Include="doc\setup-linux-raspbian.md" />
+    <None Include="doc\setup-windows.md" />
+    <None Include="classes\priest.class" />
+    <None Include="classes\psionicist.class" />
+    <None Include="classes\rogue.class" />
+    <None Include="classes\barbarian.class" />
+    <None Include="doc\area-directions.md" />
+    <None Include="doc\mob-prog.md" />
+    <None Include="doc\mob-prog-implementation.md" />
+    <None Include="area\dungeon.are" />
+    <None Include="area\gray-mountains.are" />
+    <None Include="area\hall-sylvan.are" />
+    <None Include="area\hall-warhammer.are" />
+    <None Include="area\help-dict.are" />
+    <None Include="area\help-mud.are" />
+    <None Include="area\redoak.are" />
+    <None Include="classes\wizard.class" />
+    <None Include="area\storm-keep.are" />
+    <None Include="classes\dirge.class" />
+    <None Include="area\startup-valgrind" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="area\orphaned_helps.txt" />
+    <Text Include="doc\contrib.txt" />
+    <Text Include="doc\drool.txt" />
+    <Text Include="doc\port.txt" />
+    <Text Include="doc\sky.txt" />
+    <Text Include="area\config.txt" />
+    <Text Include="doc\historical\vnum.txt" />
+    <Text Include="doc\historical\trad.txt" />
+    <Text Include="doc\historical\sites.txt" />
+    <Text Include="doc\historical\act.txt" />
+    <Text Include="doc\historical\area.txt" />
+    <Text Include="doc\historical\class.txt" />
+    <Text Include="doc\historical\command.txt" />
+    <Text Include="doc\historical\hacker.txt" />
+    <Text Include="doc\historical\license.txt" />
+    <Text Include="doc\historical\memory.txt" />
+    <Text Include="doc\historical\pfile.txt" />
+    <Text Include="doc\historical\security.txt" />
+    <Text Include="doc\historical\skill.txt" />
+    <Text Include="doc\mob-prog-examples.md" />
+  </ItemGroup>
+</Project>

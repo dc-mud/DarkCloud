@@ -1,0 +1,112 @@
+#HELPS
+-1 NPC~
+An NPC is a non player character.
+~
+
+0 MOBILE MOB~
+A mobile or "mob" is a non player creature in the game.
+~
+0 'HOURS AFFECT EXPERIENCE'~
+The hours affect experience setting determines whether the game will change your
+experience based on the hours played.  If this setting is on you may earn less
+experience if you have less hours played.
+
+See also:  help settings
+~
+0 Q-POINT QPOINTS 'QUEST POINTS'~
+Quest Points are obtained by completing quests from a quest master.  They can be used
+to buy items not otherwise available in the world.
+~
+0 WEAPON FLAGS FLAMING FROST VAMPIRIC SHARP VORPAL TWOHANDS SHOCKING POISON LEECH STUN~
+
+A flag on certain weapons change the behavior of a weapon.  The
+following flags exist:
+
+ *  Flaming: Causes more damage to fire vulnerable individuals and can
+             cause periodic blindness to a victim from smoke.
+ *    Frost: Causes more damage to cold vulnerable individuals and can
+             freeze and break potions in a victims inventory.
+ * Vampiric: Extracts health from a victim and transfers it to the
+             person wielding the weapon.
+ *    Sharp: A sharp flag causes a significant jump in weapon damage
+             on some attacks.
+ *   Vorpal: A vorpal weapon has a small chance to cleave an individuals
+             head off causing instant death.
+ * Shocking: Shocking causes more damage to individuals who are
+             vulnerable to lightning, it can break potions in a persons
+             inventory and potentially has a chance to stun.
+ *   Poison: Poison weapons have a small chance to poison the victim.
+ *    Leech: Extracts magic from a victim and transfers it to the
+             person wielding the weapon.
+ *     Stun: Has a chance to stun the victim upon hit.
+~
+0 HP HEALTH MANA MOVEMENT~
+Hit points or Health points (HP) is the amount of life you have available.  Once you
+reach zero health your character will die and become a ghost.
+
+Mana is the amount of magic that you have available to cast spells with if you are
+able to cast spells.
+
+Move is the amount of movement you have available to walk from location to location.
+
+Sleeping or resting helps increase the speed that you regain all of these stats.  Some
+rooms in the game have a higher regeneration rate (such as the temple altar in Midgaard).
+~
+0 'HIT ROLL'~
+The hit roll factors in to determining how well you will hit an opponent.
+~
+0 'DAM ROLL'~
+The dam roll (or damage roll) factors in to how much damage you will deal
+to an opponent.
+~
+0 CASTING~
+The casting label in score shows you the current level that your character
+casts magic spells at.
+~
+0 SAVES~
+The saves label in the score shows you how many saves your character currently
+has.  Saves help to determine how well you can resist spells that are being
+cast on you.  The lower your saves the better.  Saves can be modified for
+better or worse by some spells, some gear, a players wisdom or other attributes
+such as race and class combinations.
+~
+0 'CREATION POINTS'~
+Creation points are determined by how many skills and spells you took at
+creation coupled with how expensive your race is for the class you choose.
+~
+0 'PK LOGOUT TIMER'~
+After you have been involved in a battle against another player, you must wait
+at least 3 ticks before being able to logout (roughly 120 seconds).  Once your
+timer reaches 0 you will be able to logout.  This helps to prevent players who
+try to logout as a means to get out of combat they might be losing.
+~
+0 AC 'ARMOR CLASS'~
+Armor class is used to determine whether you get hit and how much a hits
+damage will be reduced for the type of attack it was.  The armor class
+categories are currently pierce, slash, bash and magic.  The lower the
+armor class the better.
+~
+0 ALIGN 'ALIGNMENT'~
+Your alignment is whether your character is good, neutral or evil in their
+behavior.  The alignment will factor into some game mechanics but is also
+a required roleplay attribute (a good character should not act evil for
+example).
+~
+0 ROTDEATH 'ROT DEATH'~
+Rot death is an item flag that is triggered when a player dies while holding
+an item set with it.  Upon the player dying the item will only have a set
+amount of time to exist before it crumbles.
+~
+0 KEEP~
+A keep is a clanner only area that will allow the conquering clan a given
+affect for that keep.  Some keeps will inflict a harmful affect on another
+clan, some will give a beneficial bonus for the clan that owns it.  Keeps
+maybe conquered by other clans to take those affects away from the previous
+owner.  Keeps may also be defened by the owning clan who will have a special
+portal into that keep for times when it needs to be defended.
+~
+
+0 $~
+
+#$
+

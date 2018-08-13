@@ -1,0 +1,687 @@
+#AREADATA
+Name Darkness~
+Builders Blizzard~
+VNUMs 1050 1099
+LevelRange 40 51
+Credits Blizzard~
+Security 9
+Continent 1
+AreaFlags 0
+End
+
+
+
+#MOBILES
+#1050
+frost giant~
+a frost giant~
+A large form towers over you and swings his mighty club.
+~
+The frost giant has no respect for any life, and does not care
+what happens to him.  He is a fierce warrior, and unfortuneatly
+not anyone's ally.
+~
+giant ogre~
+ABFG DFJN 1 0
+53 1 50d10+4500 1d1+114 5d8+19 pound
+-21 -21 -21 12
+D I HI HJNP
+stand stand male 67
+AHMV ABCDEFGHIJK huge unknown
+#1051
+small squid~
+a small squid~
+A small squid hops out of the water at you.
+~
+The squid squirts its black stuff and you cannot even see it.
+~
+human~
+ABFG DFJN 2 0
+34 1 6d12+900 1d1+114 4d6+8 shock
+-9 -9 -9 0
+HJ 0 0 0
+stand stand none 0
+ABGHMQV ABCDEFGHIJKMNOQ medium unknown
+#1052
+giant scorpian~
+a giant scorpian~
+A giant scorpian is here scrounging for food.
+~
+The scorpian has a sharp sting and deadly venom.  It would be a bad
+thing to get too close.  It has a hard shell that looks nearly
+impossible to crack into.
+~
+human~
+ABFG DFJN 2 0
+46 6 50d10+7000 1d1+114 8d6+28 sting
+-19 -19 -19 -2
+HM 0 0 0
+stand stand male 0
+ABGHMPV ABCDEFGHIJK medium unknown
+#1053
+stone giant~
+a stone giant~
+A large form towers over you and wields a heavy rock.
+~
+The stone giant has no respect for any life, and does not care
+what happens to him.  He is a fierce warrior, and unfortuneatly
+not anyone's ally.
+~
+giant ogre~
+ABFG DFJN 1 0
+48 1 50d10+4500 1d1+114 5d8+19 pound
+-21 -21 -21 12
+D I HI HJNP
+stand stand male 67
+AHMV ABCDEFGHIJK huge unknown
+#1054
+shadow~
+the shadow~
+A force of mighty elements is upon you, and it sure is MAD!
+~
+The shadow does not like to be intruded upon, and it does not
+take kindly to anyone.  With a huge magical burst, hundreds
+of creatures are notified to your existance, and in moments
+they will be upon you.
+~
+human~
+ABFGR 0 1 0
+55 1 50d10+7100 1d1+114 10d4+23 drain
+-25 -25 -25 25
+0 ABC 0 0
+stand stand none 0
+AHKMSV ABCDEFGHIJKUVWXY medium unknown
+#1055
+force of darkness~
+the force~
+The origin and force of darkness itself is here.
+~
+You cannot actually see it, but it strikes every ounce of fear
+in your body and hurts you deep within.  You feel its presence
+and can detect its location, but that does not help you much.
+~
+human~
+ABFGQ 0 1 0
+60 0 50d10+4500 0d0+0 0d0+0 pound
+0 0 0 0
+ABDEFGH ABM CL HJNS
+stand stand none 0
+ADHKMSV ABCDEFGHIJKUVWXY medium unknown
+#0
+
+
+
+#OBJECTS
+#1050
+club~
+a club~
+A giant club rests here.~
+wood~
+weapon 0 AN
+mace 4 11 pound B
+50 23 0 P
+A
+18 4
+A
+19 2
+#1051
+big rock~
+a big rock~
+A big rock is here.~
+stone~
+weapon 0 AN
+exotic 4 10 pound B
+50 50 0 P
+A
+18 4
+A
+19 2
+#1052
+black hole~
+a black cloak of dark energy~
+A long black cloak of dark energy is here, distorting the space around it.~
+energy~
+armor M AD
+BCD BCD BCD BD 0
+51 1 0 P
+A
+17 -4
+A
+2 2
+#0
+
+
+
+#ROOMS
+#1050
+Darkness~
+Your head swirls and you cannot breath.  The darkness is like a blanket
+over your body, and seems to try to prevent your movement.
+~
+0 8193 10
+D2
+~
+~
+0 -1 1054
+D1
+~
+~
+0 -1 1053
+D3
+~
+~
+0 -1 1055
+D0
+~
+~
+0 -1 1051
+D4
+~
+~
+0 -1 1071
+M 1 H 1
+S
+#1051
+Outside the Darkness~
+To the south of you is an impenetrable mass of darkness that lights
+does not escape.  Dare you traverse into it?
+~
+0 8192 1
+D0
+~
+~
+0 -1 1052
+D2
+~
+~
+0 -1 1050
+S
+#1052
+Approaching Darkness~
+You see a tunnel of darkness further to your south.  A terrible feeling
+of foreboding comes over you, and an incredible sense of danger and fear
+fills your bones.
+~
+0 0 1
+D0
+~
+~
+0 -1 1067
+D2
+~
+~
+0 -1 1051
+S
+#1053
+Outside of Darkness~
+To the west of you is an impenetrable mass of darkness that lights
+does not escape.  Dare you traverse into it?
+~
+0 8192 1
+D1
+~
+~
+0 -1 1056
+D3
+~
+~
+0 -1 1050
+S
+#1054
+Outside of Darkness~
+To the north of you is an impenetrable mass of darkness that lights
+does not escape.  Dare you traverse into it?
+~
+0 8192 1
+D0
+~
+~
+0 -1 1050
+D2
+~
+~
+0 -1 1057
+S
+#1055
+Outside of Darkness~
+To the east of you is an impenetrable mass of darkness that lights
+does not escape.  Dare you traverse into it?
+~
+0 8192 1
+D1
+~
+~
+0 -1 1050
+D3
+~
+~
+0 -1 1058
+S
+#1056
+Approaching Darkness~
+You see a funnel of darkness further to your west.  A terrible feeling
+of foreboding comes over you, and an incredible sense of danger and fear
+fills your bones.
+~
+0 0 1
+D2
+~
+~
+0 -1 1068
+D3
+~
+~
+0 -1 1053
+S
+#1057
+Appraoching the Darkness~
+You see a funnel of darkness further to your north.  A terrible feeling
+of foreboding comes over you, and an incredible sense of danger and fear
+fills your bones.
+~
+0 0 1
+D0
+~
+~
+0 -1 1054
+D5
+~
+~
+0 -1 1069
+D6
+~
+~
+0 0 1078
+S
+#1058
+Approaching the Darkness~
+You see a funnel of darkness further to your east.  A terrible feeling
+of foreboding comes over you, and an incredible sense of danger and fear
+fills your bones.
+~
+0 0 1
+D1
+~
+~
+0 -1 1055
+D3
+~
+~
+0 -1 1070
+S
+#1059
+Void~
+You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+0 8192 1
+D2
+~
+~
+0 -1 1062
+D1
+~
+~
+0 -1 1061
+D3
+~
+~
+0 -1 1063
+D0
+~
+~
+0 -1 1060
+D5
+~
+~
+0 -1 1064
+S
+#1060
+Void~
+You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+0 8192 1
+D3
+~
+~
+0 -1 1067
+D2
+~
+~
+0 -1 1059
+D1
+~
+~
+0 -1 1066
+D0
+~
+~
+0 -1 1065
+S
+#1061
+Void~
+You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+0 8192 1
+D3
+~
+~
+0 -1 1059
+S
+#1062
+Void~
+You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+0 8192 1
+D0
+~
+~
+0 -1 1059
+S
+#1063
+Void~
+You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+0 8192 1
+D1
+~
+~
+0 -1 1059
+S
+#1064
+Void~
+You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+0 8192 1
+D4
+~
+~
+0 -1 1059
+S
+#1065
+Void~
+You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+0 8192 1
+D0
+~
+~
+0 -1 1069
+D2
+~
+~
+0 -1 1060
+D5
+~
+~
+0 -1 1068
+S
+#1066
+Void~
+You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+0 8192 1
+D3
+~
+~
+0 -1 1060
+S
+#1067
+Void~
+You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+0 8192 1
+D1
+~
+~
+0 -1 1060
+D2
+~
+~
+0 -1 1052
+S
+#1068
+Void~
+You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+0 8192 1
+D4
+~
+~
+0 -1 1065
+D0
+~
+~
+0 -1 1056
+S
+#1069
+Void~
+You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+0 8192 1
+D2
+~
+~
+0 -1 1065
+D0
+~
+~
+0 -1 1070
+D4
+~
+~
+0 -1 1057
+S
+#1070
+Void~
+You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+0 8192 1
+D1
+~
+~
+0 -1 1058
+D2
+~
+~
+0 -1 1069
+S
+#1071
+Darkness~
+Your head swirls and you cannot breath.  The darkness is like a blanket
+over your body, and seems to try to prevent your movement.
+~
+0 0 0
+D1
+~
+~
+0 -1 1073
+D2
+~
+~
+0 -1 1074
+D0
+~
+~
+0 -1 1072
+D3
+~
+~
+0 -1 1075
+D4
+~
+~
+0 -1 1076
+D5
+~
+~
+0 -1 1050
+M 1 H 1
+S
+#1072
+North~
+You are standing in a cold region at the northern tip of the world,
+and shiver in the cold.  A blizzard is raging, and snow is being
+blown miles in seconds.
+~
+0 4 2
+D2
+~
+~
+0 0 1071
+S
+#1073
+East~
+Your feet dip into the east river, off the eastern coast of Arcanisa,
+and the warm water sifts up between your toes, comforting you and
+warming your body.
+~
+0 4 6
+D3
+~
+~
+0 0 1071
+S
+#1074
+South~
+The air is hot and humid here, and the sun beats down on you like
+there is no tomorrow.  Heat waves make you see mirages, but since
+you are still in a good state of mind there is no problem
+distinguishing between real and unreal, right?
+~
+0 4 0
+D0
+~
+~
+0 0 1071
+S
+#1075
+West~
+You are standing on top of a high mountain, looking down
+at the continent of Ereland.  It is hard to see anything except
+vegetation, but it looks like you can see the city of
+Red Oak far to the east.
+~
+0 516 5
+D1
+~
+~
+0 0 1071
+S
+#1076
+Tower~
+You stand in a furnished, yet charred, library.  The desks are
+burnt at the edges, and the books are mostly dust.  Nothing
+can be seen through the windows, and there is no source of
+light.
+~
+0 9 0
+D4
+~
+~
+1 -1 1077
+D5
+~
+~
+1 -1 1071
+S
+#1077
+Rift~
+You are standing at the opening to a giant rift, where incantations
+from evil creatures are performed.  It is watched very closely, and
+so are you.
+~
+0 8 0
+D5
+~
+~
+1 -1 1076
+S
+#1078
+On the verge of Darkness~
+You are standing on the verge of an abyss of darkness.  The land above
+almost seems as if it's pulling light into it.  There is no air movement and
+everything is still and silent...  
+~
+0 0 2
+D7
+~
+~
+0 0 3458
+D9
+~
+~
+0 0 1057
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1076 4 1
+D 0 1076 5 2
+D 0 1077 5 1
+R 0 1050 4 Randomize Darkness
+R 0 1059 5 Randomize Void
+R 0 1060 5 Randomize Void
+R 0 1061 5 Randomize Void
+R 0 1062 5 Randomize Void
+R 0 1063 5 Randomize Void
+R 0 1064 5 Randomize Void
+R 0 1065 5 Randomize Void
+R 0 1066 5 Randomize Void
+R 0 1067 5 Randomize Void
+R 0 1068 5 Randomize Void
+R 0 1069 5 Randomize Void
+R 0 1070 5 Randomize Void
+R 0 1071 4 Randomize Darkness
+M 0 1050 1 1072 1 Load a frost giant
+E 0 1050 0 16 A club is loaded wielded of a frost giant
+M 0 1051 1 1073 1 Load a small squid
+M 0 1052 1 1074 1 Load a giant scorpian
+M 0 1053 1 1075 1 Load a stone giant
+E 0 1051 0 16 A big rock is loaded wielded of a stone giant
+M 0 1054 2 1076 2 Load the shadow
+M 0 1055 1 1077 1 Load the force
+E 0 1052 0 16 A black cloak of dark energy is loaded wielded of the force
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

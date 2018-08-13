@@ -1,0 +1,4189 @@
+#AREADATA
+Name The Frozen Sea~
+Builders Blake~
+VNUMs 11400 11499
+LevelRange 51 51
+Credits Blake~
+Security 9
+Continent 3
+AreaFlags 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11400
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11790
+D1
+~
+~
+0 0 11401
+D2
+~
+~
+0 0 11410
+D3
+~
+~
+0 0 11309
+D7
+~
+~
+0 0 11791
+D8
+~
+~
+0 0 11319
+D9
+~
+~
+0 0 11411
+S
+#11401
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11791
+D1
+~
+~
+0 0 11402
+D2
+~
+~
+0 0 11411
+D3
+~
+~
+0 0 11400
+D6
+~
+~
+0 0 11790
+D7
+~
+~
+0 0 11792
+D8
+~
+~
+0 0 11410
+D9
+~
+~
+0 0 11412
+S
+#11402
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11792
+D1
+~
+~
+0 0 11403
+D2
+~
+~
+0 0 11412
+D3
+~
+~
+0 0 11401
+D6
+~
+~
+0 0 11791
+D7
+~
+~
+0 0 11793
+D8
+~
+~
+0 0 11411
+D9
+~
+~
+0 0 11413
+S
+#11403
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11793
+D1
+~
+~
+0 0 11404
+D2
+~
+~
+0 0 11413
+D3
+~
+~
+0 0 11402
+D6
+~
+~
+0 0 11792
+D7
+~
+~
+0 0 11794
+D8
+~
+~
+0 0 11412
+D9
+~
+~
+0 0 11414
+S
+#11404
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11794
+D1
+~
+~
+0 0 11405
+D2
+~
+~
+0 0 11414
+D3
+~
+~
+0 0 11403
+D6
+~
+~
+0 0 11793
+D7
+~
+~
+0 0 11795
+D8
+~
+~
+0 0 11413
+D9
+~
+~
+0 0 11415
+S
+#11405
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11795
+D1
+~
+~
+0 0 11406
+D2
+~
+~
+0 0 11415
+D3
+~
+~
+0 0 11404
+D6
+~
+~
+0 0 11794
+D7
+~
+~
+0 0 11796
+D8
+~
+~
+0 0 11414
+D9
+~
+~
+0 0 11416
+S
+#11406
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11796
+D1
+~
+~
+0 0 11407
+D2
+~
+~
+0 0 11416
+D3
+~
+~
+0 0 11405
+D6
+~
+~
+0 0 11795
+D7
+~
+~
+0 0 11797
+D8
+~
+~
+0 0 11415
+D9
+~
+~
+0 0 11417
+S
+#11407
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11797
+D1
+~
+~
+0 0 11408
+D2
+~
+~
+0 0 11417
+D3
+~
+~
+0 0 11406
+D6
+~
+~
+0 0 11796
+D7
+~
+~
+0 0 11798
+D8
+~
+~
+0 0 11416
+D9
+~
+~
+0 0 11418
+S
+#11408
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11798
+D1
+~
+~
+0 0 11409
+D2
+~
+~
+0 0 11418
+D3
+~
+~
+0 0 11407
+D6
+~
+~
+0 0 11797
+D7
+~
+~
+0 0 11799
+D8
+~
+~
+0 0 11417
+D9
+~
+~
+0 0 11419
+S
+#11409
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11799
+D1
+~
+~
+0 0 11500
+D2
+~
+~
+0 0 11419
+D3
+~
+~
+0 0 11408
+D6
+~
+~
+0 0 11798
+D8
+~
+~
+0 0 11418
+D9
+~
+~
+0 0 11510
+S
+#11410
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11400
+D1
+~
+~
+0 0 11411
+D2
+~
+~
+0 0 11420
+D3
+~
+~
+0 0 11319
+D6
+~
+~
+0 0 11309
+D7
+~
+~
+0 0 11401
+D8
+~
+~
+0 0 11329
+D9
+~
+~
+0 0 11421
+S
+#11411
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11401
+D1
+~
+~
+0 0 11412
+D2
+~
+~
+0 0 11421
+D3
+~
+~
+0 0 11410
+D6
+~
+~
+0 0 11400
+D7
+~
+~
+0 0 11402
+D8
+~
+~
+0 0 11420
+D9
+~
+~
+0 0 11422
+S
+#11412
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11402
+D1
+~
+~
+0 0 11413
+D2
+~
+~
+0 0 11422
+D3
+~
+~
+0 0 11411
+D6
+~
+~
+0 0 11401
+D7
+~
+~
+0 0 11403
+D8
+~
+~
+0 0 11421
+D9
+~
+~
+0 0 11423
+S
+#11413
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11403
+D1
+~
+~
+0 0 11414
+D2
+~
+~
+0 0 11423
+D3
+~
+~
+0 0 11412
+D6
+~
+~
+0 0 11402
+D7
+~
+~
+0 0 11404
+D8
+~
+~
+0 0 11422
+D9
+~
+~
+0 0 11424
+S
+#11414
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11404
+D1
+~
+~
+0 0 11415
+D2
+~
+~
+0 0 11424
+D3
+~
+~
+0 0 11413
+D6
+~
+~
+0 0 11403
+D7
+~
+~
+0 0 11405
+D8
+~
+~
+0 0 11423
+D9
+~
+~
+0 0 11425
+S
+#11415
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11405
+D1
+~
+~
+0 0 11416
+D2
+~
+~
+0 0 11425
+D3
+~
+~
+0 0 11414
+D6
+~
+~
+0 0 11404
+D7
+~
+~
+0 0 11406
+D8
+~
+~
+0 0 11424
+D9
+~
+~
+0 0 11426
+S
+#11416
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11406
+D1
+~
+~
+0 0 11417
+D2
+~
+~
+0 0 11426
+D3
+~
+~
+0 0 11415
+D6
+~
+~
+0 0 11405
+D7
+~
+~
+0 0 11407
+D8
+~
+~
+0 0 11425
+D9
+~
+~
+0 0 11427
+S
+#11417
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11407
+D1
+~
+~
+0 0 11418
+D2
+~
+~
+0 0 11427
+D3
+~
+~
+0 0 11416
+D6
+~
+~
+0 0 11406
+D7
+~
+~
+0 0 11408
+D8
+~
+~
+0 0 11426
+D9
+~
+~
+0 0 11428
+S
+#11418
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11408
+D1
+~
+~
+0 0 11419
+D2
+~
+~
+0 0 11428
+D3
+~
+~
+0 0 11417
+D6
+~
+~
+0 0 11407
+D7
+~
+~
+0 0 11409
+D8
+~
+~
+0 0 11427
+D9
+~
+~
+0 0 11429
+S
+#11419
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11409
+D1
+~
+~
+0 0 11510
+D2
+~
+~
+0 0 11429
+D3
+~
+~
+0 0 11418
+D6
+~
+~
+0 0 11408
+D7
+~
+~
+0 0 11500
+D8
+~
+~
+0 0 11428
+D9
+~
+~
+0 0 11520
+S
+#11420
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11410
+D1
+~
+~
+0 0 11421
+D2
+~
+~
+0 0 11430
+D3
+~
+~
+0 0 11329
+D6
+~
+~
+0 0 11319
+D7
+~
+~
+0 0 11411
+D8
+~
+~
+0 0 11339
+D9
+~
+~
+0 0 11431
+S
+#11421
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11411
+D1
+~
+~
+0 0 11422
+D2
+~
+~
+0 0 11431
+D3
+~
+~
+0 0 11420
+D6
+~
+~
+0 0 11410
+D7
+~
+~
+0 0 11412
+D8
+~
+~
+0 0 11430
+D9
+~
+~
+0 0 11432
+S
+#11422
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11412
+D1
+~
+~
+0 0 11423
+D2
+~
+~
+0 0 11432
+D3
+~
+~
+0 0 11421
+D6
+~
+~
+0 0 11411
+D7
+~
+~
+0 0 11413
+D8
+~
+~
+0 0 11431
+D9
+~
+~
+0 0 11433
+S
+#11423
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11413
+D1
+~
+~
+0 0 11424
+D2
+~
+~
+0 0 11433
+D3
+~
+~
+0 0 11422
+D6
+~
+~
+0 0 11412
+D7
+~
+~
+0 0 11414
+D8
+~
+~
+0 0 11432
+D9
+~
+~
+0 0 11434
+S
+#11424
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11414
+D1
+~
+~
+0 0 11425
+D2
+~
+~
+0 0 11434
+D3
+~
+~
+0 0 11423
+D6
+~
+~
+0 0 11413
+D7
+~
+~
+0 0 11415
+D8
+~
+~
+0 0 11433
+D9
+~
+~
+0 0 11435
+S
+#11425
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11415
+D1
+~
+~
+0 0 11426
+D2
+~
+~
+0 0 11435
+D3
+~
+~
+0 0 11424
+D6
+~
+~
+0 0 11414
+D7
+~
+~
+0 0 11416
+D8
+~
+~
+0 0 11434
+D9
+~
+~
+0 0 11436
+S
+#11426
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11416
+D1
+~
+~
+0 0 11427
+D2
+~
+~
+0 0 11436
+D3
+~
+~
+0 0 11425
+D6
+~
+~
+0 0 11415
+D7
+~
+~
+0 0 11417
+D8
+~
+~
+0 0 11435
+D9
+~
+~
+0 0 11437
+S
+#11427
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11417
+D1
+~
+~
+0 0 11428
+D2
+~
+~
+0 0 11437
+D3
+~
+~
+0 0 11426
+D6
+~
+~
+0 0 11416
+D7
+~
+~
+0 0 11418
+D8
+~
+~
+0 0 11436
+D9
+~
+~
+0 0 11438
+S
+#11428
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11418
+D1
+~
+~
+0 0 11429
+D2
+~
+~
+0 0 11438
+D3
+~
+~
+0 0 11427
+D6
+~
+~
+0 0 11417
+D7
+~
+~
+0 0 11419
+D8
+~
+~
+0 0 11437
+D9
+~
+~
+0 0 11439
+S
+#11429
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11419
+D1
+~
+~
+0 0 11520
+D2
+~
+~
+0 0 11439
+D3
+~
+~
+0 0 11428
+D6
+~
+~
+0 0 11418
+D7
+~
+~
+0 0 11510
+D8
+~
+~
+0 0 11438
+D9
+~
+~
+0 0 11530
+S
+#11430
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11420
+D1
+~
+~
+0 0 11431
+D2
+~
+~
+0 0 11440
+D3
+~
+~
+0 0 11339
+D6
+~
+~
+0 0 11329
+D7
+~
+~
+0 0 11421
+D8
+~
+~
+0 0 11349
+D9
+~
+~
+0 0 11441
+S
+#11431
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11421
+D1
+~
+~
+0 0 11432
+D2
+~
+~
+0 0 11441
+D3
+~
+~
+0 0 11430
+D6
+~
+~
+0 0 11420
+D7
+~
+~
+0 0 11422
+D8
+~
+~
+0 0 11440
+D9
+~
+~
+0 0 11442
+S
+#11432
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11422
+D1
+~
+~
+0 0 11433
+D2
+~
+~
+0 0 11442
+D3
+~
+~
+0 0 11431
+D6
+~
+~
+0 0 11421
+D7
+~
+~
+0 0 11423
+D8
+~
+~
+0 0 11441
+D9
+~
+~
+0 0 11443
+S
+#11433
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11423
+D1
+~
+~
+0 0 11434
+D2
+~
+~
+0 0 11443
+D3
+~
+~
+0 0 11432
+D6
+~
+~
+0 0 11422
+D7
+~
+~
+0 0 11424
+D8
+~
+~
+0 0 11442
+D9
+~
+~
+0 0 11444
+S
+#11434
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11424
+D1
+~
+~
+0 0 11435
+D2
+~
+~
+0 0 11444
+D3
+~
+~
+0 0 11433
+D6
+~
+~
+0 0 11423
+D7
+~
+~
+0 0 11425
+D8
+~
+~
+0 0 11443
+D9
+~
+~
+0 0 11445
+S
+#11435
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11425
+D1
+~
+~
+0 0 11436
+D2
+~
+~
+0 0 11445
+D3
+~
+~
+0 0 11434
+D6
+~
+~
+0 0 11424
+D7
+~
+~
+0 0 11426
+D8
+~
+~
+0 0 11444
+D9
+~
+~
+0 0 11446
+S
+#11436
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11426
+D1
+~
+~
+0 0 11437
+D2
+~
+~
+0 0 11446
+D3
+~
+~
+0 0 11435
+D6
+~
+~
+0 0 11425
+D7
+~
+~
+0 0 11427
+D8
+~
+~
+0 0 11445
+D9
+~
+~
+0 0 11447
+S
+#11437
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11427
+D1
+~
+~
+0 0 11438
+D2
+~
+~
+0 0 11447
+D3
+~
+~
+0 0 11436
+D6
+~
+~
+0 0 11426
+D7
+~
+~
+0 0 11428
+D8
+~
+~
+0 0 11446
+D9
+~
+~
+0 0 11448
+S
+#11438
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11428
+D1
+~
+~
+0 0 11439
+D2
+~
+~
+0 0 11448
+D3
+~
+~
+0 0 11437
+D6
+~
+~
+0 0 11427
+D7
+~
+~
+0 0 11429
+D8
+~
+~
+0 0 11447
+D9
+~
+~
+0 0 11449
+S
+#11439
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11429
+D1
+~
+~
+0 0 11530
+D2
+~
+~
+0 0 11449
+D3
+~
+~
+0 0 11438
+D6
+~
+~
+0 0 11428
+D7
+~
+~
+0 0 11520
+D8
+~
+~
+0 0 11448
+D9
+~
+~
+0 0 11540
+S
+#11440
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11430
+D1
+~
+~
+0 0 11441
+D2
+~
+~
+0 0 11450
+D3
+~
+~
+0 0 11349
+D6
+~
+~
+0 0 11339
+D7
+~
+~
+0 0 11431
+D8
+~
+~
+0 0 11359
+D9
+~
+~
+0 0 11451
+S
+#11441
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11431
+D1
+~
+~
+0 0 11442
+D2
+~
+~
+0 0 11451
+D3
+~
+~
+0 0 11440
+D6
+~
+~
+0 0 11430
+D7
+~
+~
+0 0 11432
+D8
+~
+~
+0 0 11450
+D9
+~
+~
+0 0 11452
+S
+#11442
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11432
+D1
+~
+~
+0 0 11443
+D2
+~
+~
+0 0 11452
+D3
+~
+~
+0 0 11441
+D6
+~
+~
+0 0 11431
+D7
+~
+~
+0 0 11433
+D8
+~
+~
+0 0 11451
+D9
+~
+~
+0 0 11453
+S
+#11443
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11433
+D1
+~
+~
+0 0 11444
+D2
+~
+~
+0 0 11453
+D3
+~
+~
+0 0 11442
+D6
+~
+~
+0 0 11432
+D7
+~
+~
+0 0 11434
+D8
+~
+~
+0 0 11452
+D9
+~
+~
+0 0 11454
+S
+#11444
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11434
+D1
+~
+~
+0 0 11445
+D2
+~
+~
+0 0 11454
+D3
+~
+~
+0 0 11443
+D6
+~
+~
+0 0 11433
+D7
+~
+~
+0 0 11435
+D8
+~
+~
+0 0 11453
+D9
+~
+~
+0 0 11455
+S
+#11445
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11435
+D1
+~
+~
+0 0 11446
+D2
+~
+~
+0 0 11455
+D3
+~
+~
+0 0 11444
+D6
+~
+~
+0 0 11434
+D7
+~
+~
+0 0 11436
+D8
+~
+~
+0 0 11454
+D9
+~
+~
+0 0 11456
+S
+#11446
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11436
+D1
+~
+~
+0 0 11447
+D2
+~
+~
+0 0 11456
+D3
+~
+~
+0 0 11445
+D6
+~
+~
+0 0 11435
+D7
+~
+~
+0 0 11437
+D8
+~
+~
+0 0 11455
+D9
+~
+~
+0 0 11457
+S
+#11447
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11437
+D1
+~
+~
+0 0 11448
+D2
+~
+~
+0 0 11457
+D3
+~
+~
+0 0 11446
+D6
+~
+~
+0 0 11436
+D7
+~
+~
+0 0 11438
+D8
+~
+~
+0 0 11456
+D9
+~
+~
+0 0 11458
+S
+#11448
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11438
+D1
+~
+~
+0 0 11449
+D2
+~
+~
+0 0 11458
+D3
+~
+~
+0 0 11447
+D6
+~
+~
+0 0 11437
+D7
+~
+~
+0 0 11439
+D8
+~
+~
+0 0 11457
+D9
+~
+~
+0 0 11459
+S
+#11449
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11439
+D1
+~
+~
+0 0 11540
+D2
+~
+~
+0 0 11459
+D3
+~
+~
+0 0 11448
+D6
+~
+~
+0 0 11438
+D7
+~
+~
+0 0 11530
+D8
+~
+~
+0 0 11458
+D9
+~
+~
+0 0 11550
+S
+#11450
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11440
+D1
+~
+~
+0 0 11451
+D2
+~
+~
+0 0 11460
+D3
+~
+~
+0 0 11359
+D6
+~
+~
+0 0 11349
+D7
+~
+~
+0 0 11441
+D8
+~
+~
+0 0 11369
+D9
+~
+~
+0 0 11461
+S
+#11451
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11441
+D1
+~
+~
+0 0 11452
+D2
+~
+~
+0 0 11461
+D3
+~
+~
+0 0 11450
+D6
+~
+~
+0 0 11440
+D7
+~
+~
+0 0 11442
+D8
+~
+~
+0 0 11460
+D9
+~
+~
+0 0 11462
+S
+#11452
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11442
+D1
+~
+~
+0 0 11453
+D2
+~
+~
+0 0 11462
+D3
+~
+~
+0 0 11451
+D6
+~
+~
+0 0 11441
+D7
+~
+~
+0 0 11443
+D8
+~
+~
+0 0 11461
+D9
+~
+~
+0 0 11463
+S
+#11453
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11443
+D1
+~
+~
+0 0 11454
+D2
+~
+~
+0 0 11463
+D3
+~
+~
+0 0 11452
+D6
+~
+~
+0 0 11442
+D7
+~
+~
+0 0 11444
+D8
+~
+~
+0 0 11462
+D9
+~
+~
+0 0 11464
+S
+#11454
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11444
+D1
+~
+~
+0 0 11455
+D2
+~
+~
+0 0 11464
+D3
+~
+~
+0 0 11453
+D6
+~
+~
+0 0 11443
+D7
+~
+~
+0 0 11445
+D8
+~
+~
+0 0 11463
+D9
+~
+~
+0 0 11465
+S
+#11455
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11445
+D1
+~
+~
+0 0 11456
+D2
+~
+~
+0 0 11465
+D3
+~
+~
+0 0 11454
+D6
+~
+~
+0 0 11444
+D7
+~
+~
+0 0 11446
+D8
+~
+~
+0 0 11464
+D9
+~
+~
+0 0 11466
+S
+#11456
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11446
+D1
+~
+~
+0 0 11457
+D2
+~
+~
+0 0 11466
+D3
+~
+~
+0 0 11455
+D6
+~
+~
+0 0 11445
+D7
+~
+~
+0 0 11447
+D8
+~
+~
+0 0 11465
+D9
+~
+~
+0 0 11467
+S
+#11457
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11447
+D1
+~
+~
+0 0 11458
+D2
+~
+~
+0 0 11467
+D3
+~
+~
+0 0 11456
+D6
+~
+~
+0 0 11446
+D7
+~
+~
+0 0 11448
+D8
+~
+~
+0 0 11466
+D9
+~
+~
+0 0 11468
+S
+#11458
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11448
+D1
+~
+~
+0 0 11459
+D2
+~
+~
+0 0 11468
+D3
+~
+~
+0 0 11457
+D6
+~
+~
+0 0 11447
+D7
+~
+~
+0 0 11449
+D8
+~
+~
+0 0 11467
+D9
+~
+~
+0 0 11469
+S
+#11459
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11449
+D1
+~
+~
+0 0 11550
+D2
+~
+~
+0 0 11469
+D3
+~
+~
+0 0 11458
+D6
+~
+~
+0 0 11448
+D7
+~
+~
+0 0 11540
+D8
+~
+~
+0 0 11468
+D9
+~
+~
+0 0 11560
+S
+#11460
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11450
+D1
+~
+~
+0 0 11461
+D2
+~
+~
+0 0 11470
+D3
+~
+~
+0 0 11369
+D6
+~
+~
+0 0 11359
+D7
+~
+~
+0 0 11451
+D8
+~
+~
+0 0 11379
+D9
+~
+~
+0 0 11471
+S
+#11461
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11451
+D1
+~
+~
+0 0 11462
+D2
+~
+~
+0 0 11471
+D3
+~
+~
+0 0 11460
+D6
+~
+~
+0 0 11450
+D7
+~
+~
+0 0 11452
+D8
+~
+~
+0 0 11470
+D9
+~
+~
+0 0 11472
+S
+#11462
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11452
+D1
+~
+~
+0 0 11463
+D2
+~
+~
+0 0 11472
+D3
+~
+~
+0 0 11461
+D6
+~
+~
+0 0 11451
+D7
+~
+~
+0 0 11453
+D8
+~
+~
+0 0 11471
+D9
+~
+~
+0 0 11473
+S
+#11463
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11453
+D1
+~
+~
+0 0 11464
+D2
+~
+~
+0 0 11473
+D3
+~
+~
+0 0 11462
+D6
+~
+~
+0 0 11452
+D7
+~
+~
+0 0 11454
+D8
+~
+~
+0 0 11472
+D9
+~
+~
+0 0 11474
+S
+#11464
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11454
+D1
+~
+~
+0 0 11465
+D2
+~
+~
+0 0 11474
+D3
+~
+~
+0 0 11463
+D6
+~
+~
+0 0 11453
+D7
+~
+~
+0 0 11455
+D8
+~
+~
+0 0 11473
+D9
+~
+~
+0 0 11475
+S
+#11465
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11455
+D1
+~
+~
+0 0 11466
+D2
+~
+~
+0 0 11475
+D3
+~
+~
+0 0 11464
+D6
+~
+~
+0 0 11454
+D7
+~
+~
+0 0 11456
+D8
+~
+~
+0 0 11474
+D9
+~
+~
+0 0 11476
+S
+#11466
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11456
+D1
+~
+~
+0 0 11467
+D2
+~
+~
+0 0 11476
+D3
+~
+~
+0 0 11465
+D6
+~
+~
+0 0 11455
+D7
+~
+~
+0 0 11457
+D8
+~
+~
+0 0 11475
+D9
+~
+~
+0 0 11477
+S
+#11467
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11457
+D1
+~
+~
+0 0 11468
+D2
+~
+~
+0 0 11477
+D3
+~
+~
+0 0 11466
+D6
+~
+~
+0 0 11456
+D7
+~
+~
+0 0 11458
+D8
+~
+~
+0 0 11476
+D9
+~
+~
+0 0 11478
+S
+#11468
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11458
+D1
+~
+~
+0 0 11469
+D2
+~
+~
+0 0 11478
+D3
+~
+~
+0 0 11467
+D6
+~
+~
+0 0 11457
+D7
+~
+~
+0 0 11459
+D8
+~
+~
+0 0 11477
+D9
+~
+~
+0 0 11479
+S
+#11469
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11459
+D1
+~
+~
+0 0 11560
+D2
+~
+~
+0 0 11479
+D3
+~
+~
+0 0 11468
+D6
+~
+~
+0 0 11458
+D7
+~
+~
+0 0 11550
+D8
+~
+~
+0 0 11478
+D9
+~
+~
+0 0 11570
+S
+#11470
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11460
+D1
+~
+~
+0 0 11471
+D2
+~
+~
+0 0 11480
+D3
+~
+~
+0 0 11379
+D6
+~
+~
+0 0 11369
+D7
+~
+~
+0 0 11461
+D8
+~
+~
+0 0 11389
+D9
+~
+~
+0 0 11481
+S
+#11471
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11461
+D1
+~
+~
+0 0 11472
+D2
+~
+~
+0 0 11481
+D3
+~
+~
+0 0 11470
+D6
+~
+~
+0 0 11460
+D7
+~
+~
+0 0 11462
+D8
+~
+~
+0 0 11480
+D9
+~
+~
+0 0 11482
+S
+#11472
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11462
+D1
+~
+~
+0 0 11473
+D2
+~
+~
+0 0 11482
+D3
+~
+~
+0 0 11471
+D6
+~
+~
+0 0 11461
+D7
+~
+~
+0 0 11463
+D8
+~
+~
+0 0 11481
+D9
+~
+~
+0 0 11483
+S
+#11473
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11463
+D1
+~
+~
+0 0 11474
+D2
+~
+~
+0 0 11483
+D3
+~
+~
+0 0 11472
+D6
+~
+~
+0 0 11462
+D7
+~
+~
+0 0 11464
+D8
+~
+~
+0 0 11482
+D9
+~
+~
+0 0 11484
+S
+#11474
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11464
+D1
+~
+~
+0 0 11475
+D2
+~
+~
+0 0 11484
+D3
+~
+~
+0 0 11473
+D6
+~
+~
+0 0 11463
+D7
+~
+~
+0 0 11465
+D8
+~
+~
+0 0 11483
+D9
+~
+~
+0 0 11485
+S
+#11475
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11465
+D1
+~
+~
+0 0 11476
+D2
+~
+~
+0 0 11485
+D3
+~
+~
+0 0 11474
+D6
+~
+~
+0 0 11464
+D7
+~
+~
+0 0 11466
+D8
+~
+~
+0 0 11484
+D9
+~
+~
+0 0 11486
+S
+#11476
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11466
+D1
+~
+~
+0 0 11477
+D2
+~
+~
+0 0 11486
+D3
+~
+~
+0 0 11475
+D6
+~
+~
+0 0 11465
+D7
+~
+~
+0 0 11467
+D8
+~
+~
+0 0 11485
+D9
+~
+~
+0 0 11487
+S
+#11477
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11467
+D1
+~
+~
+0 0 11478
+D2
+~
+~
+0 0 11487
+D3
+~
+~
+0 0 11476
+D6
+~
+~
+0 0 11466
+D7
+~
+~
+0 0 11468
+D8
+~
+~
+0 0 11486
+D9
+~
+~
+0 0 11488
+S
+#11478
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11468
+D1
+~
+~
+0 0 11479
+D2
+~
+~
+0 0 11488
+D3
+~
+~
+0 0 11477
+D6
+~
+~
+0 0 11467
+D7
+~
+~
+0 0 11469
+D8
+~
+~
+0 0 11487
+D9
+~
+~
+0 0 11489
+S
+#11479
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11469
+D1
+~
+~
+0 0 11570
+D2
+~
+~
+0 0 11489
+D3
+~
+~
+0 0 11478
+D6
+~
+~
+0 0 11468
+D7
+~
+~
+0 0 11560
+D8
+~
+~
+0 0 11488
+D9
+~
+~
+0 0 11580
+S
+#11480
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11470
+D1
+~
+~
+0 0 11481
+D2
+~
+~
+0 0 11490
+D3
+~
+~
+0 0 11389
+D6
+~
+~
+0 0 11379
+D7
+~
+~
+0 0 11471
+D8
+~
+~
+0 0 11399
+D9
+~
+~
+0 0 11491
+S
+#11481
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11471
+D1
+~
+~
+0 0 11482
+D2
+~
+~
+0 0 11491
+D3
+~
+~
+0 0 11480
+D6
+~
+~
+0 0 11470
+D7
+~
+~
+0 0 11472
+D8
+~
+~
+0 0 11490
+D9
+~
+~
+0 0 11492
+S
+#11482
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11472
+D1
+~
+~
+0 0 11483
+D2
+~
+~
+0 0 11492
+D3
+~
+~
+0 0 11481
+D6
+~
+~
+0 0 11471
+D7
+~
+~
+0 0 11473
+D8
+~
+~
+0 0 11491
+D9
+~
+~
+0 0 11493
+S
+#11483
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11473
+D1
+~
+~
+0 0 11484
+D2
+~
+~
+0 0 11493
+D3
+~
+~
+0 0 11482
+D6
+~
+~
+0 0 11472
+D7
+~
+~
+0 0 11474
+D8
+~
+~
+0 0 11492
+D9
+~
+~
+0 0 11494
+S
+#11484
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11474
+D1
+~
+~
+0 0 11485
+D2
+~
+~
+0 0 11494
+D3
+~
+~
+0 0 11483
+D6
+~
+~
+0 0 11473
+D7
+~
+~
+0 0 11475
+D8
+~
+~
+0 0 11493
+D9
+~
+~
+0 0 11495
+S
+#11485
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11475
+D1
+~
+~
+0 0 11486
+D2
+~
+~
+0 0 11495
+D3
+~
+~
+0 0 11484
+D6
+~
+~
+0 0 11474
+D7
+~
+~
+0 0 11476
+D8
+~
+~
+0 0 11494
+D9
+~
+~
+0 0 11496
+S
+#11486
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11476
+D1
+~
+~
+0 0 11487
+D2
+~
+~
+0 0 11496
+D3
+~
+~
+0 0 11485
+D6
+~
+~
+0 0 11475
+D7
+~
+~
+0 0 11477
+D8
+~
+~
+0 0 11495
+D9
+~
+~
+0 0 11497
+S
+#11487
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11477
+D1
+~
+~
+0 0 11488
+D2
+~
+~
+0 0 11497
+D3
+~
+~
+0 0 11486
+D6
+~
+~
+0 0 11476
+D7
+~
+~
+0 0 11478
+D8
+~
+~
+0 0 11496
+D9
+~
+~
+0 0 11498
+S
+#11488
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11478
+D1
+~
+~
+0 0 11489
+D2
+~
+~
+0 0 11498
+D3
+~
+~
+0 0 11487
+D6
+~
+~
+0 0 11477
+D7
+~
+~
+0 0 11479
+D8
+~
+~
+0 0 11497
+D9
+~
+~
+0 0 11499
+S
+#11489
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11479
+D1
+~
+~
+0 0 11580
+D2
+~
+~
+0 0 11499
+D3
+~
+~
+0 0 11488
+D6
+~
+~
+0 0 11478
+D7
+~
+~
+0 0 11570
+D8
+~
+~
+0 0 11498
+D9
+~
+~
+0 0 11590
+S
+#11490
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11480
+D1
+~
+~
+0 0 11491
+D2
+~
+~
+0 0 11000
+D3
+~
+~
+0 0 11399
+D6
+~
+~
+0 0 11389
+D7
+~
+~
+0 0 11481
+D8
+~
+~
+0 0 11109
+D9
+~
+~
+0 0 11001
+S
+#11491
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11481
+D1
+~
+~
+0 0 11492
+D2
+~
+~
+0 0 11001
+D3
+~
+~
+0 0 11490
+D6
+~
+~
+0 0 11480
+D7
+~
+~
+0 0 11482
+D8
+~
+~
+0 0 11000
+D9
+~
+~
+0 0 11002
+S
+#11492
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11482
+D1
+~
+~
+0 0 11493
+D2
+~
+~
+0 0 11002
+D3
+~
+~
+0 0 11491
+D6
+~
+~
+0 0 11481
+D7
+~
+~
+0 0 11483
+D8
+~
+~
+0 0 11001
+D9
+~
+~
+0 0 11003
+S
+#11493
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11483
+D1
+~
+~
+0 0 11494
+D2
+~
+~
+0 0 11003
+D3
+~
+~
+0 0 11492
+D6
+~
+~
+0 0 11482
+D7
+~
+~
+0 0 11484
+D8
+~
+~
+0 0 11002
+D9
+~
+~
+0 0 11004
+S
+#11494
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11484
+D1
+~
+~
+0 0 11495
+D2
+~
+~
+0 0 11004
+D3
+~
+~
+0 0 11493
+D6
+~
+~
+0 0 11483
+D7
+~
+~
+0 0 11485
+D8
+~
+~
+0 0 11003
+D9
+~
+~
+0 0 11005
+S
+#11495
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11485
+D1
+~
+~
+0 0 11496
+D2
+~
+~
+0 0 11005
+D3
+~
+~
+0 0 11494
+D6
+~
+~
+0 0 11484
+D7
+~
+~
+0 0 11486
+D8
+~
+~
+0 0 11004
+D9
+~
+~
+0 0 11006
+S
+#11496
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11486
+D1
+~
+~
+0 0 11497
+D2
+~
+~
+0 0 11006
+D3
+~
+~
+0 0 11495
+D6
+~
+~
+0 0 11485
+D7
+~
+~
+0 0 11487
+D8
+~
+~
+0 0 11005
+D9
+~
+~
+0 0 11007
+S
+#11497
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11487
+D1
+~
+~
+0 0 11498
+D2
+~
+~
+0 0 11007
+D3
+~
+~
+0 0 11496
+D6
+~
+~
+0 0 11486
+D7
+~
+~
+0 0 11488
+D8
+~
+~
+0 0 11006
+D9
+~
+~
+0 0 11008
+S
+#11498
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11488
+D1
+~
+~
+0 0 11499
+D2
+~
+~
+0 0 11008
+D3
+~
+~
+0 0 11497
+D6
+~
+~
+0 0 11487
+D7
+~
+~
+0 0 11489
+D8
+~
+~
+0 0 11007
+D9
+~
+~
+0 0 11009
+S
+#11499
+The Frozen Sea~
+You are surrounded by the waters of the frozen sea.  There are plentiful amounts
+ice and icebergs that are floating in the water.  The cold from the water travels
+into the air which leaves a freezing feeling in your lungs.  The water is dark and
+perilous.
+~
+0 0 11
+D0
+~
+~
+0 0 11489
+D1
+~
+~
+0 0 11590
+D2
+~
+~
+0 0 11009
+D3
+~
+~
+0 0 11498
+D6
+~
+~
+0 0 11488
+D7
+~
+~
+0 0 11580
+D8
+~
+~
+0 0 11008
+D9
+~
+~
+0 0 11200
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11000 100 11400 2 Load a tuna fish
+M 0 11005 100 11402 2 Load an aboleth
+M 0 11005 100 11406 2 Load an aboleth
+M 0 11003 100 11410 2 Load a {Csea{x dragon
+M 0 11000 100 11411 2 Load a tuna fish
+M 0 11008 100 11413 2 Load a jellyfish
+M 0 11008 100 11413 2 Load a jellyfish
+M 0 11008 100 11415 2 Load a jellyfish
+M 0 11008 100 11416 2 Load a jellyfish
+M 0 11000 100 11417 2 Load a tuna fish
+M 0 11000 100 11417 2 Load a tuna fish
+M 0 11008 100 11419 2 Load a jellyfish
+M 0 11003 100 11419 2 Load a {Csea{x dragon
+M 0 11001 100 11420 2 Load a octopus
+M 0 11002 100 11421 2 Load a man o'war
+M 0 11000 100 11422 2 Load a tuna fish
+M 0 11005 100 11422 2 Load an aboleth
+M 0 11006 100 11427 2 Load a dolphin
+M 0 11001 100 11428 2 Load a octopus
+M 0 11002 100 11428 2 Load a man o'war
+M 0 11000 100 11430 2 Load a tuna fish
+M 0 11000 100 11432 2 Load a tuna fish
+M 0 11005 100 11434 2 Load an aboleth
+M 0 11002 100 11435 2 Load a man o'war
+M 0 11008 100 11436 2 Load a jellyfish
+M 0 11005 100 11437 2 Load an aboleth
+M 0 11008 100 11438 2 Load a jellyfish
+M 0 11006 100 11442 2 Load a dolphin
+M 0 11006 100 11449 2 Load a dolphin
+M 0 11003 100 11450 2 Load a {Csea{x dragon
+M 0 11005 100 11452 2 Load an aboleth
+M 0 11005 100 11453 2 Load an aboleth
+M 0 11002 100 11457 2 Load a man o'war
+M 0 11005 100 11464 2 Load an aboleth
+M 0 11006 100 11466 2 Load a dolphin
+M 0 11008 100 11467 2 Load a jellyfish
+M 0 11001 100 11469 2 Load a octopus
+M 0 11005 100 11471 2 Load an aboleth
+M 0 11007 100 11473 2 Load a sea hag
+M 0 11000 100 11475 2 Load a tuna fish
+M 0 11003 100 11481 2 Load a {Csea{x dragon
+M 0 11002 100 11482 2 Load a man o'war
+M 0 11003 100 11488 2 Load a {Csea{x dragon
+M 0 11001 100 11490 2 Load a octopus
+M 0 11000 100 11491 2 Load a tuna fish
+M 0 11000 100 11491 2 Load a tuna fish
+M 0 11005 100 11492 2 Load an aboleth
+M 0 11003 100 11495 2 Load a {Csea{x dragon
+M 0 11006 100 11497 2 Load a dolphin
+M 0 11006 100 11499 2 Load a dolphin
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

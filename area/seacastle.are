@@ -1,0 +1,1805 @@
+#AREADATA
+Name Sea Castle~
+Builders Blake~
+VNUMs 9400 9499
+LevelRange 30 51
+Credits Blake~
+Security 9
+Continent 2
+AreaFlags A
+End
+
+
+
+#MOBILES
+#9400
+sea elf spirit~
+a sea-elf spirit~
+A Sea-Elf spirit rests here humming a haunting tune.
+~
+The Spirit of a sad looking sea elf rests here.  The look in his eyes is
+one of misery as he seems to have been trapped here. 
+~
+human~
+AB DFJU 1 0
+53 0 50d10+5000 25d9+100 5d8+20 none
+-21 -21 -21 3
+EFLRU 0 0 J
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#9401
+statue illerion~
+Statue of Illerion~
+A statue of the first great sea-elf king Illerion stands here.
+~
+The statue almost seems to be life like as you gaze into the kind looking
+face.  As the tale was once told, Illerion died a tragic death while out
+adventuring in the Dragon Sea.  
+~
+human~
+AB HV 2 0
+54 0 50d10+5500 26d9+100 6d7+20 none
+-22 -22 -22 2
+EF 0 0 0
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#9402
+giant turtle~
+a giant turtle~
+A giant turtle is here, slowly edging its way toward you.
+~
+A giant turtle is here, slowly edging its way toward you.  An irritating
+scraping noise comes from his claws as they drag along the stone floor.  
+~
+fish~
+ABF DFJb 1 0
+50 0 50d10+4500 25d9+100 5d8+20 none
+-15 15 -15 0
+ELRU 0 R J
+stand stand male 2000
+AGHMVW ADEFKO medium unknown
+#9403
+lost adventurer~
+A lost adventurer~
+A lost adventurer wanders aimlessly about.
+~
+A rather strong looking man wanders about here.  He eyes you slowly and
+proceeds to ask if you know a way out....  Hmm...  Bet he's lost.  
+~
+human~
+AB DFHJV 3 0
+42 0 15d10+1850 20d9+100 4d8+13 none
+-13 -13 -13 5
+EFK 0 0 0
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#9404
+giant fish~
+A giant fish~
+A giant fish is here, swimming around looking for something to eat.
+~
+A bright green scaled fish. He has a large fan tail and beady black eyes. 
+~
+fish~
+AB DFJVb 1 0
+45 0 15d10+2500 20d9+100 4d8+13 none
+-16 16 16 4
+FM 0 R 0
+stand stand either 1000
+AGHMVb ADEFKO medium unknown
+F for W
+#9405
+sea lion~
+a sea-lion~
+A Sea-Lion roams nearby, looking to prey on something.
+~
+The creature which has made it's presence known looks to be a mix between
+a lion and a fish.  It's agility in the water as well as on land makes it a
+formidable foe.
+~
+human~
+ABF a 1 0
+52 0 45d10+4500 27d9+100 7d6+15 none
+-20 -20 -20 2
+EFU R H 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#9406
+statue royal guard~
+Statue of a Royal Guard~
+A statue of a royal guard stands here and seems to eye you.
+~
+The statue of the guard eyes the dungeon solemnly.
+~
+elf~
+ABT CDFHJVZ 3 3000
+45 30 1d1+3999 1d1+499 5d4+40 crush
+-20 -20 -20 0
+CDEFKNO 0 B JZ
+stand stand male 5000
+AHMV ABCDEFGHIJK large unknown
+#9407
+sea dragon~
+a {Csea{x dragon~
+A {Csea{x dragon is here.
+~
+It seems this dragon has taking a liking to the area.....  It doesn't
+look like he wants to be friends either...
+~
+dragon~
+AB DFHJTV 1 0
+52 0 5d10+5500 26d9+100 6d7+20 none
+-22 -22 -22 2
+FNU A BEH F
+stand stand none 7000
+AHMVZ ABCDEFGHIJKPQUVX dragon unknown
+F vul I
+#9408
+spirit prisoner~
+spirit of a prisoner~
+The spirit of a prisoner wanders here.
+~
+The Spirit looks very upset and disturbed.
+~
+elf~
+ABT DFJUZ 3 3000
+45 30 1d1+3999 1d1+499 5d4+40 crush
+-20 -20 -20 0
+CDEFK 0 0 J
+stand stand either 5000
+AHMV ABCDEFGHIJK large unknown
+F res B
+F vul Z
+#9409
+morkoth squid humanoid~
+the morkoth~
+The morkoth looms over his lair.
+~
+The morkoth appears to be a humanoid-squid with a shadowy behavior.. 
+They have often been known as the wraith of the deep and you can almost feel
+the evil pulsating from it's soul.  
+~
+human~
+ABGM DHJNO 1 0
+45 7 1d91+2024 1d1+99 1d33+14 none
+-20 -20 -20 -15
+F 0 0 0
+stand stand male 450
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#9400
+potion underwater breathing~
+a potion of underwater breathing~
+A potion of underwater breathing is here.~
+glass~
+potion ABG AO
+10 'water breathing' '' '' ''
+1 10 0 P
+#9401
+sea sword~
+a {Csea{x sword~
+A {Csea{x sword lies here glowing with the mystic power of the oceans.~
+coral~
+weapon G AN
+sword 5 6 stab C
+45 50 2000 P
+A
+18 2
+A
+19 2
+#9402
+sea dragon eye~
+a {CSea{x-Dragon's Eye~
+A glowing {CSea{x-Dragon's eye sparkles here.~
+crystal~
+light AG A
+0 0 0 0 0
+46 1 1000 P
+A
+12 75
+A
+2 -2
+A
+1 -2
+A
+14 -50
+#9403
+armplate illerion~
+the armplates of Illerion~
+A set of coral armplates lay here.~
+coral~
+armor G AI
+BD BD BD AC 0
+49 50 4000 P
+A
+12 10
+A
+13 20
+A
+18 1
+A
+19 1
+#9404
+quartz staff~
+a {Wquartz{x staff~
+A {Wquartz{x staff laying here.~
+quartz~
+weapon G AN
+staff 4 5 shock 0
+35 50 1000 P
+#9405
+sea elf harp~
+a sea-elf's harp~
+A beautiful sea-elf's harp is waiting to be played~
+mithril~
+wand A AO
+10 5 5 'create spring' 0
+1 70 100 P
+#9406
+tentacle squid~
+a tentacle of a squid~
+A tentacle of a squid lays here.~
+squid~
+treasure G AO
+0 0 0 0 0
+47 10 1150 P
+A
+19 2
+A
+18 2
+A
+13 20
+A
+12 10
+#9407
+ring wizardry~
+a ring of wizardry~
+A coral ring of wizardry lies here.~
+coral~
+jewelry A AB
+0 0 0 0 0
+35 10 100 P
+A
+12 30
+A
+20 -1
+#9408
+black wizard stone~
+a black wizard stone~
+An obsidian wizard's stone lies here.~
+obsidian~
+jewelry AY AQ
+0 0 0 0 0
+35 10 100 P
+A
+19 2
+A
+18 2
+#0
+
+
+
+#ROOMS
+#9400
+A Large Balcony~
+A large balcony protrudes out barely sitting over the rising waves of the
+ocean.  The stone seems worn from the waves of the sea as you feel a piece
+of moss roll over your feet.  To the north lies a large arch-way leading
+into the castle.
+~
+0 0 0
+D0
+~
+~
+0 0 9401
+D5
+~
+~
+0 0 11201
+S
+#9401
+Inside a Bedroom~
+The light from the arch-way streams into the room and dimly lights its
+contents.  On the floor you see a small comfortable looking bed covered in
+dried moss.  To the east looks to be a small closet and to the north is
+large stone door.  A {Cglowing{x globe lays in the corner of the room.
+~
+0 0 0
+E
+globe~
+The swirling mist of blue and grey from within the globe seems to become
+more intense as you look deeper into it.  As you look longer the mist clears
+and you see the images of the rolling waves over a calm and peaceful sea. 
+Within moments thought the sky begins to cloud over and waves begin from at
+first small but then higher and higher gaining with intensity and strength. 
+The howling winds move faster and faster as a deep rumbling can be heard
+from far beneath the ocean.  The rumbling becomes louder and louder as the
+waves roll higher and higher off of the surface of the water.  Suddenly,
+from the surface in quick jagged movements you see the parts of the once
+majestic castle collapse under the water and parts such as the pinnacle 
+of a tower left protruding. The rumbling continues louder and louder and 
+the waves thrash violently.  As quick as it began...  The God's halted the 
+acts of nature...  The rumbling disapated as the waves began to slowly 
+return closer to the surface water.  The clouds in the sky cleared slowly 
+as a kingdom ended in tragedy.
+~
+D0
+~
+~
+0 0 9403
+D2
+~
+~
+0 0 9400
+D3
+~
+~
+0 0 9402
+S
+#9402
+A Small Closet~
+This small closet seems to be rather dark and musty.  There is a large
+shelf near the top of the closet which is made out of a marble looking
+material.  It looks as if this closet hasn't been used in ages.
+~
+0 0 0
+D1
+~
+~
+0 0 9401
+S
+#9403
+A Hallway~
+This long marble etched hallway follows for a small distance to both the
+east and west ending at a long large archway.  Along the wall you see
+intricately designed carvings of mystic sea-elves which almost draw you to
+them as if they had a spirit.  
+~
+0 0 0
+D0
+~
+~
+0 0 9412
+D1
+~
+~
+0 0 9404
+D2
+~
+~
+0 0 9401
+D3
+~
+~
+0 0 9413
+S
+#9404
+East End of a Short Hallway~
+You have come to the east end of the short hallway.  Through the archway
+to the east you spy a spiral staircase which seems to lead upwards into the
+higher tower of the castle.  
+~
+0 0 0
+D1
+~
+~
+0 0 9405
+D3
+~
+~
+0 0 9403
+S
+#9405
+Bottom of a Spiral Staircase~
+You are standing at the bottom of a large spiral staircase which seems to
+rise forever.  As in the hallway, there are many very well sculpted murals
+which have been carved into the walls.  
+~
+0 0 0
+D3
+~
+~
+0 0 9404
+D4
+~
+~
+0 0 9406
+S
+#9406
+Spiral Staircase~
+You are standing in the middle of a large spiral staircase which appears
+to lead to the higher levels of the tower.  You can almost here a haunting
+voice talking to you.  Could it be the spirit of a long passed away sea-elf?
+~
+0 0 0
+D0
+~
+~
+0 0 9408
+D4
+~
+~
+0 0 9407
+D5
+~
+~
+0 0 9405
+S
+#9407
+Top of a Spiral Staircase~
+You are standing at the top of a spiral staircase.  To the north lies a
+dark room from which you can hear scratching noises.  As you peer down you
+almost get a light-headed feeling from the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 9474
+D5
+~
+~
+0 0 9406
+S
+#9408
+A Small Room~
+This small dark room has a horribly musty smell.  To the south is the
+large arch-way which leads back towards the spiral staircase.  There are
+doors to the north, south and east from which you hear a presence.  
+~
+0 0 0
+D0
+~
+~
+0 0 9411
+D1
+~
+~
+0 0 9410
+D2
+~
+~
+0 0 9406
+D3
+~
+~
+0 0 9409
+D4
+~
+~
+0 0 9463
+S
+#9409
+Music Room~
+This room seems to be filled with many different types of ancient musical
+instruments known to the sea-elves.  The room was used in long ago for
+musicians of the court to practice for the king.
+~
+0 0 0
+D1
+~
+~
+0 0 9408
+S
+#9410
+Ancient Storage Room~
+This room looks as if it were used to store everything from weapons to
+spare rations of food.  You see a few chests lying around but most of what
+was once here seems to have been taken long ago.
+~
+0 0 0
+D3
+~
+~
+0 0 9408
+S
+#9411
+Turtle Infested Room~
+This room seems to be taken over by a mass of giant turtles which lurk
+here.  They seem to be moving about rather quickly for turtles as they turn
+to eye their next victim.....  YOU!
+~
+0 0 0
+D2
+~
+~
+0 0 9408
+S
+#9412
+Large Bedroom~
+This bedroom as you can see hasn't been occupied in many a year.  It's
+very hollow and empty except for a small moss-covered pad which lies in the
+corner.  To the north you see a large opened window which lies just feet
+over the tip of largest waves.
+~
+0 0 0
+D2
+~
+~
+0 0 9403
+S
+#9413
+West End of a Small Hallway~
+You've come to the west end of the short hallway.  Through the archway
+further to the west you see a spiral stairs which look to be leading in a
+downward direction.
+~
+0 0 0
+D1
+~
+~
+0 0 9403
+D3
+~
+~
+0 0 9414
+S
+#9414
+Top of a Spiral Staircase~
+You are standing at the top of a large spiral staircase which looks to go
+down for a bit and then submerge with the {Ccold{x dark water of the ocean.  
+~
+0 0 0
+D1
+~
+~
+0 0 9413
+D5
+~
+~
+0 0 9415
+S
+#9415
+Staircase Submerged by Water~
+This area of the staircase has been engulfed by the {Ccold{x dark water of
+the ocean.  Nothing can be made out downwards as you stand with water rising
+to your neck.
+~
+0 0 11
+D4
+~
+~
+0 0 9414
+D5
+~
+~
+0 0 9416
+S
+#9416
+Underwater Staircase~
+You are standing on a staircase completely engulfed by water.  Downwards
+through the misty water you can see what appears to be the bottom of the
+stairs.  Better hope you can breath underwater.
+~
+0 0 13
+D4
+~
+~
+0 0 9415
+D5
+~
+~
+0 0 9417
+S
+#9417
+Base of a Large Underwater Staircase~
+You are standing at the base of a large set of spiral stairs.  There are
+hallways leading in all four directions away from the stairs.  The darkness
+of the murky water prevents you from seeing too far in the distance however.
+~
+0 9 13
+D0
+~
+~
+0 0 9464
+D1
+~
+~
+0 0 9418
+D2
+~
+~
+0 0 9448
+D3
+~
+~
+0 0 9427
+D4
+~
+~
+0 0 9416
+S
+#9418
+Beginning of the East Hallway~
+You are standing just east of the spiral staircase.  You see no doors
+along the walls down this hall except one at the very far end.  
+~
+0 9 13
+D1
+~
+~
+0 0 9419
+D3
+~
+~
+0 0 9417
+S
+#9419
+Middle of the East Hallway~
+You appear to be in the middle of the east hallway.  Further to the west
+you can still barely make out the bottom of the spiral staircase as the door
+further to the east comes better into view.  The wall looks to the north
+looks to have a large crack in it.  
+~
+0 9 13
+D0
+~
+~
+1 0 9422
+D1
+~
+~
+0 0 9420
+D3
+~
+~
+0 0 9418
+S
+#9420
+End of the East Hallway~
+You've come to the end of the east hallway.  You stand before a large
+stone door which probably hasn't been opened for many years.  The door has
+many carvings odd runes on the front.
+~
+0 9 13
+D1
+~
+~
+1 0 9421
+D3
+~
+~
+0 0 9419
+S
+#9421
+Royal Treasury~
+This large room was once the home to the royal treasure of this now
+abandoned castle.  All that is left now is a small chest and a few scattered
+coins laying about the floor.
+~
+0 9 13
+D3
+~
+~
+1 0 9420
+S
+#9422
+Secret Hallway~
+The wall from the hallway has opened to find a secret passage.  The hall
+from side to side is very narrow spanning only enough space to fit through.
+~
+0 9 13
+D0
+~
+~
+0 0 9423
+D2
+~
+~
+1 0 9419
+S
+#9423
+Secret Hallway~
+The wall from the hallway has opened to find a secret passage.  The hall
+from side to side is very narrow spanning only enough space to fit through.
+~
+0 9 13
+D0
+~
+~
+0 0 9424
+D2
+~
+~
+0 0 9422
+S
+#9424
+A Bend in the Secret Hallway~
+You have come to a bend in the hallway.  To the south the small cramped
+passage leads back out to the main hall...  From here...  The way leads east
+into darkness.
+~
+0 1 13
+D1
+~
+~
+0 0 9425
+D2
+~
+~
+0 0 9423
+S
+#9425
+Secret Hallway~
+The wall from the hallway has opened to find a secret passage.  The hall
+from side to side is very narrow spanning only enough space to fit through.
+~
+0 9 13
+D1
+~
+~
+0 0 9426
+D3
+~
+~
+0 0 9424
+S
+#9426
+A Dead End~
+The secret passage seems to come to an abrupt halt as stone surrounds you
+on three sides now.  It seems this part of the passage was not completed for
+some reason.  Guess you'd better turn back.
+~
+0 9 13
+D3
+~
+~
+0 0 9425
+S
+#9427
+Beginning of the West Hallway~
+This end of the Hallway seems to be heading in a downwards direction to
+the west.  No doors editcan be seen along the walls which are rather barren
+in contrast with the rest of the castle.  
+~
+0 9 13
+D1
+~
+~
+0 0 9417
+D5
+~
+~
+0 0 9428
+S
+#9428
+West Hallway Leading Down~
+This end of the Hallway seems to be heading in a downwards direction to
+the west.  No doors can be seen along the walls which are rather barren in
+contrast with the rest of the castle.  
+~
+0 9 13
+D3
+~
+~
+0 0 9429
+D4
+~
+~
+0 0 9427
+S
+#9429
+Farther Down the West Hallway~
+This end of the Hallway seems to be heading in a downwards direction to
+the west.  No doors can be seen along the walls which are rather barren in
+contrast with the rest of the castle.  
+~
+0 9 13
+D1
+~
+~
+0 0 9428
+D5
+~
+~
+0 0 9430
+S
+#9430
+End of the West Hallway~
+A small doorway is here which leads to a staircase heading farther down
+into the depths of the ocean.  To the east the hallway slants in an upward
+direction with stairs every couple feet.  
+~
+0 9 13
+D3
+~
+~
+0 0 9431
+D4
+~
+~
+0 0 9429
+S
+#9431
+Top of the Stairwell Leading to the Dungeon~
+This stairwell is rather cramped.  The stone stairs lead sharply
+downwards.  Better not fall here.
+~
+0 9 13
+D1
+~
+~
+0 0 9430
+D5
+~
+~
+0 0 9432
+S
+#9432
+Stairwell Leading Down to the Dungeon~
+This stairwell is rather cramped.  The stone stairs lead sharply
+downwards.  Better not fall here.
+~
+0 9 13
+D4
+~
+~
+0 0 9431
+D5
+~
+~
+1 0 9433
+S
+#9433
+Center of the Dungeon~
+You are standing in the dungeon.  Shackles line the walls as this room
+once used as a place to keep the vilest of prisoners.  There appears to be a
+door at the north end of this large room.  
+~
+0 9 13
+D0
+~
+~
+0 0 9434
+D1
+~
+~
+0 0 9436
+D2
+~
+~
+0 0 9438
+D3
+~
+~
+0 0 9440
+D4
+~
+~
+1 0 9432
+D6
+~
+~
+0 0 9441
+D7
+~
+~
+0 0 9435
+D8
+~
+~
+0 0 9439
+D9
+~
+~
+0 0 9437
+S
+#9434
+North Wall of the Dungeon~
+You are standing in the dungeon.  Shackles line the walls as this room
+once used as a place to keep the vilest of prisoners.  There is a door
+directly to the north.
+~
+0 9 13
+D0
+~
+~
+1 0 9442
+D1
+~
+~
+0 0 9435
+D2
+~
+~
+0 0 9433
+D3
+~
+~
+0 0 9441
+D8
+~
+~
+0 0 9440
+D9
+~
+~
+0 0 9436
+S
+#9435
+Northeast Corner of the Dungeon~
+You are standing in the dungeon.  Shackles line the walls as this room
+once used as a place to keep the vilest of prisoners.  There appears to be a
+door at the north end of this large room.
+~
+0 9 13
+D2
+~
+~
+0 0 9436
+D3
+~
+~
+0 0 9434
+D8
+~
+~
+0 0 9433
+S
+#9436
+East Wall of the Dungeon~
+You are standing in the dungeon.  Shackles line the walls as this room
+once used as a place to keep the vilest of prisoners.  There appears to be a
+door at the north end of this large room.
+~
+0 9 13
+D0
+~
+~
+0 0 9435
+D2
+~
+~
+0 0 9437
+D3
+~
+~
+0 0 9433
+D6
+~
+~
+0 0 9434
+D8
+~
+~
+0 0 9438
+S
+#9437
+Southeast Corner of the Dungeon~
+You are standing in the dungeon.  Shackles line the walls as this room
+once used as a place to keep the vilest of prisoners.  There appears to be a
+door at the north end of this large room.
+~
+0 9 13
+D0
+~
+~
+0 0 9436
+D3
+~
+~
+0 0 9438
+D6
+~
+~
+0 0 9433
+S
+#9438
+South Wall of the Dungeon~
+You are standing in the dungeon.  Shackles line the walls as this room
+once used as a place to keep the vilest of prisoners.  There appears to be a
+door at the north end of this large room.
+~
+0 9 13
+D0
+~
+~
+0 0 9433
+D1
+~
+~
+0 0 9437
+D3
+~
+~
+0 0 9439
+D6
+~
+~
+0 0 9440
+D7
+~
+~
+0 0 9436
+S
+#9439
+Southwest Corner of the Dungeon~
+You are standing in the dungeon.  Shackles line the walls as this room
+once used as a place to keep the vilest of prisoners.  There appears to be a
+door at the north end of this large room.
+~
+0 9 13
+D0
+~
+~
+0 0 9440
+D1
+~
+~
+0 0 9438
+D7
+~
+~
+0 0 9433
+S
+#9440
+West Wall of the Dungeon~
+You are standing in the dungeon.  Shackles line the walls as this room
+once used as a place to keep the vilest of prisoners.  There appears to be a
+door at the north end of this large room.
+~
+0 9 13
+D0
+~
+~
+0 0 9441
+D1
+~
+~
+0 0 9433
+D2
+~
+~
+0 0 9439
+D7
+~
+~
+0 0 9434
+D9
+~
+~
+0 0 9438
+S
+#9441
+Northwest Corner of the Dungeon~
+You are standing in the dungeon.  Shackles line the walls as this room
+once used as a place to keep the vilest of prisoners.  There appears to be a
+door at the north end of this large room.
+~
+0 9 13
+D1
+~
+~
+0 0 9434
+D2
+~
+~
+0 0 9440
+D9
+~
+~
+0 0 9433
+S
+#9442
+End of a Long Corridor~
+You are standing at the end of a long corridor.  To the south lies a door
+from which behind it you can here haunting moaning noises.  Down the hall to
+the north you see nothing but {Ddarkness{x.
+~
+0 9 13
+D0
+~
+~
+0 0 9443
+D2
+~
+~
+1 0 9434
+S
+#9443
+A Long Hallway~
+The hallway seems to stretch on forever.  The murky water seems to suck
+in any light which can make its way down this far. 
+~
+0 9 13
+D0
+~
+~
+0 0 9444
+D2
+~
+~
+0 0 9442
+S
+#9444
+A Long Hallway~
+The hallway seems to stretch on forever.  The murky water seems to suck
+in any light which can make its way down this far. 
+~
+0 9 13
+D0
+~
+~
+0 0 9445
+D2
+~
+~
+0 0 9443
+S
+#9445
+A Long Hallway~
+The hallway seems to stretch on forever.  The murky water seems to suck
+in any light which can make its way down this far.  There appears to be
+a small room to the east.
+~
+0 9 13
+D0
+~
+~
+0 0 9447
+D1
+~
+~
+0 0 9446
+D2
+~
+~
+0 0 9444
+S
+#9446
+A small closet~
+This seems to be the last room left down the barren and now destroyed
+hallway.  It's a rather small room as not much but a couple of shelves are
+left here to see.
+~
+0 9 13
+D3
+~
+~
+0 0 9445
+S
+#9447
+The Caverns Door~
+The hallway appears to have broken off and opened up into a large cavern
+with rocks and sea-creatures all about.  It appears that the rest of the
+hallway was lost long ago. 
+~
+0 9 13
+D0
+~
+~
+0 0 9475
+D2
+~
+~
+0 0 9445
+S
+#9448
+Beginning of the South Hallway~
+This end of the hallway doesn't seem as dark and drab as the rest of the
+rest of the halls submerged.  Far down the hall you can see the light
+streaming in through an open doorway.
+~
+0 9 13
+D0
+~
+~
+0 0 9417
+D2
+~
+~
+0 0 9449
+S
+#9449
+Middle of the South Hallway~
+You are standing in the middle of the south hallway.  Further to the
+north you can still make out the spiral staircase and nearby to the south
+lays the open arch-way.
+~
+0 9 13
+D0
+~
+~
+0 0 9448
+D2
+~
+~
+0 0 9450
+S
+#9450
+End of the South Hallway~
+The large arch-way has a beautifully crafted cobblestone trim running
+over it's edges.  Beyond to the south lies yet another spiral staircase. 
+~
+0 9 13
+D0
+~
+~
+0 0 9449
+D1
+~
+~
+1 0 9451
+D2
+~
+~
+0 0 9455
+S
+#9451
+Illerion's Chambers~
+You stand in the chambers of the first great sea-elf king Illerion. 
+Embeded in the walls are decorative jewels in every fashion that you could
+possibly imagine.  The ceiling is rather high here as the room nearly looks to
+be a hall. 
+~
+0 9 13
+D1
+~
+~
+0 0 9452
+D3
+~
+~
+1 0 9450
+S
+#9452
+Illerion's Chambers~
+All around the chamber you almost seem to hear a haunting echo.  You see
+nothing here but the remains of what used to as if it were a bed.  The stone
+floor at your feet looks as if it has began to crack and deteriorate with age.
+On a small stone table in the corner you see a {Dbook{x which looks as if it
+hasn't been moved in ages upon ages.
+~
+0 9 13
+E
+book~
+You would think that the parchment in this book would have deteriated
+moments after entering the water but strangly enought it looks as if it were
+just turned out from a shop.  As you examine the writings you read a passage
+from the last page:
+
+The days seem to be growing rather short.  The rising tension of the spirit
+of the ocean is weighing heavily upon all of our minds.  The rumblings... 
+From deep within it's bed can be heard throughout our kingdom and have many
+of my followers in a panic.  All seems to be in a more or less chaotic
+state.  At wake tomorrow, I venture forth to the nearby sea's in an
+attempt to tame the rising aggresion of the sea life.  
+
+Day of Deception, 9th 'the Month of the Shadows'.  
+~
+D3
+~
+~
+0 0 9451
+D5
+~
+~
+1 0 9453
+S
+#9453
+Below the Chamber~
+This ancient room has been revealed through years and years of aging on
+the stone door above.  The room is rather cramped and a small setof
+stairs leads down.
+~
+0 9 13
+D4
+~
+~
+1 0 9452
+D5
+~
+~
+0 0 9454
+S
+#9454
+Nothingness~
+You seem to be trapped in a bit of a mystic void...  Pure and utter
+darkness lays around you in all directions.  You can feel a presence with
+you and the air seems to be humming as it rolls across your skin with a
+faint breeze. 
+~
+0 13 9
+S
+#9455
+Base of the South Tower~
+The banister of the staircase leading upwards appears to be made of ivory
+with bright glittering jewels embedded every foot or so.  The carvings on
+the wall seem to be more intricate here than in any other part of the
+castle.  The images of sea-elves nearly seem to spring out of the walls at
+you.
+~
+0 9 13
+D0
+~
+~
+0 0 9450
+D4
+~
+~
+0 0 9456
+S
+#9456
+Spiral Staircase in the South Tower~
+The stairway continues in an upward fashion for what seems to be a good
+distance.  You can see light coming from above as if you might be coming out
+of the water. 
+~
+0 9 13
+D4
+~
+~
+0 0 9457
+D5
+~
+~
+0 0 9455
+S
+#9457
+Spiral Staircase at Sea-Level~
+The waterline breaks here as the light seems to stream from everywhere. 
+Looking down at the water below you think that it sure looks cold.  The
+staircase still travels in an upward fashion. 
+~
+0 9 11
+D4
+~
+~
+0 0 9458
+D5
+~
+~
+0 0 9456
+S
+#9458
+Top of the Spiral Staircase~
+You are standing at the top of the spiral staircase.  The air here smells
+brisk and clean as you see nothing but a door heading north here. 
+~
+0 9 0
+D0
+~
+~
+1 0 9459
+D1
+~
+~
+0 0 9461
+D3
+~
+~
+0 0 9460
+D4
+~
+~
+0 0 9462
+D5
+~
+~
+0 0 9457
+S
+#9459
+Spirit's Chamber~
+All around the room ghostly figures walk back and forth moaning a tune
+that you can't quite describe or even make out.  The figures don't seem to pay
+any attention to you at all. 
+~
+0 8 0
+D2
+~
+~
+1 0 9458
+S
+#9460
+Room in the South Tower~
+On the west wall of this room you see a small stone desk laying with many
+shelves above and below it.  A chair which looks to be made of a pearl
+substance has been tipped over and is laying in the middle of the room.  
+~
+0 8 0
+D1
+~
+~
+0 0 9458
+S
+#9461
+Room in the South Tower~
+You see nothing special about this barren room.  Not a thing is here and
+it seems that not a thing has been here for quite sometime. 
+~
+0 8 0
+D3
+~
+~
+0 0 9458
+S
+#9462
+Top of the South Tower~
+You have a breathtaking view of the ocean from here.  As far as you can
+see the rolling waves tumble from here to there.  All the stories that the
+ancient waters have to tell can be told from here.  Ancient adventures,
+wars, tragedies and miracles have happened upon these waters... 
+~
+0 8 0
+D5
+~
+~
+0 0 9458
+S
+#9463
+Top of a Large Tower~
+This rather large room at the top of the tower has many statues along the
+walls.  Through the north window you can see the breath taking {Csea{x stretch
+as far as the eye could look. 
+ 
+There is an inscription at the base of the {Dmarble{x statue.
+~
+0 0 0
+E
+marble~
+All that is {Ygold{x does not glitter
+Not all those who wander are lost
+The old that is strong does not wither
+Deep roots are not reached by the frost
+~
+D5
+~
+~
+0 0 9408
+S
+#9464
+Beginning of the North Hallway~
+You are standing in the hallway north of the intersection.  To the east
+and west appear to lay open arch-ways which lead into separate rooms.  The
+hallway also continues to the north in darkness.
+~
+0 9 13
+D0
+~
+~
+0 0 9467
+D1
+~
+~
+0 0 9465
+D2
+~
+~
+0 0 9417
+D3
+~
+~
+0 0 9466
+S
+#9465
+Pantry~
+This room has the bone remains of the castle food supply which rotted
+long ago.  Large Stone cabinets fill the room as you step on a mass of
+sea-weed on the ground. 
+~
+0 9 13
+D3
+~
+~
+0 0 9464
+S
+#9466
+Visitors Parlor~
+This once used visitors parlor hasn't been used by visitors except fish
+and aboleths for many a day.  Large comfortable looking cushioned pads lay
+all about the room and a tranquil light radiates about the area.  
+~
+0 9 13
+D1
+~
+~
+0 0 9464
+S
+#9467
+Middle of the North Hallway~
+You are standing in the middle of the North hallway.  To the east and
+west lay small looking rooms as the hallway continues farther both north and
+south. 
+~
+0 9 13
+D0
+~
+~
+0 0 9470
+D1
+~
+~
+0 0 9468
+D2
+~
+~
+0 0 9464
+D3
+~
+~
+0 0 9469
+S
+#9468
+Study Room~
+This ancient study has been turned upside down by the formation of
+sea-life which has taken it over.  Large stone shelves hover over the room
+from the north side.
+~
+0 9 13
+D3
+~
+~
+0 0 9467
+S
+#9469
+A Short Conversation Hall~
+At one point this room was used for elves of the court to convocate in
+and immerse themselves in the talk and gossip of the land.  Now nothing is
+heard but the hollow whispers of what once was.
+~
+0 9 13
+D1
+~
+~
+0 0 9467
+S
+#9470
+End of the North Hallway~
+The darkness seems to have reached its pinnacle in this corner of the
+hallway.  To the east and west lie open doors with a slight noise coming
+from them as the door to the north seems to have been unhinged many years
+ago. 
+~
+0 9 13
+D0
+~
+~
+0 0 9473
+D1
+~
+~
+0 0 9471
+D2
+~
+~
+0 0 9467
+D3
+~
+~
+0 0 9472
+S
+#9471
+An Empty Room~
+This room seems to be completely bare except for some moss which is
+growing on the floor and walls. 
+~
+0 9 13
+D3
+~
+~
+0 0 9470
+S
+#9472
+Fish Infested Room~
+The room looks as if at one time it used to be a study or what not... 
+Two stone desks lie in the opposite corners on the north and south walls.  A
+mystic looking metallic lamp hangs from the ceiling putting off a magical
+light. 
+~
+0 9 13
+D1
+~
+~
+0 0 9470
+S
+#9473
+Sea-Dragon's Lair~
+This room has been taken over and claimed by a rather large and scary
+looking Sea-Dragon.  A odd glow comes from a jewel which the dragon seems to
+be nursing. 
+~
+0 9 13
+D2
+~
+~
+0 0 9470
+S
+#9474
+A Dark Room~
+You are standing in a dark room where a lone light creeps in from a high
+open window and shines down onto a lone statue in room.  
+~
+0 8 0
+D2
+~
+~
+0 0 9407
+S
+#9475
+Inside a Dark Cavern~
+You are in a dark underwater cavern.  The water is cold itself is very
+cold as sea life swims about.  The walls of the cavern have been smoothed by
+the flow of the water over the ages.  
+~
+0 9 13
+D0
+~
+~
+0 0 9476
+D2
+~
+~
+0 0 9447
+S
+#9476
+Inside a Dark Cavern~
+You are in a dark underwater cavern.  The water is cold itself is very
+cold as sea life swims about.  The walls of the cavern have been smoothed by
+the flow of the water over the ages.  The cavern seems to be smaller here
+than it is to the south.  
+~
+0 9 13
+D0
+~
+~
+0 0 9477
+D2
+~
+~
+0 0 9475
+S
+#9477
+A Bend in the Cavern~
+You standing in the bend of cavern which goes both south and west.  The
+cavern's water is warming slightly in this spot as a slight glow can been
+seen emanating from the west.  
+~
+0 9 13
+D2
+~
+~
+0 0 9476
+D3
+~
+~
+0 0 9478
+S
+#9478
+Inside a Dark Cavern~
+You are standing in an underwater sea cavern where the water is getting
+very warm which is peculiar.  To the west a bright glow can be seen and it
+feels as if a vibration can be felt pulsating through the water.  
+~
+0 9 13
+D1
+~
+~
+0 0 9477
+D3
+~
+~
+0 0 9479
+S
+#9479
+Lair of the Morkoth~
+You are in the lair of the Morkoth.  The room as well as the caverns
+leading to it feel hypnotic as if they've drawn you into this place.  The
+glow seen from down the cavern was emanating from the Morkoth itself.  
+~
+0 9 13
+D1
+~
+~
+0 0 9478
+S
+#0
+
+
+
+#SPECIALS
+M 9406 spec_executioner
+S
+
+
+
+#RESETS
+D 0 9419 0 1
+D 0 9420 1 1
+D 0 9421 3 1
+D 0 9422 2 1
+D 0 9432 5 1
+D 0 9433 4 1
+D 0 9434 0 1
+D 0 9442 2 1
+D 0 9450 1 1
+D 0 9451 3 1
+D 0 9452 5 1
+D 0 9453 4 1
+D 0 9458 0 1
+D 0 9459 2 1
+M 0 9400 10 9401 1 Load a sea-elf spirit
+O 0 9400 0 9402 A potion of underwater breathing loaded to A Small Closet
+M 0 9400 10 9406 1 Load a sea-elf spirit
+O 0 9405 0 9409 A sea-elf's harp loaded to Music Room
+M 0 9402 15 9411 15 Load a giant turtle
+M 0 9402 15 9411 15 Load a giant turtle
+M 0 9402 15 9411 15 Load a giant turtle
+M 0 9402 15 9411 15 Load a giant turtle
+M 0 9400 10 9412 1 Load a sea-elf spirit
+M 0 9402 15 9415 15 Load a giant turtle
+M 0 9405 15 9418 15 Load a sea-lion
+M 0 9402 15 9419 15 Load a giant turtle
+M 0 9404 15 9421 15 Load A giant fish
+M 0 9404 15 9421 15 Load A giant fish
+M 0 9402 15 9424 15 Load a giant turtle
+M 0 9402 15 9424 15 Load a giant turtle
+M 0 9405 15 9425 15 Load a sea-lion
+M 0 9405 15 9425 15 Load a sea-lion
+M 0 9403 1 9426 1 Load A lost adventurer
+E 0 9404 0 16 A {wquartz{x staff is loaded wielded of A lost adventurer
+G 0 9400 0 A potion of underwater breathing is given to A lost adventurer
+M 0 9406 1 9433 1 Load Statue of a Royal Guard
+E 0 9401 0 16 A {csea{x sword is loaded wielded of Statue of a Royal Guard
+M 0 9408 8 9434 8 Load spirit of a prisoner
+M 0 9404 15 9434 15 Load A giant fish
+M 0 9408 8 9435 8 Load spirit of a prisoner
+M 0 9408 8 9436 8 Load spirit of a prisoner
+M 0 9408 8 9437 8 Load spirit of a prisoner
+M 0 9408 8 9438 8 Load spirit of a prisoner
+M 0 9408 8 9439 8 Load spirit of a prisoner
+M 0 9408 8 9440 8 Load spirit of a prisoner
+M 0 9408 8 9441 8 Load spirit of a prisoner
+M 0 9404 15 9444 15 Load A giant fish
+M 0 9404 15 9444 15 Load A giant fish
+M 0 9400 10 9445 10 Load a sea-elf spirit
+M 0 9400 10 9445 10 Load a sea-elf spirit
+O 0 9400 0 9446 A potion of underwater breathing loaded to A small closet
+M 0 9404 15 9447 15 Load A giant fish
+M 0 9405 15 9449 15 Load a sea-lion
+M 0 9404 15 9451 15 Load A giant fish
+M 0 9404 15 9451 15 Load A giant fish
+M 0 9400 10 9452 1 Load a sea-elf spirit
+M 0 9400 10 9455 1 Load a sea-elf spirit
+M 0 9400 15 9459 15 Load a sea-elf spirit
+M 0 9400 15 9459 15 Load a sea-elf spirit
+E 0 9401 0 16 A {csea{x sword is loaded wielded of a sea-elf spirit
+M 0 9405 15 9460 15 Load a sea-lion
+O 0 9400 0 9465 A potion of underwater breathing loaded to Pantry
+M 0 9405 15 9466 15 Load a sea-lion
+M 0 9405 15 9466 15 Load a sea-lion
+M 0 9405 15 9466 15 Load a sea-lion
+M 0 9405 15 9468 15 Load a sea-lion
+M 0 9405 15 9468 15 Load a sea-lion
+M 0 9404 15 9471 15 Load A giant fish
+M 0 9404 15 9471 15 Load A giant fish
+M 0 9404 15 9472 15 Load A giant fish
+M 0 9404 15 9472 15 Load A giant fish
+M 0 9404 15 9472 15 Load A giant fish
+M 0 9404 15 9472 15 Load A giant fish
+M 0 9407 1 9473 1 Load a {Csea{x dragon
+E 0 9402 0 0 A {csea{x-dragon's eye is loaded as a light of a {Csea{x dragon
+E 0 9406 0 17 A tentacle of a squid is loaded held in the hands of a {Csea{x dragon
+M 0 9401 1 9474 1 Load Statue of Illerion
+E 0 9403 0 10 The armplates of illerion is loaded on the arms of Statue of Illerion
+M 0 9400 15 9474 15 Load a sea-elf spirit
+M 0 9400 15 9474 15 Load a sea-elf spirit
+M 0 9409 1 9479 1 Load the morkoth
+E 0 9408 0 18 A black wizard stone is loaded floating nearby of the morkoth
+E 0 9407 0 1 A ring of wizardry is loaded on the left finger of the morkoth
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

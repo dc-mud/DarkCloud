@@ -1,0 +1,1953 @@
+#AREADATA
+Name Red Oak~
+Builders Blake~
+VNUMs 700 799
+LevelRange 1 51
+Credits Blake~
+Security 9
+Continent 2
+AreaFlags A
+End
+
+
+
+#MOBILES
+#700
+magician merchant~
+a magician~
+A magician is here, selling portals.
+~
+The magician is standing here wearing an old dark blue robe and holding a
+wooden cain which appears to be a magic wand of sorts.  
+~
+human~
+ABDV DFH 3 0
+40 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#701
+jeweller~
+the jeweller~
+The jeweller is standing behind the desk.
+~
+He is fat and has a content although watchful look on his face.
+~
+human~
+ABV 0 3 0
+23 0 1d1+999 1d1+99 1d8+22 slap
+-15 -15 -15 -15
+AF ABCD 0 0
+stand stand male 58000
+AHMV ABCDEFGHIJK medium unknown
+#702
+weaponsmith~
+the weaponsmith~
+A weaponsmith.
+~
+A young weaponsmith, who still has lots to learn.
+~
+human~
+ABTV 0 3 0
+23 10 1d1+999 1d1+99 1d8+32 punch
+-15 -15 -15 -15
+CEIK ABCD 0 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#703
+baker~
+the baker~
+The baker looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker. But you can see that he has many scars on his
+body.
+~
+human~
+ABV 0 3 0
+23 0 1d1+999 1d1+99 1d8+20 beating
+-15 -15 -15 -15
+CDF ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#704
+quest master questmaster~
+the quest master~
+The quest master is here ready to assign quests.
+~
+The quest master stands here waiting for an eager adventurer to send on
+a quest.
+
+Type '{Gpquest{x' to see a list of questing options.
+
+~
+human~
+ABV DFH 3 0
+40 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#705
+Phylo~
+Phylo~
+Phylo the wizardess stands behind the counter awaiting your request.
+~
+The wizardess has long purple hair which hangs out from under her hood
+which is drawn over her face.  She is balancing on a gnarled staff that
+almost seems to be humming.  
+~
+human~
+ABV D 3 0
+23 0 1d1+999 1d1+999 1d8+32 magic
+-15 -15 -15 -15
+AF ABCD 0 0
+stand stand female 15000
+AHMV ABCDEFGHIJK medium unknown
+#706
+clerk~
+the clerk~
+A clerk stands at the counter and awaits your request.
+~
+A clerk dressed in a dark silken outfit stands at the counter and awaits
+your request.  
+~
+human~
+ABV 0 3 0
+23 0 1d1+999 1d1+99 1d8+20 beating
+-15 -15 -15 -15
+EFJ ABCD 0 0
+stand stand male 1300
+AHMV ABCDEFGHIJK medium unknown
+#707
+armourer armorer~
+the armorer~
+An armorer stands here.
+~
+An old but very strong armorer, he has made more armours in his
+lifetime than you have ever seen.
+~
+human~
+ABV 0 3 0
+23 10 1d1+999 1d1+99 1d8+32 punch
+-15 -15 -15 -15
+CEFJKN ABCD 0 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#708
+cityguard guard~
+the cityguard~
+A cityguard is here, guarding the gate alertly.
+~
+A big, strong, helpful, trustworthy guard.
+~
+human~
+ABT 0 3 3000
+15 3 15d15+200 1d1+149 2d4+4 punch
+-2 -2 -2 5
+CDEKLTU 0 C 0
+stand stand either 150
+AHMV ABCDEFGHIJK medium unknown
+#709
+cityguard guard~
+the cityguard~
+A cityguard is here patrolling the area.
+~
+Before you stands a Red Oak cityguard.  They have a beard and a stern
+look on their face.  They seem to eye each person as they pass.  
+~
+human~
+AT 0 2 3000
+15 3 15d15+200 1d1+149 2d4+4 punch
+-2 -2 -2 5
+CDEKLTU 0 C 0
+stand stand either 150
+AHMV ABCDEFGHIJK medium unknown
+#710
+bartender Leesaport~
+Leesaport the bartender~
+Leesaport, the tired looking bartender stands here waiting to serve you.
+~
+Before you stands a tired looking bartender of average height.  He has
+short brown hair and looks as if he's been through the ringer a few times.  
+~
+human~
+ABHVXY D 1 0
+20 0 3d9+333 10d9+100 2d8+5 none
+-4 -4 -4 7
+EFNU 0 0 0
+stand stand male 345
+AHMV ABCDEF tiny unknown
+F par GHIJK
+#711
+cogge~
+Cogge~
+Cogge, the high protector of Red Oak is here.
+~
+Cogge, the high protector of Red Oak is here.  He has pale skin and
+bright red hair.  He dressed in chain mail and keeps his hand close to the
+hilt of his sword.  
+~
+unique~
+ABTV CDFJVZ 3 3000
+45 30 1d1+3999 1d1+499 5d4+40 crush
+-25 -25 -25 -15
+ACDEFHIKLNOT ABP CDHI JP
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+#712
+common thief~
+a common thief~
+A common thief is here lurking about.
+~
+The thief appears to be poorly lurking about eyeing each passer looking
+for their next mark.  
+~
+human~
+AGHS DF 1 0
+1 0 2d4+5 0d9+100 1d2+0 none
+10 10 10 10
+FJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#713
+drunk~
+the drunk~
+A singing, happy drunk wanders around, singing about the Blade Dancer's Inn.
+~
+Here stands a drunk who seems to be have an awful lot of fun.  
+~
+human~
+AG 0 2 0
+2 -1 2d6+22 1d1+99 1d6+0 beating
+8 8 8 10
+DU 0 0 C
+stand stand male 65
+AHMV ABCDEFGHIJK medium unknown
+#714
+healer~
+the healer~
+A healer is here, selling spells.
+~
+Although retired from adventuring, the healer still lends a hand.
+
+Type '{Gheal{x' to see a listing of spells.
+
+~
+human~
+ABQVa DFH 3 0
+40 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#715
+scribe shazman scribe~
+Shazman~
+Shazman the scribe of Red Oak is here.
+~
+The aged scribe stands at average height and has a long white beard.  He
+is wearing robes that are worn and has a parn of spectacles that make is eye
+seem very small behind them.  
+~
+human~
+ABVZ DFH 3 0
+40 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#716
+timor merchant~
+Timor~
+Timor, the shopkeeper
+~
+You see a half-elf sitting on a stool behind his counter.
+~
+human~
+ABV DFH 3 0
+40 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK BCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#717
+banker~
+The banker~
+A banker wearing a suit with black suspenders is here.
+~
+~
+human~
+ABLV DFH 3 0
+40 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK BCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#718
+guildmaster master~
+the guildmaster~
+Your guildmaster is standing here.
+~
+A large warrior with chainmail armor and swords sheathed on both sides of
+his body stands here.  He has a trimmed black beard and scars to prove that
+he has seen much combat in his day.  
+~
+human~
+ABJKTVb DFJ 3 0
+36 0 1d1+1999 1d1+199 3d8+24 beating
+-20 -20 -20 -20
+ACDEIK ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#719
+mage guildmaster~
+the guildmaster~
+Your guildmaster stands here.
+~
+An old man peering through ancient tomes rests here.
+~
+human~
+ABJKRVb DF 2 0
+40 10 1d1+30000 1d1+499 5d8+5 pierce
+-15 -15 -15 -15
+FHN ABCD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium unknown
+#720
+thief guildmaster~
+the guildmaster~
+Your guildmaster stands here.
+~
+The thief snickers are you while he spins a coin around his fingers with
+practised ease.  You wonder if it's your coin.  
+~
+human~
+ABJKRVb DF 2 0
+40 10 1d1+30000 1d1+499 5d8+5 pierce
+-15 -15 -15 -15
+FHN ABCD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium unknown
+#721
+guildmaster master~
+the guildmaster~
+Your guildmaster is standing here.
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she possesses. She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+human~
+ABJKRVb DEFJZ 3 0
+36 0 1d1+1999 1d1+999 3d8+24 magic
+-15 -15 -15 -15
+FG ABCD B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#700
+fountain water~
+a fountain~
+A small white fountain gushes forth here.~
+~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 G
+E
+fountain~
+It is very nice.  Made from fine white marble.
+~
+#701
+red oak dagger~
+a red oak dagger~
+A red oak dagger with a long thin blade is here.~
+steel~
+weapon 0 AN
+dagger 1 5 stab 0
+3 10 250 G
+A
+19 1
+A
+18 1
+#702
+red oak sword~
+a red oak sword~
+A red oak sword lies here.~
+steel~
+weapon 0 AN
+sword 1 6 slice 0
+3 30 300 G
+A
+19 1
+A
+18 1
+#703
+red oak long sword~
+a red oak long sword~
+A red oak long sword has been left here.~
+steel~
+weapon 0 AN
+sword 2 5 pierce 0
+9 50 900 G
+A
+19 1
+A
+18 1
+#704
+club~
+a red oak club~
+A stout red oak club is here.~
+wood~
+weapon 0 AN
+mace 1 7 pound 0
+4 30 300 G
+#705
+mace heavy~
+a red oak mace~
+A heavy red oak mace is here.~
+iron~
+weapon 0 AN
+mace 2 4 pound 0
+6 100 390 G
+A
+19 1
+#706
+axe hand~
+a hand axe~
+A small hand axe lies forgotten on the floor.~
+iron~
+weapon 0 AN
+axe 1 6 chop 0
+1 50 310 G
+#707
+axe battle~
+a battle axe~
+A large steel axe rests on the ground.~
+steel~
+weapon 0 AN
+axe 2 5 chop F
+5 90 650 G
+#708
+spear~
+a spear~
+A long spear leans against the wall.~
+steel~
+weapon 0 AN
+staff 1 8 pierce 0
+4 50 84 G
+#709
+staff~
+a wooden staff~
+A stout wooden staff lies on the floor.~
+wood~
+weapon 0 AN
+staff 1 8 pound F
+9 40 580 G
+A
+17 -2
+#710
+flail~
+a flail~
+A small iron flail is here.~
+iron~
+weapon 0 AN
+flail 1 7 pound 0
+1 50 77 G
+A
+17 1
+#711
+potpie pot pie~
+a big pot pie~
+A big pot pie has been left here.~
+food~
+food 0 A
+CE DF 0 0 0
+0 20 22 P
+#712
+bread~
+a bread~
+A loaf of bread is here.~
+food~
+food 0 A
+BE CD 0 0 0
+0 10 9 P
+#713
+cinnamon roll~
+a cinnamon roll~
+A piping hot cinnamon roll is here. It looks delicious!~
+food~
+food 0 A
+C D 0 0 0
+0 10 16 P
+#714
+cookies~
+a batch of cookies~
+A pile of chocolate chip cookies is here.~
+food~
+food 0 A
+D BD 0 0 0
+0 10 11 P
+#715
+danish blueberry~
+a blueberry danish~
+A scrumptious blueberry danish is here.~
+food~
+food 0 A
+D BC 0 0 0
+0 10 5 P
+#716
+scroll cancellation~
+a scroll of cancellation~
+A rolled vellum scroll is here.~
+vellum~
+scroll G AO
+15 'cancellation' '' '' ''
+9 10 1190 P
+E
+scroll~
+Use this scroll to remove magical curses.
+~
+#717
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+12 'identify' '' '' ''
+7 10 890 P
+E
+scroll identify~
+This scroll will help to identify items.
+~
+#718
+potion yellow invisible~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '' '' ''
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#719
+potion green hidden~
+a green potion of see hidden~
+A small green potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect hidden' '' '' ''
+0 10 1000 P
+E
+potion green~
+The potion has a small label 'Detect The Hidden'.
+~
+#720
+scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+15 'word of recall' '' '' ''
+15 20 900 P
+E
+scroll~
+The scroll has written a formula of 'Word of Recall' upon it.
+~
+#721
+wand magic missile missiles~
+a wand of magic missiles~
+a wooden stick lies on the ground.~
+wood~
+wand G AO
+4 10 10 'magic missile' 0
+2 10 320 P
+E
+wand~
+It has a little note that says 'point this end at target'.
+~
+#722
+iron shovel~
+an iron shovel~
+An iron shovel lays here.~
+iron~
+shovel 0 AO
+0 0 0 0 0
+1 10 300 P
+#723
+lantern~
+a hooded brass lantern~
+A hooded brass lantern has been left here.~
+brass~
+light 0 A
+0 0 BDEFGH 0 0
+0 40 75 P
+E
+lantern~
+It is a large and robust but somewhat battered oil lantern made from brass,
+equipped with a handle to make it handy and a hood to protect its flame.
+Some letters have been scratched on its bottom.
+~
+E
+letters~
+They say, "Use 'hold lantern' to activate."
+~
+#724
+bag~
+a bag~
+A small bag.~
+leather~
+container 0 A
+50 0 0 5 100
+0 10 9 G
+#725
+box~
+a box~
+A small box.~
+wood~
+container 0 A
+10 0 0 5 100
+0 10 30 G
+#726
+skin water buffalo~
+a buffalo water skin~
+A bloated dead buffalo is on the floor.~
+leather~
+drink 0 A
+64 64 'water' 0 0
+0 40 24 G
+#727
+torch~
+a torch~
+A large torch.~
+wood~
+light 0 A
+0 0 BEF 0 0
+0 30 4 G
+#728
+shield small red oak~
+a small red oak shield~
+A small red oak shield is lying on the ground.~
+wood~
+armor 0 AJ
+C AB B A A
+3 20 510 P
+#729
+shield small metal~
+a small metal shield~
+A small metal shield with the crest of Red Oak is lying on the ground.~
+steel~
+armor 0 AJ
+C C C A B
+5 30 750 P
+#730
+shield large metal~
+a large metal shield~
+A large metal shield with the crest of Red Oak is lying on the ground.~
+steel~
+armor 0 AJ
+AC AC AC B C
+10 100 1190 P
+#731
+sleeves chain mail~
+a pair of chain mail sleeves~
+A pair of chain mail sleeves is lying on the ground.~
+steel~
+armor 0 AI
+AC C AC 0 AB
+10 80 660 P
+#732
+gauntlets chain mail~
+a pair of chain mail gauntlets~
+A pair of chain mail gauntlets is lying on the ground.~
+steel~
+armor 0 AH
+AC C AC 0 AB
+10 40 660 P
+#733
+boots ironbound~
+a pair of iron-bound boots~
+A pair of iron-bound boots lies here.~
+iron~
+armor 0 AG
+AC C AC 0 AB
+10 60 660 P
+#734
+skirt chain mail~
+a long chain mail skirt~
+A long chain mail skirt is lying on the ground.~
+steel~
+armor 0 AF
+AC C AC 0 AB
+10 100 660 P
+#735
+coif chain mail~
+a chain mail coif~
+A chain mail coif is lying on the ground.~
+steel~
+armor 0 AE
+AC C AC 0 B
+10 50 660 P
+#736
+shirt chain mail~
+a chain mail shirt~
+A chain mail shirt is lying on the ground.~
+steel~
+armor 0 AD
+AC C AC 0 AB
+10 180 1320 P
+#737
+sleeves scale mail~
+a pair of scale mail sleeves~
+A pair of scale mail sleeves is lying on the ground.~
+steel~
+armor 0 AI
+AB C C 0 B
+5 60 420 P
+#738
+boots reinforced~
+a pair of reinforced boots~
+A pair of reinforced boots lies here.~
+leather~
+armor 0 AG
+AB C C 0 B
+5 40 420 P
+#739
+gloves reinforced~
+a pair of reinforced gloves~
+A pair of reinforced gloves is lying on the ground.~
+leather~
+armor 0 AH
+AB C C 0 B
+5 20 420 P
+#740
+skirt scale mail~
+a long scale mail skirt~
+A long scale mail skirt is lying on the ground.~
+steel~
+armor 0 AF
+AB C C 0 B
+5 80 420 P
+#741
+red oak bracer~
+a red oak bracer~
+A red oak bracer is lying here on the ground.~
+wood~
+armor 0 AM
+AB AB AB 0 B
+5 50 400 P
+#742
+jerkin scale mail~
+a scale mail jerkin~
+A scale mail jerkin is lying on the ground.~
+steel~
+armor 0 AD
+AB C C 0 B
+5 140 850 P
+#743
+red oak lager beer~
+a bottle of red oak lager~
+A bottle of red oak lager lies here.~
+oldstyle~
+drink 0 A
+16 16 'beer' 0 0
+0 10 6 P
+#744
+barrel beer~
+a barrel of beer~
+A barrel of beer lies here.~
+oldstyle~
+drink 0 A
+150 150 'beer' 0 0
+0 80 120 P
+#745
+whisky shot~
+a shot of whisky~
+A shot of strong whisky lies here.~
+oldstyle~
+drink 0 A
+2 2 'whisky' 0 0
+0 10 12 P
+#746
+glittering white warpstone stone~
+a glittering {Wwhite{x warpstone.~
+A glittering {Wwhite{x warpstone lays here.~
+pearl~
+warp_stone ABT AO
+0 0 0 0 0
+1 1 750 P
+#747
+cogge broad sword~
+Cogge's broad sword~
+Cogge's broad sword lies upon the ground.~
+adamantite~
+weapon BI AN
+sword 4 8 cleave EF
+42 450 5600 P
+E
+scimitar blade~
+The gray metaled sword is both heavy and well crafted.  The edge of
+the blade looks as if it could cut through anything or anyone.
+~
+#748
+parchment~
+a blank piece of parchment~
+An empty piece of parchment lies here.~
+paper~
+parchment 0 A
+0 0 0 0 0
+1 10 100 P
+#749
+furry white seed~
+a furry white seed~
+A furry white seed lies here.~
+seed~
+seed 0 A
+BCDFGHJ BEF 0 0 0
+1 0 500 P
+#750
+milk thistle root~
+a milk thistle root~
+A milk thistle root lies here.~
+milk root~
+pill G AO
+10 'sanctuary' 'reserved' 'reserved' 'reserved'
+11 10 800 P
+#751
+carrot seed~
+a carrot seed~
+A carrot seed lies here.~
+seed~
+seed 0 A
+EFGHJ CDEF 0 0 0
+1 0 10 P
+#752
+carrot~
+a carrot~
+A carrot lies here.~
+food~
+food 0 A
+CD CD 0 0 0
+1 10 9 P
+#753
+pumpkin seed~
+a pumpkin seed~
+A pumpkin seed lies here.~
+seed~
+seed 0 A
+BEFGHJ CDEF 0 0 0
+1 0 10 P
+#754
+pumpkin~
+a pumpkin~
+A pumpkin lies here.~
+food~
+food 0 A
+CD CD 0 0 0
+1 10 9 P
+#755
+ash gray seed~
+an ash gray seed~
+An ash gray seed lies here.~
+seed~
+seed 0 A
+CEFGHJ CE 0 0 0
+1 0 500 P
+#756
+ash root~
+an ash root~
+An ash root lies here.~
+root~
+pill G AO
+10 'stone skin' 'reserved' 'reserved' 'reserved'
+11 10 800 P
+#0
+
+
+
+#ROOMS
+#700
+Inside the Western Gate~
+You are standing on a worn cobblestone street inside the western gate of
+Red Oak.  Alongside the road are many ancient red oak trees which create a
+canopy above the road and the surrounding buildings.  To the west the large
+gates of Red Oak stand sturdy and tall.  
+~
+0 262144 1
+D1
+~
+~
+0 0 701
+D3
+~
+~
+0 0 1806
+D7
+~
+~
+0 0 715
+D9
+~
+~
+0 0 716
+S
+#701
+West Main Street~
+You are standing on a worn cobblestone street inside the western gate of
+Red Oak.  Alongside the road are many ancient red oak trees which create a
+canopy above the road and the surrounding buildings.  To the west the large
+gates of Red Oak stand sturdy and tall.  
+~
+0 262144 1
+D0
+~
+~
+0 0 739
+D1
+~
+~
+0 0 702
+D2
+~
+~
+0 0 744
+D3
+~
+~
+0 0 700
+S
+#702
+West Main Street~
+You are standing on a worn cobblestone street inside the western gate of
+Red Oak.  Alongside the road are many ancient red oak trees which create a
+canopy above the road and the surrounding buildings.  To the west the large
+gates of Red Oak stand sturdy and tall.  To the north lays the general store
+and to the south is the questing guild of Red Oak.  
+~
+0 262144 1
+D0
+~
+~
+0 0 734
+D1
+~
+~
+0 0 703
+D2
+~
+~
+0 0 735
+D3
+~
+~
+0 0 701
+S
+#703
+West Main Street~
+You are standing on a worn cobblestone street deep in the heart of Red
+Oak.  Far to the west you can see the high town walls made of ancient red
+oak trees.  To the east is the town center.  The canopy of oaks blocks out a
+lot of the light coming from the skies above.  To the south you can see the
+weapon shop with smoke billowing out of it's chimney and to the north is the
+armory.  
+~
+0 262144 1
+D0
+~
+~
+0 0 729
+D1
+~
+~
+0 0 704
+D2
+~
+~
+0 0 736
+D3
+~
+~
+0 0 702
+S
+#704
+Town Center~
+You are standing in the town center of Red Oak.  A large stone fountain
+with ornate carvings resides in the center of the square.  The pool of water
+in the fountain is crystal clear, coming from the aquafers deep below the
+city.  
+~
+0 262144 1
+D0
+~
+~
+0 0 725
+D1
+~
+~
+0 0 705
+D2
+~
+~
+0 0 726
+D3
+~
+~
+0 0 703
+S
+#705
+East Main Street~
+You are standing at the beginning of the eastern portion of main street. 
+The sky is nearly block out by the large canopy of leaves from the red oak
+trees.  Shops lay to the north and south and the business of life can be
+heard all around.  
+~
+0 262144 1
+D0
+~
+~
+0 0 732
+D1
+~
+~
+0 0 706
+D2
+~
+~
+0 0 730
+D3
+~
+~
+0 0 704
+S
+#706
+East Main Street~
+You are standing on eastern main street.  Far to the east the large
+looming red oak gates can be seen rising up tall and strong.  To the south
+of here stands the potion shop where magical potions are conjured daily.  To
+the north is the portal shop.  
+~
+0 262144 1
+D0
+~
+~
+0 0 733
+D1
+~
+~
+0 0 707
+D2
+~
+~
+0 0 731
+D3
+~
+~
+0 0 705
+S
+#707
+East Main Street~
+You are standing on the cobble stone eastern portion of main street. 
+Close to the east you can see the eastern gates of the city.  To the west
+heads towards the Town Center.  
+~
+0 262144 1
+D0
+~
+~
+0 0 740
+D1
+~
+~
+0 0 708
+D3
+~
+~
+0 0 706
+S
+#708
+Inside the Eastern Gate~
+You are standing on a worn cobblestone street inside the eastern gate of
+Red Oak.  Alongside the road are many ancient red oak trees which create a
+canopy above the road and the surrounding buildings.  To the east the large
+gates of Red Oak stand sturdy and tall.  
+~
+0 262144 1
+D1
+~
+~
+0 0 1812
+D3
+~
+~
+0 0 707
+D6
+~
+~
+0 0 709
+D8
+~
+~
+0 0 722
+S
+#709
+The Northeastern Wall~
+You are standing on the road which follows the northeastern edge of the
+town.  The cobblestone street follows just inside the tall and looming Red
+Oak walls.  
+~
+0 262144 1
+D6
+~
+~
+0 0 710
+D9
+~
+~
+0 0 708
+S
+#710
+The Northeastern Wall~
+You are standing on the road which follows the northeastern edge of the
+town.  The cobblestone street follows just inside the tall and looming Red
+Oak walls.  
+~
+0 262144 1
+D6
+~
+~
+0 0 711
+D9
+~
+~
+0 0 709
+S
+#711
+The Northeastern Wall~
+You are standing on the road which follows the northeastern edge of the
+town.  The cobblestone street follows just inside the tall and looming Red
+Oak walls.  
+~
+0 262144 1
+D6
+~
+~
+0 0 712
+D9
+~
+~
+0 0 710
+S
+#712
+Inside the Northern Gate~
+You are standing inside the northern gates of Red Oak.  There are guards
+positioned in the towers looking out to the northern road.  The giant walls
+of Red Oak loom high above the area as if they were made of living trees
+themselves.  
+~
+0 262144 1
+D0
+~
+~
+0 0 1809
+D2
+~
+~
+0 0 723
+D8
+~
+~
+0 0 713
+D9
+~
+~
+0 0 711
+S
+#713
+The Northwestern Wall~
+You are standing on the road which follows the northwestern edge of the
+town.  The cobblestone street follows just inside the tall and looming Red
+Oak walls.  
+~
+0 262144 1
+D7
+~
+~
+0 0 712
+D8
+~
+~
+0 0 714
+S
+#714
+The Northwestern Wall~
+You are standing on the road which follows the northwestern edge of the
+town.  The cobblestone street follows just inside the tall and looming Red
+Oak walls.  
+~
+0 262144 1
+D7
+~
+~
+0 0 713
+D8
+~
+~
+0 0 715
+S
+#715
+The Northwestern Wall~
+You are standing on the road which follows the northwestern edge of the
+town.  The cobblestone street follows just inside the tall and looming Red
+Oak walls.  
+~
+0 262144 1
+D7
+~
+~
+0 0 714
+D8
+~
+~
+0 0 700
+S
+#716
+The Southwestern Wall~
+You are standing on the road which follows the southwestern edge of the
+town.  The cobblestone street follows just inside the tall and looming Red
+Oak walls.  
+~
+0 262144 1
+D6
+~
+~
+0 0 700
+D9
+~
+~
+0 0 717
+S
+#717
+The Southwestern Wall~
+You are standing on the road which follows the southwestern edge of the
+town.  The cobblestone street follows just inside the tall and looming Red
+Oak walls.  
+~
+0 262144 1
+D6
+~
+~
+0 0 716
+D9
+~
+~
+0 0 718
+S
+#718
+The Southwestern Wall~
+You are standing on the road which follows the southwestern edge of the
+town.  The cobblestone street follows just inside the tall and looming Red
+Oak walls.  
+~
+0 262144 1
+D6
+~
+~
+0 0 717
+D9
+~
+~
+0 0 719
+S
+#719
+Inside the Southern Gate~
+You are standing inside the southern gates of Red Oak.  There are guards
+positioned in the towers looking out to the south lands.  The giant walls of
+Red Oak loom high above the area as if they were made of living trees
+themselves.  
+~
+0 262144 1
+D0
+~
+~
+0 0 728
+D6
+~
+~
+0 0 718
+D7
+~
+~
+0 0 720
+S
+#720
+The Southeastern Wall~
+You are standing on the road which follows the southeastern edge of the
+town.  The cobblestone street follows just inside the tall and looming Red
+Oak walls.  
+~
+0 262144 1
+D7
+~
+~
+0 0 721
+D8
+~
+~
+0 0 719
+S
+#721
+The Southeastern Wall~
+You are standing on the road which follows the southeastern edge of the
+town.  The cobblestone street follows just inside the tall and looming Red
+Oak walls.  
+~
+0 262144 1
+D7
+~
+~
+0 0 722
+D8
+~
+~
+0 0 720
+S
+#722
+The Southeastern Wall~
+You are standing on the road which follows the southeastern edge of the
+town.  The cobblestone street follows just inside the tall and looming Red
+Oak walls.  
+~
+0 262144 1
+D7
+~
+~
+0 0 708
+D8
+~
+~
+0 0 721
+S
+#723
+North Gate Road~
+The stately cobblestone road lying underfoot is near seamless in its
+construction.  This road travels north and south throughout Red Oak.  The
+sounds of birds can be heard from the canopy of the giant Red Oak trees far
+above.  
+~
+0 262144 1
+D0
+~
+~
+0 0 712
+D2
+~
+~
+0 0 724
+S
+#724
+North Gate Road~
+The stately cobblestone road lying underfoot is near seamless in its
+construction.  This road travels north and south throughout Red Oak.  The
+sounds of birds can be heard from the canopy of the giant Red Oak trees far
+above.  
+~
+0 262144 1
+D0
+~
+~
+0 0 723
+D2
+~
+~
+0 0 725
+S
+#725
+North Gate Road~
+The stately cobblestone road lying underfoot is near seamless in its
+construction.  This road travels north and south throughout Red Oak.  The
+sounds of birds can be heard from the canopy of the giant Red Oak trees far
+above.  
+~
+0 262144 1
+D0
+~
+~
+0 0 724
+D1
+~
+~
+0 0 738
+D2
+~
+~
+0 0 704
+D3
+~
+~
+0 0 737
+S
+#726
+South Gate Road~
+The stately cobblestone road lying underfoot is near seamless in its
+construction.  This road travels north and south throughout Red Oak.  The
+sounds of birds can be heard from the canopy of the giant Red Oak trees far
+above.  
+~
+0 262144 1
+D0
+~
+~
+0 0 704
+D1
+~
+~
+0 0 745
+D2
+~
+~
+0 0 727
+D3
+~
+~
+0 0 747
+S
+#727
+South Gate Road~
+The stately cobblestone road lying underfoot is near seamless in its
+construction.  This road travels north and south throughout Red Oak.  The
+sounds of birds can be heard from the canopy of the giant Red Oak trees far
+above.  
+~
+0 262144 1
+D0
+~
+~
+0 0 726
+D1
+~
+~
+0 0 751
+D2
+~
+~
+0 0 728
+D3
+~
+~
+0 0 749
+S
+#728
+South Gate Road~
+The stately cobblestone road lying underfoot is near seamless in its
+construction.  This road travels north and south throughout Red Oak.  The
+sounds of birds can be heard from the canopy of the giant Red Oak trees far
+above.  
+~
+0 262144 1
+D0
+~
+~
+0 0 727
+D2
+~
+~
+0 0 719
+S
+#729
+The Armory~
+The room inside of the armory is hot and only lit by the light of the
+fires in the forge and whatever light might come through the doorway.  The
+armourer takes pride in his work.  A sign sits on the counter that invites
+you to 'list' the armors wares.  Many pieces of armor are hung on the wall
+and the smell of hot metal permeates through the air.  
+~
+0 262152 1
+D2
+~
+~
+0 0 703
+S
+#730
+The Bakery~
+This large store turns out enough bread each day to feed all the people
+of the city and all the hungry travelers coming through.  All the innkeepers
+in the city come to this baker to get fresh bread each day.  Loaves of bread
+are displayed on racks around the store and pastries line all the shelves. 
+A small sign sits on the counter inviting you to 'list' the bakers food
+items.  
+~
+0 262152 1
+D0
+~
+~
+0 0 705
+S
+#731
+Phylo's Magic Shop~
+You are in a small room that smells of the alchemy that commences in the
+back.  On the back wall of the shop are many shelves holding vials,
+containers, pots and other items of mystic origin.  The village alchemist
+stands waiting behind a worn wooden counter.  
+~
+0 262152 0
+E
+sign~
+The wooden sign reads, to see the available portal locations please use the
+"list command.   To purchase a portal from my shop please use the "buy" command
+with the destination listed after.
+~
+D0
+~
+~
+0 0 706
+S
+#732
+The Jeweler's Shop~
+You are in a small but beautifully furnished shop.  The warm light
+emanating from the small oil maps on the walls is reflected in the hard,
+polished surface of the large mahogany desk that stands in the center of the
+room.  A small sign on the desk invites you to 'list' the owners wares.  
+~
+0 262152 1
+D2
+~
+~
+0 0 705
+S
+#733
+Portal Shop of Red Oak~
+You are standing in a large room with ornate patterns etched into the
+wooden trusses that run vertically up the walls.  You feel an electricity in
+the air as if magic is stirring all around you.  There is an old man behind
+a large wooden table towards the back of the room.  
+ 
+A wooden sign stands on the table.
+~
+0 262152 0
+E
+sign~
+The wooden sign reads, to see the available portal locations please use the
+"list command.   To purchase a portal from my shop please use the "buy" command
+with the destination listed after.
+~
+D2
+~
+~
+0 0 706
+S
+#734
+The General Store~
+You are standing inside the general store.  There are many items here
+both hanging from the wall and laid out on shelves behind the shopkeeps
+counter.  The ceiling is vaulted in this room and you can feel a draft
+coming in from the front door.  
+~
+0 262152 0
+E
+sign~
+The wooden sign reads, to see the available portal locations please use the
+"list command.   To purchase a portal from my shop please use the "buy" command
+with the destination listed after.
+~
+D2
+~
+~
+0 0 702
+S
+#735
+Red Oak Questing Guild~
+You are standing in the questing guild of Red Oak.  The walls are
+covered with maps and paintings from all of the lands.  There are ornate
+statues covered with gems and gold and at the end of the hall stands a man
+old in age waiting to assign you a quest.  
+ 
+A sign hangs from the wall next to the quest master.
+~
+0 263176 0
+E
+sign~
+The see a list of questing options use the '{Gpquest{x' command.  It is here
+that you can request a quest and where you will come when it is complete.  
+~
+D0
+~
+~
+0 0 702
+S
+#736
+The Weapon Shop~
+You have entered a large room with a wooden floor that creaks beneath
+your feet.  Tapestries showing scenes of battle line the walls in between
+the displays of weapons.  There is a small sign on the counter that invites
+you to 'list' the weaponsmith's wares.  
+~
+0 262152 1
+D0
+~
+~
+0 0 703
+S
+#737
+Hanging Ox Bar~
+You are standing in the main room of the Hanging Ox.  There is a long
+Mahogany bar with many types of alcohol on the shelves behind it.  Hanging
+from the rafters of the large vaulted ceilings is alarge taxidermied ox that
+the locals have nicknamed 'Bob'.  
+~
+0 0 0
+D1
+~
+~
+0 0 725
+S
+#738
+Healer's Sanctuary~
+You are standing in a limestone hall of which ornate statues of deities
+line the walls.  The air is cold and at the end of the room stands a holy
+man with a long gnarled staff in a white robe.  
+~
+0 0 0
+D3
+~
+~
+0 0 725
+S
+#739
+Scribes Shop~
+You are standing in a room that has the scent of ink and old parchment. 
+There are no windows letting light in and the room is lit by a fire that's
+roaring in the fireplace.  At the end of the room is a long counter, behind
+the counter lies stacks and stacks of parchment.  
+~
+0 262144 1
+D2
+~
+~
+0 0 701
+S
+#740
+A Stone Archway to Timor's~
+You are standing at a stone arch-way stands over a cobblestone path that
+leads to a humble wooden establishment ahead.  A large wooden sign is
+hanging from the archway by thick bound rope.
+~
+0 0 0
+E
+sign~
+The sign reads: Timor's Seed Shop 
+~
+D0
+~
+~
+0 0 741
+D2
+~
+~
+0 0 707
+S
+#741
+Cobblestone Walkway~
+The cobblestone under your feet looks to be worn by time and the
+footsteps of many people over that have passed over it.  Directly to the
+north of you is the door to the wooden seed shack while a vast yard lays to
+the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 742
+D1
+~
+~
+0 0 743
+D2
+~
+~
+0 0 740
+S
+#742
+Inside Timor's Shop~
+You are standing in a room with many many seeds, herbs and other type
+items covering the entire place.  A large counter stands in the back of the
+room and many of the better wares are laying behind the wooden stand.
+~
+0 8 0
+D2
+~
+~
+0 0 741
+S
+#743
+Timor's Garden~
+You are standing inside of Timor's garden.  The long yard has segmented
+gardens that are growing various types of produce and herbs.  Everything
+seems lush as the aroma of live vegetation fills the air.  
+~
+0 0 2
+D3
+~
+~
+0 0 741
+S
+#744
+Bank of Red Oak~
+You are standing in the lobby of the bank of Red Oak.  The floor is made
+of smooth marble with various tones of gray striated throughout it.  A
+banker sits behind the counter that is shielded from you with iron bars,
+only allowing for small items to pass between you and him.  
+~
+0 262152 0
+D0
+~
+~
+0 0 701
+S
+#745
+Warrior's Guild~
+You are standing inside of the warrior's guild of Red Oak.  Swords and
+daggers adorn the walls and the south of the clinking of sword on armor can
+be heard from the north.  
+~
+0 262184 0
+D0
+~
+~
+0 0 746
+D3
+~
+~
+0 0 726
+S
+#746
+Warrior's Guild~
+You are standing in a large room that has been crafted as a small arena
+of sorts.  A large and muscular warrior stands at the end of the room
+overseeing those who come to seek his training in the art of combat.  
+~
+0 262152 0
+D2
+~
+~
+0 0 745
+S
+#747
+Mage's Guild~
+As you enter this room you can feel the magic swirl about you.  Books
+are scattered about and magical symbols are drawn on the floor.  In the
+center of all of this sets a wizard's stone.  
+~
+0 40 0
+D0
+~
+~
+0 0 748
+D1
+~
+~
+0 0 726
+S
+#748
+Mage's Guild~
+The walls are lined with shelves filled with books and magical trinkets. 
+In the center of the room is a large crystal ball with swirling images
+emanating from it.  
+~
+0 8 0
+D2
+~
+~
+0 0 747
+S
+#749
+Thieve's Guild~
+You are standing in the thieves guild.  Everything is a little dingy and
+there are some odd looking characters standing about eyeing your every
+movement.  There are various short daggers, coin purses and knick knacks
+strewn about.  
+~
+0 40 0
+D1
+~
+~
+0 0 727
+D2
+~
+~
+0 0 750
+S
+#750
+Thieve's Guild~
+The open hidden panel behind you seems to shed no light in here, and you
+find yourself in complete darkness.  You feel the presence of someone in the
+room with you--was that a finger on your purse?!?  Quick!  Make a light!  
+~
+0 0 0
+D0
+~
+~
+0 0 749
+S
+#751
+Cleric's Guild~
+Many ornate tapestries hang from the walls depicting the various God's of
+the world or acts of those followers throughout time.  There are candles lit
+all along the wall and there is a distinct holy feeling about this place.  
+~
+0 40 0
+D2
+~
+~
+0 0 752
+D3
+~
+~
+0 0 727
+S
+#752
+Cleric's Guild~
+This is a small room with colored light filtering in from the stained
+glass.  A man with robes and an ornate staff waits here to train you.  
+~
+0 8 0
+D0
+~
+~
+0 0 751
+S
+#0
+
+
+
+#SPECIALS
+M 704 spec_questmaster
+M 705 spec_cast_mage
+M 711 spec_executioner
+M 712 spec_thief
+M 714 spec_cast_adept
+M 721 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 708 8 700 8 Load the cityguard
+M 0 708 8 700 8 Load the cityguard
+O 0 700 0 704 A fountain loaded to Town Center
+M 0 709 4 704 1 Load the cityguard
+M 0 711 1 704 1 Load Cogge
+E 0 747 0 16 Cogge's broad sword is loaded wielded of Cogge
+M 0 708 8 708 8 Load the cityguard
+M 0 708 8 708 8 Load the cityguard
+M 0 709 4 709 1 Load the cityguard
+M 0 712 1 710 1 Load a common thief
+M 0 708 8 712 8 Load the cityguard
+M 0 708 8 712 8 Load the cityguard
+M 0 709 4 717 1 Load the cityguard
+M 0 708 8 719 8 Load the cityguard
+M 0 708 8 719 8 Load the cityguard
+M 0 709 4 727 1 Load the cityguard
+M 0 707 1 729 1 Load the armorer
+G 0 728 0 A small red oak shield is given to the armorer
+G 0 729 0 A small metal shield is given to the armorer
+G 0 730 0 A large metal shield is given to the armorer
+G 0 731 0 A pair of chain mail sleeves is given to the armorer
+G 0 732 0 A pair of chain mail gauntlets is given to the armorer
+G 0 733 0 A pair of iron-bound boots is given to the armorer
+G 0 734 0 A long chain mail skirt is given to the armorer
+G 0 735 0 A chain mail coif is given to the armorer
+G 0 736 0 A chain mail shirt is given to the armorer
+G 0 737 0 A pair of scale mail sleeves is given to the armorer
+G 0 738 0 A pair of reinforced boots is given to the armorer
+G 0 739 0 A pair of reinforced gloves is given to the armorer
+G 0 740 0 A long scale mail skirt is given to the armorer
+G 0 741 0 A red oak bracer is given to the armorer
+G 0 742 0 A scale mail jerkin is given to the armorer
+M 0 703 1 730 1 Load the baker
+G 0 711 0 A big pot pie is given to the baker
+G 0 712 0 A bread is given to the baker
+G 0 713 0 A cinnamon roll is given to the baker
+G 0 714 0 A batch of cookies is given to the baker
+G 0 715 0 A blueberry danish is given to the baker
+M 0 705 1 731 1 Load Phylo
+G 0 716 0 A scroll of cancellation is given to Phylo
+G 0 717 0 A scroll of identify is given to Phylo
+G 0 718 0 A yellow potion of see invisible is given to Phylo
+G 0 719 0 A green potion of see hidden is given to Phylo
+G 0 720 0 A scroll of recall is given to Phylo
+G 0 721 0 A wand of magic missiles is given to Phylo
+G 0 746 0 A glittering {wwhite{x warpstone. is given to Phylo
+M 0 701 1 732 1 Load the jeweller
+G 0 7 0 A {bblue{x diamond is given to the jeweller
+G 0 3378 0 An opal is given to the jeweller
+G 0 3377 0 A diamond is given to the jeweller
+G 0 3376 0 A ruby is given to the jeweller
+G 0 3375 0 An emerald is given to the jeweller
+G 0 3374 0 A garnet is given to the jeweller
+G 0 3373 0 A small pearl is given to the jeweller
+M 0 700 1 733 1 Load a magician
+M 0 706 1 734 1 Load the clerk
+G 0 727 0 A torch is given to the clerk
+G 0 723 0 A hooded brass lantern is given to the clerk
+G 0 726 0 A buffalo water skin is given to the clerk
+G 0 725 0 A box is given to the clerk
+G 0 724 0 A bag is given to the clerk
+G 0 722 0 An iron shovel is given to the clerk
+G 0 748 0 A blank piece of parchment is given to the clerk
+M 0 704 1 735 1 Load the quest master
+M 0 702 1 736 1 Load the weaponsmith
+G 0 701 0 A red oak dagger is given to the weaponsmith
+G 0 702 0 A red oak sword is given to the weaponsmith
+G 0 703 0 A red oak long sword is given to the weaponsmith
+G 0 704 0 A red oak club is given to the weaponsmith
+G 0 705 0 A red oak mace is given to the weaponsmith
+G 0 706 0 A hand axe is given to the weaponsmith
+G 0 707 0 A battle axe is given to the weaponsmith
+G 0 708 0 A spear is given to the weaponsmith
+G 0 709 0 A wooden staff is given to the weaponsmith
+G 0 710 0 A flail is given to the weaponsmith
+M 0 713 1 737 1 Load the drunk
+M 0 712 2 737 1 Load a common thief
+M 0 710 1 737 1 Load Leesaport the bartender
+G 0 743 0 A bottle of red oak lager is given to Leesaport the bartender
+G 0 744 0 A barrel of beer is given to Leesaport the bartender
+G 0 745 0 A shot of whisky is given to Leesaport the bartender
+M 0 714 1 738 1 Load the healer
+M 0 715 1 739 1 Load Shazman
+M 0 716 1 742 1 Load Timor
+G 0 749 0 A furry white seed is given to Timor
+G 0 751 0 A carrot seed is given to Timor
+G 0 753 0 A pumpkin seed is given to Timor
+G 0 755 0 An ash gray seed is given to Timor
+M 0 717 1 744 1 Load The banker
+M 0 718 1 746 1 Load the guildmaster
+M 0 719 1 748 1 Load the guildmaster
+M 0 720 1 750 1 Load the guildmaster
+M 0 721 1 752 1 Load the guildmaster
+S
+
+
+
+#SHOPS
+701 8 30 32 33 0 110 100 0 23
+702 5 6 7 0 0 120 40 0 23
+703 0 0 0 0 0 110 100 0 23
+705 2 3 4 10 0 105 15 0 23
+706 1 8 13 15 19 150 40 0 23
+707 9 0 0 0 0 100 50 0 23
+710 0 0 0 0 0 110 90 0 23
+716 0 0 0 0 0 100 50 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

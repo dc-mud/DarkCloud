@@ -1,0 +1,4089 @@
+#AREADATA
+Name Sea of the Lone Isle~
+Builders Blake~
+VNUMs 11800 11899
+LevelRange 51 51
+Credits Blake~
+Security 9
+Continent 3
+AreaFlags 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11800
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11290
+D1
+~
+~
+0 0 11801
+D2
+~
+~
+0 0 11810
+D3
+~
+~
+0 0 11709
+D6
+~
+~
+0 0 11099
+D7
+~
+~
+0 0 11291
+D8
+~
+~
+0 0 11719
+D9
+~
+~
+0 0 11811
+S
+#11801
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11291
+D1
+~
+~
+0 0 11802
+D2
+~
+~
+0 0 11811
+D3
+~
+~
+0 0 11800
+D6
+~
+~
+0 0 11290
+D7
+~
+~
+0 0 11292
+D8
+~
+~
+0 0 11810
+D9
+~
+~
+0 0 11812
+S
+#11802
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11292
+D1
+~
+~
+0 0 11803
+D2
+~
+~
+0 0 11812
+D3
+~
+~
+0 0 11801
+D6
+~
+~
+0 0 11291
+D7
+~
+~
+0 0 11293
+D8
+~
+~
+0 0 11811
+D9
+~
+~
+0 0 11813
+S
+#11803
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11293
+D1
+~
+~
+0 0 11804
+D2
+~
+~
+0 0 11813
+D3
+~
+~
+0 0 11802
+D6
+~
+~
+0 0 11292
+D7
+~
+~
+0 0 11294
+D8
+~
+~
+0 0 11812
+D9
+~
+~
+0 0 11814
+S
+#11804
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11294
+D1
+~
+~
+0 0 11805
+D2
+~
+~
+0 0 11814
+D3
+~
+~
+0 0 11803
+D6
+~
+~
+0 0 11293
+D7
+~
+~
+0 0 11295
+D8
+~
+~
+0 0 11813
+D9
+~
+~
+0 0 11815
+S
+#11805
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11295
+D1
+~
+~
+0 0 11806
+D2
+~
+~
+0 0 11815
+D3
+~
+~
+0 0 11804
+D6
+~
+~
+0 0 11294
+D7
+~
+~
+0 0 11296
+D8
+~
+~
+0 0 11814
+D9
+~
+~
+0 0 11816
+S
+#11806
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11296
+D1
+~
+~
+0 0 11807
+D2
+~
+~
+0 0 11816
+D3
+~
+~
+0 0 11805
+D6
+~
+~
+0 0 11295
+D7
+~
+~
+0 0 11297
+D8
+~
+~
+0 0 11815
+D9
+~
+~
+0 0 11817
+S
+#11807
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11297
+D1
+~
+~
+0 0 11808
+D2
+~
+~
+0 0 11817
+D3
+~
+~
+0 0 11806
+D6
+~
+~
+0 0 11296
+D7
+~
+~
+0 0 11298
+D8
+~
+~
+0 0 11816
+D9
+~
+~
+0 0 11818
+S
+#11808
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11298
+D1
+~
+~
+0 0 11809
+D2
+~
+~
+0 0 11818
+D3
+~
+~
+0 0 11807
+D6
+~
+~
+0 0 11297
+D7
+~
+~
+0 0 11299
+D8
+~
+~
+0 0 11817
+D9
+~
+~
+0 0 11819
+S
+#11809
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11299
+D1
+~
+~
+0 0 12100
+D2
+~
+~
+0 0 11819
+D3
+~
+~
+0 0 11808
+D6
+~
+~
+0 0 11298
+D8
+~
+~
+0 0 11818
+D9
+~
+~
+0 0 12110
+S
+#11810
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11800
+D1
+~
+~
+0 0 11811
+D2
+~
+~
+0 0 11820
+D3
+~
+~
+0 0 11719
+D6
+~
+~
+0 0 11709
+D7
+~
+~
+0 0 11801
+D8
+~
+~
+0 0 11729
+D9
+~
+~
+0 0 11821
+S
+#11811
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11801
+D1
+~
+~
+0 0 11812
+D2
+~
+~
+0 0 11821
+D3
+~
+~
+0 0 11810
+D6
+~
+~
+0 0 11800
+D7
+~
+~
+0 0 11802
+D8
+~
+~
+0 0 11820
+D9
+~
+~
+0 0 11822
+S
+#11812
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11802
+D1
+~
+~
+0 0 11813
+D2
+~
+~
+0 0 11822
+D3
+~
+~
+0 0 11811
+D6
+~
+~
+0 0 11801
+D7
+~
+~
+0 0 11803
+D8
+~
+~
+0 0 11821
+D9
+~
+~
+0 0 11823
+S
+#11813
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11803
+D1
+~
+~
+0 0 11814
+D2
+~
+~
+0 0 11823
+D3
+~
+~
+0 0 11812
+D6
+~
+~
+0 0 11802
+D7
+~
+~
+0 0 11804
+D8
+~
+~
+0 0 11822
+D9
+~
+~
+0 0 11824
+S
+#11814
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11804
+D1
+~
+~
+0 0 11815
+D2
+~
+~
+0 0 11824
+D3
+~
+~
+0 0 11813
+D6
+~
+~
+0 0 11803
+D7
+~
+~
+0 0 11805
+D8
+~
+~
+0 0 11823
+D9
+~
+~
+0 0 11825
+S
+#11815
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11805
+D1
+~
+~
+0 0 11816
+D2
+~
+~
+0 0 11825
+D3
+~
+~
+0 0 11814
+D6
+~
+~
+0 0 11804
+D7
+~
+~
+0 0 11806
+D8
+~
+~
+0 0 11824
+D9
+~
+~
+0 0 11826
+S
+#11816
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11806
+D1
+~
+~
+0 0 11817
+D2
+~
+~
+0 0 11826
+D3
+~
+~
+0 0 11815
+D6
+~
+~
+0 0 11805
+D7
+~
+~
+0 0 11807
+D8
+~
+~
+0 0 11825
+D9
+~
+~
+0 0 11827
+S
+#11817
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11807
+D1
+~
+~
+0 0 11818
+D2
+~
+~
+0 0 11827
+D3
+~
+~
+0 0 11816
+D6
+~
+~
+0 0 11806
+D7
+~
+~
+0 0 11808
+D8
+~
+~
+0 0 11826
+D9
+~
+~
+0 0 11828
+S
+#11818
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11808
+D1
+~
+~
+0 0 11819
+D2
+~
+~
+0 0 11828
+D3
+~
+~
+0 0 11817
+D6
+~
+~
+0 0 11807
+D7
+~
+~
+0 0 11809
+D8
+~
+~
+0 0 11827
+D9
+~
+~
+0 0 11829
+S
+#11819
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11809
+D1
+~
+~
+0 0 12110
+D2
+~
+~
+0 0 11829
+D3
+~
+~
+0 0 11818
+D6
+~
+~
+0 0 11808
+D7
+~
+~
+0 0 12100
+D8
+~
+~
+0 0 11828
+D9
+~
+~
+0 0 12120
+S
+#11820
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11810
+D1
+~
+~
+0 0 11821
+D2
+~
+~
+0 0 11830
+D3
+~
+~
+0 0 11729
+D6
+~
+~
+0 0 11719
+D7
+~
+~
+0 0 11811
+D8
+~
+~
+0 0 11739
+D9
+~
+~
+0 0 11831
+S
+#11821
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11811
+D1
+~
+~
+0 0 11822
+D2
+~
+~
+0 0 11831
+D3
+~
+~
+0 0 11820
+D6
+~
+~
+0 0 11810
+D7
+~
+~
+0 0 11812
+D8
+~
+~
+0 0 11830
+D9
+~
+~
+0 0 11832
+S
+#11822
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11812
+D1
+~
+~
+0 0 11823
+D2
+~
+~
+0 0 11832
+D3
+~
+~
+0 0 11821
+D6
+~
+~
+0 0 11811
+D7
+~
+~
+0 0 11813
+D8
+~
+~
+0 0 11831
+D9
+~
+~
+0 0 11833
+S
+#11823
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11813
+D1
+~
+~
+0 0 11824
+D2
+~
+~
+0 0 11833
+D3
+~
+~
+0 0 11822
+D6
+~
+~
+0 0 11812
+D7
+~
+~
+0 0 11814
+D8
+~
+~
+0 0 11832
+D9
+~
+~
+0 0 11834
+S
+#11824
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11814
+D1
+~
+~
+0 0 11825
+D2
+~
+~
+0 0 11834
+D3
+~
+~
+0 0 11823
+D6
+~
+~
+0 0 11813
+D7
+~
+~
+0 0 11815
+D8
+~
+~
+0 0 11833
+D9
+~
+~
+0 0 11835
+S
+#11825
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11815
+D1
+~
+~
+0 0 11826
+D2
+~
+~
+0 0 11835
+D3
+~
+~
+0 0 11824
+D6
+~
+~
+0 0 11814
+D7
+~
+~
+0 0 11816
+D8
+~
+~
+0 0 11834
+D9
+~
+~
+0 0 11836
+S
+#11826
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11816
+D1
+~
+~
+0 0 11827
+D2
+~
+~
+0 0 11836
+D3
+~
+~
+0 0 11825
+D6
+~
+~
+0 0 11815
+D7
+~
+~
+0 0 11817
+D8
+~
+~
+0 0 11835
+D9
+~
+~
+0 0 11837
+S
+#11827
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11817
+D1
+~
+~
+0 0 11828
+D2
+~
+~
+0 0 11837
+D3
+~
+~
+0 0 11826
+D6
+~
+~
+0 0 11816
+D7
+~
+~
+0 0 11818
+D8
+~
+~
+0 0 11836
+D9
+~
+~
+0 0 11838
+S
+#11828
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11818
+D1
+~
+~
+0 0 11829
+D2
+~
+~
+0 0 11838
+D3
+~
+~
+0 0 11827
+D6
+~
+~
+0 0 11817
+D7
+~
+~
+0 0 11819
+D8
+~
+~
+0 0 11837
+D9
+~
+~
+0 0 11839
+S
+#11829
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11819
+D1
+~
+~
+0 0 12120
+D2
+~
+~
+0 0 11839
+D3
+~
+~
+0 0 11828
+D6
+~
+~
+0 0 11818
+D7
+~
+~
+0 0 12110
+D8
+~
+~
+0 0 11838
+D9
+~
+~
+0 0 12130
+S
+#11830
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11820
+D1
+~
+~
+0 0 11831
+D2
+~
+~
+0 0 11840
+D3
+~
+~
+0 0 11739
+D6
+~
+~
+0 0 11729
+D7
+~
+~
+0 0 11821
+D8
+~
+~
+0 0 11749
+D9
+~
+~
+0 0 11841
+S
+#11831
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11821
+D1
+~
+~
+0 0 11832
+D2
+~
+~
+0 0 11841
+D3
+~
+~
+0 0 11830
+D6
+~
+~
+0 0 11820
+D7
+~
+~
+0 0 11822
+D8
+~
+~
+0 0 11840
+D9
+~
+~
+0 0 11842
+S
+#11832
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11822
+D1
+~
+~
+0 0 11833
+D2
+~
+~
+0 0 11842
+D3
+~
+~
+0 0 11831
+D6
+~
+~
+0 0 11821
+D7
+~
+~
+0 0 11823
+D8
+~
+~
+0 0 11841
+D9
+~
+~
+0 0 11843
+S
+#11833
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11823
+D1
+~
+~
+0 0 11834
+D2
+~
+~
+0 0 11843
+D3
+~
+~
+0 0 11832
+D6
+~
+~
+0 0 11822
+D7
+~
+~
+0 0 11824
+D8
+~
+~
+0 0 11842
+D9
+~
+~
+0 0 11844
+S
+#11834
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11824
+D1
+~
+~
+0 0 11835
+D2
+~
+~
+0 0 11844
+D3
+~
+~
+0 0 11833
+D6
+~
+~
+0 0 11823
+D7
+~
+~
+0 0 11825
+D8
+~
+~
+0 0 11843
+D9
+~
+~
+0 0 11845
+S
+#11835
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11825
+D1
+~
+~
+0 0 11836
+D2
+~
+~
+0 0 11845
+D3
+~
+~
+0 0 11834
+D6
+~
+~
+0 0 11824
+D7
+~
+~
+0 0 11826
+D8
+~
+~
+0 0 11844
+D9
+~
+~
+0 0 11846
+S
+#11836
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11826
+D1
+~
+~
+0 0 11837
+D2
+~
+~
+0 0 11846
+D3
+~
+~
+0 0 11835
+D6
+~
+~
+0 0 11825
+D7
+~
+~
+0 0 11827
+D8
+~
+~
+0 0 11845
+D9
+~
+~
+0 0 11847
+S
+#11837
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11827
+D1
+~
+~
+0 0 11838
+D2
+~
+~
+0 0 11847
+D3
+~
+~
+0 0 11836
+D6
+~
+~
+0 0 11826
+D7
+~
+~
+0 0 11828
+D8
+~
+~
+0 0 11846
+D9
+~
+~
+0 0 11848
+S
+#11838
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11828
+D1
+~
+~
+0 0 11839
+D2
+~
+~
+0 0 11848
+D3
+~
+~
+0 0 11837
+D6
+~
+~
+0 0 11827
+D7
+~
+~
+0 0 11829
+D8
+~
+~
+0 0 11847
+D9
+~
+~
+0 0 11849
+S
+#11839
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11829
+D1
+~
+~
+0 0 12130
+D2
+~
+~
+0 0 11849
+D3
+~
+~
+0 0 11838
+D6
+~
+~
+0 0 11828
+D7
+~
+~
+0 0 12120
+D8
+~
+~
+0 0 11848
+D9
+~
+~
+0 0 12140
+S
+#11840
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11830
+D1
+~
+~
+0 0 11841
+D2
+~
+~
+0 0 11850
+D3
+~
+~
+0 0 11749
+D6
+~
+~
+0 0 11739
+D7
+~
+~
+0 0 11831
+D8
+~
+~
+0 0 11759
+D9
+~
+~
+0 0 11851
+S
+#11841
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11831
+D1
+~
+~
+0 0 11842
+D2
+~
+~
+0 0 11851
+D3
+~
+~
+0 0 11840
+D6
+~
+~
+0 0 11830
+D7
+~
+~
+0 0 11832
+D8
+~
+~
+0 0 11850
+D9
+~
+~
+0 0 11852
+S
+#11842
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11832
+D1
+~
+~
+0 0 11843
+D2
+~
+~
+0 0 11852
+D3
+~
+~
+0 0 11841
+D6
+~
+~
+0 0 11831
+D7
+~
+~
+0 0 11833
+D8
+~
+~
+0 0 11851
+D9
+~
+~
+0 0 11853
+S
+#11843
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11833
+D1
+~
+~
+0 0 11844
+D2
+~
+~
+0 0 11853
+D3
+~
+~
+0 0 11842
+D6
+~
+~
+0 0 11832
+D7
+~
+~
+0 0 11834
+D8
+~
+~
+0 0 11852
+D9
+~
+~
+0 0 11854
+S
+#11844
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11834
+D1
+~
+~
+0 0 11845
+D2
+~
+~
+0 0 11854
+D3
+~
+~
+0 0 11843
+D6
+~
+~
+0 0 11833
+D7
+~
+~
+0 0 11835
+D8
+~
+~
+0 0 11853
+D9
+~
+~
+0 0 11855
+S
+#11845
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11835
+D1
+~
+~
+0 0 11846
+D2
+~
+~
+0 0 11855
+D3
+~
+~
+0 0 11844
+D6
+~
+~
+0 0 11834
+D7
+~
+~
+0 0 11836
+D8
+~
+~
+0 0 11854
+D9
+~
+~
+0 0 11856
+S
+#11846
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11836
+D1
+~
+~
+0 0 11847
+D2
+~
+~
+0 0 11856
+D3
+~
+~
+0 0 11845
+D6
+~
+~
+0 0 11835
+D7
+~
+~
+0 0 11837
+D8
+~
+~
+0 0 11855
+D9
+~
+~
+0 0 11857
+S
+#11847
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11837
+D1
+~
+~
+0 0 11848
+D2
+~
+~
+0 0 11857
+D3
+~
+~
+0 0 11846
+D6
+~
+~
+0 0 11836
+D7
+~
+~
+0 0 11838
+D8
+~
+~
+0 0 11856
+D9
+~
+~
+0 0 11858
+S
+#11848
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11838
+D1
+~
+~
+0 0 11849
+D2
+~
+~
+0 0 11858
+D3
+~
+~
+0 0 11847
+D6
+~
+~
+0 0 11837
+D7
+~
+~
+0 0 11839
+D8
+~
+~
+0 0 11857
+D9
+~
+~
+0 0 11859
+S
+#11849
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11839
+D1
+~
+~
+0 0 12140
+D2
+~
+~
+0 0 11859
+D3
+~
+~
+0 0 11848
+D6
+~
+~
+0 0 11838
+D7
+~
+~
+0 0 12130
+D8
+~
+~
+0 0 11858
+D9
+~
+~
+0 0 12150
+S
+#11850
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11840
+D1
+~
+~
+0 0 11851
+D2
+~
+~
+0 0 11860
+D3
+~
+~
+0 0 11759
+D6
+~
+~
+0 0 11749
+D7
+~
+~
+0 0 11841
+D8
+~
+~
+0 0 11769
+D9
+~
+~
+0 0 11861
+S
+#11851
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11841
+D1
+~
+~
+0 0 11852
+D2
+~
+~
+0 0 11861
+D3
+~
+~
+0 0 11850
+D6
+~
+~
+0 0 11840
+D7
+~
+~
+0 0 11842
+D8
+~
+~
+0 0 11860
+D9
+~
+~
+0 0 11862
+S
+#11852
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11842
+D1
+~
+~
+0 0 11853
+D2
+~
+~
+0 0 11862
+D3
+~
+~
+0 0 11851
+D6
+~
+~
+0 0 11841
+D7
+~
+~
+0 0 11843
+D8
+~
+~
+0 0 11861
+D9
+~
+~
+0 0 11863
+S
+#11853
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11843
+D1
+~
+~
+0 0 11854
+D2
+~
+~
+0 0 11863
+D3
+~
+~
+0 0 11852
+D6
+~
+~
+0 0 11842
+D7
+~
+~
+0 0 11844
+D8
+~
+~
+0 0 11862
+D9
+~
+~
+0 0 11864
+S
+#11854
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11844
+D1
+~
+~
+0 0 11855
+D2
+~
+~
+0 0 11864
+D3
+~
+~
+0 0 11853
+D6
+~
+~
+0 0 11843
+D7
+~
+~
+0 0 11845
+D8
+~
+~
+0 0 11863
+D9
+~
+~
+0 0 11865
+S
+#11855
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11845
+D1
+~
+~
+0 0 11856
+D2
+~
+~
+0 0 11865
+D3
+~
+~
+0 0 11854
+D6
+~
+~
+0 0 11844
+D7
+~
+~
+0 0 11846
+D8
+~
+~
+0 0 11864
+D9
+~
+~
+0 0 11866
+S
+#11856
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11846
+D1
+~
+~
+0 0 11857
+D2
+~
+~
+0 0 11866
+D3
+~
+~
+0 0 11855
+D6
+~
+~
+0 0 11845
+D7
+~
+~
+0 0 11847
+D8
+~
+~
+0 0 11865
+D9
+~
+~
+0 0 11867
+S
+#11857
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11847
+D1
+~
+~
+0 0 11858
+D2
+~
+~
+0 0 11867
+D3
+~
+~
+0 0 11856
+D6
+~
+~
+0 0 11846
+D7
+~
+~
+0 0 11848
+D8
+~
+~
+0 0 11866
+D9
+~
+~
+0 0 11868
+S
+#11858
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11848
+D1
+~
+~
+0 0 11859
+D2
+~
+~
+0 0 11868
+D3
+~
+~
+0 0 11857
+D6
+~
+~
+0 0 11847
+D7
+~
+~
+0 0 11849
+D8
+~
+~
+0 0 11867
+D9
+~
+~
+0 0 11869
+S
+#11859
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11849
+D1
+~
+~
+0 0 12150
+D2
+~
+~
+0 0 11869
+D3
+~
+~
+0 0 11858
+D6
+~
+~
+0 0 11848
+D7
+~
+~
+0 0 12140
+D8
+~
+~
+0 0 11868
+D9
+~
+~
+0 0 12160
+S
+#11860
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11850
+D1
+~
+~
+0 0 11861
+D2
+~
+~
+0 0 11870
+D3
+~
+~
+0 0 11769
+D6
+~
+~
+0 0 11759
+D7
+~
+~
+0 0 11851
+D8
+~
+~
+0 0 11779
+D9
+~
+~
+0 0 11871
+S
+#11861
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11851
+D1
+~
+~
+0 0 11862
+D2
+~
+~
+0 0 11871
+D3
+~
+~
+0 0 11860
+D6
+~
+~
+0 0 11850
+D7
+~
+~
+0 0 11852
+D8
+~
+~
+0 0 11870
+D9
+~
+~
+0 0 11872
+S
+#11862
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11852
+D1
+~
+~
+0 0 11863
+D2
+~
+~
+0 0 11872
+D3
+~
+~
+0 0 11861
+D6
+~
+~
+0 0 11851
+D7
+~
+~
+0 0 11853
+D8
+~
+~
+0 0 11871
+D9
+~
+~
+0 0 11873
+S
+#11863
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11853
+D1
+~
+~
+0 0 11864
+D2
+~
+~
+0 0 11873
+D3
+~
+~
+0 0 11862
+D6
+~
+~
+0 0 11852
+D7
+~
+~
+0 0 11854
+D8
+~
+~
+0 0 11872
+D9
+~
+~
+0 0 11874
+S
+#11864
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11854
+D1
+~
+~
+0 0 11865
+D2
+~
+~
+0 0 11874
+D3
+~
+~
+0 0 11863
+D6
+~
+~
+0 0 11853
+D7
+~
+~
+0 0 11855
+D8
+~
+~
+0 0 11873
+D9
+~
+~
+0 0 11875
+S
+#11865
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11855
+D1
+~
+~
+0 0 11866
+D2
+~
+~
+0 0 11875
+D3
+~
+~
+0 0 11864
+D6
+~
+~
+0 0 11854
+D7
+~
+~
+0 0 11856
+D8
+~
+~
+0 0 11874
+D9
+~
+~
+0 0 11876
+S
+#11866
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11856
+D1
+~
+~
+0 0 11867
+D2
+~
+~
+0 0 11876
+D3
+~
+~
+0 0 11865
+D6
+~
+~
+0 0 11855
+D7
+~
+~
+0 0 11857
+D8
+~
+~
+0 0 11875
+D9
+~
+~
+0 0 11877
+S
+#11867
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11857
+D1
+~
+~
+0 0 11868
+D2
+~
+~
+0 0 11877
+D3
+~
+~
+0 0 11866
+D6
+~
+~
+0 0 11856
+D7
+~
+~
+0 0 11858
+D8
+~
+~
+0 0 11876
+D9
+~
+~
+0 0 11878
+S
+#11868
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11858
+D1
+~
+~
+0 0 11869
+D2
+~
+~
+0 0 11878
+D3
+~
+~
+0 0 11867
+D6
+~
+~
+0 0 11857
+D7
+~
+~
+0 0 11859
+D8
+~
+~
+0 0 11877
+D9
+~
+~
+0 0 11879
+S
+#11869
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11859
+D1
+~
+~
+0 0 12160
+D2
+~
+~
+0 0 11879
+D3
+~
+~
+0 0 11868
+D6
+~
+~
+0 0 11858
+D7
+~
+~
+0 0 12150
+D8
+~
+~
+0 0 11878
+D9
+~
+~
+0 0 12170
+S
+#11870
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11860
+D1
+~
+~
+0 0 11871
+D2
+~
+~
+0 0 11880
+D3
+~
+~
+0 0 11779
+D6
+~
+~
+0 0 11769
+D7
+~
+~
+0 0 11861
+D8
+~
+~
+0 0 11789
+D9
+~
+~
+0 0 11881
+S
+#11871
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11861
+D1
+~
+~
+0 0 11872
+D2
+~
+~
+0 0 11881
+D3
+~
+~
+0 0 11870
+D6
+~
+~
+0 0 11860
+D7
+~
+~
+0 0 11862
+D8
+~
+~
+0 0 11880
+D9
+~
+~
+0 0 11882
+S
+#11872
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11862
+D1
+~
+~
+0 0 11873
+D2
+~
+~
+0 0 11882
+D3
+~
+~
+0 0 11871
+D6
+~
+~
+0 0 11861
+D7
+~
+~
+0 0 11863
+D8
+~
+~
+0 0 11881
+D9
+~
+~
+0 0 11883
+S
+#11873
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11863
+D1
+~
+~
+0 0 11874
+D2
+~
+~
+0 0 11883
+D3
+~
+~
+0 0 11872
+D6
+~
+~
+0 0 11862
+D7
+~
+~
+0 0 11864
+D8
+~
+~
+0 0 11882
+D9
+~
+~
+0 0 11884
+S
+#11874
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11864
+D1
+~
+~
+0 0 11875
+D2
+~
+~
+0 0 11884
+D3
+~
+~
+0 0 11873
+D6
+~
+~
+0 0 11863
+D7
+~
+~
+0 0 11865
+D8
+~
+~
+0 0 11883
+D9
+~
+~
+0 0 11885
+S
+#11875
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11865
+D1
+~
+~
+0 0 11876
+D2
+~
+~
+0 0 11885
+D3
+~
+~
+0 0 11874
+D6
+~
+~
+0 0 11864
+D7
+~
+~
+0 0 11866
+D8
+~
+~
+0 0 11884
+D9
+~
+~
+0 0 11886
+S
+#11876
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11866
+D1
+~
+~
+0 0 11877
+D2
+~
+~
+0 0 11886
+D3
+~
+~
+0 0 11875
+D6
+~
+~
+0 0 11865
+D7
+~
+~
+0 0 11867
+D8
+~
+~
+0 0 11885
+D9
+~
+~
+0 0 11887
+S
+#11877
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11867
+D1
+~
+~
+0 0 11878
+D2
+~
+~
+0 0 11887
+D3
+~
+~
+0 0 11876
+D6
+~
+~
+0 0 11866
+D7
+~
+~
+0 0 11868
+D8
+~
+~
+0 0 11886
+D9
+~
+~
+0 0 11888
+S
+#11878
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11868
+D1
+~
+~
+0 0 11879
+D2
+~
+~
+0 0 11888
+D3
+~
+~
+0 0 11877
+D6
+~
+~
+0 0 11867
+D7
+~
+~
+0 0 11869
+D8
+~
+~
+0 0 11887
+D9
+~
+~
+0 0 11889
+S
+#11879
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11869
+D1
+~
+~
+0 0 12170
+D2
+~
+~
+0 0 11889
+D3
+~
+~
+0 0 11878
+D6
+~
+~
+0 0 11868
+D7
+~
+~
+0 0 12160
+D8
+~
+~
+0 0 11888
+D9
+~
+~
+0 0 12180
+S
+#11880
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11870
+D1
+~
+~
+0 0 11881
+D2
+~
+~
+0 0 11890
+D3
+~
+~
+0 0 11789
+D6
+~
+~
+0 0 11779
+D7
+~
+~
+0 0 11871
+D8
+~
+~
+0 0 11799
+D9
+~
+~
+0 0 11891
+S
+#11881
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11871
+D1
+~
+~
+0 0 11882
+D2
+~
+~
+0 0 11891
+D3
+~
+~
+0 0 11880
+D6
+~
+~
+0 0 11870
+D7
+~
+~
+0 0 11872
+D8
+~
+~
+0 0 11890
+D9
+~
+~
+0 0 11892
+S
+#11882
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11872
+D1
+~
+~
+0 0 11883
+D2
+~
+~
+0 0 11892
+D3
+~
+~
+0 0 11881
+D6
+~
+~
+0 0 11871
+D7
+~
+~
+0 0 11873
+D8
+~
+~
+0 0 11891
+D9
+~
+~
+0 0 11893
+S
+#11883
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11873
+D1
+~
+~
+0 0 11884
+D2
+~
+~
+0 0 11893
+D3
+~
+~
+0 0 11882
+D6
+~
+~
+0 0 11872
+D7
+~
+~
+0 0 11874
+D8
+~
+~
+0 0 11892
+D9
+~
+~
+0 0 11894
+S
+#11884
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11874
+D1
+~
+~
+0 0 11885
+D2
+~
+~
+0 0 11894
+D3
+~
+~
+0 0 11883
+D6
+~
+~
+0 0 11873
+D7
+~
+~
+0 0 11875
+D8
+~
+~
+0 0 11893
+D9
+~
+~
+0 0 11895
+S
+#11885
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11875
+D1
+~
+~
+0 0 11886
+D2
+~
+~
+0 0 11895
+D3
+~
+~
+0 0 11884
+D6
+~
+~
+0 0 11874
+D7
+~
+~
+0 0 11876
+D8
+~
+~
+0 0 11894
+D9
+~
+~
+0 0 11896
+S
+#11886
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11876
+D1
+~
+~
+0 0 11887
+D2
+~
+~
+0 0 11896
+D3
+~
+~
+0 0 11885
+D6
+~
+~
+0 0 11875
+D7
+~
+~
+0 0 11877
+D8
+~
+~
+0 0 11895
+D9
+~
+~
+0 0 11897
+S
+#11887
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11877
+D1
+~
+~
+0 0 11888
+D2
+~
+~
+0 0 11897
+D3
+~
+~
+0 0 11886
+D6
+~
+~
+0 0 11876
+D7
+~
+~
+0 0 11878
+D8
+~
+~
+0 0 11896
+D9
+~
+~
+0 0 11898
+S
+#11888
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11878
+D1
+~
+~
+0 0 11889
+D2
+~
+~
+0 0 11898
+D3
+~
+~
+0 0 11887
+D6
+~
+~
+0 0 11877
+D7
+~
+~
+0 0 11879
+D8
+~
+~
+0 0 11897
+D9
+~
+~
+0 0 11899
+S
+#11889
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11879
+D1
+~
+~
+0 0 12180
+D2
+~
+~
+0 0 11899
+D3
+~
+~
+0 0 11888
+D6
+~
+~
+0 0 11878
+D7
+~
+~
+0 0 12170
+D8
+~
+~
+0 0 11898
+D9
+~
+~
+0 0 12190
+S
+#11890
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11880
+D1
+~
+~
+0 0 11891
+D2
+~
+~
+0 0 11500
+D3
+~
+~
+0 0 11799
+D6
+~
+~
+0 0 11789
+D7
+~
+~
+0 0 11881
+D9
+~
+~
+0 0 11501
+S
+#11891
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11881
+D1
+~
+~
+0 0 11892
+D2
+~
+~
+0 0 11501
+D3
+~
+~
+0 0 11890
+D6
+~
+~
+0 0 11880
+D7
+~
+~
+0 0 11882
+D8
+~
+~
+0 0 11500
+D9
+~
+~
+0 0 11502
+S
+#11892
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11882
+D1
+~
+~
+0 0 11893
+D2
+~
+~
+0 0 11502
+D3
+~
+~
+0 0 11891
+D6
+~
+~
+0 0 11881
+D7
+~
+~
+0 0 11883
+D8
+~
+~
+0 0 11501
+D9
+~
+~
+0 0 11503
+S
+#11893
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11883
+D1
+~
+~
+0 0 11894
+D2
+~
+~
+0 0 11503
+D3
+~
+~
+0 0 11892
+D6
+~
+~
+0 0 11882
+D7
+~
+~
+0 0 11884
+D8
+~
+~
+0 0 11502
+D9
+~
+~
+0 0 11504
+S
+#11894
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11884
+D1
+~
+~
+0 0 11895
+D2
+~
+~
+0 0 11504
+D3
+~
+~
+0 0 11893
+D6
+~
+~
+0 0 11883
+D7
+~
+~
+0 0 11885
+D8
+~
+~
+0 0 11503
+D9
+~
+~
+0 0 11505
+S
+#11895
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11885
+D1
+~
+~
+0 0 11896
+D2
+~
+~
+0 0 11505
+D3
+~
+~
+0 0 11894
+D6
+~
+~
+0 0 11884
+D7
+~
+~
+0 0 11886
+D8
+~
+~
+0 0 11504
+D9
+~
+~
+0 0 11506
+S
+#11896
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11886
+D1
+~
+~
+0 0 11897
+D2
+~
+~
+0 0 11506
+D3
+~
+~
+0 0 11895
+D6
+~
+~
+0 0 11885
+D7
+~
+~
+0 0 11887
+D8
+~
+~
+0 0 11505
+D9
+~
+~
+0 0 11507
+S
+#11897
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11887
+D1
+~
+~
+0 0 11898
+D2
+~
+~
+0 0 11507
+D3
+~
+~
+0 0 11896
+D6
+~
+~
+0 0 11886
+D7
+~
+~
+0 0 11888
+D8
+~
+~
+0 0 11506
+D9
+~
+~
+0 0 11508
+S
+#11898
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11888
+D1
+~
+~
+0 0 11899
+D2
+~
+~
+0 0 11508
+D3
+~
+~
+0 0 11897
+D6
+~
+~
+0 0 11887
+D7
+~
+~
+0 0 11889
+D8
+~
+~
+0 0 11507
+D9
+~
+~
+0 0 11509
+S
+#11899
+The Sea of the Lone Isle~
+You are surrounded by the waters of the Sea of the Lone Isle.  Legend
+tells that this sea extends to the end of the world with only the Lone
+Isle as the last destination.
+~
+0 0 11
+D0
+~
+~
+0 0 11889
+D1
+~
+~
+0 0 12190
+D2
+~
+~
+0 0 11509
+D3
+~
+~
+0 0 11898
+D6
+~
+~
+0 0 11888
+D7
+~
+~
+0 0 12180
+D8
+~
+~
+0 0 11508
+D9
+~
+~
+0 0 11900
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11000 100 11800 2 Load a tuna fish
+M 0 11005 100 11802 2 Load an aboleth
+M 0 11005 100 11806 2 Load an aboleth
+M 0 11003 100 11810 2 Load a {Csea{x dragon
+M 0 11000 100 11811 2 Load a tuna fish
+M 0 11008 100 11813 2 Load a jellyfish
+M 0 11008 100 11813 2 Load a jellyfish
+M 0 11008 100 11815 2 Load a jellyfish
+M 0 11008 100 11816 2 Load a jellyfish
+M 0 11000 100 11817 2 Load a tuna fish
+M 0 11000 100 11817 2 Load a tuna fish
+M 0 11008 100 11819 2 Load a jellyfish
+M 0 11003 100 11819 2 Load a {Csea{x dragon
+M 0 11001 100 11820 2 Load a octopus
+M 0 11002 100 11821 2 Load a man o'war
+M 0 11000 100 11822 2 Load a tuna fish
+M 0 11005 100 11822 2 Load an aboleth
+M 0 11006 100 11827 2 Load a dolphin
+M 0 11001 100 11828 2 Load a octopus
+M 0 11002 100 11828 2 Load a man o'war
+M 0 11000 100 11830 2 Load a tuna fish
+M 0 11000 100 11832 2 Load a tuna fish
+M 0 11005 100 11834 2 Load an aboleth
+M 0 11002 100 11835 2 Load a man o'war
+M 0 11008 100 11836 2 Load a jellyfish
+M 0 11005 100 11837 2 Load an aboleth
+M 0 11008 100 11838 2 Load a jellyfish
+M 0 11006 100 11842 2 Load a dolphin
+M 0 11006 100 11849 2 Load a dolphin
+M 0 11003 100 11850 2 Load a {Csea{x dragon
+M 0 11005 100 11852 2 Load an aboleth
+M 0 11005 100 11853 2 Load an aboleth
+M 0 11002 100 11857 2 Load a man o'war
+M 0 11005 100 11864 2 Load an aboleth
+M 0 11006 100 11866 2 Load a dolphin
+M 0 11008 100 11867 2 Load a jellyfish
+M 0 11001 100 11869 2 Load a octopus
+M 0 11005 100 11871 2 Load an aboleth
+M 0 11007 100 11873 2 Load a sea hag
+M 0 11000 100 11875 2 Load a tuna fish
+M 0 11003 100 11881 2 Load a {Csea{x dragon
+M 0 11002 100 11882 2 Load a man o'war
+M 0 11003 100 11888 2 Load a {Csea{x dragon
+M 0 11001 100 11890 2 Load a octopus
+M 0 11000 100 11891 2 Load a tuna fish
+M 0 11000 100 11891 2 Load a tuna fish
+M 0 11005 100 11892 2 Load an aboleth
+M 0 11003 100 11895 2 Load a {Csea{x dragon
+M 0 11006 100 11897 2 Load a dolphin
+M 0 11006 100 11899 2 Load a dolphin
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

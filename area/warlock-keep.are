@@ -1,0 +1,1748 @@
+#AREADATA
+Name Keep of the Warlock~
+Builders Yaegar~
+VNUMs 15700 15743
+LevelRange 15 35
+Credits {10 35} Yaegar The Keep of the Warlock~
+Security 9
+Continent 1
+AreaFlags A
+End
+
+
+
+#MOBILES
+#15700
+warlock baragar~
+the warlock Baragar~
+The warlock Baragar chuckles at you and dares you to attack him.
+~
+Before you stands the master of the keep, Baragar the warlock. And while
+Baragar is weak compared to sorcerers such as Krogthar and his minions,
+or the vile Jher, he is no pushover either.
+
+Baragar is a handsome young man with long white hair, and deep blue eyes.
+He would appear to be almost angelic were it not for the diabolical gleam
+to his eyes, and the evil grin on his thin, cruel lips.
+~
+human~
+ABGH CDEFHJNT 1 0
+30 5 1d61+899 1d1+99 1d23+9 none
+-10 -10 -10 -5
+0 0 0 0
+stand stand none 300
+AHMV ABCDEFGHIJK medium unknown
+#15701
+woman witch alara~
+the witch Alara~
+A comely woman in her early twenties grins at you.
+~
+This woman is the witch Alara, associate and lover of Baragar. She is nude
+save for a leather bandolier across her chest and buttocks, which contains
+a variety of potions, scrolls and throwing daggers. She would be very
+attractive if she didn't cackle insanely so much.
+~
+human~
+ABGH DJN 1 0
+28 4 1d57+783 1d1+99 1d22+8 none
+-8 -8 -8 -3
+0 0 0 0
+stand stand female 280
+AHMV ABCDEFGHIJK medium unknown
+#15702
+demon~
+a demon~
+A minor demon hisses and snarls at you.
+~
+Baragar and Alara managed to capture this demon and keep it in this room,
+but they lacked the power necessary to control it, so they dare not release
+it again. And now you're in here with this eight foot tall, four armed,
+green skinned monstrosity from the lower planes. Great.
+~
+human~
+ABFG DHJT 1 0
+35 5 1d71+1224 1d1+99 1d27+10 none
+-13 -13 -13 -8
+0 0 0 0
+stand stand none 350
+AHMV ABCDEFGHIJK medium unknown
+#15703
+cat familiar~
+a cat familiar~
+Alara's familiar, a black cat, hisses at you.
+~
+This angry feline is Alara's familiar. Do away with it.
+~
+human~
+ABFGH DJN 1 0
+10 1 1d12+119 1d1+99 1d10+2 none
+4 4 4 9
+0 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#15704
+hawk familiar~
+a hawk familiar~
+Alara's familiar, a hawk, screeches at you.
+~
+This angry bird is Baragar's familiar. Do away with it.
+~
+human~
+ABFGH DJNT 1 0
+12 2 1d12+143 1d1+99 1d11+3 none
+2 2 2 7
+0 0 0 0
+stand stand none 120
+AHMV ABCDEFGHIJK medium unknown
+#15705
+troll guard~
+a troll guard~
+A troll guard squints suspiciously at you.
+~
+These trolls are meant to prevent strangers from entering the inner keep,
+but they see so many strange creatures here they aren't sure which type is
+allowed and which isn't.
+~
+human~
+ABG JN 1 0
+25 4 1d51+624 1d1+99 1d20+7 none
+-6 -6 -6 -1
+0 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJK medium unknown
+#15706
+flesh golem~
+a flesh golem~
+A flesh golem stands here, arms folded.
+~
+This mindless automaton is a creation of Baragar's. It answers only to him,
+a fact which irritates (and worries) Alara.
+~
+human~
+ABG HN 2 0
+26 4 1d53+675 1d1+99 1d21+7 none
+-7 -7 -7 -2
+0 0 0 0
+stand stand none 260
+AHMV ABCDEFGHIJK medium unknown
+#15707
+fire drake~
+a fire drake~
+A fire drake snorts flames and attacks!
+~
+This angry dragonkin has been roused from its nap by you, and it isn't happy
+about it...
+~
+human~
+ABFG DHJ 1 0
+28 4 1d57+783 1d1+99 1d22+8 none
+-8 -8 -8 -3
+0 0 0 0
+stand stand male 280
+AHMV ABCDEFGHIJK medium unknown
+#15708
+zombie servant~
+a zombie servant~
+A zombie servant gazes at you blankly.
+~
+This poor fellow was once a living servant of Baragar who made one mistake
+too many. Baragar eventually decided undead staff were far more reliable,
+if a little slower, and slew all his staff, turning them subsequently into
+mindless undead. That's what a charming guy he is.
+~
+human~
+AG 0 2 0
+15 2 1d31+224 1d1+99 1d13+4 none
+0 0 0 5
+0 0 0 0
+stand stand none 150
+AHMV ABCDEFGHIJK medium unknown
+#15709
+guard~
+a keep guard~
+A keep guard stands rigidly at attention here.
+~
+This guard is slightly bemused at your entrance, but doesn't move to stop
+you- Baragar receives dozens of visitors daily, and if they are powerful
+enough to slay him, then the guards certainly don't stand a chance, so they
+keep quiet. You may wonder why in that case Baragar bothers having guards.
+Well, so does he.
+~
+human~
+ABG J 1 0
+18 3 1d37+323 1d1+99 1d15+5 none
+-2 -2 -2 3
+0 0 0 0
+stand stand male 180
+AHMV ABCDEFGHIJK medium unknown
+#15710
+apprentice~
+an apprentice mage~
+An apprentice mage looks up from her work, startled.
+~
+This woman was a former lover of Alara's who was brought here by the witch
+as a student after Alara hooked up with Baragar, a warlock of a different
+gender. She is small, cute, and evil.
+~
+human~
+ABGH N 1 0
+21 3 1d43+440 1d1+99 1d17+6 none
+-4 -4 -4 1
+0 0 0 0
+stand stand female 210
+AHMV ABCDEFGHIJK medium unknown
+#15711
+grell~
+a grell~
+A grell gropes at you with its tentacles.
+~
+This looks like a huge brain with green tentacles and a huge squid-like
+beak. It hovers in the center of the room, glaring at you menacingly.
+~
+human~
+ABFG T 1 0
+24 4 1d49+575 1d1+99 1d19+7 none
+-6 -6 -6 -1
+0 0 0 0
+stand stand none 240
+AHMV ABCDEFGHIJK medium unknown
+#15712
+mimic~
+a mimic~
+A wooden chest suddenly comes to life!
+~
+This mimic has been placed here by Baragar to fool (and hopefully slay)
+potential thieves.
+~
+human~
+ABFG N 1 0
+22 3 1d45+483 1d1+99 1d18+6 none
+-4 -4 -4 1
+0 0 0 0
+stand stand none 220
+AHMV ABCDEFGHIJK medium unknown
+#15713
+crocodile~
+a hungry crocodile~
+A hungry crocodile snaps its jaws at you.
+~
+This hungry reptile hasn't been fed in days. Baragar starves his crocs to
+keep them savage. He uses them to punish his guards. They seldom make
+the same mistake twice, because they are usually dead.
+~
+human~
+ABFG 0 2 0
+19 3 1d39+360 1d1+99 1d16+5 none
+-2 -2 -2 3
+0 0 0 0
+stand stand none 190
+AHMV ABCDEFGHIJK medium unknown
+#15714
+war dog~
+a savage war dog~
+A savage war dog snarls viciously at you.
+~
+Baragar bred these brutes from the most vicious alsatians and pit bulls he
+could find, then infected them with super-rabies to make 'em nice and
+friendly.
+~
+human~
+ABFG N 1 0
+16 2 1d33+255 1d1+99 1d14+4 none
+0 0 0 5
+0 0 0 0
+stand stand none 160
+AHMV ABCDEFGHIJK medium unknown
+#15715
+assassin~
+an assassin~
+An assassin appears suddenly before you.
+~
+This mysterious woman is one of Baragar's elite black-robed assassins.
+Closely aligned with the assassins of Krogthar's domain, they are cold-
+blooded, ruthless fanatics devoted to their ruler.
+~
+human~
+ABFGH JN 1 0
+20 3 1d41+399 1d1+99 1d17+5 none
+-3 -3 -3 2
+0 0 0 0
+stand stand female 200
+AHMV ABCDEFGHIJK medium unknown
+#15716
+dagar assassin~
+the assassin Dagar~
+Dagar the assassin urges you to be silent.
+~
+Dagar is an agent of Thalos, sent here to eliminate Baragar. He has spent
+weeks infiltrating the keep, and is now in the final stages of his plan.
+However, he'd be more than happy for you to complete the task for him.
+~
+human~
+ABG DFHJPQ 3 0
+27 4 1d55+728 1d1+99 1d21+8 none
+-8 -8 -8 -3
+0 0 0 0
+stand stand male 270
+AHMV ABCDEFGHIJK medium unknown
+#15717
+gnoll slave~
+a gnoll slave~
+A gnoll slave yelps in surprise at your presence.
+~
+These evil dog-like humanoids have been captured by Baragar and set to work
+as miners and laborers helping to excavate the ancient lower cavers beneath
+the keep.
+~
+human~
+AGH 0 1 0
+16 5 1d12+143 1d1+99 2d8+5 none
+1 1 1 7
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#15718
+ogre slave~
+an ogre slave~
+An ogre slave grunts as you enter, then turns back to his work.
+~
+These evil giant-kin have been captured by Baragar and set to work as miners
+and laborers helping to excavate the ancient lower cavers beneath the keep.
+~
+human~
+AG J 1 0
+18 3 1d37+323 1d1+99 1d15+5 none
+-2 -2 -2 3
+0 0 0 0
+stand stand male 180
+AHMV ABCDEFGHIJK medium unknown
+#15719
+flind slave master~
+a flind slave master~
+A flind slave master howls fiercely and orders you to leave.
+~
+This gnoll-kin has been placed in charge of the gnolls and ogres that
+labor here, and will not tolerate any interruptions.
+~
+human~
+ABFG HJN 1 0
+22 4 1d41+399 1d1+99 1d17+5 none
+-3 -3 -3 2
+0 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+#15720
+otyugh~
+an otyugh~
+An otyugh gibbers and attacks!
+~
+This creature is a trangular mass of flesh with a huge maw and two tentacles.
+It rushes toward you on stubby legs. It is used to devour the garbage of
+the keep.
+~
+human~
+ABFG HJ 2 0
+22 3 1d45+483 1d1+99 1d18+6 none
+-4 -4 -4 1
+0 0 0 0
+stand stand none 220
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#15700
+black robes~
+some black robes~
+Some black robes have been left here.~
+cloth~
+armor AGJ AK
+B B B B A
+27 5 1000 P
+A
+12 50
+A
+3 2
+#15701
+bone staff~
+a bone staff~
+A bone staff lies here.~
+bone~
+staff AGJ AO
+15 10 10 'call lightning' 0
+25 2 1000 P
+A
+4 2
+#15702
+bone sword~
+a bone sword~
+A bone sword is stuck in the ground here.~
+bone~
+weapon AGJ AN
+sword 4 5 pierce 0
+25 10 1000 P
+A
+19 2
+A
+18 2
+#15703
+bronze helm~
+a bronze helm~
+A bronze helm covered in runes has been left here.~
+bronze~
+armor AGJ AE
+C C C C A
+15 7 1000 P
+A
+20 -1
+#15704
+leather bandolier~
+a leather bandolier~
+A leather bandolier lies here.~
+leather~
+container 0 AD
+50 A 0 50 100
+0 4 1000 P
+#15705
+green potion~
+a green potion~
+A bright green potion has been left here.~
+glass~
+potion BG AO
+10 'stone skin' 'protection evil' 'cause light' ''
+10 1 1000 P
+#15706
+potion~
+a red potion~
+A bright red potion has been left here.~
+glass~
+potion BG AO
+10 'curse' 'armor' 'cure serious' ''
+10 1 1000 P
+#15707
+lightning scroll~
+a lightning scroll~
+A lightning scroll is curled up on the floor here.~
+paper~
+scroll 0 AO
+10 'call lightning' 'lightning bolt' 'lightning breath' ''
+10 1 1000 P
+#15708
+fire scroll~
+a fire scroll~
+A fire scroll is curled up on the floor here.~
+paper~
+scroll 0 AO
+10 'fire breath' 'flamestrike' 'fireball' ''
+10 1 1000 P
+#15709
+wand~
+a wand~
+A wand inscribed with strange runes lies here.~
+wood~
+wand AGJ AO
+10 7 7 'cause critical' 0
+10 1 1000 P
+#15710
+dagger~
+a dagger~
+A rune-covered dagger has been left here.~
+bronze~
+weapon BEGJ AN
+dagger 3 4 pierce 0
+15 5 1000 P
+#15711
+garthalanium staff~
+a garthalanium staff~
+A staff fashioned of garthalanium has been left here.~
+wood~
+staff BEGJ AO
+10 10 10 'energy drain' 0
+10 5 100 P
+#15712
+pentagram~
+a pentagram~
+A pentagram has been inscribed upon the floor here.~
+nothingness~
+furniture 0 0
+BD EIJKN EHK 0 0
+0 1 0 P
+#15713
+spiked club~
+a spiked club~
+A spiked club lies here.~
+wood~
+weapon J AN
+mace 3 4 crush 0
+14 20 1000 P
+A
+18 -2
+A
+19 2
+#15714
+leather hauberk~
+a leather hauberk~
+A leather hauberk has been dropped here.~
+leather~
+armor 0 AD
+AC D ABC 0 A
+20 10 1250 P
+#15715
+drake hide~
+a fire drake hide~
+The hide of a fire drake has been removed and left here.~
+skin~
+armor BJ AK
+AC AC AC AC A
+20 25 1000 P
+A
+17 -2
+#15716
+suit bronze plate~
+a suit of bronze plate~
+A suit of bronze plate has been piled up here.~
+bronze~
+armor 0 AD
+BC BC BC BC A
+15 15 1250 P
+#15717
+bronze shield~
+a bronze shield~
+A bronze shield lies here.~
+bronze~
+armor 0 AJ
+BC C BC C A
+15 10 1000 P
+#15718
+bronze helm~
+a bronze helm~
+A bronze helm has been left here.~
+bronze~
+armor 0 AE
+BC C BC C A
+15 6 1000 P
+#15719
+bronze sword~
+a bronze sword~
+A bronze sword is buried in the ground here.~
+bronze~
+weapon 0 AN
+sword 4 4 slash 0
+15 12 1000 P
+#15720
+green robes~
+some green robes~
+Some green robes are crumpled up on the floor here.~
+cloth~
+armor AGJ AK
+A A A ABC A
+15 3 1000 P
+A
+12 20
+#15721
+wooden staff~
+a wooden staff~
+A wooden staff with a bronze head lies here.~
+wood~
+weapon 0 AN
+exotic 3 3 pound 0
+12 9 1000 P
+#15722
+spellbook~
+a spellbook~
+A spellbook with bronze fittings lies here.~
+paper~
+scroll BGJ AO
+20 'weaken' 'word of recall' '' ''
+15 4 500 P
+#15723
+pit~
+a deep pit~
+A deep pit yawns before you.~
+air~
+container S 0
+1000 0 0 1000 100
+0 1 0 P
+#15724
+spiked collar~
+a spiked collar~
+A spiked dog collar lies here.~
+iron~
+armor 0 AC
+A BC B 0 A
+19 5 1000 P
+A
+19 2
+#15725
+assassin robes~
+the robes of an assassin~
+The black robes of an assassin have been torn from her and left here.~
+cloth~
+treasure J AO
+0 0 0 0 0
+18 3 1500 P
+A
+17 -2
+A
+2 1
+#15726
+dagger~
+a throwing dagger~
+A throwing dagger has been left here.~
+bronze~
+weapon 0 ANO
+dagger 3 3 none 0
+9 3 500 P
+A
+18 2
+#15727
+steel sword~
+a steel sword~
+A rare steel sword covered in runes lies here.~
+steel~
+weapon A AN
+sword 4 4 slash 0
+19 10 1000 P
+#15728
+ring~
+a magic ring~
+A magic ring floats by here.~
+bronze~
+jewelry AGP AB
+0 0 0 0 0
+15 1 1250 P
+A
+12 10
+A
+20 -1
+#15729
+elven boots~
+elven boots~
+A pair of elven boots lie here.~
+cloth~
+armor 0 AG
+C C C C A
+21 5 1250 P
+A
+14 25
+#15730
+elven cloak~
+a green elven cloak~
+A green elven cloak has been left here.~
+cloth~
+armor 0 AC
+0 0 0 0 A
+3 3 -900 P
+A
+25 1
+A
+17 -5
+A
+13 10
+A
+5 1
+#15731
+pick~
+a pick~
+A pick rests here.~
+metal~
+weapon 0 AN
+exotic 2 3 none 0
+9 10 0 P
+#15732
+shovel~
+a shovel~
+A shovel rests here.~
+metal~
+weapon 0 AP
+exotic 3 3 pound 0
+9 10 0 P
+#15733
+rubble~
+a pile of rubble~
+A pile of rubble has been made here.~
+rock~
+trash 0 A
+0 0 0 0 0
+0 75 0 P
+#15734
+whip~
+a whip~
+A whip has been curled up here.~
+leather~
+weapon 0 AN
+whip 3 3 whip 0
+12 5 0 P
+#15735
+flind bar~
+a flind bar~
+A flind bar has been left here.~
+iron~
+weapon J AN
+flail 1 6 none 0
+5 5 0 P
+#15736
+rubbish~
+a huge pile of rubbish~
+A huge pile of rubbish is here.~
+rock~
+trash 0 A
+0 0 0 0 0
+0 150 0 P
+#15737
+rack~
+a torturer's rack~
+A torturer's rack sits near one wall.~
+wood~
+furniture 0 0
+BD EIJKN EHK 0 0
+0 1 0 P
+E
+rack~
+It is not currently in use. The warlock enjoys executions, so people he
+captures rarely live long enough to be tortured.
+~
+#15738
+gallows~
+a gallows~
+A gallows has been erected here.~
+wood~
+furniture 0 0
+BD EIJKN EHK 0 0
+0 1 0 P
+E
+gallows~
+They are used regularly to hang those who anger the warlock.
+~
+#15739
+stocks~
+the stocks~
+The stocks sit here, holding a pathetic wretch of a gnoll.~
+wood~
+furniture 0 0
+BD EIJKN EHK 0 0
+0 100 0 P
+E
+stocks gnoll~
+This unfortunate has been left here for a week for insubordination.
+~
+#15740
+pot boiling oil~
+a pot of boiling oil~
+A pot of boiling oil bubbles away here.~
+iron~
+trash 0 0
+0 0 0 0 0
+0 100 0 P
+E
+pot boiling oil~
+The warlock enjoys immersing insubordinate or irritating lackeys in here.
+~
+#15741
+flag~
+a black flag~
+A black flag flutters atop a pole here.~
+cloth~
+trash 0 AK
+0 0 0 0 0
+5 5 0 P
+E
+flag~
+It is plain black. The warlock isn't very imaginative.
+~
+#15742
+leg irons~
+a set of leg irons~
+A set of leg irons rest here.~
+iron~
+armor 0 AF
+D D D D A
+19 50 0 P
+A
+14 -150
+A
+2 -4
+#15743
+map baragar keep~
+a map of baragar's keep~
+A rolled up map is here.~
+paper~
+map 0 A
+A 0 0 0 0
+0 10 0 P
+E
+map baragar keep~
+.
+                                                        Baragar's              
+                                               Roof     Chambers     (norecall)
+                                              Inner        |
+                                               Keep        =
+                                                /          |
+                                             Stairwell-=-Antechamber (norecall)
+                                                /          |
+                                                /          =
+                                                /          |
+                                                /       Alara's 
+                                                /       Chamber      (norecall)          
+                                                /                                        
+                                                /       Assassin's                                                       
+                                                /       Quarters                                                         
+                                                /          |          Guard                           Dog                
+                                                /          =          Guard                           Pits       
+                                                /          |          Guard                            |        
+                                             Stairwell-=-Antechamber  Room                             =              Roof
+                                                /          |            |                              |              Tower   
+                                                /          =            |                  Inner     Inner   Stables  /       
+                                                /          |            |                Courtyard--Courtyard   |   Guard 
+                                                /       Apprentice      =               /    |         |        =   Tower 
+                                                /       Quarters        |      Garbage Pit   |         |        |  /
+                                                /                     Inner                Inner     Inner    Inside   Before  Path
+                           Fiery              Stairwell-----------=---Keep---=-----------Courtyard--Courtyard-=-Keep-=--Keep--to the--
+                          Cavern   Treasure     /                       |                    |         |        |              Keep
+                             |       Room       /                       =                    |         |        =
+        Mines              Dark       |         /                       |                  Inner     Inner      |
+          |               Passage     =         /                     Guard              Courtyard--Courtyard  Barraks
+          |    Entryway      |        |         /                     Room               /             |             
+          |    to the----Junction-Dungeons----Dungeons                       Crocodile_Pit             =         
+Mines---Mines / Mines        |        |                                                                |          
+          |  /               =        =                                                               Dog 
+          | /                |        |                                                               Pits
+          |/                Lab    Summoning
+        Mines                        Room
+
+~
+#0
+
+
+
+#ROOMS
+#15700
+The Path to the Keep~
+You are heading toward a bleak blackstone keep, sitting in the middle of
+a field of scorched earth. Surly guards patrol both on the battlements and
+below before the gate, but they pay you little heed. Evidently the guards
+are used to strange visitors...
+~
+0 5 2
+D1
+~
+~
+0 0 3515
+D3
+~
+~
+0 -1 15701
+S
+#15701
+Before the Keep~
+You are standing outside the massive bronze-bound oak portals that bar the
+way into the keep. They currently stand open, though, as if the warlock
+were expecting visitors...
+~
+0 1 1
+D1
+~
+~
+0 -1 15700
+D3
+~
+~
+1 0 15704
+S
+#15702
+A Guard Tower~
+This tower sits above the gate you just entered. Guards march back and forth.
+They seem mildly surprised by your entrance, but they don't move to hinder
+you. The stairs continue up and down.
+~
+0 9 0
+D4
+~
+~
+0 -1 15703
+D5
+~
+~
+0 -1 15704
+S
+#15703
+The Roof of the Tower~
+You emerge onto the roof of the tower. From here you can see far across the
+plains of Past Anon. The ancient city of Thalos, ruined in your own time,
+lies far to the south, while to the east lie the jagged peaks of the first
+mountain range of Anon. It is rumored that the gods temselves reside at their
+lofty peaks. Beyond them, you can see the peak of Mount Doom, whereupon
+the castle of the dread Lord Krogthar is located.
+~
+0 0 1
+D5
+~
+~
+0 -1 15702
+S
+#15704
+Inside the Keep~
+Guards march to and fro in this small courtyard. Wooden portals lie to the
+north, west and south, while the entry gate looms to the east. A set of
+stairs leads up into the tower of the gatehouse.
+~
+0 1 1
+D0
+~
+~
+1 0 15705
+D1
+~
+~
+1 0 15701
+D2
+~
+~
+1 0 15706
+D3
+~
+~
+1 0 15707
+D4
+~
+~
+0 -1 15702
+S
+#15705
+The Stables~
+Here the guards of the Keep keep, or kept, rather, their steeds. A
+particularly harsh winter left the Keep short of food, and necessitated
+the eating of the horses. They have not been replaced yet.
+~
+0 9 0
+D2
+~
+~
+1 0 15704
+S
+#15706
+Barracks~
+This room quarters some of the guards of the Keep. There are several bunks
+littered with dirty underwear and frayed tunics- evidently the warlock is
+not a stickler for discipline.
+~
+0 9 0
+D0
+~
+~
+1 0 15704
+S
+#15707
+The Inner Courtyard~
+You have passed into the inner courtyard, which lies before the stark black
+walls of the inner keep, wherein resides Baragar and his consort Alara.
+Guards occasionally stroll past, as does the occasional servant. The
+servants appear to be rather lifeless and cold...
+~
+0 1 1
+D0
+~
+~
+0 -1 15708
+D1
+~
+~
+1 0 15704
+D2
+~
+~
+0 -1 15709
+D3
+~
+~
+0 -1 15710
+S
+#15708
+The Inner Courtyard~
+You have passed into the inner courtyard, which lies before the stark black
+walls of the inner keep, wherein resides Baragar and his consort Alara.
+Guards occasionally stroll past, as does the occasional servant. The
+servants appear to be rather lifeless and cold...
+~
+0 1 1
+D0
+~
+~
+1 0 15741
+D2
+~
+~
+0 -1 15707
+D3
+~
+~
+0 0 15711
+S
+#15709
+The Inner Courtyard~
+You have passed into the inner courtyard, which lies before the stark black
+walls of the inner keep, wherein resides Baragar and his consort Alara.
+Guards occasionally stroll past, as does the occasional servant. The
+servants appear to be rather lifeless and cold...
+~
+0 1 1
+D0
+~
+~
+0 -1 15707
+D2
+~
+~
+1 0 15742
+D3
+~
+~
+0 -1 15712
+S
+#15710
+The Inner Courtyard~
+You have passed into the inner courtyard, which lies before the stark black
+walls of the inner keep, wherein resides Baragar and his consort Alara.
+Guards occasionally stroll past, as does the occasional servant. The
+servants appear to be rather lifeless and cold...
+
+The doors to the inner keep lie to the west of here.
+~
+0 1 1
+D0
+~
+~
+0 -1 15711
+D1
+~
+~
+0 0 15707
+D2
+~
+~
+0 -1 15712
+D3
+~
+~
+1 0 15715
+S
+#15711
+The Inner Courtyard~
+You have passed into the inner courtyard, which lies before the stark black
+walls of the inner keep, wherein resides Baragar and his consort Alara.
+Guards occasionally stroll past, as does the occasional servant. The
+servants appear to be rather lifeless and cold...
+~
+0 1 1
+D1
+~
+~
+0 0 15708
+D2
+~
+~
+0 -1 15710
+D5
+~
+~
+1 -1 15713
+S
+#15712
+The Inner Courtyard~
+You have passed into the inner courtyard, which lies before the stark black
+walls of the inner keep, wherein resides Baragar and his consort Alara.
+Guards occasionally stroll past, as does the occasional servant. The
+servants appear to be rather lifeless and cold...
+~
+0 1 1
+D0
+~
+~
+0 -1 15710
+D1
+~
+~
+0 0 15709
+D5
+~
+~
+1 -1 15714
+S
+#15713
+The Garbage Pit~
+Here the keep's occupants dump their garbage, to be devoured by the offal-
+eating creature they keep in here. It smells very bad.... very VERY bad...
+~
+0 9 0
+D4
+~
+~
+1 0 15711
+S
+#15714
+The Crocodile Pit~
+Here Baragar keeps his pet crocodiles, whom he feeds insubordinate guards
+or slaves to. They are rather hungry, and they would take great pleasure
+in devouring you.
+~
+0 9 0
+D4
+~
+~
+1 0 15712
+S
+#15715
+The Inner Keep~
+You stand within the inner keep. The entry room is a small dark chamber,
+with only four wooden doors to break the monotony of the black walls.
+~
+0 9 0
+D0
+~
+~
+1 0 15716
+D1
+~
+~
+1 0 15710
+D2
+~
+~
+1 0 15717
+D3
+~
+~
+1 0 15718
+S
+#15716
+Guard Room~
+here some of the Trollish guards of the inner keep reside. They dislike
+intruders, though they are under orders from Baragar not to slay any, for
+he is intensely curious as to the nature of any visitors, welcome or not.
+~
+0 9 0
+D2
+~
+~
+1 0 15715
+S
+#15717
+Guard Room~
+here some of the Trollish guards of the inner keep reside. They dislike
+intruders, though they are under orders from Baragar not to slay any, for
+he is intensely curious as to the nature of any visitors, welcome or not.
+~
+0 9 0
+D0
+~
+~
+1 0 15715
+S
+#15718
+A Stairwell~
+These steps lead up into the upper levels of the keep, or down into the
+dungeons. You can hear sounds of construction coming from below.
+~
+0 9 0
+D1
+~
+~
+1 0 15715
+D4
+~
+~
+0 -1 15719
+D5
+~
+~
+0 -1 15727
+S
+#15719
+A Stairwell~
+These steps lead up into the upper levels of the keep, or down into the
+dungeons. You can hear sounds of construction coming from below.
+~
+0 9 0
+D1
+~
+~
+1 0 15720
+D4
+~
+~
+0 -1 15726
+D5
+~
+~
+0 -1 15718
+S
+#15720
+Antechamber~
+This small room is totally windowless, and would be utterly dark were it
+not for your pale light source. You feel uneasy here. Far away, someone
+screams, and you shiver uncomfortably.
+~
+0 8201 0
+D0
+~
+~
+1 0 15721
+D2
+~
+~
+1 0 15722
+D3
+~
+~
+1 0 15719
+S
+#15721
+Assassins' Quarters~
+Here the assassins of Baragar reside, spending their spare time playing
+cards, making poisons, killing peasant rabble captured by the guards, etc.
+They will not be impressed by your intrusion...
+~
+0 8201 0
+D2
+~
+~
+1 0 15720
+S
+#15722
+Apprentice Quarters~
+Here resides Alara's apprentice and sometime bed-partner. The apprentice
+has little to do with Baragar, as Baragar envies and distrusts her, but he
+dares not slay her for Alara would be displeased...
+~
+0 8201 0
+D0
+~
+~
+1 0 15720
+S
+#15723
+Antechamber~
+This small room is totally windowless, and would be utterly dark were it
+not for your pale light source. You feel uneasy here. Far away, someone
+screams, and you shiver uncomfortably.
+~
+0 8201 0
+D0
+~
+~
+1 0 15724
+D2
+~
+~
+1 0 15725
+D3
+~
+~
+1 0 15726
+S
+#15724
+Baragar's Chambers~
+Baragar himself resides here, in this small room. It is rather spartan,
+furnished only with a small military cot, a desk and a shelf full of books.
+You are surprised that such a wicked man would be so neat and disciplined.
+~
+0 8201 0
+D2
+~
+~
+1 0 15723
+S
+#15725
+Alara's Chamber~
+Yang to Baragar's Yin, Alara's room represents just how different they are.
+Her room is sloppy and messy, filled with useless junk and piles of unwashed
+clothing. There are two large beds, covered with expensive silks and pillows.
+A set of manacles hangs from one wall, used for some perversion you don't
+care to find out more about.
+~
+0 8201 0
+D0
+~
+~
+1 0 15723
+S
+#15726
+A Stairwell~
+These steps lead up into the upper levels of the keep, or down into the
+dungeons. You can hear sounds of construction coming from below.
+~
+0 9 0
+D1
+~
+~
+1 0 15723
+D4
+~
+~
+0 -1 15736
+D5
+~
+~
+0 -1 15719
+S
+#15727
+The Dungeons~
+You are in the dank, damp and dirty dungeons of the Keep. The passage you
+are in extends west into darkness. You can hear the sounds of construction
+more clearly now.
+~
+0 9 0
+D3
+~
+~
+0 -1 15728
+D4
+~
+~
+0 -1 15718
+S
+#15728
+The Dungeons~
+You are in the dank, damp and dirty dungeons of the Keep. The passage you
+are in extends west into darkness. You can hear the sounds of construction
+more clearly now.
+
+Doors lie to the north and south of here. The southern door has strange
+runes inscribed upon it.
+~
+0 9 0
+D0
+~
+~
+1 -1 15729
+D1
+~
+~
+0 -1 15727
+D2
+This door is inscribed with strange runes~
+door~
+1 0 15730
+D3
+~
+~
+0 -1 15731
+S
+#15729
+A Treasure Room~
+This room has a huge chest cram-packed with loot in the middle of it. But
+as you enter, you feel rather uneasy about the whole situation.
+~
+0 9 0
+D2
+~
+~
+1 0 15728
+S
+#15730
+A Summoning Room~
+Baragar and Alara use (or used) this room for practicing their gate spells,
+but when one spell summoned a denizen of the lower planes that they couldn't
+control, they hastily sealed it in this room. And now you have released it.
+Way to go.
+~
+0 9 0
+D0
+~
+~
+1 0 15728
+S
+#15731
+A Junction~
+You are at a rather busy junction in the dungeons. To the north runs a dark
+passage, while to the south lies a door. To the west lies the source of
+the noises you heard earlier. it is obvious that a team of workers is
+excavating down here. Perhaps Baraga wishes to unearth the treasures
+rumored to lie in the ancient caverns beneath his keep...?
+~
+0 13 0
+D0
+~
+~
+0 -1 15733
+D1
+~
+~
+0 -1 15728
+D2
+~
+~
+1 0 15735
+D3
+~
+~
+0 -1 15732
+S
+#15732
+The Entryway to the Mines~
+Here there is a crude elevator which you can use to lower yourself into
+the lower caverns, wherein the excavation is occuring. But also down there
+lies the entryway to the ancient caverns, where no one dares travel.
+~
+0 9 0
+D1
+~
+~
+0 -1 15731
+D5
+~
+~
+0 -1 15737
+S
+#15733
+A Dark Passage~
+This passage extends north into a large cave. The cave emits a glow visible
+from here, permeating the perpetual darkness here.
+~
+0 8 0
+D0
+~
+~
+0 -1 15734
+D2
+~
+~
+0 -1 15731
+S
+#15734
+A Fiery Cavern~
+This cave is illuminated by a lava pool in the center of the room, in which
+a fire drake is currently dozing. He awakes as you enter, and prepares to
+cast you out!
+~
+0 8 0
+D2
+~
+~
+0 -1 15733
+S
+#15735
+A Lab~
+This room was once used as a lab, but Baragar grew bored with alchemy,
+and abandoned it. Eventually a Grell from the lower caverns made its way
+up here, and created a nest in this lab. Baragar was fascinated by the
+bizarre creature, and sealed it within, intending one day to study it. He
+occasionally feeds it the odd slave or guard.
+~
+0 9 0
+D0
+~
+~
+1 0 15731
+S
+#15736
+The Roof of the Inner Keep~
+You are standing on the roof, atop the highest point of the whole keep.
+The lands of Past Anon lay spread out before you, and from this windswept
+position you can see for miles. You hear the cry of some bird, and look
+above to see several vultures slowly winging their way toward the desolate
+deserts to the south. In those deserts there is rumored to be a fantastic
+place filled with wondrous treasures.
+~
+0 0 1
+D5
+~
+~
+0 -1 15726
+S
+#15737
+The Mines~
+Workers rush back and forth, busily carting bags of excavated stone to and
+from the digging sites. They are intent on their work, and ignore you. You
+see some rather valuable veins of ore in the walls, left untouched, and
+you assume the treasure below must be magnificent indeed for Baragar to
+ignore such wealth.
+~
+0 9 0
+D0
+~
+~
+0 -1 15738
+D4
+~
+~
+0 -1 15732
+S
+#15738
+The Mines~
+Workers rush back and forth, busily carting bags of excavated stone to and
+from the digging sites. They are intent on their work, and ignore you. You
+see some rather valuable veins of ore in the walls, left untouched, and
+you assume the treasure below must be magnificent indeed for Baragar to
+ignore such wealth.
+~
+0 9 0
+D0
+~
+~
+0 -1 15740
+D2
+~
+~
+0 -1 15737
+D3
+~
+~
+0 -1 15739
+S
+#15739
+The Mines~
+Workers rush back and forth, busily carting bags of excavated stone to and
+from the digging sites. They are intent on their work, and ignore you. You
+see some rather valuable veins of ore in the walls, left untouched, and
+you assume the treasure below must be magnificent indeed for Baragar to
+ignore such wealth.
+~
+0 9 0
+D1
+~
+~
+0 -1 15738
+S
+#15740
+The Mines~
+Workers rush back and forth, busily carting bags of excavated stone to and
+from the digging sites. They are intent on their work, and ignore you. You
+see some rather valuable veins of ore in the walls, left untouched, and
+you assume the treasure below must be magnificent indeed for Baragar to
+ignore such wealth.
+~
+0 9 0
+D2
+~
+~
+0 -1 15738
+S
+#15741
+The Dog Pits~
+Here Baragar keeps his vicious war dogs, which he takes with him when on
+campaigns as guards and hunters of fleeing prey. They are incredibly savage
+and will attack anyone on sight save Baragar. They will even attack Alara if
+she enters unaccompanied.
+~
+0 9 0
+D2
+~
+~
+1 0 15708
+S
+#15742
+The Dog Pits~
+Here Baragar keeps his vicious war dogs, which he takes with him when on
+campaigns as guards and hunters of fleeing prey. They are incredibly savage
+and will attack anyone on sight save Baragar. They will even attack Alara if
+she enters unaccompanied.
+~
+0 9 0
+D0
+~
+~
+1 0 15709
+S
+#0
+
+
+
+#SPECIALS
+M 15700 spec_cast_mage
+M 15701 spec_cast_mage
+M 15702 spec_cast_undead
+M 15703 spec_cast_mage
+M 15704 spec_cast_mage
+M 15705 spec_fido
+M 15706 spec_executioner
+M 15707 spec_breath_fire
+M 15708 spec_janitor
+M 15709 spec_guard
+M 15710 spec_cast_mage
+M 15713 spec_fido
+M 15714 spec_poison
+M 15715 spec_thief
+M 15716 spec_cast_mage
+M 15717 spec_janitor
+M 15718 spec_janitor
+M 15719 spec_poison
+M 15720 spec_fido
+S
+
+
+
+#RESETS
+D 0 15701 3 1
+D 0 15704 0 1
+D 0 15704 1 1
+D 0 15704 2 1
+D 0 15704 3 1
+D 0 15705 2 1
+D 0 15706 0 1
+D 0 15707 1 1
+D 0 15708 0 1
+D 0 15709 2 1
+D 0 15710 3 1
+D 0 15711 5 1
+D 0 15712 5 1
+D 0 15713 4 1
+D 0 15714 4 1
+D 0 15715 0 1
+D 0 15715 1 1
+D 0 15715 2 1
+D 0 15715 3 1
+D 0 15716 2 1
+D 0 15717 0 1
+D 0 15718 1 1
+D 0 15719 1 1
+D 0 15720 0 1
+D 0 15720 2 1
+D 0 15720 3 1
+D 0 15721 2 1
+D 0 15722 0 1
+D 0 15723 0 1
+D 0 15723 2 1
+D 0 15723 3 1
+D 0 15724 2 1
+D 0 15725 0 1
+D 0 15726 1 1
+D 0 15728 0 1
+D 0 15728 2 1
+D 0 15729 2 1
+D 0 15730 0 1
+D 0 15731 2 1
+D 0 15735 0 1
+D 0 15741 2 1
+D 0 15742 0 1
+M 0 15709 12 15701 12 Load a keep guard
+E 0 15716 0 5 A suit of bronze plate is loaded on the body of a keep guard
+E 0 15717 0 11 A bronze shield is loaded as a shield of a keep guard
+E 0 15718 0 6 A bronze helm is loaded over the head of a keep guard
+E 0 15719 0 16 A bronze sword is loaded wielded of a keep guard
+G 0 15743 0 A map of baragar's keep is given to a keep guard
+M 0 15709 12 15702 12 Load a keep guard
+E 0 15716 0 5 A suit of bronze plate is loaded on the body of a keep guard
+E 0 15717 0 11 A bronze shield is loaded as a shield of a keep guard
+E 0 15718 0 6 A bronze helm is loaded over the head of a keep guard
+E 0 15719 0 16 A bronze sword is loaded wielded of a keep guard
+O 0 15741 0 15703 A black flag loaded to The Roof of the Tower
+M 0 15709 12 15703 12 Load a keep guard
+E 0 15716 0 5 A suit of bronze plate is loaded on the body of a keep guard
+E 0 15717 0 11 A bronze shield is loaded as a shield of a keep guard
+E 0 15718 0 6 A bronze helm is loaded over the head of a keep guard
+E 0 15719 0 16 A bronze sword is loaded wielded of a keep guard
+M 0 15709 12 15704 12 Load a keep guard
+E 0 15716 0 5 A suit of bronze plate is loaded on the body of a keep guard
+E 0 15717 0 11 A bronze shield is loaded as a shield of a keep guard
+E 0 15718 0 6 A bronze helm is loaded over the head of a keep guard
+E 0 15719 0 16 A bronze sword is loaded wielded of a keep guard
+O 0 15738 0 15707 A gallows loaded to The Inner Courtyard
+M 0 15708 12 15708 12 Load a zombie servant
+O 0 15739 0 15709 The stocks loaded to The Inner Courtyard
+M 0 15708 12 15709 12 Load a zombie servant
+M 0 15705 8 15710 8 Load a troll guard
+E 0 15713 0 16 A spiked club is loaded wielded of a troll guard
+E 0 15714 0 5 A leather hauberk is loaded on the body of a troll guard
+O 0 15740 0 15711 A pot of boiling oil loaded to The Inner Courtyard
+O 0 15740 0 15712 A pot of boiling oil loaded to The Inner Courtyard
+M 0 15720 1 15713 1 Load an otyugh
+O 0 15736 0 15713 A huge pile of rubbish loaded to The Garbage Pit
+M 0 15713 4 15714 4 Load a hungry crocodile
+M 0 15705 8 15716 8 Load a troll guard
+E 0 15713 0 16 A spiked club is loaded wielded of a troll guard
+E 0 15714 0 5 A leather hauberk is loaded on the body of a troll guard
+M 0 15705 8 15717 8 Load a troll guard
+E 0 15713 0 16 A spiked club is loaded wielded of a troll guard
+E 0 15714 0 5 A leather hauberk is loaded on the body of a troll guard
+M 0 15708 12 15718 12 Load a zombie servant
+M 0 15708 12 15719 12 Load a zombie servant
+M 0 15715 4 15721 4 Load an assassin
+E 0 15725 0 12 The robes of an assassin is loaded about the shoulders of an assassin
+E 0 15726 0 16 A throwing dagger is loaded wielded of an assassin
+M 0 15710 1 15722 1 Load an apprentice mage
+E 0 15720 0 12 Some green robes is loaded about the shoulders of an apprentice mage
+E 0 15721 0 16 A wooden staff is loaded wielded of an apprentice mage
+E 0 15722 0 17 A spellbook is loaded held in the hands of an apprentice mage
+M 0 15706 1 15723 1 Load a flesh golem
+O 0 15737 0 15723 A torturer's rack loaded to Antechamber
+M 0 15708 12 15723 12 Load a zombie servant
+M 0 15700 1 15724 1 Load the warlock Baragar
+E 0 15700 0 12 Some black robes is loaded about the shoulders of the warlock Baragar
+E 0 15701 0 17 A bone staff is loaded held in the hands of the warlock Baragar
+E 0 15702 0 16 A bone sword is loaded wielded of the warlock Baragar
+E 0 15703 0 6 A bronze helm is loaded over the head of the warlock Baragar
+M 0 15704 1 15724 1 Load a hawk familiar
+M 0 15701 1 15725 1 Load the witch Alara
+E 0 15704 0 5 A leather bandolier is loaded on the body of the witch Alara
+P 0 15705 0 15704 1 A green potion put inside a green potion
+P 0 15706 0 15704 1 A red potion put inside a red potion
+P 0 15707 0 15704 1 A lightning scroll put inside a lightning scroll
+P 0 15708 0 15704 1 A fire scroll put inside a fire scroll
+P 0 15709 0 15704 1 A wand put inside a wand
+E 0 15710 0 16 A dagger is loaded wielded of the witch Alara
+E 0 15711 0 17 A garthalanium staff is loaded held in the hands of the witch Alara
+M 0 15703 1 15725 1 Load a cat familiar
+M 0 15708 12 15726 12 Load a zombie servant
+M 0 15716 1 15726 1 Load the assassin Dagar
+E 0 15727 0 16 A steel sword is loaded wielded of the assassin Dagar
+E 0 15728 0 1 A magic ring is loaded on the left finger of the assassin Dagar
+E 0 15728 0 2 A magic ring is loaded on the right finger of the assassin Dagar
+E 0 15729 0 8 Elven boots is loaded on the feet of the assassin Dagar
+E 0 15730 0 3 A green elven cloak is loaded around the neck (1) of the assassin Dagar
+M 0 15712 1 15729 1 Load a mimic
+O 0 15723 0 15729 A deep pit loaded to A Treasure Room
+O 0 15723 0 15729 A deep pit loaded to A Treasure Room
+M 0 15702 1 15730 1 Load a demon
+O 0 15712 0 15730 A pentagram loaded to A Summoning Room
+M 0 15717 10 15732 10 Load a gnoll slave
+E 0 15731 0 16 A pick is loaded wielded of a gnoll slave
+E 0 15742 0 7 A set of leg irons is loaded on the legs of a gnoll slave
+O 0 15733 0 15732 A pile of rubble loaded to The Entryway to the Mines
+M 0 15707 1 15734 1 Load a fire drake
+E 0 15715 0 12 A fire drake hide is loaded about the shoulders of a fire drake
+M 0 15711 1 15735 1 Load a grell
+O 0 15741 0 15736 A black flag loaded to The Roof of the Inner Keep
+M 0 15717 10 15737 10 Load a gnoll slave
+E 0 15732 0 16 A shovel is loaded wielded of a gnoll slave
+E 0 15742 0 7 A set of leg irons is loaded on the legs of a gnoll slave
+O 0 15733 0 15737 A pile of rubble loaded to The Mines
+M 0 15717 10 15738 10 Load a gnoll slave
+E 0 15731 0 16 A pick is loaded wielded of a gnoll slave
+E 0 15742 0 7 A set of leg irons is loaded on the legs of a gnoll slave
+O 0 15733 0 15738 A pile of rubble loaded to The Mines
+M 0 15718 4 15738 4 Load an ogre slave
+E 0 15732 0 16 A shovel is loaded wielded of an ogre slave
+E 0 15742 0 7 A set of leg irons is loaded on the legs of an ogre slave
+M 0 15717 10 15739 10 Load a gnoll slave
+E 0 15732 0 16 A shovel is loaded wielded of a gnoll slave
+E 0 15742 0 7 A set of leg irons is loaded on the legs of a gnoll slave
+O 0 15733 0 15739 A pile of rubble loaded to The Mines
+M 0 15719 1 15739 1 Load a flind slave master
+E 0 15735 0 16 A flind bar is loaded wielded of a flind slave master
+G 0 15734 0 A whip is given to a flind slave master
+M 0 15717 10 15740 10 Load a gnoll slave
+E 0 15731 0 16 A pick is loaded wielded of a gnoll slave
+E 0 15742 0 7 A set of leg irons is loaded on the legs of a gnoll slave
+O 0 15733 0 15740 A pile of rubble loaded to The Mines
+M 0 15718 4 15740 4 Load an ogre slave
+E 0 15731 0 16 A pick is loaded wielded of an ogre slave
+E 0 15742 0 7 A set of leg irons is loaded on the legs of an ogre slave
+M 0 15714 6 15741 6 Load a savage war dog
+E 0 15724 0 3 A spiked collar is loaded around the neck (1) of a savage war dog
+M 0 15714 6 15742 6 Load a savage war dog
+E 0 15724 0 3 A spiked collar is loaded around the neck (1) of a savage war dog
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,4189 @@
+#AREADATA
+Name The Crystal Sea~
+Builders Blake~
+VNUMs 11700 11799
+LevelRange 51 51
+Credits Blake~
+Security 9
+Continent 3
+AreaFlags 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11700
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11090
+D1
+~
+~
+0 0 11701
+D2
+~
+~
+0 0 11710
+D3
+~
+~
+0 0 11609
+D6
+~
+~
+0 0 11199
+D7
+~
+~
+0 0 11091
+D8
+~
+~
+0 0 11619
+D9
+~
+~
+0 0 11711
+S
+#11701
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11091
+D1
+~
+~
+0 0 11702
+D2
+~
+~
+0 0 11711
+D3
+~
+~
+0 0 11700
+D6
+~
+~
+0 0 11090
+D7
+~
+~
+0 0 11092
+D8
+~
+~
+0 0 11710
+D9
+~
+~
+0 0 11712
+S
+#11702
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11092
+D1
+~
+~
+0 0 11703
+D2
+~
+~
+0 0 11712
+D3
+~
+~
+0 0 11701
+D6
+~
+~
+0 0 11091
+D7
+~
+~
+0 0 11093
+D8
+~
+~
+0 0 11711
+D9
+~
+~
+0 0 11713
+S
+#11703
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11093
+D1
+~
+~
+0 0 11704
+D2
+~
+~
+0 0 11713
+D3
+~
+~
+0 0 11702
+D6
+~
+~
+0 0 11092
+D7
+~
+~
+0 0 11094
+D8
+~
+~
+0 0 11712
+D9
+~
+~
+0 0 11714
+S
+#11704
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11094
+D1
+~
+~
+0 0 11705
+D2
+~
+~
+0 0 11714
+D3
+~
+~
+0 0 11703
+D6
+~
+~
+0 0 11093
+D7
+~
+~
+0 0 11095
+D8
+~
+~
+0 0 11713
+D9
+~
+~
+0 0 11715
+S
+#11705
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11095
+D1
+~
+~
+0 0 11706
+D2
+~
+~
+0 0 11715
+D3
+~
+~
+0 0 11704
+D6
+~
+~
+0 0 11094
+D7
+~
+~
+0 0 11096
+D8
+~
+~
+0 0 11714
+D9
+~
+~
+0 0 11716
+S
+#11706
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11096
+D1
+~
+~
+0 0 11707
+D2
+~
+~
+0 0 11716
+D3
+~
+~
+0 0 11705
+D6
+~
+~
+0 0 11095
+D7
+~
+~
+0 0 11097
+D8
+~
+~
+0 0 11715
+D9
+~
+~
+0 0 11717
+S
+#11707
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11097
+D1
+~
+~
+0 0 11708
+D2
+~
+~
+0 0 11717
+D3
+~
+~
+0 0 11706
+D6
+~
+~
+0 0 11096
+D7
+~
+~
+0 0 11098
+D8
+~
+~
+0 0 11716
+D9
+~
+~
+0 0 11718
+S
+#11708
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11098
+D1
+~
+~
+0 0 11709
+D2
+~
+~
+0 0 11718
+D3
+~
+~
+0 0 11707
+D6
+~
+~
+0 0 11097
+D7
+~
+~
+0 0 11099
+D8
+~
+~
+0 0 11717
+D9
+~
+~
+0 0 11719
+S
+#11709
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11099
+D1
+~
+~
+0 0 11800
+D2
+~
+~
+0 0 11719
+D3
+~
+~
+0 0 11708
+D6
+~
+~
+0 0 11098
+D7
+~
+~
+0 0 11290
+D8
+~
+~
+0 0 11718
+D9
+~
+~
+0 0 11810
+S
+#11710
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11700
+D1
+~
+~
+0 0 11711
+D2
+~
+~
+0 0 11720
+D3
+~
+~
+0 0 11619
+D6
+~
+~
+0 0 11609
+D7
+~
+~
+0 0 11701
+D8
+~
+~
+0 0 11629
+D9
+~
+~
+0 0 11721
+S
+#11711
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11701
+D1
+~
+~
+0 0 11712
+D2
+~
+~
+0 0 11721
+D3
+~
+~
+0 0 11710
+D6
+~
+~
+0 0 11700
+D7
+~
+~
+0 0 11702
+D8
+~
+~
+0 0 11720
+D9
+~
+~
+0 0 11722
+S
+#11712
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11702
+D1
+~
+~
+0 0 11713
+D2
+~
+~
+0 0 11722
+D3
+~
+~
+0 0 11711
+D6
+~
+~
+0 0 11701
+D7
+~
+~
+0 0 11703
+D8
+~
+~
+0 0 11721
+D9
+~
+~
+0 0 11723
+S
+#11713
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11703
+D1
+~
+~
+0 0 11714
+D2
+~
+~
+0 0 11723
+D3
+~
+~
+0 0 11712
+D6
+~
+~
+0 0 11702
+D7
+~
+~
+0 0 11704
+D8
+~
+~
+0 0 11722
+D9
+~
+~
+0 0 11724
+S
+#11714
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11704
+D1
+~
+~
+0 0 11715
+D2
+~
+~
+0 0 11724
+D3
+~
+~
+0 0 11713
+D6
+~
+~
+0 0 11703
+D7
+~
+~
+0 0 11705
+D8
+~
+~
+0 0 11723
+D9
+~
+~
+0 0 11725
+S
+#11715
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11705
+D1
+~
+~
+0 0 11716
+D2
+~
+~
+0 0 11725
+D3
+~
+~
+0 0 11714
+D6
+~
+~
+0 0 11704
+D7
+~
+~
+0 0 11706
+D8
+~
+~
+0 0 11724
+D9
+~
+~
+0 0 11726
+S
+#11716
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11706
+D1
+~
+~
+0 0 11717
+D2
+~
+~
+0 0 11726
+D3
+~
+~
+0 0 11715
+D6
+~
+~
+0 0 11705
+D7
+~
+~
+0 0 11707
+D8
+~
+~
+0 0 11725
+D9
+~
+~
+0 0 11727
+S
+#11717
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11707
+D1
+~
+~
+0 0 11718
+D2
+~
+~
+0 0 11727
+D3
+~
+~
+0 0 11716
+D6
+~
+~
+0 0 11706
+D7
+~
+~
+0 0 11708
+D8
+~
+~
+0 0 11726
+D9
+~
+~
+0 0 11728
+S
+#11718
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11708
+D1
+~
+~
+0 0 11719
+D2
+~
+~
+0 0 11728
+D3
+~
+~
+0 0 11717
+D6
+~
+~
+0 0 11707
+D7
+~
+~
+0 0 11709
+D8
+~
+~
+0 0 11727
+D9
+~
+~
+0 0 11729
+S
+#11719
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11709
+D1
+~
+~
+0 0 11810
+D2
+~
+~
+0 0 11729
+D3
+~
+~
+0 0 11718
+D6
+~
+~
+0 0 11708
+D7
+~
+~
+0 0 11800
+D8
+~
+~
+0 0 11728
+D9
+~
+~
+0 0 11820
+S
+#11720
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11710
+D1
+~
+~
+0 0 11721
+D2
+~
+~
+0 0 11730
+D3
+~
+~
+0 0 11629
+D6
+~
+~
+0 0 11619
+D7
+~
+~
+0 0 11711
+D8
+~
+~
+0 0 11639
+D9
+~
+~
+0 0 11731
+S
+#11721
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11711
+D1
+~
+~
+0 0 11722
+D2
+~
+~
+0 0 11731
+D3
+~
+~
+0 0 11720
+D6
+~
+~
+0 0 11710
+D7
+~
+~
+0 0 11712
+D8
+~
+~
+0 0 11730
+D9
+~
+~
+0 0 11732
+S
+#11722
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11712
+D1
+~
+~
+0 0 11723
+D2
+~
+~
+0 0 11732
+D3
+~
+~
+0 0 11721
+D6
+~
+~
+0 0 11711
+D7
+~
+~
+0 0 11713
+D8
+~
+~
+0 0 11731
+D9
+~
+~
+0 0 11733
+S
+#11723
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11713
+D1
+~
+~
+0 0 11724
+D2
+~
+~
+0 0 11733
+D3
+~
+~
+0 0 11722
+D6
+~
+~
+0 0 11712
+D7
+~
+~
+0 0 11714
+D8
+~
+~
+0 0 11732
+D9
+~
+~
+0 0 11734
+S
+#11724
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11714
+D1
+~
+~
+0 0 11725
+D2
+~
+~
+0 0 11734
+D3
+~
+~
+0 0 11723
+D6
+~
+~
+0 0 11713
+D7
+~
+~
+0 0 11715
+D8
+~
+~
+0 0 11733
+D9
+~
+~
+0 0 11735
+S
+#11725
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11715
+D1
+~
+~
+0 0 11726
+D2
+~
+~
+0 0 11735
+D3
+~
+~
+0 0 11724
+D6
+~
+~
+0 0 11714
+D7
+~
+~
+0 0 11716
+D8
+~
+~
+0 0 11734
+D9
+~
+~
+0 0 11736
+S
+#11726
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11716
+D1
+~
+~
+0 0 11727
+D2
+~
+~
+0 0 11736
+D3
+~
+~
+0 0 11725
+D6
+~
+~
+0 0 11715
+D7
+~
+~
+0 0 11717
+D8
+~
+~
+0 0 11735
+D9
+~
+~
+0 0 11737
+S
+#11727
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11717
+D1
+~
+~
+0 0 11728
+D2
+~
+~
+0 0 11737
+D3
+~
+~
+0 0 11726
+D6
+~
+~
+0 0 11716
+D7
+~
+~
+0 0 11718
+D8
+~
+~
+0 0 11736
+D9
+~
+~
+0 0 11738
+S
+#11728
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11718
+D1
+~
+~
+0 0 11729
+D2
+~
+~
+0 0 11738
+D3
+~
+~
+0 0 11727
+D6
+~
+~
+0 0 11717
+D7
+~
+~
+0 0 11719
+D8
+~
+~
+0 0 11737
+D9
+~
+~
+0 0 11739
+S
+#11729
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11719
+D1
+~
+~
+0 0 11820
+D2
+~
+~
+0 0 11739
+D3
+~
+~
+0 0 11728
+D6
+~
+~
+0 0 11718
+D7
+~
+~
+0 0 11810
+D8
+~
+~
+0 0 11738
+D9
+~
+~
+0 0 11830
+S
+#11730
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11720
+D1
+~
+~
+0 0 11731
+D2
+~
+~
+0 0 11740
+D3
+~
+~
+0 0 11639
+D6
+~
+~
+0 0 11629
+D7
+~
+~
+0 0 11721
+D8
+~
+~
+0 0 11649
+D9
+~
+~
+0 0 11741
+S
+#11731
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11721
+D1
+~
+~
+0 0 11732
+D2
+~
+~
+0 0 11741
+D3
+~
+~
+0 0 11730
+D6
+~
+~
+0 0 11720
+D7
+~
+~
+0 0 11722
+D8
+~
+~
+0 0 11740
+D9
+~
+~
+0 0 11742
+S
+#11732
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11722
+D1
+~
+~
+0 0 11733
+D2
+~
+~
+0 0 11742
+D3
+~
+~
+0 0 11731
+D6
+~
+~
+0 0 11721
+D7
+~
+~
+0 0 11723
+D8
+~
+~
+0 0 11741
+D9
+~
+~
+0 0 11743
+S
+#11733
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11723
+D1
+~
+~
+0 0 11734
+D2
+~
+~
+0 0 11743
+D3
+~
+~
+0 0 11732
+D6
+~
+~
+0 0 11722
+D7
+~
+~
+0 0 11724
+D8
+~
+~
+0 0 11742
+D9
+~
+~
+0 0 11744
+S
+#11734
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11724
+D1
+~
+~
+0 0 11735
+D2
+~
+~
+0 0 11744
+D3
+~
+~
+0 0 11733
+D6
+~
+~
+0 0 11723
+D7
+~
+~
+0 0 11725
+D8
+~
+~
+0 0 11743
+D9
+~
+~
+0 0 11745
+S
+#11735
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11725
+D1
+~
+~
+0 0 11736
+D2
+~
+~
+0 0 11745
+D3
+~
+~
+0 0 11734
+D6
+~
+~
+0 0 11724
+D7
+~
+~
+0 0 11726
+D8
+~
+~
+0 0 11744
+D9
+~
+~
+0 0 11746
+S
+#11736
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11726
+D1
+~
+~
+0 0 11737
+D2
+~
+~
+0 0 11746
+D3
+~
+~
+0 0 11735
+D6
+~
+~
+0 0 11725
+D7
+~
+~
+0 0 11727
+D8
+~
+~
+0 0 11745
+D9
+~
+~
+0 0 11747
+S
+#11737
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11727
+D1
+~
+~
+0 0 11738
+D2
+~
+~
+0 0 11747
+D3
+~
+~
+0 0 11736
+D6
+~
+~
+0 0 11726
+D7
+~
+~
+0 0 11728
+D8
+~
+~
+0 0 11746
+D9
+~
+~
+0 0 11748
+S
+#11738
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11728
+D1
+~
+~
+0 0 11739
+D2
+~
+~
+0 0 11748
+D3
+~
+~
+0 0 11737
+D6
+~
+~
+0 0 11727
+D7
+~
+~
+0 0 11729
+D8
+~
+~
+0 0 11747
+D9
+~
+~
+0 0 11749
+S
+#11739
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11729
+D1
+~
+~
+0 0 11830
+D2
+~
+~
+0 0 11749
+D3
+~
+~
+0 0 11738
+D6
+~
+~
+0 0 11728
+D7
+~
+~
+0 0 11820
+D8
+~
+~
+0 0 11748
+D9
+~
+~
+0 0 11840
+S
+#11740
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11730
+D1
+~
+~
+0 0 11741
+D2
+~
+~
+0 0 11750
+D3
+~
+~
+0 0 11649
+D6
+~
+~
+0 0 11639
+D7
+~
+~
+0 0 11731
+D8
+~
+~
+0 0 11659
+D9
+~
+~
+0 0 11751
+S
+#11741
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11731
+D1
+~
+~
+0 0 11742
+D2
+~
+~
+0 0 11751
+D3
+~
+~
+0 0 11740
+D6
+~
+~
+0 0 11730
+D7
+~
+~
+0 0 11732
+D8
+~
+~
+0 0 11750
+D9
+~
+~
+0 0 11752
+S
+#11742
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11732
+D1
+~
+~
+0 0 11743
+D2
+~
+~
+0 0 11752
+D3
+~
+~
+0 0 11741
+D6
+~
+~
+0 0 11731
+D7
+~
+~
+0 0 11733
+D8
+~
+~
+0 0 11751
+D9
+~
+~
+0 0 11753
+S
+#11743
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11733
+D1
+~
+~
+0 0 11744
+D2
+~
+~
+0 0 11753
+D3
+~
+~
+0 0 11742
+D6
+~
+~
+0 0 11732
+D7
+~
+~
+0 0 11734
+D8
+~
+~
+0 0 11752
+D9
+~
+~
+0 0 11754
+S
+#11744
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11734
+D1
+~
+~
+0 0 11745
+D2
+~
+~
+0 0 11754
+D3
+~
+~
+0 0 11743
+D6
+~
+~
+0 0 11733
+D7
+~
+~
+0 0 11735
+D8
+~
+~
+0 0 11753
+D9
+~
+~
+0 0 11755
+S
+#11745
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11735
+D1
+~
+~
+0 0 11746
+D2
+~
+~
+0 0 11755
+D3
+~
+~
+0 0 11744
+D6
+~
+~
+0 0 11734
+D7
+~
+~
+0 0 11736
+D8
+~
+~
+0 0 11754
+D9
+~
+~
+0 0 11756
+S
+#11746
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11736
+D1
+~
+~
+0 0 11747
+D2
+~
+~
+0 0 11756
+D3
+~
+~
+0 0 11745
+D6
+~
+~
+0 0 11735
+D7
+~
+~
+0 0 11737
+D8
+~
+~
+0 0 11755
+D9
+~
+~
+0 0 11757
+S
+#11747
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11737
+D1
+~
+~
+0 0 11748
+D2
+~
+~
+0 0 11757
+D3
+~
+~
+0 0 11746
+D6
+~
+~
+0 0 11736
+D7
+~
+~
+0 0 11738
+D8
+~
+~
+0 0 11756
+D9
+~
+~
+0 0 11758
+S
+#11748
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11738
+D1
+~
+~
+0 0 11749
+D2
+~
+~
+0 0 11758
+D3
+~
+~
+0 0 11747
+D6
+~
+~
+0 0 11737
+D7
+~
+~
+0 0 11739
+D8
+~
+~
+0 0 11757
+D9
+~
+~
+0 0 11759
+S
+#11749
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11739
+D1
+~
+~
+0 0 11840
+D2
+~
+~
+0 0 11759
+D3
+~
+~
+0 0 11748
+D6
+~
+~
+0 0 11738
+D7
+~
+~
+0 0 11830
+D8
+~
+~
+0 0 11758
+D9
+~
+~
+0 0 11850
+S
+#11750
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11740
+D1
+~
+~
+0 0 11751
+D2
+~
+~
+0 0 11760
+D3
+~
+~
+0 0 11659
+D6
+~
+~
+0 0 11649
+D7
+~
+~
+0 0 11741
+D8
+~
+~
+0 0 11669
+D9
+~
+~
+0 0 11761
+S
+#11751
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11741
+D1
+~
+~
+0 0 11752
+D2
+~
+~
+0 0 11761
+D3
+~
+~
+0 0 11750
+D6
+~
+~
+0 0 11740
+D7
+~
+~
+0 0 11742
+D8
+~
+~
+0 0 11760
+D9
+~
+~
+0 0 11762
+S
+#11752
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11742
+D1
+~
+~
+0 0 11753
+D2
+~
+~
+0 0 11762
+D3
+~
+~
+0 0 11751
+D6
+~
+~
+0 0 11741
+D7
+~
+~
+0 0 11743
+D8
+~
+~
+0 0 11761
+D9
+~
+~
+0 0 11763
+S
+#11753
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11743
+D1
+~
+~
+0 0 11754
+D2
+~
+~
+0 0 11763
+D3
+~
+~
+0 0 11752
+D6
+~
+~
+0 0 11742
+D7
+~
+~
+0 0 11744
+D8
+~
+~
+0 0 11762
+D9
+~
+~
+0 0 11764
+S
+#11754
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11744
+D1
+~
+~
+0 0 11755
+D2
+~
+~
+0 0 11764
+D3
+~
+~
+0 0 11753
+D6
+~
+~
+0 0 11743
+D7
+~
+~
+0 0 11745
+D8
+~
+~
+0 0 11763
+D9
+~
+~
+0 0 11765
+S
+#11755
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11745
+D1
+~
+~
+0 0 11756
+D2
+~
+~
+0 0 11765
+D3
+~
+~
+0 0 11754
+D6
+~
+~
+0 0 11744
+D7
+~
+~
+0 0 11746
+D8
+~
+~
+0 0 11764
+D9
+~
+~
+0 0 11766
+S
+#11756
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11746
+D1
+~
+~
+0 0 11757
+D2
+~
+~
+0 0 11766
+D3
+~
+~
+0 0 11755
+D6
+~
+~
+0 0 11745
+D7
+~
+~
+0 0 11747
+D8
+~
+~
+0 0 11765
+D9
+~
+~
+0 0 11767
+S
+#11757
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11747
+D1
+~
+~
+0 0 11758
+D2
+~
+~
+0 0 11767
+D3
+~
+~
+0 0 11756
+D6
+~
+~
+0 0 11746
+D7
+~
+~
+0 0 11748
+D8
+~
+~
+0 0 11766
+D9
+~
+~
+0 0 11768
+S
+#11758
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11748
+D1
+~
+~
+0 0 11759
+D2
+~
+~
+0 0 11768
+D3
+~
+~
+0 0 11757
+D6
+~
+~
+0 0 11747
+D7
+~
+~
+0 0 11749
+D8
+~
+~
+0 0 11767
+D9
+~
+~
+0 0 11769
+S
+#11759
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11749
+D1
+~
+~
+0 0 11850
+D2
+~
+~
+0 0 11769
+D3
+~
+~
+0 0 11758
+D6
+~
+~
+0 0 11748
+D7
+~
+~
+0 0 11840
+D8
+~
+~
+0 0 11768
+D9
+~
+~
+0 0 11860
+S
+#11760
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11750
+D1
+~
+~
+0 0 11761
+D2
+~
+~
+0 0 11770
+D3
+~
+~
+0 0 11669
+D6
+~
+~
+0 0 11659
+D7
+~
+~
+0 0 11751
+D8
+~
+~
+0 0 11679
+D9
+~
+~
+0 0 11771
+S
+#11761
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11751
+D1
+~
+~
+0 0 11762
+D2
+~
+~
+0 0 11771
+D3
+~
+~
+0 0 11760
+D6
+~
+~
+0 0 11750
+D7
+~
+~
+0 0 11752
+D8
+~
+~
+0 0 11770
+D9
+~
+~
+0 0 11772
+S
+#11762
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11752
+D1
+~
+~
+0 0 11763
+D2
+~
+~
+0 0 11772
+D3
+~
+~
+0 0 11761
+D6
+~
+~
+0 0 11751
+D7
+~
+~
+0 0 11753
+D8
+~
+~
+0 0 11771
+D9
+~
+~
+0 0 11773
+S
+#11763
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11753
+D1
+~
+~
+0 0 11764
+D2
+~
+~
+0 0 11773
+D3
+~
+~
+0 0 11762
+D6
+~
+~
+0 0 11752
+D7
+~
+~
+0 0 11754
+D8
+~
+~
+0 0 11772
+D9
+~
+~
+0 0 11774
+S
+#11764
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11754
+D1
+~
+~
+0 0 11765
+D2
+~
+~
+0 0 11774
+D3
+~
+~
+0 0 11763
+D6
+~
+~
+0 0 11753
+D7
+~
+~
+0 0 11755
+D8
+~
+~
+0 0 11773
+D9
+~
+~
+0 0 11775
+S
+#11765
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11755
+D1
+~
+~
+0 0 11766
+D2
+~
+~
+0 0 11775
+D3
+~
+~
+0 0 11764
+D6
+~
+~
+0 0 11754
+D7
+~
+~
+0 0 11756
+D8
+~
+~
+0 0 11774
+D9
+~
+~
+0 0 11776
+S
+#11766
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11756
+D1
+~
+~
+0 0 11767
+D2
+~
+~
+0 0 11776
+D3
+~
+~
+0 0 11765
+D6
+~
+~
+0 0 11755
+D7
+~
+~
+0 0 11757
+D8
+~
+~
+0 0 11775
+D9
+~
+~
+0 0 11777
+S
+#11767
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11757
+D1
+~
+~
+0 0 11768
+D2
+~
+~
+0 0 11777
+D3
+~
+~
+0 0 11766
+D6
+~
+~
+0 0 11756
+D7
+~
+~
+0 0 11758
+D8
+~
+~
+0 0 11776
+D9
+~
+~
+0 0 11778
+S
+#11768
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11758
+D1
+~
+~
+0 0 11769
+D2
+~
+~
+0 0 11778
+D3
+~
+~
+0 0 11767
+D6
+~
+~
+0 0 11757
+D7
+~
+~
+0 0 11759
+D8
+~
+~
+0 0 11777
+D9
+~
+~
+0 0 11779
+S
+#11769
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11759
+D1
+~
+~
+0 0 11860
+D2
+~
+~
+0 0 11779
+D3
+~
+~
+0 0 11768
+D6
+~
+~
+0 0 11758
+D7
+~
+~
+0 0 11850
+D8
+~
+~
+0 0 11778
+D9
+~
+~
+0 0 11870
+S
+#11770
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11760
+D1
+~
+~
+0 0 11771
+D2
+~
+~
+0 0 11780
+D3
+~
+~
+0 0 11679
+D6
+~
+~
+0 0 11669
+D7
+~
+~
+0 0 11761
+D8
+~
+~
+0 0 11689
+D9
+~
+~
+0 0 11781
+S
+#11771
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11761
+D1
+~
+~
+0 0 11772
+D2
+~
+~
+0 0 11781
+D3
+~
+~
+0 0 11770
+D6
+~
+~
+0 0 11760
+D7
+~
+~
+0 0 11762
+D8
+~
+~
+0 0 11780
+D9
+~
+~
+0 0 11782
+S
+#11772
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11762
+D1
+~
+~
+0 0 11773
+D2
+~
+~
+0 0 11782
+D3
+~
+~
+0 0 11771
+D6
+~
+~
+0 0 11761
+D7
+~
+~
+0 0 11763
+D8
+~
+~
+0 0 11781
+D9
+~
+~
+0 0 11783
+S
+#11773
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11763
+D1
+~
+~
+0 0 11774
+D2
+~
+~
+0 0 11783
+D3
+~
+~
+0 0 11772
+D6
+~
+~
+0 0 11762
+D7
+~
+~
+0 0 11764
+D8
+~
+~
+0 0 11782
+D9
+~
+~
+0 0 11784
+S
+#11774
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11764
+D1
+~
+~
+0 0 11775
+D2
+~
+~
+0 0 11784
+D3
+~
+~
+0 0 11773
+D6
+~
+~
+0 0 11763
+D7
+~
+~
+0 0 11765
+D8
+~
+~
+0 0 11783
+D9
+~
+~
+0 0 11785
+S
+#11775
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11765
+D1
+~
+~
+0 0 11776
+D2
+~
+~
+0 0 11785
+D3
+~
+~
+0 0 11774
+D6
+~
+~
+0 0 11764
+D7
+~
+~
+0 0 11766
+D8
+~
+~
+0 0 11784
+D9
+~
+~
+0 0 11786
+S
+#11776
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11766
+D1
+~
+~
+0 0 11777
+D2
+~
+~
+0 0 11786
+D3
+~
+~
+0 0 11775
+D6
+~
+~
+0 0 11765
+D7
+~
+~
+0 0 11767
+D8
+~
+~
+0 0 11785
+D9
+~
+~
+0 0 11787
+S
+#11777
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11767
+D1
+~
+~
+0 0 11778
+D2
+~
+~
+0 0 11787
+D3
+~
+~
+0 0 11776
+D6
+~
+~
+0 0 11766
+D7
+~
+~
+0 0 11768
+D8
+~
+~
+0 0 11786
+D9
+~
+~
+0 0 11788
+S
+#11778
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11768
+D1
+~
+~
+0 0 11779
+D2
+~
+~
+0 0 11788
+D3
+~
+~
+0 0 11777
+D6
+~
+~
+0 0 11767
+D7
+~
+~
+0 0 11769
+D8
+~
+~
+0 0 11787
+D9
+~
+~
+0 0 11789
+S
+#11779
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11769
+D1
+~
+~
+0 0 11870
+D2
+~
+~
+0 0 11789
+D3
+~
+~
+0 0 11778
+D6
+~
+~
+0 0 11768
+D7
+~
+~
+0 0 11860
+D8
+~
+~
+0 0 11788
+D9
+~
+~
+0 0 11880
+S
+#11780
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11770
+D1
+~
+~
+0 0 11781
+D2
+~
+~
+0 0 11790
+D3
+~
+~
+0 0 11689
+D6
+~
+~
+0 0 11679
+D7
+~
+~
+0 0 11771
+D8
+~
+~
+0 0 11699
+D9
+~
+~
+0 0 11791
+S
+#11781
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11771
+D1
+~
+~
+0 0 11782
+D2
+~
+~
+0 0 11791
+D3
+~
+~
+0 0 11780
+D6
+~
+~
+0 0 11770
+D7
+~
+~
+0 0 11772
+D8
+~
+~
+0 0 11790
+D9
+~
+~
+0 0 11792
+S
+#11782
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11772
+D1
+~
+~
+0 0 11783
+D2
+~
+~
+0 0 11792
+D3
+~
+~
+0 0 11781
+D6
+~
+~
+0 0 11771
+D7
+~
+~
+0 0 11773
+D8
+~
+~
+0 0 11791
+D9
+~
+~
+0 0 11793
+S
+#11783
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11773
+D1
+~
+~
+0 0 11784
+D2
+~
+~
+0 0 11793
+D3
+~
+~
+0 0 11782
+D6
+~
+~
+0 0 11772
+D7
+~
+~
+0 0 11774
+D8
+~
+~
+0 0 11792
+D9
+~
+~
+0 0 11794
+S
+#11784
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11774
+D1
+~
+~
+0 0 11785
+D2
+~
+~
+0 0 11794
+D3
+~
+~
+0 0 11783
+D6
+~
+~
+0 0 11773
+D7
+~
+~
+0 0 11775
+D8
+~
+~
+0 0 11793
+D9
+~
+~
+0 0 11795
+S
+#11785
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11775
+D1
+~
+~
+0 0 11786
+D2
+~
+~
+0 0 11795
+D3
+~
+~
+0 0 11784
+D6
+~
+~
+0 0 11774
+D7
+~
+~
+0 0 11776
+D8
+~
+~
+0 0 11794
+D9
+~
+~
+0 0 11796
+S
+#11786
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11776
+D1
+~
+~
+0 0 11787
+D2
+~
+~
+0 0 11796
+D3
+~
+~
+0 0 11785
+D6
+~
+~
+0 0 11775
+D7
+~
+~
+0 0 11777
+D8
+~
+~
+0 0 11795
+D9
+~
+~
+0 0 11797
+S
+#11787
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11777
+D1
+~
+~
+0 0 11788
+D2
+~
+~
+0 0 11797
+D3
+~
+~
+0 0 11786
+D6
+~
+~
+0 0 11776
+D7
+~
+~
+0 0 11778
+D8
+~
+~
+0 0 11796
+D9
+~
+~
+0 0 11798
+S
+#11788
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11778
+D1
+~
+~
+0 0 11789
+D2
+~
+~
+0 0 11798
+D3
+~
+~
+0 0 11787
+D6
+~
+~
+0 0 11777
+D7
+~
+~
+0 0 11779
+D8
+~
+~
+0 0 11797
+D9
+~
+~
+0 0 11799
+S
+#11789
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11779
+D1
+~
+~
+0 0 11880
+D2
+~
+~
+0 0 11799
+D3
+~
+~
+0 0 11788
+D6
+~
+~
+0 0 11778
+D7
+~
+~
+0 0 11870
+D8
+~
+~
+0 0 11798
+D9
+~
+~
+0 0 11890
+S
+#11790
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11780
+D1
+~
+~
+0 0 11791
+D2
+~
+~
+0 0 11400
+D3
+~
+~
+0 0 11699
+D6
+~
+~
+0 0 11689
+D7
+~
+~
+0 0 11781
+D9
+~
+~
+0 0 11401
+S
+#11791
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11781
+D1
+~
+~
+0 0 11792
+D2
+~
+~
+0 0 11401
+D3
+~
+~
+0 0 11790
+D6
+~
+~
+0 0 11780
+D7
+~
+~
+0 0 11782
+D8
+~
+~
+0 0 11400
+D9
+~
+~
+0 0 11402
+S
+#11792
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11782
+D1
+~
+~
+0 0 11793
+D2
+~
+~
+0 0 11402
+D3
+~
+~
+0 0 11791
+D6
+~
+~
+0 0 11781
+D7
+~
+~
+0 0 11783
+D8
+~
+~
+0 0 11401
+D9
+~
+~
+0 0 11403
+S
+#11793
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11783
+D1
+~
+~
+0 0 11794
+D2
+~
+~
+0 0 11403
+D3
+~
+~
+0 0 11792
+D6
+~
+~
+0 0 11782
+D7
+~
+~
+0 0 11784
+D8
+~
+~
+0 0 11402
+D9
+~
+~
+0 0 11404
+S
+#11794
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11784
+D1
+~
+~
+0 0 11795
+D2
+~
+~
+0 0 11404
+D3
+~
+~
+0 0 11793
+D6
+~
+~
+0 0 11783
+D7
+~
+~
+0 0 11785
+D8
+~
+~
+0 0 11403
+D9
+~
+~
+0 0 11405
+S
+#11795
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11785
+D1
+~
+~
+0 0 11796
+D2
+~
+~
+0 0 11405
+D3
+~
+~
+0 0 11794
+D6
+~
+~
+0 0 11784
+D7
+~
+~
+0 0 11786
+D8
+~
+~
+0 0 11404
+D9
+~
+~
+0 0 11406
+S
+#11796
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11786
+D1
+~
+~
+0 0 11797
+D2
+~
+~
+0 0 11406
+D3
+~
+~
+0 0 11795
+D6
+~
+~
+0 0 11785
+D7
+~
+~
+0 0 11787
+D8
+~
+~
+0 0 11405
+D9
+~
+~
+0 0 11407
+S
+#11797
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11787
+D1
+~
+~
+0 0 11798
+D2
+~
+~
+0 0 11407
+D3
+~
+~
+0 0 11796
+D6
+~
+~
+0 0 11786
+D7
+~
+~
+0 0 11788
+D8
+~
+~
+0 0 11406
+D9
+~
+~
+0 0 11408
+S
+#11798
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11788
+D1
+~
+~
+0 0 11799
+D2
+~
+~
+0 0 11408
+D3
+~
+~
+0 0 11797
+D6
+~
+~
+0 0 11787
+D7
+~
+~
+0 0 11789
+D8
+~
+~
+0 0 11407
+D9
+~
+~
+0 0 11409
+S
+#11799
+The Crystal Sea~
+You are on the smooth blue waters of the Crystal Sea.  The heat reflecting
+from the water leaves a humid salty smell in the air.  The tropical waters
+here are teeming with life.  You can see various small islands in all
+directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11789
+D1
+~
+~
+0 0 11890
+D2
+~
+~
+0 0 11409
+D3
+~
+~
+0 0 11798
+D6
+~
+~
+0 0 11788
+D7
+~
+~
+0 0 11880
+D8
+~
+~
+0 0 11408
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11000 100 11700 2 Load a tuna fish
+M 0 11005 100 11702 2 Load an aboleth
+M 0 11005 100 11706 2 Load an aboleth
+M 0 11003 100 11710 2 Load a {Csea{x dragon
+M 0 11000 100 11711 2 Load a tuna fish
+M 0 11008 100 11713 2 Load a jellyfish
+M 0 11008 100 11713 2 Load a jellyfish
+M 0 11008 100 11715 2 Load a jellyfish
+M 0 11008 100 11716 2 Load a jellyfish
+M 0 11000 100 11717 2 Load a tuna fish
+M 0 11000 100 11717 2 Load a tuna fish
+M 0 11008 100 11719 2 Load a jellyfish
+M 0 11003 100 11719 2 Load a {Csea{x dragon
+M 0 11001 100 11720 2 Load a octopus
+M 0 11002 100 11721 2 Load a man o'war
+M 0 11000 100 11722 2 Load a tuna fish
+M 0 11005 100 11722 2 Load an aboleth
+M 0 11006 100 11727 2 Load a dolphin
+M 0 11001 100 11728 2 Load a octopus
+M 0 11002 100 11728 2 Load a man o'war
+M 0 11000 100 11730 2 Load a tuna fish
+M 0 11000 100 11732 2 Load a tuna fish
+M 0 11005 100 11734 2 Load an aboleth
+M 0 11002 100 11735 2 Load a man o'war
+M 0 11008 100 11736 2 Load a jellyfish
+M 0 11005 100 11737 2 Load an aboleth
+M 0 11008 100 11738 2 Load a jellyfish
+M 0 11006 100 11742 2 Load a dolphin
+M 0 11006 100 11749 2 Load a dolphin
+M 0 11003 100 11750 2 Load a {Csea{x dragon
+M 0 11005 100 11752 2 Load an aboleth
+M 0 11005 100 11753 2 Load an aboleth
+M 0 11002 100 11757 2 Load a man o'war
+M 0 11005 100 11764 2 Load an aboleth
+M 0 11006 100 11766 2 Load a dolphin
+M 0 11008 100 11767 2 Load a jellyfish
+M 0 11001 100 11769 2 Load a octopus
+M 0 11005 100 11771 2 Load an aboleth
+M 0 11007 100 11773 2 Load a sea hag
+M 0 11000 100 11775 2 Load a tuna fish
+M 0 11003 100 11781 2 Load a {Csea{x dragon
+M 0 11002 100 11782 2 Load a man o'war
+M 0 11003 100 11788 2 Load a {Csea{x dragon
+M 0 11001 100 11790 2 Load a octopus
+M 0 11000 100 11791 2 Load a tuna fish
+M 0 11000 100 11791 2 Load a tuna fish
+M 0 11005 100 11792 2 Load an aboleth
+M 0 11003 100 11795 2 Load a {Csea{x dragon
+M 0 11006 100 11797 2 Load a dolphin
+M 0 11006 100 11799 2 Load a dolphin
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

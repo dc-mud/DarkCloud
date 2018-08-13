@@ -1,0 +1,2571 @@
+#AREADATA
+Name The Silver Sea~
+Builders Blake~
+VNUMs 11200 11299
+LevelRange 51 51
+Credits Blake~
+Security 9
+Continent 3
+AreaFlags A
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11267
+The Eastern Shores~
+You are standing on the eastern shores of Arcanis and the Silver Sea. 
+The waters stretch farther than the eye can see as the Silver Sea meets the
+Great Barrier Sea in a vast nothingness.  Gulls fly over head and the
+crashing of waves can be heard on the beach.  There is a sense of loneliness
+that lays on these waters that can be felt deep within you.  The shore is
+covered with many shells and small rocks here.  
+~
+0 0 12
+D0
+~
+~
+0 0 11257
+D1
+~
+~
+0 0 11268
+D2
+~
+~
+0 0 11277
+D7
+~
+~
+0 0 11258
+D8
+~
+~
+0 0 11276
+D9
+~
+~
+0 0 11278
+S
+#11268
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11258
+D1
+~
+~
+0 0 11269
+D2
+~
+~
+0 0 11278
+D3
+~
+~
+0 0 11267
+D6
+~
+~
+0 0 11257
+D7
+~
+~
+0 0 11259
+D8
+~
+~
+0 0 11277
+D9
+~
+~
+0 0 11279
+S
+#11269
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11259
+D1
+~
+~
+0 0 12060
+D2
+~
+~
+0 0 11279
+D3
+~
+~
+0 0 11268
+D6
+~
+~
+0 0 11258
+D7
+~
+~
+0 0 12050
+D8
+~
+~
+0 0 11278
+D9
+~
+~
+0 0 12070
+S
+#11270
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11260
+D1
+~
+~
+0 0 11271
+D2
+~
+~
+0 0 11280
+D3
+~
+~
+0 0 11079
+D6
+~
+~
+0 0 11069
+D7
+~
+~
+0 0 11261
+D8
+~
+~
+0 0 11089
+D9
+~
+~
+0 0 11281
+S
+#11271
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11261
+D1
+~
+~
+0 0 11272
+D2
+~
+~
+0 0 11281
+D3
+~
+~
+0 0 11270
+D6
+~
+~
+0 0 11260
+D7
+~
+~
+0 0 11262
+D8
+~
+~
+0 0 11280
+D9
+~
+~
+0 0 11282
+S
+#11272
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11262
+D1
+~
+~
+0 0 11273
+D2
+~
+~
+0 0 11282
+D3
+~
+~
+0 0 11271
+D6
+~
+~
+0 0 11261
+D8
+~
+~
+0 0 11281
+D9
+~
+~
+0 0 11283
+S
+#11273
+The Southwestern Shore~
+You are standing on the southwestern shore of Arcanis and the Silver Sea.
+The gray waters of the Silver Sea stretch far into the horizon getting
+darker and deeper the farther south the coast goes.  
+~
+0 0 12
+D2
+~
+~
+0 0 11283
+D3
+~
+~
+0 0 11272
+D6
+~
+~
+0 0 11262
+D8
+~
+~
+0 0 11282
+D9
+~
+~
+0 0 11284
+S
+#11276
+The Southeastern Shore~
+You are standing on the southeastern shoreline of Arcanis and the Silver
+Sea.  The waves are crashing in on the beach as a foamy mist appears and
+then dissipates with a quiet hiss.  
+~
+0 0 12
+D1
+~
+~
+0 0 11277
+D2
+~
+~
+0 0 11286
+D7
+~
+~
+0 0 11267
+D8
+~
+~
+0 0 11285
+D9
+~
+~
+0 0 11287
+S
+#11277
+The Southeastern Shore~
+You are standing on the southeastern shoreline of Arcanis and the Silver
+Sea.  The waves are crashing in on the beach as a foamy mist appears and
+then dissipates with a quiet hiss.  
+~
+0 0 12
+D0
+~
+~
+0 0 11267
+D1
+~
+~
+0 0 11278
+D2
+~
+~
+0 0 11287
+D3
+~
+~
+0 0 11276
+D7
+~
+~
+0 0 11268
+D8
+~
+~
+0 0 11286
+D9
+~
+~
+0 0 11288
+S
+#11278
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11268
+D1
+~
+~
+0 0 11279
+D2
+~
+~
+0 0 11288
+D3
+~
+~
+0 0 11277
+D6
+~
+~
+0 0 11267
+D7
+~
+~
+0 0 11269
+D8
+~
+~
+0 0 11287
+D9
+~
+~
+0 0 11289
+S
+#11279
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11269
+D1
+~
+~
+0 0 12070
+D2
+~
+~
+0 0 11289
+D3
+~
+~
+0 0 11278
+D6
+~
+~
+0 0 11268
+D7
+~
+~
+0 0 12060
+D8
+~
+~
+0 0 11288
+D9
+~
+~
+0 0 12080
+S
+#11280
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11270
+D1
+~
+~
+0 0 11281
+D2
+~
+~
+0 0 11290
+D3
+~
+~
+0 0 11089
+D6
+~
+~
+0 0 11079
+D7
+~
+~
+0 0 11271
+D8
+~
+~
+0 0 11099
+D9
+~
+~
+0 0 11291
+S
+#11281
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11271
+D1
+~
+~
+0 0 11282
+D2
+~
+~
+0 0 11291
+D3
+~
+~
+0 0 11280
+D6
+~
+~
+0 0 11270
+D7
+~
+~
+0 0 11272
+D8
+~
+~
+0 0 11290
+D9
+~
+~
+0 0 11292
+S
+#11282
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11272
+D1
+~
+~
+0 0 11283
+D2
+~
+~
+0 0 11292
+D3
+~
+~
+0 0 11281
+D6
+~
+~
+0 0 11271
+D7
+~
+~
+0 0 11273
+D8
+~
+~
+0 0 11291
+D9
+~
+~
+0 0 11293
+S
+#11283
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11273
+D1
+~
+~
+0 0 11284
+D2
+~
+~
+0 0 11293
+D3
+~
+~
+0 0 11282
+D6
+~
+~
+0 0 11272
+D8
+~
+~
+0 0 11292
+D9
+~
+~
+0 0 11294
+S
+#11284
+The Southern Shore~
+You are standing on the southern shoreline of Arcanis and the Silver Sea.
+There is a chilly breeze coming in from the south and the waters are a much
+darker gray than seen on the northern porition of the continent.  The waves
+are very large here and pounding against the shoreline.  
+~
+0 0 12
+D1
+~
+~
+0 0 11285
+D2
+~
+~
+0 0 11294
+D3
+~
+~
+0 0 11283
+D6
+~
+~
+0 0 11273
+D8
+~
+~
+0 0 11293
+D9
+~
+~
+0 0 11295
+S
+#11285
+The Southern Shore~
+You are standing on the southern shoreline of Arcanis and the Silver Sea.
+There is a chilly breeze coming in from the south and the waters are a much
+darker gray than seen on the northern porition of the continent.  The waves
+are very large here and pounding against the shoreline.  
+~
+0 0 12
+D1
+~
+~
+0 0 11286
+D2
+~
+~
+0 0 11295
+D3
+~
+~
+0 0 11284
+D7
+~
+~
+0 0 11276
+D8
+~
+~
+0 0 11294
+D9
+~
+~
+0 0 11296
+S
+#11286
+The Southern Shore~
+You are standing on the southern shoreline of Arcanis and the Silver Sea.
+There is a chilly breeze coming in from the south and the waters are a much
+darker gray than seen on the northern porition of the continent.  The waves
+are very large here and pounding against the shoreline.  
+~
+0 0 12
+D0
+~
+~
+0 0 11276
+D1
+~
+~
+0 0 11287
+D2
+~
+~
+0 0 11296
+D3
+~
+~
+0 0 11285
+D7
+~
+~
+0 0 11277
+D8
+~
+~
+0 0 11295
+D9
+~
+~
+0 0 11297
+S
+#11287
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11277
+D1
+~
+~
+0 0 11288
+D2
+~
+~
+0 0 11297
+D3
+~
+~
+0 0 11286
+D6
+~
+~
+0 0 11276
+D7
+~
+~
+0 0 11278
+D8
+~
+~
+0 0 11296
+D9
+~
+~
+0 0 11298
+S
+#11288
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11278
+D1
+~
+~
+0 0 11289
+D2
+~
+~
+0 0 11298
+D3
+~
+~
+0 0 11287
+D6
+~
+~
+0 0 11277
+D7
+~
+~
+0 0 11279
+D8
+~
+~
+0 0 11297
+D9
+~
+~
+0 0 11299
+S
+#11289
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11279
+D1
+~
+~
+0 0 12080
+D2
+~
+~
+0 0 11299
+D3
+~
+~
+0 0 11288
+D6
+~
+~
+0 0 11278
+D7
+~
+~
+0 0 12070
+D8
+~
+~
+0 0 11298
+D9
+~
+~
+0 0 12090
+S
+#11290
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11280
+D1
+~
+~
+0 0 11291
+D2
+~
+~
+0 0 11800
+D3
+~
+~
+0 0 11099
+D6
+~
+~
+0 0 11089
+D7
+~
+~
+0 0 11281
+D8
+~
+~
+0 0 11709
+D9
+~
+~
+0 0 11801
+S
+#11291
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11281
+D1
+~
+~
+0 0 11292
+D2
+~
+~
+0 0 11801
+D3
+~
+~
+0 0 11290
+D6
+~
+~
+0 0 11280
+D7
+~
+~
+0 0 11282
+D8
+~
+~
+0 0 11800
+D9
+~
+~
+0 0 11802
+S
+#11292
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11282
+D1
+~
+~
+0 0 11293
+D2
+~
+~
+0 0 11802
+D3
+~
+~
+0 0 11291
+D6
+~
+~
+0 0 11281
+D7
+~
+~
+0 0 11283
+D8
+~
+~
+0 0 11801
+D9
+~
+~
+0 0 11803
+S
+#11293
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11283
+D1
+~
+~
+0 0 11294
+D2
+~
+~
+0 0 11803
+D3
+~
+~
+0 0 11292
+D6
+~
+~
+0 0 11282
+D7
+~
+~
+0 0 11284
+D8
+~
+~
+0 0 11802
+D9
+~
+~
+0 0 11804
+S
+#11294
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11284
+D1
+~
+~
+0 0 11295
+D2
+~
+~
+0 0 11804
+D3
+~
+~
+0 0 11293
+D6
+~
+~
+0 0 11283
+D7
+~
+~
+0 0 11285
+D8
+~
+~
+0 0 11803
+D9
+~
+~
+0 0 11805
+S
+#11295
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11285
+D1
+~
+~
+0 0 11296
+D2
+~
+~
+0 0 11805
+D3
+~
+~
+0 0 11294
+D6
+~
+~
+0 0 11284
+D7
+~
+~
+0 0 11286
+D8
+~
+~
+0 0 11804
+D9
+~
+~
+0 0 11806
+S
+#11296
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11286
+D1
+~
+~
+0 0 11297
+D2
+~
+~
+0 0 11806
+D3
+~
+~
+0 0 11295
+D6
+~
+~
+0 0 11285
+D7
+~
+~
+0 0 11287
+D8
+~
+~
+0 0 11805
+D9
+~
+~
+0 0 11807
+S
+#11297
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11287
+D1
+~
+~
+0 0 11298
+D2
+~
+~
+0 0 11807
+D3
+~
+~
+0 0 11296
+D6
+~
+~
+0 0 11286
+D7
+~
+~
+0 0 11288
+D8
+~
+~
+0 0 11806
+D9
+~
+~
+0 0 11808
+S
+#11298
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11288
+D1
+~
+~
+0 0 11299
+D2
+~
+~
+0 0 11808
+D3
+~
+~
+0 0 11297
+D6
+~
+~
+0 0 11287
+D7
+~
+~
+0 0 11289
+D8
+~
+~
+0 0 11807
+D9
+~
+~
+0 0 11809
+S
+#11299
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11289
+D1
+~
+~
+0 0 12090
+D2
+~
+~
+0 0 11809
+D3
+~
+~
+0 0 11298
+D6
+~
+~
+0 0 11288
+D7
+~
+~
+0 0 12080
+D8
+~
+~
+0 0 11808
+S
+#11200
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11590
+D1
+~
+~
+0 0 11201
+D2
+~
+~
+0 0 11210
+D3
+~
+~
+0 0 11009
+D6
+~
+~
+0 0 11499
+D7
+~
+~
+0 0 11591
+D8
+~
+~
+0 0 11019
+D9
+~
+~
+0 0 11211
+S
+#11201
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11591
+D1
+~
+~
+0 0 11202
+D2
+~
+~
+0 0 11211
+D3
+~
+~
+0 0 11200
+D4
+~
+~
+0 0 9400
+D6
+~
+~
+0 0 11590
+D7
+~
+~
+0 0 11592
+D8
+~
+~
+0 0 11210
+D9
+~
+~
+0 0 11212
+S
+#11202
+A rocky shoreline~
+You are standing on a rocky shoreline with coarse sand below your feet. 
+You are at the point where the waters of the Silver Sea converge with those
+of the Great Northwest Ocean.  Beyond the beach the are rock walls that rise
+high into the land of the Arcanis continent.  To the east lies a path which
+leads up into the Gray Mountains.  
+~
+0 0 12
+D0
+~
+~
+0 0 11592
+D1
+~
+~
+0 0 2410
+D2
+~
+~
+0 0 11212
+D3
+~
+~
+0 0 11201
+D6
+~
+~
+0 0 11591
+D8
+~
+~
+0 0 11211
+S
+#11209
+The Northeastern Shore~
+The shore bends here heading in a northeast and southwest line.  The land
+to the interior appears to be rising in altitude and becoming much more
+rocky to the north where the Arcanis highlands reside.  
+ 
+A large {Dobsidian{x statue of what appears to be a lord of old stands next
+to a rocky path that leads inland to the west.
+~
+0 0 12
+D0
+~
+~
+0 0 11599
+D1
+~
+~
+0 0 12000
+D2
+~
+~
+0 0 11219
+D3
+~
+~
+0 0 5535
+D6
+~
+~
+0 0 11598
+D8
+~
+~
+0 0 11218
+D9
+~
+~
+0 0 12010
+S
+#11210
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11200
+D1
+~
+~
+0 0 11211
+D2
+~
+~
+0 0 11220
+D3
+~
+~
+0 0 11019
+D6
+~
+~
+0 0 11009
+D7
+~
+~
+0 0 11201
+D8
+~
+~
+0 0 11029
+D9
+~
+~
+0 0 11221
+S
+#11211
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11201
+D1
+~
+~
+0 0 11212
+D2
+~
+~
+0 0 11221
+D3
+~
+~
+0 0 11210
+D6
+~
+~
+0 0 11200
+D7
+~
+~
+0 0 11202
+D8
+~
+~
+0 0 11220
+D9
+~
+~
+0 0 11222
+S
+#11212
+A rocky shoreline~
+You are standing a rocky beach on the shores of the Silver Sea.  Towards
+the land the rock walls rise high into the lands of Arcanis.  The oceans
+gray waters hit the beach in waves of rhythmic pulses as if there was a
+melody playing with them just beyond the reach of your hearing.  
+~
+0 0 12
+D0
+~
+~
+0 0 11202
+D2
+~
+~
+0 0 11222
+D3
+~
+~
+0 0 11211
+D6
+~
+~
+0 0 11201
+D8
+~
+~
+0 0 11221
+S
+#11218
+The Northeastern Shore~
+The shore bends here heading in a northeast and southwest line.  The land
+to the interior appears to be rising in altitude and becoming much more
+rocky to the north where the Arcanis highlands reside.  
+~
+0 0 12
+D1
+~
+~
+0 0 11219
+D2
+~
+~
+0 0 11228
+D7
+~
+~
+0 0 11209
+D8
+~
+~
+0 0 11227
+D9
+~
+~
+0 0 11229
+S
+#11219
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11209
+D1
+~
+~
+0 0 12010
+D2
+~
+~
+0 0 11229
+D3
+~
+~
+0 0 11218
+D7
+~
+~
+0 0 12000
+D8
+~
+~
+0 0 11228
+D9
+~
+~
+0 0 12020
+S
+#11220
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11210
+D1
+~
+~
+0 0 11221
+D2
+~
+~
+0 0 11230
+D3
+~
+~
+0 0 11029
+D6
+~
+~
+0 0 11019
+D7
+~
+~
+0 0 11211
+D8
+~
+~
+0 0 11039
+D9
+~
+~
+0 0 11231
+S
+#11221
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11211
+D1
+~
+~
+0 0 11222
+D2
+~
+~
+0 0 11231
+D3
+~
+~
+0 0 11220
+D6
+~
+~
+0 0 11210
+D7
+~
+~
+0 0 11212
+D8
+~
+~
+0 0 11230
+D9
+~
+~
+0 0 11232
+S
+#11222
+A shoreline~
+The damp sand underfoot slowly sinks down as you step on it.  There are
+many rocks and shells laying about as the rhythmic pulses from the waves can
+almost be felt.  Towards land the hills are beginning to rise into higher
+rock walls to the north.  To the south the shore continues on as the land of
+Arcanis lays low.  
+~
+0 0 12
+D0
+~
+~
+0 0 11212
+D2
+~
+~
+0 0 11232
+D3
+~
+~
+0 0 11221
+D6
+~
+~
+0 0 11211
+D8
+~
+~
+0 0 11231
+S
+#11227
+The Eastern Shores~
+You are standing on the eastern shores of Arcanis and the Silver Sea. 
+The waters stretch farther than the eye can see as the Silver Sea meets the
+Great Barrier Sea in a vast nothingness.  Gulls fly over head and the
+crashing of waves can be heard on the beach.  There is a sense of loneliness
+that lays on these waters that can be felt deep within you.  The shore is
+covered with many shells and small rocks here.  
+~
+0 0 12
+D1
+~
+~
+0 0 11228
+D2
+~
+~
+0 0 11237
+D7
+~
+~
+0 0 11218
+D9
+~
+~
+0 0 11238
+S
+#11228
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11218
+D1
+~
+~
+0 0 11229
+D2
+~
+~
+0 0 11238
+D3
+~
+~
+0 0 11227
+D7
+~
+~
+0 0 11219
+D8
+~
+~
+0 0 11237
+D9
+~
+~
+0 0 11239
+S
+#11229
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11219
+D1
+~
+~
+0 0 12020
+D2
+~
+~
+0 0 11239
+D3
+~
+~
+0 0 11228
+D6
+~
+~
+0 0 11218
+D7
+~
+~
+0 0 12010
+D8
+~
+~
+0 0 11238
+D9
+~
+~
+0 0 12030
+S
+#11230
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11220
+D1
+~
+~
+0 0 11231
+D2
+~
+~
+0 0 11240
+D3
+~
+~
+0 0 11039
+D6
+~
+~
+0 0 11029
+D7
+~
+~
+0 0 11221
+D8
+~
+~
+0 0 11049
+D9
+~
+~
+0 0 11241
+S
+#11231
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11221
+D1
+~
+~
+0 0 11232
+D2
+~
+~
+0 0 11241
+D3
+~
+~
+0 0 11230
+D6
+~
+~
+0 0 11220
+D7
+~
+~
+0 0 11222
+D8
+~
+~
+0 0 11240
+D9
+~
+~
+0 0 11242
+S
+#11232
+Western Port of Arcanis~
+The western port of Arcanis stands here with many docks jetting out into
+the ocean, some large, some small.  Ships come to here from all parts of the
+world as this port is second in usage only to that of New Thalos.  To the
+east is Red Oak Road which runs through the center of Arcanis to the great
+city of Red Oak.  
+~
+0 0 12
+D0
+~
+~
+0 0 11222
+D1
+~
+~
+0 0 1800
+D2
+~
+~
+0 0 11242
+D3
+~
+~
+0 0 11231
+D6
+~
+~
+0 0 11221
+D8
+~
+~
+0 0 11241
+S
+#11237
+The Eastern Shores~
+You are standing on the eastern shores of Arcanis and the Silver Sea. 
+The waters stretch farther than the eye can see as the Silver Sea meets the
+Great Barrier Sea in a vast nothingness.  Gulls fly over head and the
+crashing of waves can be heard on the beach.  There is a sense of loneliness
+that lays on these waters that can be felt deep within you.  The shore is
+covered with many shells and small rocks here.  
+~
+0 0 12
+D0
+~
+~
+0 0 11227
+D1
+~
+~
+0 0 11238
+D2
+~
+~
+0 0 11247
+D7
+~
+~
+0 0 11228
+D9
+~
+~
+0 0 11248
+S
+#11238
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11228
+D1
+~
+~
+0 0 11239
+D2
+~
+~
+0 0 11248
+D3
+~
+~
+0 0 11237
+D6
+~
+~
+0 0 11227
+D7
+~
+~
+0 0 11229
+D8
+~
+~
+0 0 11247
+D9
+~
+~
+0 0 11249
+S
+#11239
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11229
+D1
+~
+~
+0 0 12030
+D2
+~
+~
+0 0 11249
+D3
+~
+~
+0 0 11238
+D6
+~
+~
+0 0 11228
+D7
+~
+~
+0 0 12020
+D8
+~
+~
+0 0 11248
+D9
+~
+~
+0 0 12040
+S
+#11240
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11230
+D1
+~
+~
+0 0 11241
+D2
+~
+~
+0 0 11250
+D3
+~
+~
+0 0 11049
+D6
+~
+~
+0 0 11039
+D7
+~
+~
+0 0 11231
+D8
+~
+~
+0 0 11059
+D9
+~
+~
+0 0 11251
+S
+#11241
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11231
+D1
+~
+~
+0 0 11242
+D2
+~
+~
+0 0 11251
+D3
+~
+~
+0 0 11240
+D6
+~
+~
+0 0 11230
+D7
+~
+~
+0 0 11232
+D8
+~
+~
+0 0 11250
+D9
+~
+~
+0 0 11252
+S
+#11242
+Western Shores of Arcanis~
+You are standing on the western shoreline of Arcanis.  To the north is the
+port of Arcanis where you can see ships sailing into.  To the south
+continues the shoreline along the Silver Sea.  
+~
+0 0 12
+D0
+~
+~
+0 0 11232
+D2
+~
+~
+0 0 11252
+D3
+~
+~
+0 0 11241
+D6
+~
+~
+0 0 11231
+D8
+~
+~
+0 0 11251
+S
+#11247
+The Eastern Shores~
+You are standing on the eastern shores of Arcanis and the Silver Sea. 
+The waters stretch farther than the eye can see as the Silver Sea meets the
+Great Barrier Sea in a vast nothingness.  Gulls fly over head and the
+crashing of waves can be heard on the beach.  There is a sense of loneliness
+that lays on these waters that can be felt deep within you.  The shore is
+covered with many shells and small rocks here.  
+~
+0 0 12
+D0
+~
+~
+0 0 11237
+D1
+~
+~
+0 0 11248
+D2
+~
+~
+0 0 11257
+D7
+~
+~
+0 0 11238
+D9
+~
+~
+0 0 11258
+S
+#11248
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11238
+D1
+~
+~
+0 0 11249
+D2
+~
+~
+0 0 11258
+D3
+~
+~
+0 0 11247
+D6
+~
+~
+0 0 11237
+D7
+~
+~
+0 0 11239
+D8
+~
+~
+0 0 11257
+D9
+~
+~
+0 0 11259
+S
+#11249
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11239
+D1
+~
+~
+0 0 12040
+D2
+~
+~
+0 0 11259
+D3
+~
+~
+0 0 11248
+D6
+~
+~
+0 0 11238
+D7
+~
+~
+0 0 12030
+D8
+~
+~
+0 0 11258
+D9
+~
+~
+0 0 12050
+S
+#11250
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11240
+D1
+~
+~
+0 0 11251
+D2
+~
+~
+0 0 11260
+D3
+~
+~
+0 0 11059
+D6
+~
+~
+0 0 11049
+D7
+~
+~
+0 0 11241
+D8
+~
+~
+0 0 11069
+D9
+~
+~
+0 0 11261
+S
+#11251
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11241
+D1
+~
+~
+0 0 11252
+D2
+~
+~
+0 0 11261
+D3
+~
+~
+0 0 11250
+D6
+~
+~
+0 0 11240
+D7
+~
+~
+0 0 11242
+D8
+~
+~
+0 0 11260
+D9
+~
+~
+0 0 11262
+S
+#11252
+Western Shores of Arcanis~
+You are standing on the western shoreline of Arcanis.  To north and south
+continues the coarse sanded beach on the waters of the Silver Sea.  There is
+sea weed sparse shells that have washed ashore here.  
+~
+0 0 12
+D0
+~
+~
+0 0 11242
+D2
+~
+~
+0 0 11262
+D3
+~
+~
+0 0 11251
+D6
+~
+~
+0 0 11241
+D8
+~
+~
+0 0 11261
+S
+#11257
+The Eastern Shores~
+You are standing on the eastern shores of Arcanis and the Silver Sea. 
+The waters stretch farther than the eye can see as the Silver Sea meets the
+Great Barrier Sea in a vast nothingness.  Gulls fly over head and the
+crashing of waves can be heard on the beach.  There is a sense of loneliness
+that lays on these waters that can be felt deep within you.  The shore is
+covered with many shells and small rocks here.  
+~
+0 0 12
+D0
+~
+~
+0 0 11247
+D1
+~
+~
+0 0 11258
+D2
+~
+~
+0 0 11267
+D7
+~
+~
+0 0 11248
+D9
+~
+~
+0 0 11268
+S
+#11258
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11248
+D1
+~
+~
+0 0 11259
+D2
+~
+~
+0 0 11268
+D3
+~
+~
+0 0 11257
+D6
+~
+~
+0 0 11247
+D7
+~
+~
+0 0 11249
+D8
+~
+~
+0 0 11267
+D9
+~
+~
+0 0 11269
+S
+#11259
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11249
+D1
+~
+~
+0 0 12050
+D2
+~
+~
+0 0 11269
+D3
+~
+~
+0 0 11258
+D6
+~
+~
+0 0 11248
+D7
+~
+~
+0 0 12040
+D8
+~
+~
+0 0 11268
+D9
+~
+~
+0 0 12060
+S
+#11260
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11250
+D1
+~
+~
+0 0 11261
+D2
+~
+~
+0 0 11270
+D3
+~
+~
+0 0 11069
+D6
+~
+~
+0 0 11059
+D7
+~
+~
+0 0 11251
+D8
+~
+~
+0 0 11079
+D9
+~
+~
+0 0 11271
+S
+#11261
+The Silver Sea~
+You are surrounded by the peaceful gray waters of the Silver Sea.  The waters surround
+and protect the Arcanis continent and there is a magical feel in the air.  These waters
+have long been the domain of the sea elves who traverse their waves.
+~
+0 0 11
+D0
+~
+~
+0 0 11251
+D1
+~
+~
+0 0 11262
+D2
+~
+~
+0 0 11271
+D3
+~
+~
+0 0 11260
+D6
+~
+~
+0 0 11250
+D7
+~
+~
+0 0 11252
+D8
+~
+~
+0 0 11270
+D9
+~
+~
+0 0 11272
+S
+#11262
+A turning point in the western shore~
+You are standing at a bend in the shore.  To north is the western shore
+which continues north far past the port of Arcanis.  To the southeast the
+shore bends and travels towards the southern points of the Silver Sea.  The
+salty air of the oceans gray waters seems very strong here.  
+~
+0 0 12
+D0
+~
+~
+0 0 11252
+D2
+~
+~
+0 0 11272
+D3
+~
+~
+0 0 11261
+D6
+~
+~
+0 0 11251
+D8
+~
+~
+0 0 11271
+D9
+~
+~
+0 0 11273
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11001 100 11269 2 Load a octopus
+M 0 11005 100 11271 2 Load an aboleth
+M 0 11003 100 11281 2 Load a {Csea{x dragon
+M 0 11002 100 11282 2 Load a man o'war
+M 0 11003 100 11288 2 Load a {Csea{x dragon
+M 0 11001 100 11290 2 Load a octopus
+M 0 11000 100 11291 2 Load a tuna fish
+M 0 11000 100 11291 2 Load a tuna fish
+M 0 11005 100 11292 2 Load an aboleth
+M 0 11003 100 11295 2 Load a {Csea{x dragon
+M 0 11006 100 11297 2 Load a dolphin
+M 0 11006 100 11299 2 Load a dolphin
+M 0 11000 100 11200 2 Load a tuna fish
+M 0 11003 100 11210 2 Load a {Csea{x dragon
+M 0 11000 100 11211 2 Load a tuna fish
+M 0 11008 100 11219 2 Load a jellyfish
+M 0 11003 100 11219 2 Load a {Csea{x dragon
+M 0 11001 100 11220 2 Load a octopus
+M 0 11002 100 11221 2 Load a man o'war
+M 0 11000 100 11222 2 Load a tuna fish
+M 0 11005 100 11222 2 Load an aboleth
+M 0 11001 100 11228 2 Load a octopus
+M 0 11002 100 11228 2 Load a man o'war
+M 0 11000 100 11230 2 Load a tuna fish
+M 0 11008 100 11238 2 Load a jellyfish
+M 0 11006 100 11249 2 Load a dolphin
+M 0 11003 100 11250 2 Load a {Csea{x dragon
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

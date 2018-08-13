@@ -1,0 +1,4089 @@
+#AREADATA
+Name The Sea of Despair~
+Builders Blake~
+VNUMs 11600 11699
+LevelRange 51 51
+Credits Blake~
+Security 9
+Continent 3
+AreaFlags 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11600
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11190
+D1
+~
+~
+0 0 11601
+D2
+~
+~
+0 0 11610
+D3
+~
+~
+0 0 12109
+D6
+~
+~
+0 0 12099
+D7
+~
+~
+0 0 11191
+D8
+~
+~
+0 0 12119
+D9
+~
+~
+0 0 11611
+S
+#11601
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11191
+D1
+~
+~
+0 0 11602
+D2
+~
+~
+0 0 11611
+D3
+~
+~
+0 0 11600
+D6
+~
+~
+0 0 11190
+D7
+~
+~
+0 0 11192
+D8
+~
+~
+0 0 11610
+D9
+~
+~
+0 0 11612
+S
+#11602
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11192
+D1
+~
+~
+0 0 11603
+D2
+~
+~
+0 0 11612
+D3
+~
+~
+0 0 11601
+D6
+~
+~
+0 0 11191
+D7
+~
+~
+0 0 11193
+D8
+~
+~
+0 0 11611
+D9
+~
+~
+0 0 11613
+S
+#11603
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11193
+D1
+~
+~
+0 0 11604
+D2
+~
+~
+0 0 11613
+D3
+~
+~
+0 0 11602
+D6
+~
+~
+0 0 11192
+D7
+~
+~
+0 0 11194
+D8
+~
+~
+0 0 11612
+D9
+~
+~
+0 0 11614
+S
+#11604
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11194
+D1
+~
+~
+0 0 11605
+D2
+~
+~
+0 0 11614
+D3
+~
+~
+0 0 11603
+D6
+~
+~
+0 0 11193
+D7
+~
+~
+0 0 11195
+D8
+~
+~
+0 0 11613
+D9
+~
+~
+0 0 11615
+S
+#11605
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11195
+D1
+~
+~
+0 0 11606
+D2
+~
+~
+0 0 11615
+D3
+~
+~
+0 0 11604
+D6
+~
+~
+0 0 11194
+D7
+~
+~
+0 0 11196
+D8
+~
+~
+0 0 11614
+D9
+~
+~
+0 0 11616
+S
+#11606
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11196
+D1
+~
+~
+0 0 11607
+D2
+~
+~
+0 0 11616
+D3
+~
+~
+0 0 11605
+D6
+~
+~
+0 0 11195
+D7
+~
+~
+0 0 11197
+D8
+~
+~
+0 0 11615
+D9
+~
+~
+0 0 11617
+S
+#11607
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11197
+D1
+~
+~
+0 0 11608
+D2
+~
+~
+0 0 11617
+D3
+~
+~
+0 0 11606
+D6
+~
+~
+0 0 11196
+D7
+~
+~
+0 0 11198
+D8
+~
+~
+0 0 11616
+D9
+~
+~
+0 0 11618
+S
+#11608
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11198
+D1
+~
+~
+0 0 11609
+D2
+~
+~
+0 0 11618
+D3
+~
+~
+0 0 11607
+D6
+~
+~
+0 0 11197
+D7
+~
+~
+0 0 11199
+D8
+~
+~
+0 0 11617
+D9
+~
+~
+0 0 11619
+S
+#11609
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11199
+D1
+~
+~
+0 0 11700
+D2
+~
+~
+0 0 11619
+D3
+~
+~
+0 0 11608
+D6
+~
+~
+0 0 11198
+D7
+~
+~
+0 0 11090
+D8
+~
+~
+0 0 11618
+D9
+~
+~
+0 0 11710
+S
+#11610
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11600
+D1
+~
+~
+0 0 11611
+D2
+~
+~
+0 0 11620
+D3
+~
+~
+0 0 12119
+D6
+~
+~
+0 0 12109
+D7
+~
+~
+0 0 11601
+D8
+~
+~
+0 0 12129
+D9
+~
+~
+0 0 11621
+S
+#11611
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11601
+D1
+~
+~
+0 0 11612
+D2
+~
+~
+0 0 11621
+D3
+~
+~
+0 0 11610
+D6
+~
+~
+0 0 11600
+D7
+~
+~
+0 0 11602
+D8
+~
+~
+0 0 11620
+D9
+~
+~
+0 0 11622
+S
+#11612
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11602
+D1
+~
+~
+0 0 11613
+D2
+~
+~
+0 0 11622
+D3
+~
+~
+0 0 11611
+D6
+~
+~
+0 0 11601
+D7
+~
+~
+0 0 11603
+D8
+~
+~
+0 0 11621
+D9
+~
+~
+0 0 11623
+S
+#11613
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11603
+D1
+~
+~
+0 0 11614
+D2
+~
+~
+0 0 11623
+D3
+~
+~
+0 0 11612
+D6
+~
+~
+0 0 11602
+D7
+~
+~
+0 0 11604
+D8
+~
+~
+0 0 11622
+D9
+~
+~
+0 0 11624
+S
+#11614
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11604
+D1
+~
+~
+0 0 11615
+D2
+~
+~
+0 0 11624
+D3
+~
+~
+0 0 11613
+D6
+~
+~
+0 0 11603
+D7
+~
+~
+0 0 11605
+D8
+~
+~
+0 0 11623
+D9
+~
+~
+0 0 11625
+S
+#11615
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11605
+D1
+~
+~
+0 0 11616
+D2
+~
+~
+0 0 11625
+D3
+~
+~
+0 0 11614
+D6
+~
+~
+0 0 11604
+D7
+~
+~
+0 0 11606
+D8
+~
+~
+0 0 11624
+D9
+~
+~
+0 0 11626
+S
+#11616
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11606
+D1
+~
+~
+0 0 11617
+D2
+~
+~
+0 0 11626
+D3
+~
+~
+0 0 11615
+D6
+~
+~
+0 0 11605
+D7
+~
+~
+0 0 11607
+D8
+~
+~
+0 0 11625
+D9
+~
+~
+0 0 11627
+S
+#11617
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11607
+D1
+~
+~
+0 0 11618
+D2
+~
+~
+0 0 11627
+D3
+~
+~
+0 0 11616
+D6
+~
+~
+0 0 11606
+D7
+~
+~
+0 0 11608
+D8
+~
+~
+0 0 11626
+D9
+~
+~
+0 0 11628
+S
+#11618
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11608
+D1
+~
+~
+0 0 11619
+D2
+~
+~
+0 0 11628
+D3
+~
+~
+0 0 11617
+D6
+~
+~
+0 0 11607
+D7
+~
+~
+0 0 11609
+D8
+~
+~
+0 0 11627
+D9
+~
+~
+0 0 11629
+S
+#11619
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11609
+D1
+~
+~
+0 0 11710
+D2
+~
+~
+0 0 11629
+D3
+~
+~
+0 0 11618
+D6
+~
+~
+0 0 11608
+D7
+~
+~
+0 0 11700
+D8
+~
+~
+0 0 11628
+D9
+~
+~
+0 0 11720
+S
+#11620
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11610
+D1
+~
+~
+0 0 11621
+D2
+~
+~
+0 0 11630
+D3
+~
+~
+0 0 12129
+D6
+~
+~
+0 0 12119
+D7
+~
+~
+0 0 11611
+D8
+~
+~
+0 0 12139
+D9
+~
+~
+0 0 11631
+S
+#11621
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11611
+D1
+~
+~
+0 0 11622
+D2
+~
+~
+0 0 11631
+D3
+~
+~
+0 0 11620
+D6
+~
+~
+0 0 11610
+D7
+~
+~
+0 0 11612
+D8
+~
+~
+0 0 11630
+D9
+~
+~
+0 0 11632
+S
+#11622
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11612
+D1
+~
+~
+0 0 11623
+D2
+~
+~
+0 0 11632
+D3
+~
+~
+0 0 11621
+D6
+~
+~
+0 0 11611
+D7
+~
+~
+0 0 11613
+D8
+~
+~
+0 0 11631
+D9
+~
+~
+0 0 11633
+S
+#11623
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11613
+D1
+~
+~
+0 0 11624
+D2
+~
+~
+0 0 11633
+D3
+~
+~
+0 0 11622
+D6
+~
+~
+0 0 11612
+D7
+~
+~
+0 0 11614
+D8
+~
+~
+0 0 11632
+D9
+~
+~
+0 0 11634
+S
+#11624
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11614
+D1
+~
+~
+0 0 11625
+D2
+~
+~
+0 0 11634
+D3
+~
+~
+0 0 11623
+D6
+~
+~
+0 0 11613
+D7
+~
+~
+0 0 11615
+D8
+~
+~
+0 0 11633
+D9
+~
+~
+0 0 11635
+S
+#11625
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11615
+D1
+~
+~
+0 0 11626
+D2
+~
+~
+0 0 11635
+D3
+~
+~
+0 0 11624
+D6
+~
+~
+0 0 11614
+D7
+~
+~
+0 0 11616
+D8
+~
+~
+0 0 11634
+D9
+~
+~
+0 0 11636
+S
+#11626
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11616
+D1
+~
+~
+0 0 11627
+D2
+~
+~
+0 0 11636
+D3
+~
+~
+0 0 11625
+D6
+~
+~
+0 0 11615
+D7
+~
+~
+0 0 11617
+D8
+~
+~
+0 0 11635
+D9
+~
+~
+0 0 11637
+S
+#11627
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11617
+D1
+~
+~
+0 0 11628
+D2
+~
+~
+0 0 11637
+D3
+~
+~
+0 0 11626
+D6
+~
+~
+0 0 11616
+D7
+~
+~
+0 0 11618
+D8
+~
+~
+0 0 11636
+D9
+~
+~
+0 0 11638
+S
+#11628
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11618
+D1
+~
+~
+0 0 11629
+D2
+~
+~
+0 0 11638
+D3
+~
+~
+0 0 11627
+D6
+~
+~
+0 0 11617
+D7
+~
+~
+0 0 11619
+D8
+~
+~
+0 0 11637
+D9
+~
+~
+0 0 11639
+S
+#11629
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11619
+D1
+~
+~
+0 0 11720
+D2
+~
+~
+0 0 11639
+D3
+~
+~
+0 0 11628
+D6
+~
+~
+0 0 11618
+D7
+~
+~
+0 0 11710
+D8
+~
+~
+0 0 11638
+D9
+~
+~
+0 0 11730
+S
+#11630
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11620
+D1
+~
+~
+0 0 11631
+D2
+~
+~
+0 0 11640
+D3
+~
+~
+0 0 12139
+D6
+~
+~
+0 0 12129
+D7
+~
+~
+0 0 11621
+D8
+~
+~
+0 0 12149
+D9
+~
+~
+0 0 11641
+S
+#11631
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11621
+D1
+~
+~
+0 0 11632
+D2
+~
+~
+0 0 11641
+D3
+~
+~
+0 0 11630
+D6
+~
+~
+0 0 11620
+D7
+~
+~
+0 0 11622
+D8
+~
+~
+0 0 11640
+D9
+~
+~
+0 0 11642
+S
+#11632
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11622
+D1
+~
+~
+0 0 11633
+D2
+~
+~
+0 0 11642
+D3
+~
+~
+0 0 11631
+D6
+~
+~
+0 0 11621
+D7
+~
+~
+0 0 11623
+D8
+~
+~
+0 0 11641
+D9
+~
+~
+0 0 11643
+S
+#11633
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11623
+D1
+~
+~
+0 0 11634
+D2
+~
+~
+0 0 11643
+D3
+~
+~
+0 0 11632
+D6
+~
+~
+0 0 11622
+D7
+~
+~
+0 0 11624
+D8
+~
+~
+0 0 11642
+D9
+~
+~
+0 0 11644
+S
+#11634
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11624
+D1
+~
+~
+0 0 11635
+D2
+~
+~
+0 0 11644
+D3
+~
+~
+0 0 11633
+D6
+~
+~
+0 0 11623
+D7
+~
+~
+0 0 11625
+D8
+~
+~
+0 0 11643
+D9
+~
+~
+0 0 11645
+S
+#11635
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11625
+D1
+~
+~
+0 0 11636
+D2
+~
+~
+0 0 11645
+D3
+~
+~
+0 0 11634
+D6
+~
+~
+0 0 11624
+D7
+~
+~
+0 0 11626
+D8
+~
+~
+0 0 11644
+D9
+~
+~
+0 0 11646
+S
+#11636
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11626
+D1
+~
+~
+0 0 11637
+D2
+~
+~
+0 0 11646
+D3
+~
+~
+0 0 11635
+D6
+~
+~
+0 0 11625
+D7
+~
+~
+0 0 11627
+D8
+~
+~
+0 0 11645
+D9
+~
+~
+0 0 11647
+S
+#11637
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11627
+D1
+~
+~
+0 0 11638
+D2
+~
+~
+0 0 11647
+D3
+~
+~
+0 0 11636
+D6
+~
+~
+0 0 11626
+D7
+~
+~
+0 0 11628
+D8
+~
+~
+0 0 11646
+D9
+~
+~
+0 0 11648
+S
+#11638
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11628
+D1
+~
+~
+0 0 11639
+D2
+~
+~
+0 0 11648
+D3
+~
+~
+0 0 11637
+D6
+~
+~
+0 0 11627
+D7
+~
+~
+0 0 11629
+D8
+~
+~
+0 0 11647
+D9
+~
+~
+0 0 11649
+S
+#11639
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11629
+D1
+~
+~
+0 0 11730
+D2
+~
+~
+0 0 11649
+D3
+~
+~
+0 0 11638
+D6
+~
+~
+0 0 11628
+D7
+~
+~
+0 0 11720
+D8
+~
+~
+0 0 11648
+D9
+~
+~
+0 0 11740
+S
+#11640
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11630
+D1
+~
+~
+0 0 11641
+D2
+~
+~
+0 0 11650
+D3
+~
+~
+0 0 12149
+D6
+~
+~
+0 0 12139
+D7
+~
+~
+0 0 11631
+D8
+~
+~
+0 0 12159
+D9
+~
+~
+0 0 11651
+S
+#11641
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11631
+D1
+~
+~
+0 0 11642
+D2
+~
+~
+0 0 11651
+D3
+~
+~
+0 0 11640
+D6
+~
+~
+0 0 11630
+D7
+~
+~
+0 0 11632
+D8
+~
+~
+0 0 11650
+D9
+~
+~
+0 0 11652
+S
+#11642
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11632
+D1
+~
+~
+0 0 11643
+D2
+~
+~
+0 0 11652
+D3
+~
+~
+0 0 11641
+D6
+~
+~
+0 0 11631
+D7
+~
+~
+0 0 11633
+D8
+~
+~
+0 0 11651
+D9
+~
+~
+0 0 11653
+S
+#11643
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11633
+D1
+~
+~
+0 0 11644
+D2
+~
+~
+0 0 11653
+D3
+~
+~
+0 0 11642
+D6
+~
+~
+0 0 11632
+D7
+~
+~
+0 0 11634
+D8
+~
+~
+0 0 11652
+D9
+~
+~
+0 0 11654
+S
+#11644
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11634
+D1
+~
+~
+0 0 11645
+D2
+~
+~
+0 0 11654
+D3
+~
+~
+0 0 11643
+D6
+~
+~
+0 0 11633
+D7
+~
+~
+0 0 11635
+D8
+~
+~
+0 0 11653
+D9
+~
+~
+0 0 11655
+S
+#11645
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11635
+D1
+~
+~
+0 0 11646
+D2
+~
+~
+0 0 11655
+D3
+~
+~
+0 0 11644
+D6
+~
+~
+0 0 11634
+D7
+~
+~
+0 0 11636
+D8
+~
+~
+0 0 11654
+D9
+~
+~
+0 0 11656
+S
+#11646
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11636
+D1
+~
+~
+0 0 11647
+D2
+~
+~
+0 0 11656
+D3
+~
+~
+0 0 11645
+D6
+~
+~
+0 0 11635
+D7
+~
+~
+0 0 11637
+D8
+~
+~
+0 0 11655
+D9
+~
+~
+0 0 11657
+S
+#11647
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11637
+D1
+~
+~
+0 0 11648
+D2
+~
+~
+0 0 11657
+D3
+~
+~
+0 0 11646
+D6
+~
+~
+0 0 11636
+D7
+~
+~
+0 0 11638
+D8
+~
+~
+0 0 11656
+D9
+~
+~
+0 0 11658
+S
+#11648
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11638
+D1
+~
+~
+0 0 11649
+D2
+~
+~
+0 0 11658
+D3
+~
+~
+0 0 11647
+D6
+~
+~
+0 0 11637
+D7
+~
+~
+0 0 11639
+D8
+~
+~
+0 0 11657
+D9
+~
+~
+0 0 11659
+S
+#11649
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11639
+D1
+~
+~
+0 0 11740
+D2
+~
+~
+0 0 11659
+D3
+~
+~
+0 0 11648
+D6
+~
+~
+0 0 11638
+D7
+~
+~
+0 0 11730
+D8
+~
+~
+0 0 11658
+D9
+~
+~
+0 0 11750
+S
+#11650
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11640
+D1
+~
+~
+0 0 11651
+D2
+~
+~
+0 0 11660
+D3
+~
+~
+0 0 12159
+D6
+~
+~
+0 0 12149
+D7
+~
+~
+0 0 11641
+D8
+~
+~
+0 0 12169
+D9
+~
+~
+0 0 11661
+S
+#11651
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11641
+D1
+~
+~
+0 0 11652
+D2
+~
+~
+0 0 11661
+D3
+~
+~
+0 0 11650
+D6
+~
+~
+0 0 11640
+D7
+~
+~
+0 0 11642
+D8
+~
+~
+0 0 11660
+D9
+~
+~
+0 0 11662
+S
+#11652
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11642
+D1
+~
+~
+0 0 11653
+D2
+~
+~
+0 0 11662
+D3
+~
+~
+0 0 11651
+D6
+~
+~
+0 0 11641
+D7
+~
+~
+0 0 11643
+D8
+~
+~
+0 0 11661
+D9
+~
+~
+0 0 11663
+S
+#11653
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11643
+D1
+~
+~
+0 0 11654
+D2
+~
+~
+0 0 11663
+D3
+~
+~
+0 0 11652
+D6
+~
+~
+0 0 11642
+D7
+~
+~
+0 0 11644
+D8
+~
+~
+0 0 11662
+D9
+~
+~
+0 0 11664
+S
+#11654
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11644
+D1
+~
+~
+0 0 11655
+D2
+~
+~
+0 0 11664
+D3
+~
+~
+0 0 11653
+D6
+~
+~
+0 0 11643
+D7
+~
+~
+0 0 11645
+D8
+~
+~
+0 0 11663
+D9
+~
+~
+0 0 11665
+S
+#11655
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11645
+D1
+~
+~
+0 0 11656
+D2
+~
+~
+0 0 11665
+D3
+~
+~
+0 0 11654
+D6
+~
+~
+0 0 11644
+D7
+~
+~
+0 0 11646
+D8
+~
+~
+0 0 11664
+D9
+~
+~
+0 0 11666
+S
+#11656
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11646
+D1
+~
+~
+0 0 11657
+D2
+~
+~
+0 0 11666
+D3
+~
+~
+0 0 11655
+D6
+~
+~
+0 0 11645
+D7
+~
+~
+0 0 11647
+D8
+~
+~
+0 0 11665
+D9
+~
+~
+0 0 11667
+S
+#11657
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11647
+D1
+~
+~
+0 0 11658
+D2
+~
+~
+0 0 11667
+D3
+~
+~
+0 0 11656
+D6
+~
+~
+0 0 11646
+D7
+~
+~
+0 0 11648
+D8
+~
+~
+0 0 11666
+D9
+~
+~
+0 0 11668
+S
+#11658
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11648
+D1
+~
+~
+0 0 11659
+D2
+~
+~
+0 0 11668
+D3
+~
+~
+0 0 11657
+D6
+~
+~
+0 0 11647
+D7
+~
+~
+0 0 11649
+D8
+~
+~
+0 0 11667
+D9
+~
+~
+0 0 11669
+S
+#11659
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11649
+D1
+~
+~
+0 0 11750
+D2
+~
+~
+0 0 11669
+D3
+~
+~
+0 0 11658
+D6
+~
+~
+0 0 11648
+D7
+~
+~
+0 0 11740
+D8
+~
+~
+0 0 11668
+D9
+~
+~
+0 0 11760
+S
+#11660
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11650
+D1
+~
+~
+0 0 11661
+D2
+~
+~
+0 0 11670
+D3
+~
+~
+0 0 12169
+D6
+~
+~
+0 0 12159
+D7
+~
+~
+0 0 11651
+D8
+~
+~
+0 0 12179
+D9
+~
+~
+0 0 11671
+S
+#11661
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11651
+D1
+~
+~
+0 0 11662
+D2
+~
+~
+0 0 11671
+D3
+~
+~
+0 0 11660
+D6
+~
+~
+0 0 11650
+D7
+~
+~
+0 0 11652
+D8
+~
+~
+0 0 11670
+D9
+~
+~
+0 0 11672
+S
+#11662
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11652
+D1
+~
+~
+0 0 11663
+D2
+~
+~
+0 0 11672
+D3
+~
+~
+0 0 11661
+D6
+~
+~
+0 0 11651
+D7
+~
+~
+0 0 11653
+D8
+~
+~
+0 0 11671
+D9
+~
+~
+0 0 11673
+S
+#11663
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11653
+D1
+~
+~
+0 0 11664
+D2
+~
+~
+0 0 11673
+D3
+~
+~
+0 0 11662
+D6
+~
+~
+0 0 11652
+D7
+~
+~
+0 0 11654
+D8
+~
+~
+0 0 11672
+D9
+~
+~
+0 0 11674
+S
+#11664
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11654
+D1
+~
+~
+0 0 11665
+D2
+~
+~
+0 0 11674
+D3
+~
+~
+0 0 11663
+D6
+~
+~
+0 0 11653
+D7
+~
+~
+0 0 11655
+D8
+~
+~
+0 0 11673
+D9
+~
+~
+0 0 11675
+S
+#11665
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11655
+D1
+~
+~
+0 0 11666
+D2
+~
+~
+0 0 11675
+D3
+~
+~
+0 0 11664
+D6
+~
+~
+0 0 11654
+D7
+~
+~
+0 0 11656
+D8
+~
+~
+0 0 11674
+D9
+~
+~
+0 0 11676
+S
+#11666
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11656
+D1
+~
+~
+0 0 11667
+D2
+~
+~
+0 0 11676
+D3
+~
+~
+0 0 11665
+D6
+~
+~
+0 0 11655
+D7
+~
+~
+0 0 11657
+D8
+~
+~
+0 0 11675
+D9
+~
+~
+0 0 11677
+S
+#11667
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11657
+D1
+~
+~
+0 0 11668
+D2
+~
+~
+0 0 11677
+D3
+~
+~
+0 0 11666
+D6
+~
+~
+0 0 11656
+D7
+~
+~
+0 0 11658
+D8
+~
+~
+0 0 11676
+D9
+~
+~
+0 0 11678
+S
+#11668
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11658
+D1
+~
+~
+0 0 11669
+D2
+~
+~
+0 0 11678
+D3
+~
+~
+0 0 11667
+D6
+~
+~
+0 0 11657
+D7
+~
+~
+0 0 11659
+D8
+~
+~
+0 0 11677
+D9
+~
+~
+0 0 11679
+S
+#11669
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11659
+D1
+~
+~
+0 0 11760
+D2
+~
+~
+0 0 11679
+D3
+~
+~
+0 0 11668
+D6
+~
+~
+0 0 11658
+D7
+~
+~
+0 0 11750
+D8
+~
+~
+0 0 11678
+D9
+~
+~
+0 0 11770
+S
+#11670
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11660
+D1
+~
+~
+0 0 11671
+D2
+~
+~
+0 0 11680
+D3
+~
+~
+0 0 12179
+D6
+~
+~
+0 0 12169
+D7
+~
+~
+0 0 11661
+D8
+~
+~
+0 0 12189
+D9
+~
+~
+0 0 11681
+S
+#11671
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11661
+D1
+~
+~
+0 0 11672
+D2
+~
+~
+0 0 11681
+D3
+~
+~
+0 0 11670
+D6
+~
+~
+0 0 11660
+D7
+~
+~
+0 0 11662
+D8
+~
+~
+0 0 11680
+D9
+~
+~
+0 0 11682
+S
+#11672
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11662
+D1
+~
+~
+0 0 11673
+D2
+~
+~
+0 0 11682
+D3
+~
+~
+0 0 11671
+D6
+~
+~
+0 0 11661
+D7
+~
+~
+0 0 11663
+D8
+~
+~
+0 0 11681
+D9
+~
+~
+0 0 11683
+S
+#11673
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11663
+D1
+~
+~
+0 0 11674
+D2
+~
+~
+0 0 11683
+D3
+~
+~
+0 0 11672
+D6
+~
+~
+0 0 11662
+D7
+~
+~
+0 0 11664
+D8
+~
+~
+0 0 11682
+D9
+~
+~
+0 0 11684
+S
+#11674
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11664
+D1
+~
+~
+0 0 11675
+D2
+~
+~
+0 0 11684
+D3
+~
+~
+0 0 11673
+D6
+~
+~
+0 0 11663
+D7
+~
+~
+0 0 11665
+D8
+~
+~
+0 0 11683
+D9
+~
+~
+0 0 11685
+S
+#11675
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11665
+D1
+~
+~
+0 0 11676
+D2
+~
+~
+0 0 11685
+D3
+~
+~
+0 0 11674
+D6
+~
+~
+0 0 11664
+D7
+~
+~
+0 0 11666
+D8
+~
+~
+0 0 11684
+D9
+~
+~
+0 0 11686
+S
+#11676
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11666
+D1
+~
+~
+0 0 11677
+D2
+~
+~
+0 0 11686
+D3
+~
+~
+0 0 11675
+D6
+~
+~
+0 0 11665
+D7
+~
+~
+0 0 11667
+D8
+~
+~
+0 0 11685
+D9
+~
+~
+0 0 11687
+S
+#11677
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11667
+D1
+~
+~
+0 0 11678
+D2
+~
+~
+0 0 11687
+D3
+~
+~
+0 0 11676
+D6
+~
+~
+0 0 11666
+D7
+~
+~
+0 0 11668
+D8
+~
+~
+0 0 11686
+D9
+~
+~
+0 0 11688
+S
+#11678
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11668
+D1
+~
+~
+0 0 11679
+D2
+~
+~
+0 0 11688
+D3
+~
+~
+0 0 11677
+D6
+~
+~
+0 0 11667
+D7
+~
+~
+0 0 11669
+D8
+~
+~
+0 0 11687
+D9
+~
+~
+0 0 11689
+S
+#11679
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11669
+D1
+~
+~
+0 0 11770
+D2
+~
+~
+0 0 11689
+D3
+~
+~
+0 0 11678
+D6
+~
+~
+0 0 11668
+D7
+~
+~
+0 0 11760
+D8
+~
+~
+0 0 11688
+D9
+~
+~
+0 0 11780
+S
+#11680
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11670
+D1
+~
+~
+0 0 11681
+D2
+~
+~
+0 0 11690
+D3
+~
+~
+0 0 12189
+D6
+~
+~
+0 0 12179
+D7
+~
+~
+0 0 11671
+D8
+~
+~
+0 0 12199
+D9
+~
+~
+0 0 11691
+S
+#11681
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11671
+D1
+~
+~
+0 0 11682
+D2
+~
+~
+0 0 11691
+D3
+~
+~
+0 0 11680
+D6
+~
+~
+0 0 11670
+D7
+~
+~
+0 0 11672
+D8
+~
+~
+0 0 11690
+D9
+~
+~
+0 0 11692
+S
+#11682
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11672
+D1
+~
+~
+0 0 11683
+D2
+~
+~
+0 0 11692
+D3
+~
+~
+0 0 11681
+D6
+~
+~
+0 0 11671
+D7
+~
+~
+0 0 11673
+D8
+~
+~
+0 0 11691
+D9
+~
+~
+0 0 11693
+S
+#11683
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11673
+D1
+~
+~
+0 0 11684
+D2
+~
+~
+0 0 11693
+D3
+~
+~
+0 0 11682
+D6
+~
+~
+0 0 11672
+D7
+~
+~
+0 0 11674
+D8
+~
+~
+0 0 11692
+D9
+~
+~
+0 0 11694
+S
+#11684
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11674
+D1
+~
+~
+0 0 11685
+D2
+~
+~
+0 0 11694
+D3
+~
+~
+0 0 11683
+D6
+~
+~
+0 0 11673
+D7
+~
+~
+0 0 11675
+D8
+~
+~
+0 0 11693
+D9
+~
+~
+0 0 11695
+S
+#11685
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11675
+D1
+~
+~
+0 0 11686
+D2
+~
+~
+0 0 11695
+D3
+~
+~
+0 0 11684
+D6
+~
+~
+0 0 11674
+D7
+~
+~
+0 0 11676
+D8
+~
+~
+0 0 11694
+D9
+~
+~
+0 0 11696
+S
+#11686
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11676
+D1
+~
+~
+0 0 11687
+D2
+~
+~
+0 0 11696
+D3
+~
+~
+0 0 11685
+D6
+~
+~
+0 0 11675
+D7
+~
+~
+0 0 11677
+D8
+~
+~
+0 0 11695
+D9
+~
+~
+0 0 11697
+S
+#11687
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11677
+D1
+~
+~
+0 0 11688
+D2
+~
+~
+0 0 11697
+D3
+~
+~
+0 0 11686
+D6
+~
+~
+0 0 11676
+D7
+~
+~
+0 0 11678
+D8
+~
+~
+0 0 11696
+D9
+~
+~
+0 0 11698
+S
+#11688
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11678
+D1
+~
+~
+0 0 11689
+D2
+~
+~
+0 0 11698
+D3
+~
+~
+0 0 11687
+D6
+~
+~
+0 0 11677
+D7
+~
+~
+0 0 11679
+D8
+~
+~
+0 0 11697
+D9
+~
+~
+0 0 11699
+S
+#11689
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11679
+D1
+~
+~
+0 0 11780
+D2
+~
+~
+0 0 11699
+D3
+~
+~
+0 0 11688
+D6
+~
+~
+0 0 11678
+D7
+~
+~
+0 0 11770
+D8
+~
+~
+0 0 11698
+D9
+~
+~
+0 0 11790
+S
+#11690
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11680
+D1
+~
+~
+0 0 11691
+D2
+~
+~
+0 0 11300
+D3
+~
+~
+0 0 12199
+D6
+~
+~
+0 0 12189
+D7
+~
+~
+0 0 11681
+D9
+~
+~
+0 0 11301
+S
+#11691
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11681
+D1
+~
+~
+0 0 11692
+D2
+~
+~
+0 0 11301
+D3
+~
+~
+0 0 11690
+D6
+~
+~
+0 0 11680
+D7
+~
+~
+0 0 11682
+D8
+~
+~
+0 0 11300
+D9
+~
+~
+0 0 11302
+S
+#11692
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11682
+D1
+~
+~
+0 0 11693
+D2
+~
+~
+0 0 11302
+D3
+~
+~
+0 0 11691
+D6
+~
+~
+0 0 11681
+D7
+~
+~
+0 0 11683
+D8
+~
+~
+0 0 11301
+D9
+~
+~
+0 0 11303
+S
+#11693
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11683
+D1
+~
+~
+0 0 11694
+D2
+~
+~
+0 0 11303
+D3
+~
+~
+0 0 11692
+D6
+~
+~
+0 0 11682
+D7
+~
+~
+0 0 11684
+D8
+~
+~
+0 0 11302
+D9
+~
+~
+0 0 11304
+S
+#11694
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11684
+D1
+~
+~
+0 0 11695
+D2
+~
+~
+0 0 11304
+D3
+~
+~
+0 0 11693
+D6
+~
+~
+0 0 11683
+D7
+~
+~
+0 0 11685
+D8
+~
+~
+0 0 11303
+D9
+~
+~
+0 0 11305
+S
+#11695
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11685
+D1
+~
+~
+0 0 11696
+D2
+~
+~
+0 0 11305
+D3
+~
+~
+0 0 11694
+D6
+~
+~
+0 0 11684
+D7
+~
+~
+0 0 11686
+D8
+~
+~
+0 0 11304
+D9
+~
+~
+0 0 11306
+S
+#11696
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11686
+D1
+~
+~
+0 0 11697
+D2
+~
+~
+0 0 11306
+D3
+~
+~
+0 0 11695
+D6
+~
+~
+0 0 11685
+D7
+~
+~
+0 0 11687
+D8
+~
+~
+0 0 11305
+D9
+~
+~
+0 0 11307
+S
+#11697
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11687
+D1
+~
+~
+0 0 11698
+D2
+~
+~
+0 0 11307
+D3
+~
+~
+0 0 11696
+D6
+~
+~
+0 0 11686
+D7
+~
+~
+0 0 11688
+D8
+~
+~
+0 0 11306
+D9
+~
+~
+0 0 11308
+S
+#11698
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11688
+D1
+~
+~
+0 0 11699
+D2
+~
+~
+0 0 11308
+D3
+~
+~
+0 0 11697
+D6
+~
+~
+0 0 11687
+D7
+~
+~
+0 0 11689
+D8
+~
+~
+0 0 11307
+D9
+~
+~
+0 0 11309
+S
+#11699
+The Sea of Despair~
+The Sea of Despair has long been the bain of many a sailor.  It's rough and
+treturous waters have an omnious feels as you can hear the wail of monstrous
+sea creatures in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11689
+D1
+~
+~
+0 0 11790
+D2
+~
+~
+0 0 11309
+D3
+~
+~
+0 0 11698
+D6
+~
+~
+0 0 11688
+D7
+~
+~
+0 0 11780
+D8
+~
+~
+0 0 11308
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11000 100 11600 2 Load a tuna fish
+M 0 11005 100 11602 2 Load an aboleth
+M 0 11005 100 11606 2 Load an aboleth
+M 0 11003 100 11610 2 Load a {Csea{x dragon
+M 0 11000 100 11611 2 Load a tuna fish
+M 0 11008 100 11613 2 Load a jellyfish
+M 0 11008 100 11613 2 Load a jellyfish
+M 0 11008 100 11615 2 Load a jellyfish
+M 0 11008 100 11616 2 Load a jellyfish
+M 0 11000 100 11617 2 Load a tuna fish
+M 0 11000 100 11617 2 Load a tuna fish
+M 0 11008 100 11619 2 Load a jellyfish
+M 0 11003 100 11619 2 Load a {Csea{x dragon
+M 0 11001 100 11620 2 Load a octopus
+M 0 11002 100 11621 2 Load a man o'war
+M 0 11000 100 11622 2 Load a tuna fish
+M 0 11005 100 11622 2 Load an aboleth
+M 0 11006 100 11627 2 Load a dolphin
+M 0 11001 100 11628 2 Load a octopus
+M 0 11002 100 11628 2 Load a man o'war
+M 0 11000 100 11630 2 Load a tuna fish
+M 0 11000 100 11632 2 Load a tuna fish
+M 0 11005 100 11634 2 Load an aboleth
+M 0 11002 100 11635 2 Load a man o'war
+M 0 11008 100 11636 2 Load a jellyfish
+M 0 11005 100 11637 2 Load an aboleth
+M 0 11008 100 11638 2 Load a jellyfish
+M 0 11006 100 11642 2 Load a dolphin
+M 0 11006 100 11649 2 Load a dolphin
+M 0 11003 100 11650 2 Load a {Csea{x dragon
+M 0 11005 100 11652 2 Load an aboleth
+M 0 11005 100 11653 2 Load an aboleth
+M 0 11002 100 11657 2 Load a man o'war
+M 0 11005 100 11664 2 Load an aboleth
+M 0 11006 100 11666 2 Load a dolphin
+M 0 11008 100 11667 2 Load a jellyfish
+M 0 11001 100 11669 2 Load a octopus
+M 0 11005 100 11671 2 Load an aboleth
+M 0 11007 100 11673 2 Load a sea hag
+M 0 11000 100 11675 2 Load a tuna fish
+M 0 11003 100 11681 2 Load a {Csea{x dragon
+M 0 11002 100 11682 2 Load a man o'war
+M 0 11003 100 11688 2 Load a {Csea{x dragon
+M 0 11001 100 11690 2 Load a octopus
+M 0 11000 100 11691 2 Load a tuna fish
+M 0 11000 100 11691 2 Load a tuna fish
+M 0 11005 100 11692 2 Load an aboleth
+M 0 11003 100 11695 2 Load a {Csea{x dragon
+M 0 11006 100 11697 2 Load a dolphin
+M 0 11006 100 11699 2 Load a dolphin
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,559 @@
+#AREADATA
+Name Caves of Mahn-Tor~
+Builders Blake~
+VNUMs 3675 3699
+LevelRange 25 40
+Credits Blake~
+Security 9
+Continent 1
+AreaFlags 0
+End
+
+
+
+#MOBILES
+#3675
+cave troll~
+a cave troll~
+A cave troll is here.
+~
+A cave troll stands here towering almost 11 feet in height.  They have a
+dark yellow skin tinted with blue and purple hues.  
+~
+troll~
+AG DF 1 0
+35 5 6d12+853 15d9+100 5d7+15 none
+-12 -12 -12 -1
+DFNU 0 F H
+stand stand male 0
+ABHMV ABCDEFGHIJKUV medium unknown
+F aff Jc
+F res BE
+F vul K
+#3676
+black bat~
+a black bat~
+A black bat is flying here.
+~
+A black bat is flying here.  It has short black hair with a contrasting
+reddish-brown mantle.  
+~
+bat~
+A DFJTZ 2 0
+25 0 5d10+550 12d9+100 2d10+7 bite
+-7 -7 -7 6
+FHU 0 0 S
+stand stand either 0
+AGHMV ABCDEFHIJKP small unknown
+#3677
+copperhead snake~
+a copperhead snake~
+A copperhead snake is here.
+~
+The copperhead snake here is a dark tan color with crossbands that are a
+light tan to pale brown in the center but darker towards the edges.  
+~
+snake~
+AG DF 3 0
+30 3 6d12+853 15d9+100 4d6+8 bite
+-9 -9 -9 6
+U 0 L 0
+stand stand male 0
+AGHMVXYc ABCDEFGHIJKLQVX small unknown
+F vul I
+#3678
+goblin leader~
+the goblin leader~
+The goblin leader is here.
+~
+The goblin leader is here.  He seems very much in control of the trolls
+and other creatures who roam the cave.  His grotesque look sends chills down
+even the bravest of warriors.  
+~
+goblin~
+ABG DFHJV 1 0
+40 7 10d12+900 15d9+100 6d7+20 none
+-12 -12 -12 -1
+DFNU 0 Q CH
+stand stand male 0
+ABHMV ABCDEFGHIJKUV medium unknown
+#3679
+goblin~
+a goblin~
+A goblin is here.
+~
+A very grotesque goblin is here.  They seem to be ordering the trolls
+around who are acting as their save.  Every moment or so you hear a snarling
+noise come from them.  
+~
+troll~
+AG DF 1 0
+35 5 6d12+853 15d9+100 5d7+15 none
+-12 -12 -12 -1
+DFNU 0 F H
+stand stand male 0
+ABHMV ABCDEFGHIJKUV medium unknown
+F aff Jc
+F res BE
+F vul K
+#3680
+lost adventurer~
+A lost adventurer~
+A lost adventurer wanders aimlessly about.
+~
+A rather strong looking man wanders about here.  He eyes you slowly and
+proceeds to ask if you know a way out....  Hmm...  Bet he's lost.  
+~
+human~
+A DFHJV 3 0
+40 5 14d10+750 20d9+100 4d7+10 none
+-13 -13 -13 5
+EFK 0 0 0
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#3681
+goblin guard~
+a goblin guard~
+A goblin guard is here.
+~
+A very grotesque goblin is here.  These particular goblins appear to be
+protecting the hideout of the goblin leader.  
+~
+troll~
+ABG DF 1 0
+36 5 6d12+900 15d9+100 5d7+15 none
+-12 -12 -12 -1
+DFNU 0 F H
+stand stand male 0
+ABHMV ABCDEFGHIJKUV medium unknown
+F aff Jc
+F res BE
+F vul K
+#3682
+copperhead snake~
+a copperhead snake~
+A copperhead snake is here.
+~
+The copperhead snake here is a dark tan color with crossbands that are a
+light tan to pale brown in the center but darker towards the edges.  
+~
+snake~
+ABG DF 3 0
+30 3 6d12+853 15d9+100 4d6+8 bite
+-9 -9 -9 6
+U 0 L 0
+stand stand male 0
+AGHMVXYc ABCDEFGHIJKLQVX small unknown
+F vul I
+#0
+
+
+
+#OBJECTS
+#3675
+wand create spring~
+wand of create spring~
+A wand of create spring lies forgotten on the ground.~
+wood~
+wand A AO
+15 10 10 'create spring' 0
+5 70 3900 P
+#3676
+mithril ring~
+a mithril ring~
+A mithril ring with runes inscribed on it lays here.~
+mithril~
+jewelry 0 AB
+0 0 0 0 0
+30 50 1140 P
+A
+3 2
+A
+4 2
+#3677
+spring~
+a spring~
+A spring from the cave flows here.~
+water~
+fountain 0 0
+100000 100000 'water' 0 0
+0 0 0 P
+#3678
+blue pill~
+a blue pill~
+A blue pill lays here.~
+unknown~
+pill 0 A
+15 'cure critical' 'reserved' 'reserved' 'reserved'
+5 1 500 P
+#3679
+statue~
+statue of a minotaur guard~
+A weathered statue of a minotaur guard is here.~
+rock~
+trash 0 0
+0 0 0 0 0
+0 1000 0 P
+#0
+
+
+
+#ROOMS
+#3675
+Entrance to the Caves of Mahn-Tor~
+You are standing outside the entrance to a large cave.  The stone opening
+leads downwards into a pitch black darkness.  You can hear what you think is
+the sounds of creatures coming from within.  
+~
+0 4 3
+D1
+~
+~
+0 0 3676
+D4
+~
+~
+0 0 3693
+D6
+~
+~
+0 0 2339
+S
+#3676
+Inside the Cave~
+You are standing inside the Cave of Mahn-tor.  To the west you can still
+see the light coming in from outside the cave.  The tunnel of the cave
+appears to bend to the southeast in the other direction.  The air is cool
+and humid here.  
+~
+0 0 0
+D3
+~
+~
+0 0 3675
+D9
+~
+~
+0 0 3677
+S
+#3677
+Further Inside the Cave~
+The rock ground of the cave is slipper here as water trickles down the
+cave walls.  You can hear noises coming from further in the cave as well as
+what sounds like bats flying about.  There is pitch black darkness in all
+directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 3678
+D6
+~
+~
+0 0 3676
+S
+#3678
+A Fork in the Cave~
+You've come to a fork.  To the northeast the cave path appears to be
+heading higher and to the southeast the path appears to be heading lower.  
+~
+0 0 0
+D3
+~
+~
+0 0 3677
+D7
+~
+~
+0 0 3679
+D9
+~
+~
+0 0 3681
+S
+#3679
+An Upward Sloping Path~
+The path is sloping upwards here.  The walls are slimy with a wet growth
+and the ground is very slippery.  There appear to be markings on the wall as
+if someone was trying to mark their location.  
+~
+0 0 0
+D0
+~
+~
+0 0 3680
+D8
+~
+~
+0 0 3678
+S
+#3680
+A Dead End~
+You've come to a dead end in the path blocked by a solid rock wall. 
+There are the remnants of a campfire here.  
+~
+0 0 0
+D2
+~
+~
+0 0 3679
+S
+#3681
+A Path Heading Downwards~
+As the path heads downwards you can begin to hear clamoring from some
+kind of live coming from deeper in the cave.  There also seems to be a faint
+light that you believe you can see.  
+~
+0 0 0
+D6
+~
+~
+0 0 3678
+D9
+~
+~
+0 0 3682
+S
+#3682
+Further in the Cavern~
+The air has become more cool and humid here as the path heads downwards. 
+You can hear what sounds like water dripping coming from deeper in the Cave.
+~
+0 0 0
+D6
+~
+~
+0 0 3681
+D9
+~
+~
+0 0 3683
+S
+#3683
+Further in the Cavern~
+The air has become more cool and humid here as the path heads downwards. 
+You can hear what sounds like water dripping coming from deeper in the Cave.
+~
+0 0 0
+D6
+~
+~
+0 0 3682
+D9
+~
+~
+0 0 3684
+S
+#3684
+End of the Path~
+You have come to the end of the path in this direction.  The water which
+is running down the floor and wall appears to be flowing into a large hole
+in the cave floor which leads directly down into the earth.  You can hear
+both water falling and noises of life from deep within the cave.  
+~
+0 0 0
+D5
+~
+~
+0 0 3685
+D6
+~
+~
+0 0 3683
+S
+#3685
+A Large Cavern~
+You are standing a large cavern with very high walls.  There are hundreds
+of stalagmites and stalagtites rising an hanging from the ceiling.  Water is
+drizzling down from the walls and pooling in a large spring which lays in
+the center of the room.  
+~
+0 0 0
+D0
+~
+~
+0 0 3686
+D4
+~
+~
+0 0 3684
+S
+#3686
+Alongside an Underground Stream~
+There is an underground stream following here next to the risen rock path
+that you're standing on.  There is various trash laying about, likely from
+the trolls and their goblin master who have made this cave their home.  
+~
+0 0 0
+D0
+~
+~
+0 0 3687
+D2
+~
+~
+0 0 3685
+S
+#3687
+Alongside an Underground Stream~
+There is an underground stream following here next to the risen rock path
+that you're standing on.  There is various trash laying about, likely from
+the trolls and their goblin master who have made this cave their home.  The
+cave appears to open back up to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 3689
+D2
+~
+~
+0 0 3686
+S
+#3689
+A Bend in the Path~
+The underground stream continues on here but the path of the cavern that
+you're walking on bends to the east.  You can once again hear noises coming
+from ahead to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 3690
+D2
+~
+~
+0 0 3687
+S
+#3690
+Entryway to the Goblin Leader's Hideout~
+You are standing before a stone entryway carved into the cave walls. 
+There are various runs adorning the doorway which are hard to make out.  You
+can smell a foul stench coming from beyond to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 3691
+D3
+~
+~
+0 0 3689
+S
+#3691
+Goblin Leader's Hideout~
+The room you are in very much has the stench of goblins and trolls in it.
+A fire is burning into a fire pit which has been carved into the middle of
+the room.  Along the walls various crude weapons are hanging at the end of
+the hall stands the goblin leader and what appears to be his guards.  
+~
+0 0 0
+D3
+~
+~
+0 0 3690
+D5
+~
+~
+0 0 3692
+S
+#3692
+Inside the Snake Pit~
+You have crawled down into a snake pit full of poisonous snakes.  There
+is only a rickety wooden ladder to get you out of this awful hole in the
+ground.  There are rotting carcasses here that have been left here, possibly
+to feed the snakes.  
+~
+0 0 0
+D4
+~
+~
+0 0 3691
+S
+#3693
+A rocky trail leading upwards~
+You are standing on a rocky trail leading upwards.  Below you is the
+entrance to the Caves of Mahn-tor.  Above the trail seems to continue to
+lead to what appears to be a large overlook.  
+~
+0 0 0
+D4
+~
+~
+0 0 3694
+D5
+~
+~
+0 0 3675
+S
+#3694
+A Lookout~
+You are standing at the top of stone carved lookout in the rocky side of
+the hill.  From here you can see over the tree tops and westward over the
+Keep of Mahn-tor and into the lands.  There is a large weather worn statue
+of a minotaur guard overlooking the lands for signs of trouble.  
+~
+0 0 0
+D5
+~
+~
+0 0 3693
+S
+#0
+
+
+
+#SPECIALS
+M 3677 spec_poison
+M 3682 spec_poison
+S
+
+
+
+#RESETS
+M 0 3676 3 3677 3 Load a black bat
+M 0 3676 3 3677 3 Load a black bat
+M 0 3676 3 3677 3 Load a black bat
+M 0 3677 2 3679 2 Load a copperhead snake
+M 0 3677 2 3679 2 Load a copperhead snake
+M 0 3680 1 3680 1 Load A lost adventurer
+G 0 3678 0 A blue pill is given to A lost adventurer
+G 0 3675 0 Wand of create spring is given to A lost adventurer
+M 0 3677 3 3681 1 Load a copperhead snake
+M 0 3677 1 3681 3 Load a copperhead snake
+M 0 3679 1 3684 1 Load a goblin
+M 0 3675 1 3684 1 Load a cave troll
+M 0 3679 5 3685 5 Load a goblin
+M 0 3675 5 3685 5 Load a cave troll
+M 0 3675 5 3685 5 Load a cave troll
+M 0 3679 5 3685 5 Load a goblin
+O 0 3677 0 3685 A spring loaded to A Large Cavern
+M 0 3681 4 3690 4 Load a goblin guard
+M 0 3681 4 3690 4 Load a goblin guard
+M 0 3678 1 3691 1 Load the goblin leader
+E 0 3676 0 1 A mithril ring is loaded on the left finger of the goblin leader
+M 0 3681 4 3691 4 Load a goblin guard
+M 0 3681 4 3691 4 Load a goblin guard
+M 0 3682 5 3692 5 Load a copperhead snake
+M 0 3682 5 3692 5 Load a copperhead snake
+M 0 3682 5 3692 5 Load a copperhead snake
+M 0 3682 5 3692 5 Load a copperhead snake
+M 0 3682 5 3692 5 Load a copperhead snake
+O 0 3679 0 3694 Statue of a minotaur guard loaded to A Lookout
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

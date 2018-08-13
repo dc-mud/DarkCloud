@@ -1,0 +1,3761 @@
+#AREADATA
+Name Great Northeast Ocean~
+Builders Blake~
+VNUMs 11500 11599
+LevelRange 51 51
+Credits Blake~
+Security 9
+Continent 3
+AreaFlags 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11500
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11890
+D1
+~
+~
+0 0 11501
+D2
+~
+~
+0 0 11510
+D3
+~
+~
+0 0 11409
+D7
+~
+~
+0 0 11891
+D8
+~
+~
+0 0 11419
+D9
+~
+~
+0 0 11511
+S
+#11501
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11891
+D1
+~
+~
+0 0 11502
+D2
+~
+~
+0 0 11511
+D3
+~
+~
+0 0 11500
+D6
+~
+~
+0 0 11890
+D7
+~
+~
+0 0 11892
+D8
+~
+~
+0 0 11510
+D9
+~
+~
+0 0 11512
+S
+#11502
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11892
+D1
+~
+~
+0 0 11503
+D2
+~
+~
+0 0 11512
+D3
+~
+~
+0 0 11501
+D6
+~
+~
+0 0 11891
+D7
+~
+~
+0 0 11893
+D8
+~
+~
+0 0 11511
+D9
+~
+~
+0 0 11513
+S
+#11503
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11893
+D1
+~
+~
+0 0 11504
+D2
+~
+~
+0 0 11513
+D3
+~
+~
+0 0 11502
+D6
+~
+~
+0 0 11892
+D7
+~
+~
+0 0 11894
+D8
+~
+~
+0 0 11512
+D9
+~
+~
+0 0 11514
+S
+#11504
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11894
+D1
+~
+~
+0 0 11505
+D2
+~
+~
+0 0 11514
+D3
+~
+~
+0 0 11503
+D6
+~
+~
+0 0 11893
+D7
+~
+~
+0 0 11895
+D8
+~
+~
+0 0 11513
+D9
+~
+~
+0 0 11515
+S
+#11505
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11895
+D1
+~
+~
+0 0 11506
+D2
+~
+~
+0 0 11515
+D3
+~
+~
+0 0 11504
+D6
+~
+~
+0 0 11894
+D7
+~
+~
+0 0 11896
+D8
+~
+~
+0 0 11514
+D9
+~
+~
+0 0 11516
+S
+#11506
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11896
+D1
+~
+~
+0 0 11507
+D2
+~
+~
+0 0 11516
+D3
+~
+~
+0 0 11505
+D6
+~
+~
+0 0 11895
+D7
+~
+~
+0 0 11897
+D8
+~
+~
+0 0 11515
+D9
+~
+~
+0 0 11517
+S
+#11507
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11897
+D1
+~
+~
+0 0 11508
+D2
+~
+~
+0 0 11517
+D3
+~
+~
+0 0 11506
+D6
+~
+~
+0 0 11896
+D7
+~
+~
+0 0 11898
+D8
+~
+~
+0 0 11516
+D9
+~
+~
+0 0 11518
+S
+#11508
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11898
+D1
+~
+~
+0 0 11509
+D2
+~
+~
+0 0 11518
+D3
+~
+~
+0 0 11507
+D6
+~
+~
+0 0 11897
+D7
+~
+~
+0 0 11899
+D8
+~
+~
+0 0 11517
+D9
+~
+~
+0 0 11519
+S
+#11509
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11899
+D1
+~
+~
+0 0 11900
+D2
+~
+~
+0 0 11519
+D3
+~
+~
+0 0 11508
+D6
+~
+~
+0 0 11898
+D7
+~
+~
+0 0 12190
+D8
+~
+~
+0 0 11518
+D9
+~
+~
+0 0 11910
+S
+#11510
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11500
+D1
+~
+~
+0 0 11511
+D2
+~
+~
+0 0 11520
+D3
+~
+~
+0 0 11419
+D6
+~
+~
+0 0 11409
+D7
+~
+~
+0 0 11501
+D8
+~
+~
+0 0 11429
+D9
+~
+~
+0 0 11521
+S
+#11511
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11501
+D1
+~
+~
+0 0 11512
+D2
+~
+~
+0 0 11521
+D3
+~
+~
+0 0 11510
+D6
+~
+~
+0 0 11500
+D7
+~
+~
+0 0 11502
+D8
+~
+~
+0 0 11520
+D9
+~
+~
+0 0 11522
+S
+#11512
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11502
+D1
+~
+~
+0 0 11513
+D2
+~
+~
+0 0 11522
+D3
+~
+~
+0 0 11511
+D6
+~
+~
+0 0 11501
+D7
+~
+~
+0 0 11503
+D8
+~
+~
+0 0 11521
+D9
+~
+~
+0 0 11523
+S
+#11513
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11503
+D1
+~
+~
+0 0 11514
+D2
+~
+~
+0 0 11523
+D3
+~
+~
+0 0 11512
+D6
+~
+~
+0 0 11502
+D7
+~
+~
+0 0 11504
+D8
+~
+~
+0 0 11522
+D9
+~
+~
+0 0 11524
+S
+#11514
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11504
+D1
+~
+~
+0 0 11515
+D2
+~
+~
+0 0 11524
+D3
+~
+~
+0 0 11513
+D6
+~
+~
+0 0 11503
+D7
+~
+~
+0 0 11505
+D8
+~
+~
+0 0 11523
+D9
+~
+~
+0 0 11525
+S
+#11515
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11505
+D1
+~
+~
+0 0 11516
+D2
+~
+~
+0 0 11525
+D3
+~
+~
+0 0 11514
+D6
+~
+~
+0 0 11504
+D7
+~
+~
+0 0 11506
+D8
+~
+~
+0 0 11524
+D9
+~
+~
+0 0 11526
+S
+#11516
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11506
+D1
+~
+~
+0 0 11517
+D2
+~
+~
+0 0 11526
+D3
+~
+~
+0 0 11515
+D6
+~
+~
+0 0 11505
+D7
+~
+~
+0 0 11507
+D8
+~
+~
+0 0 11525
+D9
+~
+~
+0 0 11527
+S
+#11517
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11507
+D1
+~
+~
+0 0 11518
+D2
+~
+~
+0 0 11527
+D3
+~
+~
+0 0 11516
+D6
+~
+~
+0 0 11506
+D7
+~
+~
+0 0 11508
+D8
+~
+~
+0 0 11526
+D9
+~
+~
+0 0 11528
+S
+#11518
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11508
+D1
+~
+~
+0 0 11519
+D2
+~
+~
+0 0 11528
+D3
+~
+~
+0 0 11517
+D6
+~
+~
+0 0 11507
+D7
+~
+~
+0 0 11509
+D8
+~
+~
+0 0 11527
+D9
+~
+~
+0 0 11529
+S
+#11519
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11509
+D1
+~
+~
+0 0 11910
+D2
+~
+~
+0 0 11529
+D3
+~
+~
+0 0 11518
+D6
+~
+~
+0 0 11508
+D7
+~
+~
+0 0 11900
+D8
+~
+~
+0 0 11528
+D9
+~
+~
+0 0 11920
+S
+#11520
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11510
+D1
+~
+~
+0 0 11521
+D2
+~
+~
+0 0 11530
+D3
+~
+~
+0 0 11429
+D6
+~
+~
+0 0 11419
+D7
+~
+~
+0 0 11511
+D8
+~
+~
+0 0 11439
+D9
+~
+~
+0 0 11531
+S
+#11521
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11511
+D1
+~
+~
+0 0 11522
+D2
+~
+~
+0 0 11531
+D3
+~
+~
+0 0 11520
+D6
+~
+~
+0 0 11510
+D7
+~
+~
+0 0 11512
+D8
+~
+~
+0 0 11530
+D9
+~
+~
+0 0 11532
+S
+#11522
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11512
+D1
+~
+~
+0 0 11523
+D2
+~
+~
+0 0 11532
+D3
+~
+~
+0 0 11521
+D6
+~
+~
+0 0 11511
+D7
+~
+~
+0 0 11513
+D8
+~
+~
+0 0 11531
+D9
+~
+~
+0 0 11533
+S
+#11523
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11513
+D1
+~
+~
+0 0 11524
+D2
+~
+~
+0 0 11533
+D3
+~
+~
+0 0 11522
+D6
+~
+~
+0 0 11512
+D7
+~
+~
+0 0 11514
+D8
+~
+~
+0 0 11532
+D9
+~
+~
+0 0 11534
+S
+#11524
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11514
+D1
+~
+~
+0 0 11525
+D2
+~
+~
+0 0 11534
+D3
+~
+~
+0 0 11523
+D6
+~
+~
+0 0 11513
+D7
+~
+~
+0 0 11515
+D8
+~
+~
+0 0 11533
+D9
+~
+~
+0 0 11535
+S
+#11525
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11515
+D1
+~
+~
+0 0 11526
+D2
+~
+~
+0 0 11535
+D3
+~
+~
+0 0 11524
+D6
+~
+~
+0 0 11514
+D7
+~
+~
+0 0 11516
+D8
+~
+~
+0 0 11534
+D9
+~
+~
+0 0 11536
+S
+#11526
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11516
+D1
+~
+~
+0 0 11527
+D2
+~
+~
+0 0 11536
+D3
+~
+~
+0 0 11525
+D6
+~
+~
+0 0 11515
+D7
+~
+~
+0 0 11517
+D8
+~
+~
+0 0 11535
+D9
+~
+~
+0 0 11537
+S
+#11527
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11517
+D1
+~
+~
+0 0 11528
+D2
+~
+~
+0 0 11537
+D3
+~
+~
+0 0 11526
+D6
+~
+~
+0 0 11516
+D7
+~
+~
+0 0 11518
+D8
+~
+~
+0 0 11536
+D9
+~
+~
+0 0 11538
+S
+#11528
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11518
+D1
+~
+~
+0 0 11529
+D2
+~
+~
+0 0 11538
+D3
+~
+~
+0 0 11527
+D6
+~
+~
+0 0 11517
+D7
+~
+~
+0 0 11519
+D8
+~
+~
+0 0 11537
+D9
+~
+~
+0 0 11539
+S
+#11529
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11519
+D1
+~
+~
+0 0 11920
+D2
+~
+~
+0 0 11539
+D3
+~
+~
+0 0 11528
+D6
+~
+~
+0 0 11518
+D7
+~
+~
+0 0 11910
+D8
+~
+~
+0 0 11538
+D9
+~
+~
+0 0 11930
+S
+#11530
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11520
+D1
+~
+~
+0 0 11531
+D2
+~
+~
+0 0 11540
+D3
+~
+~
+0 0 11439
+D6
+~
+~
+0 0 11429
+D7
+~
+~
+0 0 11521
+D8
+~
+~
+0 0 11449
+D9
+~
+~
+0 0 11541
+S
+#11531
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11521
+D1
+~
+~
+0 0 11532
+D2
+~
+~
+0 0 11541
+D3
+~
+~
+0 0 11530
+D6
+~
+~
+0 0 11520
+D7
+~
+~
+0 0 11522
+D8
+~
+~
+0 0 11540
+D9
+~
+~
+0 0 11542
+S
+#11532
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11522
+D1
+~
+~
+0 0 11533
+D2
+~
+~
+0 0 11542
+D3
+~
+~
+0 0 11531
+D6
+~
+~
+0 0 11521
+D7
+~
+~
+0 0 11523
+D8
+~
+~
+0 0 11541
+D9
+~
+~
+0 0 11543
+S
+#11533
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11523
+D1
+~
+~
+0 0 11534
+D2
+~
+~
+0 0 11543
+D3
+~
+~
+0 0 11532
+D6
+~
+~
+0 0 11522
+D7
+~
+~
+0 0 11524
+D8
+~
+~
+0 0 11542
+D9
+~
+~
+0 0 11544
+S
+#11534
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11524
+D1
+~
+~
+0 0 11535
+D2
+~
+~
+0 0 11544
+D3
+~
+~
+0 0 11533
+D6
+~
+~
+0 0 11523
+D7
+~
+~
+0 0 11525
+D8
+~
+~
+0 0 11543
+D9
+~
+~
+0 0 11545
+S
+#11535
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11525
+D1
+~
+~
+0 0 11536
+D2
+~
+~
+0 0 11545
+D3
+~
+~
+0 0 11534
+D6
+~
+~
+0 0 11524
+D7
+~
+~
+0 0 11526
+D8
+~
+~
+0 0 11544
+D9
+~
+~
+0 0 11546
+S
+#11536
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11526
+D1
+~
+~
+0 0 11537
+D2
+~
+~
+0 0 11546
+D3
+~
+~
+0 0 11535
+D6
+~
+~
+0 0 11525
+D7
+~
+~
+0 0 11527
+D8
+~
+~
+0 0 11545
+D9
+~
+~
+0 0 11547
+S
+#11537
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11527
+D1
+~
+~
+0 0 11538
+D2
+~
+~
+0 0 11547
+D3
+~
+~
+0 0 11536
+D6
+~
+~
+0 0 11526
+D7
+~
+~
+0 0 11528
+D8
+~
+~
+0 0 11546
+D9
+~
+~
+0 0 11548
+S
+#11538
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11528
+D1
+~
+~
+0 0 11539
+D2
+~
+~
+0 0 11548
+D3
+~
+~
+0 0 11537
+D6
+~
+~
+0 0 11527
+D7
+~
+~
+0 0 11529
+D8
+~
+~
+0 0 11547
+D9
+~
+~
+0 0 11549
+S
+#11539
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11529
+D1
+~
+~
+0 0 11930
+D2
+~
+~
+0 0 11549
+D3
+~
+~
+0 0 11538
+D6
+~
+~
+0 0 11528
+D7
+~
+~
+0 0 11920
+D8
+~
+~
+0 0 11548
+D9
+~
+~
+0 0 11940
+S
+#11540
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11530
+D1
+~
+~
+0 0 11541
+D2
+~
+~
+0 0 11550
+D3
+~
+~
+0 0 11449
+D6
+~
+~
+0 0 11439
+D7
+~
+~
+0 0 11531
+D8
+~
+~
+0 0 11459
+D9
+~
+~
+0 0 11551
+S
+#11541
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11531
+D1
+~
+~
+0 0 11542
+D2
+~
+~
+0 0 11551
+D3
+~
+~
+0 0 11540
+D6
+~
+~
+0 0 11530
+D7
+~
+~
+0 0 11532
+D8
+~
+~
+0 0 11550
+D9
+~
+~
+0 0 11552
+S
+#11542
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11532
+D1
+~
+~
+0 0 11543
+D2
+~
+~
+0 0 11552
+D3
+~
+~
+0 0 11541
+D6
+~
+~
+0 0 11531
+D7
+~
+~
+0 0 11533
+D8
+~
+~
+0 0 11551
+D9
+~
+~
+0 0 11553
+S
+#11543
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11533
+D1
+~
+~
+0 0 11544
+D2
+~
+~
+0 0 11553
+D3
+~
+~
+0 0 11542
+D6
+~
+~
+0 0 11532
+D7
+~
+~
+0 0 11534
+D8
+~
+~
+0 0 11552
+D9
+~
+~
+0 0 11554
+S
+#11544
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11534
+D1
+~
+~
+0 0 11545
+D2
+~
+~
+0 0 11554
+D3
+~
+~
+0 0 11543
+D6
+~
+~
+0 0 11533
+D7
+~
+~
+0 0 11535
+D8
+~
+~
+0 0 11553
+D9
+~
+~
+0 0 11555
+S
+#11545
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11535
+D1
+~
+~
+0 0 11546
+D2
+~
+~
+0 0 11555
+D3
+~
+~
+0 0 11544
+D6
+~
+~
+0 0 11534
+D7
+~
+~
+0 0 11536
+D8
+~
+~
+0 0 11554
+D9
+~
+~
+0 0 11556
+S
+#11546
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11536
+D1
+~
+~
+0 0 11547
+D2
+~
+~
+0 0 11556
+D3
+~
+~
+0 0 11545
+D6
+~
+~
+0 0 11535
+D7
+~
+~
+0 0 11537
+D8
+~
+~
+0 0 11555
+D9
+~
+~
+0 0 11557
+S
+#11547
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11537
+D1
+~
+~
+0 0 11548
+D2
+~
+~
+0 0 11557
+D3
+~
+~
+0 0 11546
+D6
+~
+~
+0 0 11536
+D7
+~
+~
+0 0 11538
+D8
+~
+~
+0 0 11556
+D9
+~
+~
+0 0 11558
+S
+#11548
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11538
+D1
+~
+~
+0 0 11549
+D2
+~
+~
+0 0 11558
+D3
+~
+~
+0 0 11547
+D6
+~
+~
+0 0 11537
+D7
+~
+~
+0 0 11539
+D8
+~
+~
+0 0 11557
+D9
+~
+~
+0 0 11559
+S
+#11549
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11539
+D1
+~
+~
+0 0 11940
+D2
+~
+~
+0 0 11559
+D3
+~
+~
+0 0 11548
+D6
+~
+~
+0 0 11538
+D7
+~
+~
+0 0 11930
+D8
+~
+~
+0 0 11558
+D9
+~
+~
+0 0 11950
+S
+#11550
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11540
+D1
+~
+~
+0 0 11551
+D2
+~
+~
+0 0 11560
+D3
+~
+~
+0 0 11459
+D6
+~
+~
+0 0 11449
+D7
+~
+~
+0 0 11541
+D8
+~
+~
+0 0 11469
+D9
+~
+~
+0 0 11561
+S
+#11551
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11541
+D1
+~
+~
+0 0 11552
+D2
+~
+~
+0 0 11561
+D3
+~
+~
+0 0 11550
+D6
+~
+~
+0 0 11540
+D7
+~
+~
+0 0 11542
+D8
+~
+~
+0 0 11560
+D9
+~
+~
+0 0 11562
+S
+#11552
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11542
+D1
+~
+~
+0 0 11553
+D2
+~
+~
+0 0 11562
+D3
+~
+~
+0 0 11551
+D6
+~
+~
+0 0 11541
+D7
+~
+~
+0 0 11543
+D8
+~
+~
+0 0 11561
+D9
+~
+~
+0 0 11563
+S
+#11553
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11543
+D1
+~
+~
+0 0 11554
+D2
+~
+~
+0 0 11563
+D3
+~
+~
+0 0 11552
+D6
+~
+~
+0 0 11542
+D7
+~
+~
+0 0 11544
+D8
+~
+~
+0 0 11562
+D9
+~
+~
+0 0 11564
+S
+#11554
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11544
+D1
+~
+~
+0 0 11555
+D2
+~
+~
+0 0 11564
+D3
+~
+~
+0 0 11553
+D6
+~
+~
+0 0 11543
+D7
+~
+~
+0 0 11545
+D8
+~
+~
+0 0 11563
+D9
+~
+~
+0 0 11565
+S
+#11555
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11545
+D1
+~
+~
+0 0 11556
+D2
+~
+~
+0 0 11565
+D3
+~
+~
+0 0 11554
+D6
+~
+~
+0 0 11544
+D7
+~
+~
+0 0 11546
+D8
+~
+~
+0 0 11564
+D9
+~
+~
+0 0 11566
+S
+#11556
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11546
+D1
+~
+~
+0 0 11557
+D2
+~
+~
+0 0 11566
+D3
+~
+~
+0 0 11555
+D6
+~
+~
+0 0 11545
+D7
+~
+~
+0 0 11547
+D8
+~
+~
+0 0 11565
+D9
+~
+~
+0 0 11567
+S
+#11557
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11547
+D1
+~
+~
+0 0 11558
+D2
+~
+~
+0 0 11567
+D3
+~
+~
+0 0 11556
+D6
+~
+~
+0 0 11546
+D7
+~
+~
+0 0 11548
+D8
+~
+~
+0 0 11566
+D9
+~
+~
+0 0 11568
+S
+#11558
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11548
+D1
+~
+~
+0 0 11559
+D2
+~
+~
+0 0 11568
+D3
+~
+~
+0 0 11557
+D6
+~
+~
+0 0 11547
+D7
+~
+~
+0 0 11549
+D8
+~
+~
+0 0 11567
+D9
+~
+~
+0 0 11569
+S
+#11559
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11549
+D1
+~
+~
+0 0 11950
+D2
+~
+~
+0 0 11569
+D3
+~
+~
+0 0 11558
+D6
+~
+~
+0 0 11548
+D7
+~
+~
+0 0 11940
+D8
+~
+~
+0 0 11568
+D9
+~
+~
+0 0 11960
+S
+#11560
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11550
+D1
+~
+~
+0 0 11561
+D2
+~
+~
+0 0 11570
+D3
+~
+~
+0 0 11469
+D6
+~
+~
+0 0 11459
+D7
+~
+~
+0 0 11551
+D8
+~
+~
+0 0 11479
+D9
+~
+~
+0 0 11571
+S
+#11561
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11551
+D1
+~
+~
+0 0 11562
+D2
+~
+~
+0 0 11571
+D3
+~
+~
+0 0 11560
+D6
+~
+~
+0 0 11550
+D7
+~
+~
+0 0 11552
+D8
+~
+~
+0 0 11570
+D9
+~
+~
+0 0 11572
+S
+#11562
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11552
+D1
+~
+~
+0 0 11563
+D2
+~
+~
+0 0 11572
+D3
+~
+~
+0 0 11561
+D6
+~
+~
+0 0 11551
+D7
+~
+~
+0 0 11553
+D8
+~
+~
+0 0 11571
+D9
+~
+~
+0 0 11573
+S
+#11563
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11553
+D1
+~
+~
+0 0 11564
+D2
+~
+~
+0 0 11573
+D3
+~
+~
+0 0 11562
+D6
+~
+~
+0 0 11552
+D7
+~
+~
+0 0 11554
+D8
+~
+~
+0 0 11572
+D9
+~
+~
+0 0 11574
+S
+#11564
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11554
+D1
+~
+~
+0 0 11565
+D2
+~
+~
+0 0 11574
+D3
+~
+~
+0 0 11563
+D6
+~
+~
+0 0 11553
+D7
+~
+~
+0 0 11555
+D8
+~
+~
+0 0 11573
+D9
+~
+~
+0 0 11575
+S
+#11565
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11555
+D1
+~
+~
+0 0 11566
+D2
+~
+~
+0 0 11575
+D3
+~
+~
+0 0 11564
+D6
+~
+~
+0 0 11554
+D7
+~
+~
+0 0 11556
+D8
+~
+~
+0 0 11574
+D9
+~
+~
+0 0 11576
+S
+#11566
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11556
+D1
+~
+~
+0 0 11567
+D2
+~
+~
+0 0 11576
+D3
+~
+~
+0 0 11565
+D6
+~
+~
+0 0 11555
+D7
+~
+~
+0 0 11557
+D8
+~
+~
+0 0 11575
+D9
+~
+~
+0 0 11577
+S
+#11567
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11557
+D1
+~
+~
+0 0 11568
+D2
+~
+~
+0 0 11577
+D3
+~
+~
+0 0 11566
+D6
+~
+~
+0 0 11556
+D7
+~
+~
+0 0 11558
+D8
+~
+~
+0 0 11576
+D9
+~
+~
+0 0 11578
+S
+#11568
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11558
+D1
+~
+~
+0 0 11569
+D2
+~
+~
+0 0 11578
+D3
+~
+~
+0 0 11567
+D6
+~
+~
+0 0 11557
+D7
+~
+~
+0 0 11559
+D8
+~
+~
+0 0 11577
+D9
+~
+~
+0 0 11579
+S
+#11569
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11559
+D1
+~
+~
+0 0 11960
+D2
+~
+~
+0 0 11579
+D3
+~
+~
+0 0 11568
+D6
+~
+~
+0 0 11558
+D7
+~
+~
+0 0 11950
+D8
+~
+~
+0 0 11578
+D9
+~
+~
+0 0 11970
+S
+#11570
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11560
+D1
+~
+~
+0 0 11571
+D2
+~
+~
+0 0 11580
+D3
+~
+~
+0 0 11479
+D6
+~
+~
+0 0 11469
+D7
+~
+~
+0 0 11561
+D8
+~
+~
+0 0 11489
+D9
+~
+~
+0 0 11581
+S
+#11571
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11561
+D1
+~
+~
+0 0 11572
+D2
+~
+~
+0 0 11581
+D3
+~
+~
+0 0 11570
+D6
+~
+~
+0 0 11560
+D7
+~
+~
+0 0 11562
+D8
+~
+~
+0 0 11580
+D9
+~
+~
+0 0 11582
+S
+#11572
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11562
+D1
+~
+~
+0 0 11573
+D2
+~
+~
+0 0 11582
+D3
+~
+~
+0 0 11571
+D6
+~
+~
+0 0 11561
+D7
+~
+~
+0 0 11563
+D8
+~
+~
+0 0 11581
+D9
+~
+~
+0 0 11583
+S
+#11573
+Northwestern Coast~
+You are standing on the beach feeling the chilly wind coming off of the
+Great Northeastern Ocean.  The rocky highwalls of the northern Arcanis
+highlands lays towards land and the seas outwards stretch far into the
+Northeastern Ocean and farther to the Frozen Seas.  
+~
+0 0 12
+D0
+~
+~
+0 0 11563
+D1
+~
+~
+0 0 11574
+D2
+~
+~
+0 0 11583
+D3
+~
+~
+0 0 11572
+D6
+~
+~
+0 0 11562
+D7
+~
+~
+0 0 11564
+D8
+~
+~
+0 0 11582
+S
+#11574
+Northern Shores of Arcanis~
+You are standing on the northern most shores of Arcanis and the Great
+Northeast Ocean.  The air is chilly with a salty smell and the waters seem
+full of life.  The shores are very rocky as the highwalls lay behind leading
+up to the Arcanis highlands.  
+~
+0 0 12
+D0
+~
+~
+0 0 11564
+D1
+~
+~
+0 0 11575
+D3
+~
+~
+0 0 11573
+D6
+~
+~
+0 0 11563
+D7
+~
+~
+0 0 11565
+D8
+~
+~
+0 0 11583
+S
+#11575
+Northern Shores of Arcanis~
+You are standing on the northern most shores of Arcanis and the Great
+Northeast Ocean.  The air is chilly with a salty smell and the waters seem
+full of life.  The shores are very rocky as the highwalls lay behind leading
+up to the Arcanis highlands.  
+~
+0 0 12
+D0
+~
+~
+0 0 11565
+D1
+~
+~
+0 0 11576
+D3
+~
+~
+0 0 11574
+D6
+~
+~
+0 0 11564
+D7
+~
+~
+0 0 11566
+S
+#11576
+Northern Shores of Arcanis~
+You are standing on the northern most shores of Arcanis and the Great
+Northeast Ocean.  The air is chilly with a salty smell and the waters seem
+full of life.  The shores are very rocky as the highwalls lay behind leading
+up to the Arcanis highlands.  
+~
+0 0 12
+D0
+~
+~
+0 0 11566
+D1
+~
+~
+0 0 11577
+D3
+~
+~
+0 0 11575
+D6
+~
+~
+0 0 11565
+D7
+~
+~
+0 0 11567
+D9
+~
+~
+0 0 11587
+S
+#11577
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11567
+D1
+~
+~
+0 0 11578
+D2
+~
+~
+0 0 11587
+D3
+~
+~
+0 0 11576
+D6
+~
+~
+0 0 11566
+D7
+~
+~
+0 0 11568
+D9
+~
+~
+0 0 11588
+S
+#11578
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11568
+D1
+~
+~
+0 0 11579
+D2
+~
+~
+0 0 11588
+D3
+~
+~
+0 0 11577
+D6
+~
+~
+0 0 11567
+D7
+~
+~
+0 0 11569
+D8
+~
+~
+0 0 11587
+D9
+~
+~
+0 0 11589
+S
+#11579
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11569
+D1
+~
+~
+0 0 11970
+D2
+~
+~
+0 0 11589
+D3
+~
+~
+0 0 11578
+D6
+~
+~
+0 0 11568
+D7
+~
+~
+0 0 11960
+D8
+~
+~
+0 0 11588
+D9
+~
+~
+0 0 11980
+S
+#11580
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11570
+D1
+~
+~
+0 0 11581
+D2
+~
+~
+0 0 11590
+D3
+~
+~
+0 0 11489
+D6
+~
+~
+0 0 11479
+D7
+~
+~
+0 0 11571
+D8
+~
+~
+0 0 11499
+D9
+~
+~
+0 0 11591
+S
+#11581
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11571
+D1
+~
+~
+0 0 11582
+D2
+~
+~
+0 0 11591
+D3
+~
+~
+0 0 11580
+D6
+~
+~
+0 0 11570
+D7
+~
+~
+0 0 11572
+D8
+~
+~
+0 0 11590
+D9
+~
+~
+0 0 11592
+S
+#11582
+Northwestern Shore~
+You are standing on the northwestern shore of Arcanis and the Greath
+Northeast Ocean.  The waters of the Silver Sea reside to the south and the
+colder waters of the Northeast lay to the north.  Towards land there are
+large rock highwalls that lead forever upwards towards the highlands of
+northern Arcanis.  
+~
+0 0 12
+D0
+~
+~
+0 0 11572
+D1
+~
+~
+0 0 11583
+D2
+~
+~
+0 0 11592
+D3
+~
+~
+0 0 11581
+D6
+~
+~
+0 0 11571
+D7
+~
+~
+0 0 11573
+D8
+~
+~
+0 0 11591
+S
+#11583
+Northwestern Coast~
+You are standing on the beach feeling the chilly wind coming off of the
+Great Northeastern Ocean.  The rocky highwalls of the northern Arcanis
+highlands lays towards land and the seas outwards stretch far into the
+Northeastern Ocean and farther to the Frozen Seas.  
+~
+0 0 12
+D0
+~
+~
+0 0 11573
+D3
+~
+~
+0 0 11582
+D6
+~
+~
+0 0 11572
+D7
+~
+~
+0 0 11574
+D8
+~
+~
+0 0 11592
+S
+#11587
+Northeastern Shores of Arcanis~
+You are standing on the northeastern shores of Arcanis.  The sands of the
+beach here are very hard as if mixed with rock that have merged together. 
+There is not much in the way of vegegtation except for the occasional stand
+of sea weed that washes up onto the shore.  You can hear many birds and
+gulls as you see them dipping down into the ocean for food.
+~
+0 0 12
+D0
+~
+~
+0 0 11577
+D1
+~
+~
+0 0 11588
+D6
+~
+~
+0 0 11576
+D7
+~
+~
+0 0 11578
+D9
+~
+~
+0 0 11598
+S
+#11588
+Northeastern Shores of Arcanis~
+You are standing on the northeastern shores of Arcanis.  The sands of the
+beach here are very hard as if mixed with rock that have merged together. 
+There is not much in the way of vegegtation except for the occasional stand
+of sea weed that washes up onto the shore.  You can hear many birds and
+gulls as you see them dipping down into the ocean for food.
+~
+0 0 12
+D0
+~
+~
+0 0 11578
+D1
+~
+~
+0 0 11589
+D2
+~
+~
+0 0 11598
+D3
+~
+~
+0 0 11587
+D6
+~
+~
+0 0 11577
+D7
+~
+~
+0 0 11579
+D9
+~
+~
+0 0 11599
+S
+#11589
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11579
+D1
+~
+~
+0 0 11980
+D2
+~
+~
+0 0 11599
+D3
+~
+~
+0 0 11588
+D6
+~
+~
+0 0 11578
+D7
+~
+~
+0 0 11970
+D8
+~
+~
+0 0 11598
+D9
+~
+~
+0 0 11990
+S
+#11590
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11580
+D1
+~
+~
+0 0 11591
+D2
+~
+~
+0 0 11200
+D3
+~
+~
+0 0 11499
+D6
+~
+~
+0 0 11489
+D7
+~
+~
+0 0 11581
+D8
+~
+~
+0 0 11009
+D9
+~
+~
+0 0 11201
+S
+#11591
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11581
+D1
+~
+~
+0 0 11592
+D2
+~
+~
+0 0 11201
+D3
+~
+~
+0 0 11590
+D6
+~
+~
+0 0 11580
+D7
+~
+~
+0 0 11582
+D8
+~
+~
+0 0 11200
+D9
+~
+~
+0 0 11202
+S
+#11592
+Northwestern Shore~
+You are standing on the northwestern shore of Arcanis and the Greath
+Northeast Ocean.  The waters of the Silver Sea reside to the south and the
+colder waters of the Northeast lay to the north.  Towards land there are
+large rock highwalls that lead forever upwards towards the highlands of
+northern Arcanis.  
+~
+0 0 12
+D0
+~
+~
+0 0 11582
+D2
+~
+~
+0 0 11202
+D3
+~
+~
+0 0 11591
+D6
+~
+~
+0 0 11581
+D7
+~
+~
+0 0 11583
+D8
+~
+~
+0 0 11201
+S
+#11598
+Northeastern Shores of Arcanis~
+You are standing on the northeastern shores of Arcanis.  The sands of the
+beach here are very hard as if mixed with rock that have merged together. 
+There is not much in the way of vegegtation except for the occasional stand
+of sea weed that washes up onto the shore.  You can hear many birds and
+gulls as you see them dipping down into the ocean for food.
+~
+0 0 12
+D0
+~
+~
+0 0 11588
+D1
+~
+~
+0 0 11599
+D6
+~
+~
+0 0 11587
+D7
+~
+~
+0 0 11589
+D9
+~
+~
+0 0 11209
+S
+#11599
+The Great Northeast Ocean~
+You are surrounded by the limitless waters of the great northeast ocean.  These
+waters have long been trecked from the Arcanis continent to the icy tundra's of
+off of the Frozen Sea.  The sea life is plentiful here and the air is has a cold
+salty feel.
+~
+0 0 11
+D0
+~
+~
+0 0 11589
+D1
+~
+~
+0 0 11990
+D2
+~
+~
+0 0 11209
+D3
+~
+~
+0 0 11598
+D6
+~
+~
+0 0 11588
+D7
+~
+~
+0 0 11980
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11000 100 11500 2 Load a tuna fish
+M 0 11005 100 11502 2 Load an aboleth
+M 0 11005 100 11506 2 Load an aboleth
+M 0 11003 100 11510 2 Load a {Csea{x dragon
+M 0 11000 100 11511 2 Load a tuna fish
+M 0 11008 100 11513 2 Load a jellyfish
+M 0 11008 100 11513 2 Load a jellyfish
+M 0 11008 100 11515 2 Load a jellyfish
+M 0 11008 100 11516 2 Load a jellyfish
+M 0 11000 100 11517 2 Load a tuna fish
+M 0 11000 100 11517 2 Load a tuna fish
+M 0 11008 100 11519 2 Load a jellyfish
+M 0 11003 100 11519 2 Load a {Csea{x dragon
+M 0 11001 100 11520 2 Load a octopus
+M 0 11002 100 11521 2 Load a man o'war
+M 0 11000 100 11522 2 Load a tuna fish
+M 0 11005 100 11522 2 Load an aboleth
+M 0 11006 100 11527 2 Load a dolphin
+M 0 11001 100 11528 2 Load a octopus
+M 0 11002 100 11528 2 Load a man o'war
+M 0 11000 100 11530 2 Load a tuna fish
+M 0 11000 100 11532 2 Load a tuna fish
+M 0 11005 100 11534 2 Load an aboleth
+M 0 11002 100 11535 2 Load a man o'war
+M 0 11008 100 11536 2 Load a jellyfish
+M 0 11005 100 11537 2 Load an aboleth
+M 0 11008 100 11538 2 Load a jellyfish
+M 0 11006 100 11542 2 Load a dolphin
+M 0 11006 100 11549 2 Load a dolphin
+M 0 11003 100 11550 2 Load a {Csea{x dragon
+M 0 11005 100 11552 2 Load an aboleth
+M 0 11005 100 11553 2 Load an aboleth
+M 0 11002 100 11557 2 Load a man o'war
+M 0 11005 100 11564 2 Load an aboleth
+M 0 11006 100 11566 2 Load a dolphin
+M 0 11008 100 11567 2 Load a jellyfish
+M 0 11001 100 11569 2 Load a octopus
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,4189 @@
+#AREADATA
+Name Central Great Barrier Sea~
+Builders Blake~
+VNUMs 12000 12099
+LevelRange 51 51
+Credits Blake~
+Security 9
+Continent 3
+AreaFlags 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#12000
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11990
+D1
+~
+~
+0 0 12001
+D2
+~
+~
+0 0 12010
+D3
+~
+~
+0 0 11209
+D7
+~
+~
+0 0 11991
+D8
+~
+~
+0 0 11219
+D9
+~
+~
+0 0 12011
+S
+#12001
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11991
+D1
+~
+~
+0 0 12002
+D2
+~
+~
+0 0 12011
+D3
+~
+~
+0 0 12000
+D6
+~
+~
+0 0 11990
+D7
+~
+~
+0 0 11992
+D8
+~
+~
+0 0 12010
+D9
+~
+~
+0 0 12012
+S
+#12002
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11992
+D1
+~
+~
+0 0 12003
+D2
+~
+~
+0 0 12012
+D3
+~
+~
+0 0 12001
+D6
+~
+~
+0 0 11991
+D7
+~
+~
+0 0 11993
+D8
+~
+~
+0 0 12011
+D9
+~
+~
+0 0 12013
+S
+#12003
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11993
+D1
+~
+~
+0 0 12004
+D2
+~
+~
+0 0 12013
+D3
+~
+~
+0 0 12002
+D6
+~
+~
+0 0 11992
+D7
+~
+~
+0 0 11994
+D8
+~
+~
+0 0 12012
+D9
+~
+~
+0 0 12014
+S
+#12004
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11994
+D1
+~
+~
+0 0 12005
+D2
+~
+~
+0 0 12014
+D3
+~
+~
+0 0 12003
+D6
+~
+~
+0 0 11993
+D7
+~
+~
+0 0 11995
+D8
+~
+~
+0 0 12013
+D9
+~
+~
+0 0 12015
+S
+#12005
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11995
+D1
+~
+~
+0 0 12006
+D2
+~
+~
+0 0 12015
+D3
+~
+~
+0 0 12004
+D6
+~
+~
+0 0 11994
+D7
+~
+~
+0 0 11996
+D8
+~
+~
+0 0 12014
+D9
+~
+~
+0 0 12016
+S
+#12006
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11996
+D1
+~
+~
+0 0 12007
+D2
+~
+~
+0 0 12016
+D3
+~
+~
+0 0 12005
+D6
+~
+~
+0 0 11995
+D7
+~
+~
+0 0 11997
+D8
+~
+~
+0 0 12015
+D9
+~
+~
+0 0 12017
+S
+#12007
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11997
+D1
+~
+~
+0 0 12008
+D2
+~
+~
+0 0 12017
+D3
+~
+~
+0 0 12006
+D6
+~
+~
+0 0 11996
+D7
+~
+~
+0 0 11998
+D8
+~
+~
+0 0 12016
+D9
+~
+~
+0 0 12018
+S
+#12008
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11998
+D1
+~
+~
+0 0 12009
+D2
+~
+~
+0 0 12018
+D3
+~
+~
+0 0 12007
+D6
+~
+~
+0 0 11997
+D7
+~
+~
+0 0 11999
+D8
+~
+~
+0 0 12017
+D9
+~
+~
+0 0 12019
+S
+#12009
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 11999
+D1
+~
+~
+0 0 11100
+D2
+~
+~
+0 0 12019
+D3
+~
+~
+0 0 12008
+D6
+~
+~
+0 0 11998
+D7
+~
+~
+0 0 11390
+D8
+~
+~
+0 0 12018
+D9
+~
+~
+0 0 11110
+S
+#12010
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12000
+D1
+~
+~
+0 0 12011
+D2
+~
+~
+0 0 12020
+D3
+~
+~
+0 0 11219
+D6
+~
+~
+0 0 11209
+D7
+~
+~
+0 0 12001
+D8
+~
+~
+0 0 11229
+D9
+~
+~
+0 0 12021
+S
+#12011
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12001
+D1
+~
+~
+0 0 12012
+D2
+~
+~
+0 0 12021
+D3
+~
+~
+0 0 12010
+D6
+~
+~
+0 0 12000
+D7
+~
+~
+0 0 12002
+D8
+~
+~
+0 0 12020
+D9
+~
+~
+0 0 12022
+S
+#12012
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12002
+D1
+~
+~
+0 0 12013
+D2
+~
+~
+0 0 12022
+D3
+~
+~
+0 0 12011
+D6
+~
+~
+0 0 12001
+D7
+~
+~
+0 0 12003
+D8
+~
+~
+0 0 12021
+D9
+~
+~
+0 0 12023
+S
+#12013
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12003
+D1
+~
+~
+0 0 12014
+D2
+~
+~
+0 0 12023
+D3
+~
+~
+0 0 12012
+D6
+~
+~
+0 0 12002
+D7
+~
+~
+0 0 12004
+D8
+~
+~
+0 0 12022
+D9
+~
+~
+0 0 12024
+S
+#12014
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12004
+D1
+~
+~
+0 0 12015
+D2
+~
+~
+0 0 12024
+D3
+~
+~
+0 0 12013
+D6
+~
+~
+0 0 12003
+D7
+~
+~
+0 0 12005
+D8
+~
+~
+0 0 12023
+D9
+~
+~
+0 0 12025
+S
+#12015
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12005
+D1
+~
+~
+0 0 12016
+D2
+~
+~
+0 0 12025
+D3
+~
+~
+0 0 12014
+D6
+~
+~
+0 0 12004
+D7
+~
+~
+0 0 12006
+D8
+~
+~
+0 0 12024
+D9
+~
+~
+0 0 12026
+S
+#12016
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12006
+D1
+~
+~
+0 0 12017
+D2
+~
+~
+0 0 12026
+D3
+~
+~
+0 0 12015
+D6
+~
+~
+0 0 12005
+D7
+~
+~
+0 0 12007
+D8
+~
+~
+0 0 12025
+D9
+~
+~
+0 0 12027
+S
+#12017
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12007
+D1
+~
+~
+0 0 12018
+D2
+~
+~
+0 0 12027
+D3
+~
+~
+0 0 12016
+D6
+~
+~
+0 0 12006
+D7
+~
+~
+0 0 12008
+D8
+~
+~
+0 0 12026
+D9
+~
+~
+0 0 12028
+S
+#12018
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12008
+D1
+~
+~
+0 0 12019
+D2
+~
+~
+0 0 12028
+D3
+~
+~
+0 0 12017
+D6
+~
+~
+0 0 12007
+D7
+~
+~
+0 0 12009
+D8
+~
+~
+0 0 12027
+D9
+~
+~
+0 0 12029
+S
+#12019
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12009
+D1
+~
+~
+0 0 11110
+D2
+~
+~
+0 0 12029
+D3
+~
+~
+0 0 12018
+D6
+~
+~
+0 0 12008
+D7
+~
+~
+0 0 11100
+D8
+~
+~
+0 0 12028
+D9
+~
+~
+0 0 11120
+S
+#12020
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12010
+D1
+~
+~
+0 0 12021
+D2
+~
+~
+0 0 12030
+D3
+~
+~
+0 0 11229
+D6
+~
+~
+0 0 11219
+D7
+~
+~
+0 0 12011
+D8
+~
+~
+0 0 11239
+D9
+~
+~
+0 0 12031
+S
+#12021
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12011
+D1
+~
+~
+0 0 12022
+D2
+~
+~
+0 0 12031
+D3
+~
+~
+0 0 12020
+D6
+~
+~
+0 0 12010
+D7
+~
+~
+0 0 12012
+D8
+~
+~
+0 0 12030
+D9
+~
+~
+0 0 12032
+S
+#12022
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12012
+D1
+~
+~
+0 0 12023
+D2
+~
+~
+0 0 12032
+D3
+~
+~
+0 0 12021
+D6
+~
+~
+0 0 12011
+D7
+~
+~
+0 0 12013
+D8
+~
+~
+0 0 12031
+D9
+~
+~
+0 0 12033
+S
+#12023
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12013
+D1
+~
+~
+0 0 12024
+D2
+~
+~
+0 0 12033
+D3
+~
+~
+0 0 12022
+D6
+~
+~
+0 0 12012
+D7
+~
+~
+0 0 12014
+D8
+~
+~
+0 0 12032
+D9
+~
+~
+0 0 12034
+S
+#12024
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12014
+D1
+~
+~
+0 0 12025
+D2
+~
+~
+0 0 12034
+D3
+~
+~
+0 0 12023
+D6
+~
+~
+0 0 12013
+D7
+~
+~
+0 0 12015
+D8
+~
+~
+0 0 12033
+D9
+~
+~
+0 0 12035
+S
+#12025
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12015
+D1
+~
+~
+0 0 12026
+D2
+~
+~
+0 0 12035
+D3
+~
+~
+0 0 12024
+D6
+~
+~
+0 0 12014
+D7
+~
+~
+0 0 12016
+D8
+~
+~
+0 0 12034
+D9
+~
+~
+0 0 12036
+S
+#12026
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12016
+D1
+~
+~
+0 0 12027
+D2
+~
+~
+0 0 12036
+D3
+~
+~
+0 0 12025
+D6
+~
+~
+0 0 12015
+D7
+~
+~
+0 0 12017
+D8
+~
+~
+0 0 12035
+D9
+~
+~
+0 0 12037
+S
+#12027
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12017
+D1
+~
+~
+0 0 12028
+D2
+~
+~
+0 0 12037
+D3
+~
+~
+0 0 12026
+D6
+~
+~
+0 0 12016
+D7
+~
+~
+0 0 12018
+D8
+~
+~
+0 0 12036
+D9
+~
+~
+0 0 12038
+S
+#12028
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12018
+D1
+~
+~
+0 0 12029
+D2
+~
+~
+0 0 12038
+D3
+~
+~
+0 0 12027
+D6
+~
+~
+0 0 12017
+D7
+~
+~
+0 0 12019
+D8
+~
+~
+0 0 12037
+D9
+~
+~
+0 0 12039
+S
+#12029
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12019
+D1
+~
+~
+0 0 11120
+D2
+~
+~
+0 0 12039
+D3
+~
+~
+0 0 12028
+D6
+~
+~
+0 0 12018
+D7
+~
+~
+0 0 11110
+D8
+~
+~
+0 0 12038
+D9
+~
+~
+0 0 11130
+S
+#12030
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12020
+D1
+~
+~
+0 0 12031
+D2
+~
+~
+0 0 12040
+D3
+~
+~
+0 0 11239
+D6
+~
+~
+0 0 11229
+D7
+~
+~
+0 0 12021
+D8
+~
+~
+0 0 11249
+D9
+~
+~
+0 0 12041
+S
+#12031
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12021
+D1
+~
+~
+0 0 12032
+D2
+~
+~
+0 0 12041
+D3
+~
+~
+0 0 12030
+D6
+~
+~
+0 0 12020
+D7
+~
+~
+0 0 12022
+D8
+~
+~
+0 0 12040
+D9
+~
+~
+0 0 12042
+S
+#12032
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12022
+D1
+~
+~
+0 0 12033
+D2
+~
+~
+0 0 12042
+D3
+~
+~
+0 0 12031
+D6
+~
+~
+0 0 12021
+D7
+~
+~
+0 0 12023
+D8
+~
+~
+0 0 12041
+D9
+~
+~
+0 0 12043
+S
+#12033
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12023
+D1
+~
+~
+0 0 12034
+D2
+~
+~
+0 0 12043
+D3
+~
+~
+0 0 12032
+D6
+~
+~
+0 0 12022
+D7
+~
+~
+0 0 12024
+D8
+~
+~
+0 0 12042
+D9
+~
+~
+0 0 12044
+S
+#12034
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12024
+D1
+~
+~
+0 0 12035
+D2
+~
+~
+0 0 12044
+D3
+~
+~
+0 0 12033
+D6
+~
+~
+0 0 12023
+D7
+~
+~
+0 0 12025
+D8
+~
+~
+0 0 12043
+D9
+~
+~
+0 0 12045
+S
+#12035
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12025
+D1
+~
+~
+0 0 12036
+D2
+~
+~
+0 0 12045
+D3
+~
+~
+0 0 12034
+D6
+~
+~
+0 0 12024
+D7
+~
+~
+0 0 12026
+D8
+~
+~
+0 0 12044
+D9
+~
+~
+0 0 12046
+S
+#12036
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12026
+D1
+~
+~
+0 0 12037
+D2
+~
+~
+0 0 12046
+D3
+~
+~
+0 0 12035
+D6
+~
+~
+0 0 12025
+D7
+~
+~
+0 0 12027
+D8
+~
+~
+0 0 12045
+D9
+~
+~
+0 0 12047
+S
+#12037
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12027
+D1
+~
+~
+0 0 12038
+D2
+~
+~
+0 0 12047
+D3
+~
+~
+0 0 12036
+D6
+~
+~
+0 0 12026
+D7
+~
+~
+0 0 12028
+D8
+~
+~
+0 0 12046
+D9
+~
+~
+0 0 12048
+S
+#12038
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12028
+D1
+~
+~
+0 0 12039
+D2
+~
+~
+0 0 12048
+D3
+~
+~
+0 0 12037
+D6
+~
+~
+0 0 12027
+D7
+~
+~
+0 0 12029
+D8
+~
+~
+0 0 12047
+D9
+~
+~
+0 0 12049
+S
+#12039
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12029
+D1
+~
+~
+0 0 11130
+D2
+~
+~
+0 0 12049
+D3
+~
+~
+0 0 12038
+D6
+~
+~
+0 0 12028
+D7
+~
+~
+0 0 11120
+D8
+~
+~
+0 0 12048
+D9
+~
+~
+0 0 11140
+S
+#12040
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12030
+D1
+~
+~
+0 0 12041
+D2
+~
+~
+0 0 12050
+D3
+~
+~
+0 0 11249
+D6
+~
+~
+0 0 11239
+D7
+~
+~
+0 0 12031
+D8
+~
+~
+0 0 11259
+D9
+~
+~
+0 0 12051
+S
+#12041
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12031
+D1
+~
+~
+0 0 12042
+D2
+~
+~
+0 0 12051
+D3
+~
+~
+0 0 12040
+D6
+~
+~
+0 0 12030
+D7
+~
+~
+0 0 12032
+D8
+~
+~
+0 0 12050
+D9
+~
+~
+0 0 12052
+S
+#12042
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12032
+D1
+~
+~
+0 0 12043
+D2
+~
+~
+0 0 12052
+D3
+~
+~
+0 0 12041
+D6
+~
+~
+0 0 12031
+D7
+~
+~
+0 0 12033
+D8
+~
+~
+0 0 12051
+D9
+~
+~
+0 0 12053
+S
+#12043
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12033
+D1
+~
+~
+0 0 12044
+D2
+~
+~
+0 0 12053
+D3
+~
+~
+0 0 12042
+D6
+~
+~
+0 0 12032
+D7
+~
+~
+0 0 12034
+D8
+~
+~
+0 0 12052
+D9
+~
+~
+0 0 12054
+S
+#12044
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12034
+D1
+~
+~
+0 0 12045
+D2
+~
+~
+0 0 12054
+D3
+~
+~
+0 0 12043
+D6
+~
+~
+0 0 12033
+D7
+~
+~
+0 0 12035
+D8
+~
+~
+0 0 12053
+D9
+~
+~
+0 0 12055
+S
+#12045
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12035
+D1
+~
+~
+0 0 12046
+D2
+~
+~
+0 0 12055
+D3
+~
+~
+0 0 12044
+D6
+~
+~
+0 0 12034
+D7
+~
+~
+0 0 12036
+D8
+~
+~
+0 0 12054
+D9
+~
+~
+0 0 12056
+S
+#12046
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12036
+D1
+~
+~
+0 0 12047
+D2
+~
+~
+0 0 12056
+D3
+~
+~
+0 0 12045
+D6
+~
+~
+0 0 12035
+D7
+~
+~
+0 0 12037
+D8
+~
+~
+0 0 12055
+D9
+~
+~
+0 0 12057
+S
+#12047
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12037
+D1
+~
+~
+0 0 12048
+D2
+~
+~
+0 0 12057
+D3
+~
+~
+0 0 12046
+D6
+~
+~
+0 0 12036
+D7
+~
+~
+0 0 12038
+D8
+~
+~
+0 0 12056
+D9
+~
+~
+0 0 12058
+S
+#12048
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12038
+D1
+~
+~
+0 0 12049
+D2
+~
+~
+0 0 12058
+D3
+~
+~
+0 0 12047
+D6
+~
+~
+0 0 12037
+D7
+~
+~
+0 0 12039
+D8
+~
+~
+0 0 12057
+D9
+~
+~
+0 0 12059
+S
+#12049
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12039
+D1
+~
+~
+0 0 11140
+D2
+~
+~
+0 0 12059
+D3
+~
+~
+0 0 12048
+D6
+~
+~
+0 0 12038
+D7
+~
+~
+0 0 11130
+D8
+~
+~
+0 0 12058
+D9
+~
+~
+0 0 11150
+S
+#12050
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12040
+D1
+~
+~
+0 0 12051
+D2
+~
+~
+0 0 12060
+D3
+~
+~
+0 0 11259
+D6
+~
+~
+0 0 11249
+D7
+~
+~
+0 0 12041
+D8
+~
+~
+0 0 11269
+D9
+~
+~
+0 0 12061
+S
+#12051
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12041
+D1
+~
+~
+0 0 12052
+D2
+~
+~
+0 0 12061
+D3
+~
+~
+0 0 12050
+D6
+~
+~
+0 0 12040
+D7
+~
+~
+0 0 12042
+D8
+~
+~
+0 0 12060
+D9
+~
+~
+0 0 12062
+S
+#12052
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12042
+D1
+~
+~
+0 0 12053
+D2
+~
+~
+0 0 12062
+D3
+~
+~
+0 0 12051
+D6
+~
+~
+0 0 12041
+D7
+~
+~
+0 0 12043
+D8
+~
+~
+0 0 12061
+D9
+~
+~
+0 0 12063
+S
+#12053
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12043
+D1
+~
+~
+0 0 12054
+D2
+~
+~
+0 0 12063
+D3
+~
+~
+0 0 12052
+D6
+~
+~
+0 0 12042
+D7
+~
+~
+0 0 12044
+D8
+~
+~
+0 0 12062
+D9
+~
+~
+0 0 12064
+S
+#12054
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12044
+D1
+~
+~
+0 0 12055
+D2
+~
+~
+0 0 12064
+D3
+~
+~
+0 0 12053
+D6
+~
+~
+0 0 12043
+D7
+~
+~
+0 0 12045
+D8
+~
+~
+0 0 12063
+D9
+~
+~
+0 0 12065
+S
+#12055
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12045
+D1
+~
+~
+0 0 12056
+D2
+~
+~
+0 0 12065
+D3
+~
+~
+0 0 12054
+D6
+~
+~
+0 0 12044
+D7
+~
+~
+0 0 12046
+D8
+~
+~
+0 0 12064
+D9
+~
+~
+0 0 12066
+S
+#12056
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12046
+D1
+~
+~
+0 0 12057
+D2
+~
+~
+0 0 12066
+D3
+~
+~
+0 0 12055
+D6
+~
+~
+0 0 12045
+D7
+~
+~
+0 0 12047
+D8
+~
+~
+0 0 12065
+D9
+~
+~
+0 0 12067
+S
+#12057
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12047
+D1
+~
+~
+0 0 12058
+D2
+~
+~
+0 0 12067
+D3
+~
+~
+0 0 12056
+D6
+~
+~
+0 0 12046
+D7
+~
+~
+0 0 12048
+D8
+~
+~
+0 0 12066
+D9
+~
+~
+0 0 12068
+S
+#12058
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12048
+D1
+~
+~
+0 0 12059
+D2
+~
+~
+0 0 12068
+D3
+~
+~
+0 0 12057
+D6
+~
+~
+0 0 12047
+D7
+~
+~
+0 0 12049
+D8
+~
+~
+0 0 12067
+D9
+~
+~
+0 0 12069
+S
+#12059
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12049
+D1
+~
+~
+0 0 11150
+D2
+~
+~
+0 0 12069
+D3
+~
+~
+0 0 12058
+D6
+~
+~
+0 0 12048
+D7
+~
+~
+0 0 11140
+D8
+~
+~
+0 0 12068
+D9
+~
+~
+0 0 11160
+S
+#12060
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12050
+D1
+~
+~
+0 0 12061
+D2
+~
+~
+0 0 12070
+D3
+~
+~
+0 0 11269
+D6
+~
+~
+0 0 11259
+D7
+~
+~
+0 0 12051
+D8
+~
+~
+0 0 11279
+D9
+~
+~
+0 0 12071
+S
+#12061
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12051
+D1
+~
+~
+0 0 12062
+D2
+~
+~
+0 0 12071
+D3
+~
+~
+0 0 12060
+D6
+~
+~
+0 0 12050
+D7
+~
+~
+0 0 12052
+D8
+~
+~
+0 0 12070
+D9
+~
+~
+0 0 12072
+S
+#12062
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12052
+D1
+~
+~
+0 0 12063
+D2
+~
+~
+0 0 12072
+D3
+~
+~
+0 0 12061
+D6
+~
+~
+0 0 12051
+D7
+~
+~
+0 0 12053
+D8
+~
+~
+0 0 12071
+D9
+~
+~
+0 0 12073
+S
+#12063
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12053
+D1
+~
+~
+0 0 12064
+D2
+~
+~
+0 0 12073
+D3
+~
+~
+0 0 12062
+D6
+~
+~
+0 0 12052
+D7
+~
+~
+0 0 12054
+D8
+~
+~
+0 0 12072
+D9
+~
+~
+0 0 12074
+S
+#12064
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12054
+D1
+~
+~
+0 0 12065
+D2
+~
+~
+0 0 12074
+D3
+~
+~
+0 0 12063
+D6
+~
+~
+0 0 12053
+D7
+~
+~
+0 0 12055
+D8
+~
+~
+0 0 12073
+D9
+~
+~
+0 0 12075
+S
+#12065
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12055
+D1
+~
+~
+0 0 12066
+D2
+~
+~
+0 0 12075
+D3
+~
+~
+0 0 12064
+D6
+~
+~
+0 0 12054
+D7
+~
+~
+0 0 12056
+D8
+~
+~
+0 0 12074
+D9
+~
+~
+0 0 12076
+S
+#12066
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12056
+D1
+~
+~
+0 0 12067
+D2
+~
+~
+0 0 12076
+D3
+~
+~
+0 0 12065
+D6
+~
+~
+0 0 12055
+D7
+~
+~
+0 0 12057
+D8
+~
+~
+0 0 12075
+D9
+~
+~
+0 0 12077
+S
+#12067
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12057
+D1
+~
+~
+0 0 12068
+D2
+~
+~
+0 0 12077
+D3
+~
+~
+0 0 12066
+D6
+~
+~
+0 0 12056
+D7
+~
+~
+0 0 12058
+D8
+~
+~
+0 0 12076
+D9
+~
+~
+0 0 12078
+S
+#12068
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12058
+D1
+~
+~
+0 0 12069
+D2
+~
+~
+0 0 12078
+D3
+~
+~
+0 0 12067
+D6
+~
+~
+0 0 12057
+D7
+~
+~
+0 0 12059
+D8
+~
+~
+0 0 12077
+D9
+~
+~
+0 0 12079
+S
+#12069
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12059
+D1
+~
+~
+0 0 11160
+D2
+~
+~
+0 0 12079
+D3
+~
+~
+0 0 12068
+D6
+~
+~
+0 0 12058
+D7
+~
+~
+0 0 11150
+D8
+~
+~
+0 0 12078
+D9
+~
+~
+0 0 11170
+S
+#12070
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12060
+D1
+~
+~
+0 0 12071
+D2
+~
+~
+0 0 12080
+D3
+~
+~
+0 0 11279
+D6
+~
+~
+0 0 11269
+D7
+~
+~
+0 0 12061
+D8
+~
+~
+0 0 11289
+D9
+~
+~
+0 0 12081
+S
+#12071
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12061
+D1
+~
+~
+0 0 12072
+D2
+~
+~
+0 0 12081
+D3
+~
+~
+0 0 12070
+D6
+~
+~
+0 0 12060
+D7
+~
+~
+0 0 12062
+D8
+~
+~
+0 0 12080
+D9
+~
+~
+0 0 12082
+S
+#12072
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12062
+D1
+~
+~
+0 0 12073
+D2
+~
+~
+0 0 12082
+D3
+~
+~
+0 0 12071
+D6
+~
+~
+0 0 12061
+D7
+~
+~
+0 0 12063
+D8
+~
+~
+0 0 12081
+D9
+~
+~
+0 0 12083
+S
+#12073
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12063
+D1
+~
+~
+0 0 12074
+D2
+~
+~
+0 0 12083
+D3
+~
+~
+0 0 12072
+D6
+~
+~
+0 0 12062
+D7
+~
+~
+0 0 12064
+D8
+~
+~
+0 0 12082
+D9
+~
+~
+0 0 12084
+S
+#12074
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12064
+D1
+~
+~
+0 0 12075
+D2
+~
+~
+0 0 12084
+D3
+~
+~
+0 0 12073
+D6
+~
+~
+0 0 12063
+D7
+~
+~
+0 0 12065
+D8
+~
+~
+0 0 12083
+D9
+~
+~
+0 0 12085
+S
+#12075
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12065
+D1
+~
+~
+0 0 12076
+D2
+~
+~
+0 0 12085
+D3
+~
+~
+0 0 12074
+D6
+~
+~
+0 0 12064
+D7
+~
+~
+0 0 12066
+D8
+~
+~
+0 0 12084
+D9
+~
+~
+0 0 12086
+S
+#12076
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12066
+D1
+~
+~
+0 0 12077
+D2
+~
+~
+0 0 12086
+D3
+~
+~
+0 0 12075
+D6
+~
+~
+0 0 12065
+D7
+~
+~
+0 0 12067
+D8
+~
+~
+0 0 12085
+D9
+~
+~
+0 0 12087
+S
+#12077
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12067
+D1
+~
+~
+0 0 12078
+D2
+~
+~
+0 0 12087
+D3
+~
+~
+0 0 12076
+D6
+~
+~
+0 0 12066
+D7
+~
+~
+0 0 12068
+D8
+~
+~
+0 0 12086
+D9
+~
+~
+0 0 12088
+S
+#12078
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12068
+D1
+~
+~
+0 0 12079
+D2
+~
+~
+0 0 12088
+D3
+~
+~
+0 0 12077
+D6
+~
+~
+0 0 12067
+D7
+~
+~
+0 0 12069
+D8
+~
+~
+0 0 12087
+D9
+~
+~
+0 0 12089
+S
+#12079
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12069
+D1
+~
+~
+0 0 11170
+D2
+~
+~
+0 0 12089
+D3
+~
+~
+0 0 12078
+D6
+~
+~
+0 0 12068
+D7
+~
+~
+0 0 11160
+D8
+~
+~
+0 0 12088
+D9
+~
+~
+0 0 11180
+S
+#12080
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12070
+D1
+~
+~
+0 0 12081
+D2
+~
+~
+0 0 12090
+D3
+~
+~
+0 0 11289
+D6
+~
+~
+0 0 11279
+D7
+~
+~
+0 0 12071
+D8
+~
+~
+0 0 11299
+D9
+~
+~
+0 0 12091
+S
+#12081
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12071
+D1
+~
+~
+0 0 12082
+D2
+~
+~
+0 0 12091
+D3
+~
+~
+0 0 12080
+D6
+~
+~
+0 0 12070
+D7
+~
+~
+0 0 12072
+D8
+~
+~
+0 0 12090
+D9
+~
+~
+0 0 12092
+S
+#12082
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12072
+D1
+~
+~
+0 0 12083
+D2
+~
+~
+0 0 12092
+D3
+~
+~
+0 0 12081
+D6
+~
+~
+0 0 12071
+D7
+~
+~
+0 0 12073
+D8
+~
+~
+0 0 12091
+D9
+~
+~
+0 0 12093
+S
+#12083
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12073
+D1
+~
+~
+0 0 12084
+D2
+~
+~
+0 0 12093
+D3
+~
+~
+0 0 12082
+D6
+~
+~
+0 0 12072
+D7
+~
+~
+0 0 12074
+D8
+~
+~
+0 0 12092
+D9
+~
+~
+0 0 12094
+S
+#12084
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12074
+D1
+~
+~
+0 0 12085
+D2
+~
+~
+0 0 12094
+D3
+~
+~
+0 0 12083
+D6
+~
+~
+0 0 12073
+D7
+~
+~
+0 0 12075
+D8
+~
+~
+0 0 12093
+D9
+~
+~
+0 0 12095
+S
+#12085
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12075
+D1
+~
+~
+0 0 12086
+D2
+~
+~
+0 0 12095
+D3
+~
+~
+0 0 12084
+D6
+~
+~
+0 0 12074
+D7
+~
+~
+0 0 12076
+D8
+~
+~
+0 0 12094
+D9
+~
+~
+0 0 12096
+S
+#12086
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12076
+D1
+~
+~
+0 0 12087
+D2
+~
+~
+0 0 12096
+D3
+~
+~
+0 0 12085
+D6
+~
+~
+0 0 12075
+D7
+~
+~
+0 0 12077
+D8
+~
+~
+0 0 12095
+D9
+~
+~
+0 0 12097
+S
+#12087
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12077
+D1
+~
+~
+0 0 12088
+D2
+~
+~
+0 0 12097
+D3
+~
+~
+0 0 12086
+D6
+~
+~
+0 0 12076
+D7
+~
+~
+0 0 12078
+D8
+~
+~
+0 0 12096
+D9
+~
+~
+0 0 12098
+S
+#12088
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12078
+D1
+~
+~
+0 0 12089
+D2
+~
+~
+0 0 12098
+D3
+~
+~
+0 0 12087
+D6
+~
+~
+0 0 12077
+D7
+~
+~
+0 0 12079
+D8
+~
+~
+0 0 12097
+D9
+~
+~
+0 0 12099
+S
+#12089
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12079
+D1
+~
+~
+0 0 11180
+D2
+~
+~
+0 0 12099
+D3
+~
+~
+0 0 12088
+D6
+~
+~
+0 0 12078
+D7
+~
+~
+0 0 11170
+D8
+~
+~
+0 0 12098
+D9
+~
+~
+0 0 11190
+S
+#12090
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12080
+D1
+~
+~
+0 0 12091
+D2
+~
+~
+0 0 12100
+D3
+~
+~
+0 0 11299
+D6
+~
+~
+0 0 11289
+D7
+~
+~
+0 0 12081
+D9
+~
+~
+0 0 12101
+S
+#12091
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12081
+D1
+~
+~
+0 0 12092
+D2
+~
+~
+0 0 12101
+D3
+~
+~
+0 0 12090
+D6
+~
+~
+0 0 12080
+D7
+~
+~
+0 0 12082
+D8
+~
+~
+0 0 12100
+D9
+~
+~
+0 0 12102
+S
+#12092
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12082
+D1
+~
+~
+0 0 12093
+D2
+~
+~
+0 0 12102
+D3
+~
+~
+0 0 12091
+D6
+~
+~
+0 0 12081
+D7
+~
+~
+0 0 12083
+D8
+~
+~
+0 0 12101
+D9
+~
+~
+0 0 12103
+S
+#12093
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12083
+D1
+~
+~
+0 0 12094
+D2
+~
+~
+0 0 12103
+D3
+~
+~
+0 0 12092
+D6
+~
+~
+0 0 12082
+D7
+~
+~
+0 0 12084
+D8
+~
+~
+0 0 12102
+D9
+~
+~
+0 0 12104
+S
+#12094
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12084
+D1
+~
+~
+0 0 12095
+D2
+~
+~
+0 0 12104
+D3
+~
+~
+0 0 12093
+D6
+~
+~
+0 0 12083
+D7
+~
+~
+0 0 12085
+D8
+~
+~
+0 0 12103
+D9
+~
+~
+0 0 12105
+S
+#12095
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12085
+D1
+~
+~
+0 0 12096
+D2
+~
+~
+0 0 12105
+D3
+~
+~
+0 0 12094
+D6
+~
+~
+0 0 12084
+D7
+~
+~
+0 0 12086
+D8
+~
+~
+0 0 12104
+D9
+~
+~
+0 0 12106
+S
+#12096
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12086
+D1
+~
+~
+0 0 12097
+D2
+~
+~
+0 0 12106
+D3
+~
+~
+0 0 12095
+D6
+~
+~
+0 0 12085
+D7
+~
+~
+0 0 12087
+D8
+~
+~
+0 0 12105
+D9
+~
+~
+0 0 12107
+S
+#12097
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12087
+D1
+~
+~
+0 0 12098
+D2
+~
+~
+0 0 12107
+D3
+~
+~
+0 0 12096
+D6
+~
+~
+0 0 12086
+D7
+~
+~
+0 0 12088
+D8
+~
+~
+0 0 12106
+D9
+~
+~
+0 0 12108
+S
+#12098
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12088
+D1
+~
+~
+0 0 12099
+D2
+~
+~
+0 0 12108
+D3
+~
+~
+0 0 12097
+D6
+~
+~
+0 0 12087
+D7
+~
+~
+0 0 12089
+D8
+~
+~
+0 0 12107
+D9
+~
+~
+0 0 12109
+S
+#12099
+The Great Barrier Sea~
+You are on the cool green waters of The Great Barrier Sea.  Many a
+sailor has attempted to make the journey over these waters and many
+failed.  You can see the rocky peaks of underground mountains protruding
+out of the water here and there in all directions.
+~
+0 0 11
+D0
+~
+~
+0 0 12089
+D1
+~
+~
+0 0 11190
+D2
+~
+~
+0 0 12109
+D3
+~
+~
+0 0 12098
+D6
+~
+~
+0 0 12088
+D7
+~
+~
+0 0 11180
+D8
+~
+~
+0 0 12108
+D9
+~
+~
+0 0 11600
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11000 100 12000 2 Load a tuna fish
+M 0 11005 100 12002 2 Load an aboleth
+M 0 11005 100 12006 2 Load an aboleth
+M 0 11003 100 12010 2 Load a {Csea{x dragon
+M 0 11000 100 12011 2 Load a tuna fish
+M 0 11008 100 12013 2 Load a jellyfish
+M 0 11008 100 12013 2 Load a jellyfish
+M 0 11008 100 12015 2 Load a jellyfish
+M 0 11008 100 12016 2 Load a jellyfish
+M 0 11000 100 12017 2 Load a tuna fish
+M 0 11000 100 12017 2 Load a tuna fish
+M 0 11008 100 12019 2 Load a jellyfish
+M 0 11003 100 12019 2 Load a {Csea{x dragon
+M 0 11001 100 12020 2 Load a octopus
+M 0 11002 100 12021 2 Load a man o'war
+M 0 11000 100 12022 2 Load a tuna fish
+M 0 11005 100 12022 2 Load an aboleth
+M 0 11006 100 12027 2 Load a dolphin
+M 0 11001 100 12028 2 Load a octopus
+M 0 11002 100 12028 2 Load a man o'war
+M 0 11000 100 12030 2 Load a tuna fish
+M 0 11000 100 12032 2 Load a tuna fish
+M 0 11005 100 12034 2 Load an aboleth
+M 0 11002 100 12035 2 Load a man o'war
+M 0 11008 100 12036 2 Load a jellyfish
+M 0 11005 100 12037 2 Load an aboleth
+M 0 11008 100 12038 2 Load a jellyfish
+M 0 11006 100 12042 2 Load a dolphin
+M 0 11006 100 12049 2 Load a dolphin
+M 0 11003 100 12050 2 Load a {Csea{x dragon
+M 0 11005 100 12052 2 Load an aboleth
+M 0 11005 100 12053 2 Load an aboleth
+M 0 11002 100 12057 2 Load a man o'war
+M 0 11005 100 12064 2 Load an aboleth
+M 0 11006 100 12066 2 Load a dolphin
+M 0 11008 100 12067 2 Load a jellyfish
+M 0 11001 100 12069 2 Load a octopus
+M 0 11005 100 12071 2 Load an aboleth
+M 0 11007 100 12073 2 Load a sea hag
+M 0 11000 100 12075 2 Load a tuna fish
+M 0 11003 100 12081 2 Load a {Csea{x dragon
+M 0 11002 100 12082 2 Load a man o'war
+M 0 11003 100 12088 2 Load a {Csea{x dragon
+M 0 11001 100 12090 2 Load a octopus
+M 0 11000 100 12091 2 Load a tuna fish
+M 0 11000 100 12091 2 Load a tuna fish
+M 0 11005 100 12092 2 Load an aboleth
+M 0 11003 100 12095 2 Load a {Csea{x dragon
+M 0 11006 100 12097 2 Load a dolphin
+M 0 11006 100 12099 2 Load a dolphin
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

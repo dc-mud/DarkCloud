@@ -1,0 +1,347 @@
+Name        barbarian~
+Class       11
+WhoName     Bar~
+Attrprime   str
+AttrSecond  con
+Weapon      3702
+Guild       3022
+Guild       9633
+Guild       745
+Skilladept  70
+Thac0_00    18
+Thac0_32    -11
+Hpmin       12
+Hpmax       16
+Mana        0
+BaseGroup   'barbarian basics'
+DefGroup    'barbarian default'
+IsReclass   1
+IsEnabled   1
+Sk 'axe' 1 4
+Sk 'dagger' 1 2
+Sk 'flail' 1 4
+Sk 'mace' 1 3
+Sk 'polearm' 1 4
+Sk 'shield block' 1 2
+Sk 'spear' 1 3
+Sk 'sword' 1 2
+Sk 'whip' 1 4
+Sk 'bash' 1 4
+Sk 'enhanced damage' 1 3
+Sk 'parry' 1 4
+Sk 'rescue' 1 4
+Sk 'scrolls' 1 8
+Sk 'staves' 1 8
+Sk 'wands' 1 8
+Sk 'recall' 1 2
+Sk 'swim' 1 1
+Sk 'dirt kicking' 3 4
+Sk 'warcry' 4 3
+Sk 'second attack' 5 3
+Sk 'enhanced recall' 5 2
+Sk 'power swing' 5 1
+Sk 'hand to hand' 6 4
+Sk 'fast healing' 6 4
+Sk 'pick lock' 7 2
+Sk 'kick' 8 3
+Sk 'sneak' 10 6
+Sk 'disarm' 11 4
+Sk 'third attack' 12 4
+Sk 'hide' 12 6
+Sk 'dodge' 13 6
+Sk 'natural refresh' 13 2
+Sk 'haggle' 14 6
+Sk 'peek' 14 6
+Sk 'trip' 15 8
+Sk 'acute vision' 15 2
+Sk 'infravision' 16 2
+Sk 'blind fighting' 19 2
+Sk 'dual wield' 25 6
+Sk 'fourth attack' 25 4
+Sk 'cleanse' 29 2
+Sk 'envenom' 32 4
+Sk 'lore' 43 8
+Sk 'second wind' 43 4
+Sk 'reserved' 52 -1
+Sk 'acid blast' 52 -1
+Sk 'armor' 52 -1
+Sk 'bless' 52 -1
+Sk 'blindness' 52 -1
+Sk 'water breathing' 52 -1
+Sk 'burning hands' 52 -1
+Sk 'call lightning' 52 -1
+Sk 'calm' 52 -1
+Sk 'cancellation' 52 -1
+Sk 'cause critical' 52 -1
+Sk 'cause light' 52 -1
+Sk 'cause serious' 52 -1
+Sk 'chain lightning' 52 -1
+Sk 'change sex' 52 -1
+Sk 'charm person' 52 -1
+Sk 'chill touch' 52 -1
+Sk 'color spray' 52 -1
+Sk 'continual light' 52 -1
+Sk 'control weather' 52 -1
+Sk 'create food' 52 -1
+Sk 'create rose' 52 -1
+Sk 'create spring' 52 -1
+Sk 'create water' 52 -1
+Sk 'cure blindness' 52 -1
+Sk 'cure critical' 52 -1
+Sk 'cure disease' 52 -1
+Sk 'cure light' 52 -1
+Sk 'cure poison' 52 -1
+Sk 'cure serious' 52 -1
+Sk 'curse' 52 -1
+Sk 'demonfire' 52 -1
+Sk 'detect evil' 52 -1
+Sk 'detect good' 52 -1
+Sk 'detect hidden' 52 -1
+Sk 'detect invis' 52 -1
+Sk 'detect magic' 52 -1
+Sk 'detect poison' 52 -1
+Sk 'dispel evil' 52 -1
+Sk 'dispel good' 52 -1
+Sk 'dispel magic' 52 -1
+Sk 'earthquake' 52 -1
+Sk 'enchant armor' 52 -1
+Sk 'enchant weapon' 52 -1
+Sk 'enchant person' 52 -1
+Sk 'withering enchant' 52 -1
+Sk 'sequestor' 52 -1
+Sk 'interlace spirit' 52 -1
+Sk 'wizard mark' 52 -1
+Sk 'enchant gem' 52 -1
+Sk 'restore weapon' 52 -1
+Sk 'restore armor' 52 -1
+Sk 'disenchant' 52 -1
+Sk 'energy drain' 52 -1
+Sk 'faerie fire' 52 -1
+Sk 'faerie fog' 52 -1
+Sk 'farsight' 52 -1
+Sk 'fireball' 52 -1
+Sk 'ice blast' 52 -1
+Sk 'fireproof' 52 -1
+Sk 'flamestrike' 52 -1
+Sk 'fly' 52 -1
+Sk 'floating disc' 52 -1
+Sk 'frenzy' 52 -1
+Sk 'gate' 52 -1
+Sk 'giant strength' 52 -1
+Sk 'harm' 52 -1
+Sk 'haste' 52 -1
+Sk 'heal' 52 -1
+Sk 'heat metal' 52 -1
+Sk 'holy word' 52 -1
+Sk 'identify' 52 -1
+Sk 'invisibility' 52 -1
+Sk 'know alignment' 52 -1
+Sk 'lightning bolt' 52 -1
+Sk 'locate object' 52 -1
+Sk 'magic missile' 52 -1
+Sk 'mass healing' 52 -1
+Sk 'mass invisibility' 52 -1
+Sk 'nexus' 52 -1
+Sk 'pass door' 52 -1
+Sk 'plague' 52 -1
+Sk 'poison' 52 -1
+Sk 'portal' 52 -1
+Sk 'protection evil' 52 -1
+Sk 'protection good' 52 -1
+Sk 'ray of truth' 52 -1
+Sk 'recharge' 52 -1
+Sk 'refresh' 52 -1
+Sk 'remove curse' 52 -1
+Sk 'sanctuary' 52 -1
+Sk 'shield' 52 -1
+Sk 'shocking grasp' 52 -1
+Sk 'sleep' 52 -1
+Sk 'slow' 52 -1
+Sk 'stone skin' 52 -1
+Sk 'summon' 52 -1
+Sk 'teleport' 52 -1
+Sk 'ventriloquate' 52 -1
+Sk 'weaken' 52 -1
+Sk 'word of recall' 52 -1
+Sk 'acid breath' 52 -1
+Sk 'fire breath' 52 -1
+Sk 'frost breath' 52 -1
+Sk 'gas breath' 52 -1
+Sk 'lightning breath' 52 -1
+Sk 'general purpose' 52 -1
+Sk 'high explosive' 52 -1
+Sk 'locate wizard mark' 52 -1
+Sk 'backstab' 52 -1
+Sk 'meditation' 52 -1
+Sk 'steal' 52 -1
+Sk 'spellcraft' 52 -1
+Sk 'waves of weariness' 52 -1
+Sk 'sacrificial heal' 52 -1
+Sk 'mass refresh' 52 -1
+Sk 'vitalizing presence' 52 -1
+Sk 'life boost' 52 -1
+Sk 'magic resistance' 52 -1
+Sk 'mana transfer' 52 -1
+Sk 'cure weaken' 52 -1
+Sk 'restore mental presence' 52 -1
+Sk 'sense affliction' 52 -1
+Sk 'cure slow' 52 -1
+Sk 'immortal blessing' 52 -1
+Sk 'nourishment' 52 -1
+Sk 'enhanced recovery' 52 -1
+Sk 'dirge' 52 -1
+Sk 'disorientation' 52 -1
+Sk 'song of protection' 52 -1
+Sk 'healers bind' 52 -1
+Sk 'song of dissonance' 52 -1
+Sk 'cure deafness' 52 -1
+Sk 'disorient' 52 -1
+Sk 'remove faerie fire' 52 -1
+Sk 'gore' 52 -1
+Sk 'ghost' 52 -1
+Sk 'track' 52 -1
+Sk 'butcher' 52 -1
+Sk 'bandage' 52 -1
+Sk 'bark skin' 52 -1
+Sk 'self growth' 52 -1
+Sk 'quiet movement' 52 -1
+Sk 'camping' 52 -1
+Sk 'camouflage' 52 -1
+Sk 'ambush' 52 -1
+Sk 'find water' 52 -1
+Sk 'fog' 52 -1
+Sk 'dispel fog' 52 -1
+Sk 'locate bind' 52 -1
+Sk 'poison prick' 52 -1
+Sk 'shiv' 52 -1
+Sk 'protection neutral' 52 -1
+Sk 'escape' 52 -1
+Sk 'peer' 52 -1
+Sk 'bludgeon' 52 -1
+Sk 'revolt' 52 -1
+Sk 'imbue' 52 -1
+Sk 'preserve' 52 -1
+Sk 'psionic blast' 52 -1
+Sk 'healing dream' 52 -1
+Sk 'mental weight' 52 -1
+Sk 'forget' 52 -1
+Sk 'psionic focus' 52 -1
+Sk 'clairvoyance' 52 -1
+Sk 'psionic shield' 52 -1
+Sk 'boost' 52 -1
+Sk 'prayer' 52 -1
+Sk 'agony' 52 -1
+Sk 'holy presence' 52 -1
+Sk 'displacement' 52 -1
+Sk 'holy flame' 52 -1
+Sk 'divine wisdom' 52 -1
+Sk 'know religion' 52 -1
+Sk 'guardian angel' 52 -1
+Sk 'water walk' 52 -1
+Sk 'magic protection' 52 -1
+Sk 'precision striking' 52 -1
+Sk 'stab' 52 -1
+Sk 'detect fireproof' 52 -1
+Sk 'survey terrain' 52 -1
+Sk 'smoke bomb' 52 -1
+Sk 'self projection' 52 -1
+Sk 'curse of the storm' 52 -1
+Sk 'dark vision' 52 -1
+Sk 'increase armor' 52 -1
+Sk 'knock' 52 -1
+Sk 'increased damage' 52 -1
+Sk 'extend portal' 52 -1
+Sk 'heaviness' 52 -1
+Sk 'feeble mind' 52 -1
+Sk 'blink' 52 -1
+Sk 'mental presence' 52 -1
+Sk 'poison spray' 52 -1
+Sk 'false life' 52 -1
+Sk 'berserk' 53 0
+Gr 'rom basics' 0
+Gr 'mage basics' 0
+Gr 'cleric basics' 0
+Gr 'thief basics' 0
+Gr 'warrior basics' 0
+Gr 'barbarian basics' 0
+Gr 'enchanter basics' 0
+Gr 'healer basics' 0
+Gr 'wizard basics' 0
+Gr 'dirge basics' 0
+Gr 'ranger basics' 0
+Gr 'rogue basics' 0
+Gr 'psionicist basics' 0
+Gr 'priest basics' 0
+Gr 'mage default' 0
+Gr 'wizard default' 0
+Gr 'cleric default' 0
+Gr 'thief default' 0
+Gr 'warrior default' 0
+Gr 'barbarian default' 40
+Gr 'enchanter default' 0
+Gr 'healer default' 0
+Gr 'dirge default' 0
+Gr 'ranger default' 0
+Gr 'rogue default' 0
+Gr 'psionicist default' 0
+Gr 'priest default' 0
+Gr 'weaponsmaster' 20
+Gr 'attack' 0
+Gr 'beguiling' 0
+Gr 'benedictions' 0
+Gr 'combat' 0
+Gr 'creation' 0
+Gr 'curative' 0
+Gr 'detection' 0
+Gr 'draconian' 0
+Gr 'enchantment' 0
+Gr 'enhancement' 0
+Gr 'harmful' 0
+Gr 'healing' 0
+Gr 'advanced healing' 0
+Gr 'advanced curative' 0
+Gr 'illusion' 0
+Gr 'maladictions' 0
+Gr 'protective' 0
+Gr 'transportation' 0
+Gr 'weather' 0
+Gr 'dirges' 0
+Gr 'nature' 0
+Gr 'psionics' 0
+Gr 'divination' 0
+Gr 'advanced wizardry' 0
+* null race (0)
+Mult 0 100
+* human (1)
+Mult 1 100
+* elf (2)
+Mult 2 200
+* half elf (3)
+Mult 3 150
+* wild elf (4)
+Mult 4 125
+* sea elf (5)
+Mult 5 150
+* dark elf (6)
+Mult 6 200
+* dwarf (7)
+Mult 7 100
+* hill dwarf (8)
+Mult 8 100
+* mountain dwarf (9)
+Mult 9 100
+* dark dwarf (10)
+Mult 10 100
+* ogre (11)
+Mult 11 100
+* giant ogre (12)
+Mult 12 100
+* kender (13)
+Mult 13 200
+* minotaur (14)
+Mult 14 125
+* yinn (15)
+Mult 15 150
+* gully dwarf (16)
+Mult 16 100
+End

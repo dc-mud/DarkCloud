@@ -1,0 +1,232 @@
+<html>
+<head>
+    <title>Mud Client/Server Interaction</title>
+    <link rel="stylesheet" href="/styles/cryo.css">
+</head>
+<body>
+    <h1>Everything You Wanted To Know About Mud Client/Server Interaction But Were Afraid To Ask</h1>
+    by Abi Brady
+    <p>
+        If you have any comments to make about this document, please feel free to contact me
+        at <a href="mailto:morwen@evilmagic.org">morwen@evilmagic.org</a>.
+
+        <h2>The Telnet Protocol</h2>
+        Muds communicate with their clients with the Telnet protocol. You shouldn't write a mud client
+        or server without reading RFCs <a href="http://www.faqs.org/rfcs/rfc854.html">854</a> and
+        <a href="http://www.faqs.org/rfcs/rfc855.html">855</a>, which specify this.
+
+        Most clients and servers do not implement the full protocol. In particular, it is rare for
+        options to be renegotiable.  Accordingly, both ends should be tolerant.
+    <p>
+        The Telnet protocol uses 0xff as an escape character, both ways.  To send the data-byte 0xff,
+        a client or server MUST send 0xff 0xff. (IAC IAC).
+    <p>
+        If a program justs want to ignore the telnet stuff, then it's easy to do.
+    <p>
+<pre>
+  IAC IAC -> data byte 255
+  IAC WILL/WONT/DO/DONT xxx -> ignore
+  IAC SB xxx ... IAC SE -> ignore
+  IAC other -> ignore
+</pre>
+    <p>
+        The telnet parser MUST be written as a state machine on a layer on its own - there's no reason
+        why telnet sequences are not allowed to come in the middle of an escape sequence.
+        Do not assume that telnet or ansi sequences are not split across packets.
+    <p>
+        The client MUST defer sending its own telnet negotiation requests until such time as it
+        knows the server will be able to understand them.  This means getting WILL or DO request
+        for an option other than ECHO. (Many Dikus and derivatives are broken such that
+        if the client sends IAC WILL LINEMODE, they fail to filter out the LINEMODE (it being 34, and thus
+        the printable character "), and think it intended as part of the user name.  If the server
+        sends IAC sequences to a client that it doesn't know supports it, the worst that can happen
+        is that the client displays crap on the screen.)
+    <p>
+        The character set used by the Telnet protocol is US-ASCII.  Servers MAY use another character set
+        appropriate to the language of the mud (for example, ISO-8859-1, KOI8-R) by default, but there
+        SHOULD be an option to send only ASCII.  Obviously this requirement doesn't make sense for languages
+        where transliteration is expensive.  Clients MUST be able to deal with the usual encoding
+        for their locale.  For example, a mud client aimed at western users MUST be able to deal with
+        ISO-8859-1.
+    <p>
+        (According to the Telnet spec, only US-ASCII is allowed on the wire. However, there's no useful
+        way of negotiating - <a href="http://www.faqs.org/rfcs/rfc2066.html">RFC 2066</a>'s CHARSET
+        option is hardly implemented, and ISO-2022 is useless for most character sets. Further, even binary
+        mode is not useful, as it changes the end-of-line codes from the standard values to platform-specific
+        ones.  Therefore, BINARY mode MUST NOT be requested by servers or clients, however clients MAY
+        accept it if offered.)
+        <h2>Ansi Sequences</h2>
+        Telnet makes no guarantees that what is at the other end is a terminal capable of parsing
+        ANSI sequences.  However any mud client that cannot is clearly deficient.  In the
+        <a href="/telnet">survey</a>, a few of these were discovered - all of which are unmaintained.
+        As long as the server keeps itself to a limited set, all is safe.
+        See <a href="http://www.ecma.ch/ecma1/STAND/ECMA-048.HTM">ECMA 48</a> (downloadable for free as a pdf) for the full details,
+        the minimal collection is -
+    <p>
+        <table border=1>
+            <tr><td>code<td>meaning
+            <tr><td>ESC[0m<td>reset all attributes and colours to default
+            <tr><td>ESC[1m<td>bold
+            <tr><td>ESC[3m<td>italic (unreliable)
+            <tr><td>ESC[4m<td>underline (unreliable)
+            <tr><td>ESC[22m<td>bold off (unreliable)
+            <tr><td>ESC[23m<td>italic off (unreliable)
+            <tr><td>ESC[24m<td>underline off (unreliable)
+            <tr><td>ESC[30m ... ESC[37m<td>black fg .. white fg
+            <tr><td>ESC[39m<td>default fg (unreliable)
+            <tr><td>ESC[40m ... ESC[47m<td>black bg .. white fg
+            <tr><td>ESC[49m<td>default fg (unreliable)
+        </table>
+    <p>
+        The client MUST default to white-on-black or some other light-on-dark colour scheme where neither
+        the background nor the foreground is one of the 7 other standard colours.  If it doesn't, then
+        the server has no way of using colour safely.  The client MAY allow the user to customise their
+        colour scheme to be black-on-white or however they like.
+    <p>
+        ESC[m is defined to be an alias for ESC[0m, but quite a lot of mud clients don't know this. Many
+        even have problems with parsing sequences like ESC[0;1;3;32;45m.  These MUST be supported by clients,
+        but SHOULD NOT be sent by servers.
+    <p>
+        XFree86 xterm (when compiled to) supports a very useful extension to a 256-colour thing, including a
+        6x6x6 colour cube. To set fg, do ESC[38;5;<i>n</i>m, and bg ESC[48;5;<i>n</i>m.  There is no need
+        in a mud server to worry about programming the palette, the mud client should do any reprogramming
+        of the palette to the standard one if possible. 0..15 are the regular colours, once in normal form,
+        one in bright form. 16-231 are a 6x6x6 colour cube. To get the offset, (red * 36) + (green * 6) + blue.
+        Finally, 232-255 is a greyscale. 232 is very dark gray, 255 is very light gray.  See xterm's 256colres.h
+        for the exact RGB values.
+    <p>
+        Any other sequences than ESC[...m are not implemented by most mud clients and SHOULD NOT be used
+        unless known safe through other means.  This includes cursor movement.
+        <h2>Input and Echo</h2>
+        Local echo MUST be on by default.  Many muds are designed to work with telnet, and expect echo to be
+        on, unless they turn it off.  This means that after a prompt, they will not supply their own newline,
+        having expected the client to have put one in the buffer for them.
+        <table border=1>
+            <tr><td><td>broken client<td>nice client
+            <tr><td>user sees...<td><pre>&gt;<td><pre>&gt;
+            <tr><td>user inputs....<td><pre>look<td><pre>look
+            <tr>
+                <td>user sees...
+                <td><pre>&gt;You are standing in Muon's Bar.
+                <td>
+                    <pre>&gt;look
+You are standing in Muon's Bar.
+        </table>
+    <p>
+        A "turn local echo off always" MAY be provided, but the newline must still be printed even if this is
+        turned on.  Likewise, if the mud has turned echo off, you MUST NOT put anything into the buffer, as the
+        mud supplies its own newline.
+        <h2>Telnet Options - Echo</h2>
+        The mud sends "IAC WILL ECHO", meaning "I, the server, will do any echoing from now on." The client
+        should acknowledge this with an IAC DO ECHO, and then stop putting echoed text in the input buffer.
+        It should also do whatever is appropriate for password entry to the input box thing - for example,
+        it might * it out.  Text entered in server-echoes mode should also not be placed any command history.
+    <p>
+        When the mud wants the client to start local echoing again, it sends "IAC WONT ECHO" - the client
+        must respond to this with "IAC DONT ECHO".
+    <p>
+        See <a href="http://www.faqs.org/rfcs/rfc857.html">RFC 857</a>.
+        <h2>Prompts</h2>
+        Most muds (aber, dikus, lps, but not mushes or moos), use prompts.  These are tricky things.  The server
+        wants the prompt to be displayed to the left of the input line.  In a terminal-based
+        mud client this often no problem to arrange, and no special prompt detection is needed.  However,
+        GUI apps will need to be able to distinguish a prompt from a line that just hasn't come in yet.
+    <p>
+        The usual way of doing this is (a) to send IAC GA after a prompt, or (b) for the mud to send IAC WILL
+        TELOPT_EOR, then the client to send IAC DO TELOPT_EOR, and then the mud will send IAC EOR after every prompt. (see
+        <a href="http://www.faqs.org/rfcs/rfc885.html">RFC 885</a> for EOR).
+        According to the tinyfugue documents, some muds use "*\b" as a prompt terminator.  I have never seen
+        this in the wild.
+    <p>
+        This is all well and good, except for the fact that some lpmuds, and possibly others, assume some
+        quite bizarre semantics at the client end.  They'll assume that the text up to the prompt terminator
+        be spirited away into some other prompt buffer - and any text they send from then on be displayed
+        before the prompt.
+    <p>
+        <table border=1>
+            <tr><td>sent from mud<td>expected to be displayed<td>displayed under 'telnet'
+            <tr><td>100/100&gt;[IAC GA]<td>100/100&gt;<td>100/100&gt;
+            <tr><td>You are hungry.\r\n<td>You are hungry.<br>100/100&gt;<td>100/100&gt;You are hungry.
+        </table>
+    <p>
+        This is indeed what tinyfugue does, and a few others. If done carefully, it needn't break muds that are doing it sensibly.
+    <p>
+        The sensible way to do this, done in Abermuds and perhaps a few others, is to send "100/100&gt;\rYou are hungry.\r\n100/100&gt;".  This has the downside that not all the prompt gets wiped if the message is shorter than
+        the prompt.  ESC[2k could be used for this if the mud knows it has a client that supports it.  This does lead to a nasty
+        race condition, though, so perhaps the magic prompt marking approach does have merits.
+        <h2>Client Identification</h2>
+        This is specified in <a href="http://www.faqs.org/rfcs/rfc1091.html">RFC 1091</a>.
+        Server sends IAC DO TELOPT_TTYPE, client sends IAC WILL TELOPT_TTYPE, server
+        sends IAC SB TELOPT_TTYPE SEND IAC SE, client sents IAC SB TELOPT_TTYPE IS [terminal-type] IAC SE.
+    <p>
+        The client should not send out a useless generic name like "ansi" or "vt102" (or worse, "linux"). Instead
+        it should send out a name like "zmud", "mushclient", "lyntin".  This allows the authors of the mud server
+        to make decisions based on what the mud client is, and what the known capabilities are.  It might be
+        desirable to encode version number of the client there in some way, too, but there's no precedent for doing
+        this.
+    <p>
+        If the server doesn't understand the terminal type, it can request another one, and the client can
+        go through a list. For example, zmud, vt102, ansi, unknown.
+    <p>
+        <h2>Window Size</h2>
+        The server may need to know how big the clients window size is, for various reasons - where to
+        wordwrap, how much to page, how big to make tables, etc.  For this reason the client should
+        implement the NAWS option,
+    <p>
+        The server sends IAC DO TELOPT_NAWS, the client sends IAC WILL TELOPT_NAWS. It then immediately,
+        and whenever the window size changes (even if its just a case of the window staying the same size
+        and the font size changing), sends the server the window size.  The server makes no requests. I've
+        seen some clients that agree to do NAWS and then await a IAC SB TELOPT_NAWS SEND IAC SE from
+        the server before actually sending it out.  This is wrong wrong wrong.
+    <p>
+        The format of the NAWS subnegotiation is specified in <a href="http://www.faqs.org/rfcs/rfc1073.html">
+            RFC 1073
+        </a>.
+        To quote -
+<pre>
+   The syntax for the subnegotiation is:
+      IAC SB NAWS WIDTH[1] WIDTH[0] HEIGHT[1] HEIGHT[0] IAC SE
+   As required by the Telnet protocol, any occurrence of 255 in the
+   subnegotiation must be doubled to distinguish it from the IAC
+   character (which has a value of 255).
+</pre>
+        Not doubling the 255 is a common error that doesn't show up very often, but can lead to
+        the telnet stack getting into an inconsistent state, and possibly ignoring all future
+        input.  Also remember, that the width and height are in network byte order (big-endian).
+        <h2>Titlebar Setting</h2>
+        Xterm and other terminals support setting the titlebar, with the following sequence.
+        <code>\33]0;</code>string<code>\a</code>
+        This could be used by a mud to display status info that isn't appropriate for a prompt,
+        such as player name and mud name and location within the mud.
+
+        <h2>Mud Specific Protocols</h2>
+        <h3>Compression : MCCP</h3>
+        <a href="http://www.randomly.org/projects/MCCP/">MCCP</a> is quite a nice
+        spec that provides a way to compress data sent from the mud to the client
+        with zlib. Quite wide client and server support.
+        <h3>Hypertext : Pueblo</h3>
+        Pueblo was the first client to support hypertext stuff. I can't find any
+        documentation on the protocol they used.  It's supported by Pueblo, and
+        partial support in mushclient.
+        <h3>Hypertext : MXP</h3>
+        <a href="http://www.zuggsoft.com/zmud/mxp.htm">MXP</a> is an open spec supported
+        by both zmud and mushclient.  It's implemented as a telnet option and is quite
+        nice to implement on a server-side.  Client-side of course will be rather tricky.
+        <h3>Hypertext : IMP</h3>
+        <a href="http://www.firebolt.com/IMP-rfc.php">IMP</a> appears to be a reinvention of MXP.
+        Only one client (fireclient) supports it,
+        there's no formal spec, it doesn't use the telnet protocol as its framework.
+        <h3>Hypertext : MIP</h3>
+        This closed spec has an obnoxious licence that forbids technical commentary of it.
+        Only one client (portal) supports it.
+        <h3>General : MCP</h3>
+        MCP is the <a href="http://www.moo.mud.org/mcp/">Mud Client Protocol</a>. It's oriented
+        towards MOOs, so much so that it is actually impossible to implement on a mud with
+        prompts.   There seems to be nobody to contact about it.
+    <p>
+        It's a metaspec which various packages can be placed on top of. For example, there's
+        a module for sending files to the client for local editing, another for transferring
+        userlists, one for sending timezone information to the server.
+        </table>
+</body>
+</html>

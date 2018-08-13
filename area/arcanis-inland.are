@@ -1,0 +1,382 @@
+#AREADATA
+Name Arcanis Inland~
+Builders Blake~
+VNUMs 1800 1899
+LevelRange 1 51
+Credits Blake~
+Security 9
+Continent 2
+AreaFlags A
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#1800
+A Clearing Near the Silver Sea~
+You see the vast openness of the Silver Sea to the west.  Seagulls fly all 
+about and waves slowly pulse onto the sands of the beach.  A port stands to 
+the west where large and small boats alike enter and leave.  To the east you
+see a small forest. 
+~
+0 0 2
+D1
+~
+~
+0 0 1801
+D3
+~
+~
+0 0 11232
+S
+#1801
+Red Oak Road near the Silver Sea~
+You stand on a trail amid a small, green forest.  You can hear the sounds
+of woodland creatures and a warm, salty breeze from the west rustling
+through the trees and your hair.  Far to the east, you barely make out a
+city and to the west the Silver Sea lines the horizon.  
+~
+0 0 2
+D0
+~
+~
+0 0 2485
+D1
+~
+~
+0 0 1802
+D3
+~
+~
+0 0 1800
+S
+#1802
+Western Red Oak Road~
+Far to the east you can see the gates of the mighty city of Red Oak.  To
+the west you can still smell the sea breeze.  The forest has dwindled down
+into a field here but looks to fill out again to the east.  Perhaps the trees 
+that once stood here are what built Red Oak.
+~
+0 0 0
+D1
+~
+~
+0 0 1803
+D3
+~
+~
+0 0 1801
+S
+#1803
+Middle of a Huge Field~
+You stand in the middle of a field that seems to be surrounded by forest
+on both sides.  The salt air of the sea is beginning to diminish here.
+~
+0 0 2
+D1
+~
+~
+0 0 1804
+D3
+~
+~
+0 0 1802
+S
+#1804
+Western Red Oak Road~
+From the middle of the field, you can just make out the tips of the sails
+in the port to the west, but Red Oak's city gates are looming to the east. 
+The trees all around you seem young and fresh, fragile as the breeze sends
+another wave of leaves down at the edges of the field.  A smaller road leads
+to the south from here.  
+~
+0 0 2
+D1
+~
+~
+0 0 1805
+D2
+~
+~
+0 0 1807
+D3
+~
+~
+0 0 1803
+S
+#1805
+Near the Eastern Gates of Red Oak~
+As you stand at the eastern edge of the field, surrounded on the north
+and south by forest.  Eastward lays the city of Red Oak.
+~
+0 0 2
+D1
+~
+~
+0 0 1806
+D3
+~
+~
+0 0 1804
+S
+#1806
+Outside Red Oak's West Gate~
+The shiny gates of Red Oak lie before you, tall and imposing.  You can see
+guards on the other side of the gates, milling about silently, waiting for
+something to happen.  A road trails off to the west, to the horizon, while a
+small paved path leads into Red Oak.  
+~
+0 0 2
+D1
+~
+~
+0 0 700
+D3
+~
+~
+0 0 1805
+S
+#1807
+Blade Dancer's Road~
+You are standing on a small but well traveled path that runs north and
+south.  To the north is Red Oak Road which runs east and west through
+Arcanis.  To the south appears to be sparse trees which have grown up in the
+fields.  There also appears to be what looks like an establishment to the
+south.  To the east you can hear the clashing of swords on armor as if there
+was a battle going on.  
+~
+0 0 2
+D0
+~
+~
+0 0 1804
+D1
+~
+~
+0 0 8650
+D2
+~
+~
+0 0 1808
+S
+#1808
+Outside the Blade Dancer's Inn~
+You are standing outside the Blade Dancer's Inn.  There are lights coming
+from within and horses tied off outside.  The crowd appears to be small in
+this corner of the world as the inn looks like it has seen better days.  
+ 
+There appears to be a large door to the south that grants access to the
+inn.
+~
+0 0 2
+D0
+~
+~
+0 0 1807
+D2
+~
+~
+1 0 6950
+S
+#1809
+Outside Red Oak's Northern Gate~
+You are standing outside of the northern gates of the town of Red Oak. 
+The dusty and worn you are on continues on to the north while the gates of
+the city are to your south.  There are giant red oak trees that fill in the
+surroundings but not so close that the light from the sun and moon can't
+make it through.  
+~
+0 0 3
+D0
+~
+~
+0 0 1810
+D2
+~
+~
+0 0 712
+S
+#1810
+Along the Northern Road~
+You are standing on the the dusty path of the northern road.  Sparse red
+oak trees line the fields to the east and west and the lights of the town of
+Red Oak can be see far in the distance to the south.  
+~
+0 0 3
+D0
+~
+~
+0 0 1811
+D2
+~
+~
+0 0 1809
+S
+#1811
+Along the Northern Road~
+The nothern road comes to an abrupt end here at a rocky ledge that leads
+sharply down into the deep chasm's of the nothern valley.  To the west you
+can see a drab structure which appears to be some sort of prison.  To the
+northwest you can see the looming Gray Mountains in the distance.  
+~
+0 0 2
+D2
+~
+~
+0 0 1810
+D3
+~
+~
+0 0 15100
+D6
+~
+~
+0 0 2403
+S
+#1812
+Before the Gates of Red Oak~
+The sky glows with the light from the city of Red Oak.  The light from
+the torches placed on the gates illuminate the rutted, muddy ground sloping
+down to the east.  
+~
+0 0 4
+D1
+~
+~
+0 0 1813
+D3
+~
+~
+0 0 708
+S
+#1813
+Rutted Hill~
+Deep ruts mar the ground, created by carts pulled up the muddy hill to
+supply Red Oak with the needed goods to support it's population.  Some of
+the ruts are very wide and filled with water and muck.  
+~
+0 0 4
+D1
+~
+~
+0 0 1814
+D3
+~
+~
+0 0 1812
+S
+#1814
+Before the rutted hill~
+To the west is the "Great mudslide" as it is known throughout the world,
+the trade route to the west gate of Red Oak.  To the east lies the Great
+Forest.  The ground here is somewhat muddy with small ruts creating a swath
+of crisscrossing lines.  
+~
+0 0 2
+D1
+~
+~
+0 0 1815
+D3
+~
+~
+0 0 1813
+S
+#1815
+A small dirt road~
+To the west of you, the frontier town of Red Oak can be seen.  To the
+northeast, the Sylvan Forest can be seen.  
+~
+0 0 2
+D1
+~
+~
+0 0 1816
+D3
+~
+~
+0 0 1814
+S
+#1816
+A small dirt road~
+The road you are on continues off interminably to the east, while back to
+the west Red Oak can be seen glimmering in the light.  Huge trees, and lots
+of them, line the horizon to the northeast, their gentle leaves swaying in
+the light breeze.  
+~
+0 0 2
+D1
+~
+~
+0 0 1817
+D3
+~
+~
+0 0 1815
+S
+#1817
+A small road~
+Leaves drift by on the wind from the trees to the north.  You're sure the
+entrance to the Forest is around here somewhere.  Smells from the kitchen's
+in Red Oak are apparent as you glance back towards the town, to the west. 
+The road you are on continues off to the east, losing itself on the horizon.
+
+~
+0 0 2
+D1
+~
+~
+0 0 1818
+D3
+~
+~
+0 0 1816
+S
+#1818
+A small dirt road~
+The mighty trees of the Sylvan Forest rise before you to the north, their
+massive trunks twisting towards the sky in savage grace.  To the west, the
+sounds and smells of Red Oak are barely present.  
+~
+0 0 2
+D3
+~
+~
+0 0 1817
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1808 2 1
+O 0 31 0 1803 A bind stone loaded to Middle of a Huge Field
+O 0 31 0 1815 A bind stone loaded to A small dirt road
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,4089 @@
+#AREADATA
+Name Great Northwest Ocean~
+Builders Blake~
+VNUMs 11300 11399
+LevelRange 51 51
+Credits Blake~
+Security 9
+Continent 3
+AreaFlags 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11300
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11690
+D1
+~
+~
+0 0 11301
+D2
+~
+~
+0 0 11310
+D3
+~
+~
+0 0 11909
+D7
+~
+~
+0 0 11691
+D8
+~
+~
+0 0 11919
+D9
+~
+~
+0 0 11311
+S
+#11301
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11691
+D1
+~
+~
+0 0 11302
+D2
+~
+~
+0 0 11311
+D3
+~
+~
+0 0 11300
+D6
+~
+~
+0 0 11690
+D7
+~
+~
+0 0 11692
+D8
+~
+~
+0 0 11310
+D9
+~
+~
+0 0 11312
+S
+#11302
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11692
+D1
+~
+~
+0 0 11303
+D2
+~
+~
+0 0 11312
+D3
+~
+~
+0 0 11301
+D6
+~
+~
+0 0 11691
+D7
+~
+~
+0 0 11693
+D8
+~
+~
+0 0 11311
+D9
+~
+~
+0 0 11313
+S
+#11303
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11693
+D1
+~
+~
+0 0 11304
+D2
+~
+~
+0 0 11313
+D3
+~
+~
+0 0 11302
+D6
+~
+~
+0 0 11692
+D7
+~
+~
+0 0 11694
+D8
+~
+~
+0 0 11312
+D9
+~
+~
+0 0 11314
+S
+#11304
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11694
+D1
+~
+~
+0 0 11305
+D2
+~
+~
+0 0 11314
+D3
+~
+~
+0 0 11303
+D6
+~
+~
+0 0 11693
+D7
+~
+~
+0 0 11695
+D8
+~
+~
+0 0 11313
+D9
+~
+~
+0 0 11315
+S
+#11305
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11695
+D1
+~
+~
+0 0 11306
+D2
+~
+~
+0 0 11315
+D3
+~
+~
+0 0 11304
+D6
+~
+~
+0 0 11694
+D7
+~
+~
+0 0 11696
+D8
+~
+~
+0 0 11314
+D9
+~
+~
+0 0 11316
+S
+#11306
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11696
+D1
+~
+~
+0 0 11307
+D2
+~
+~
+0 0 11316
+D3
+~
+~
+0 0 11305
+D6
+~
+~
+0 0 11695
+D7
+~
+~
+0 0 11697
+D8
+~
+~
+0 0 11315
+D9
+~
+~
+0 0 11317
+S
+#11307
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11697
+D1
+~
+~
+0 0 11308
+D2
+~
+~
+0 0 11317
+D3
+~
+~
+0 0 11306
+D6
+~
+~
+0 0 11696
+D7
+~
+~
+0 0 11698
+D8
+~
+~
+0 0 11316
+D9
+~
+~
+0 0 11318
+S
+#11308
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11698
+D1
+~
+~
+0 0 11309
+D2
+~
+~
+0 0 11318
+D3
+~
+~
+0 0 11307
+D6
+~
+~
+0 0 11697
+D7
+~
+~
+0 0 11699
+D8
+~
+~
+0 0 11317
+D9
+~
+~
+0 0 11319
+S
+#11309
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11699
+D1
+~
+~
+0 0 11400
+D2
+~
+~
+0 0 11319
+D3
+~
+~
+0 0 11308
+D6
+~
+~
+0 0 11698
+D8
+~
+~
+0 0 11318
+D9
+~
+~
+0 0 11410
+S
+#11310
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11300
+D1
+~
+~
+0 0 11311
+D2
+~
+~
+0 0 11320
+D3
+~
+~
+0 0 11919
+D6
+~
+~
+0 0 11909
+D7
+~
+~
+0 0 11301
+D8
+~
+~
+0 0 11929
+D9
+~
+~
+0 0 11321
+S
+#11311
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11301
+D1
+~
+~
+0 0 11312
+D2
+~
+~
+0 0 11321
+D3
+~
+~
+0 0 11310
+D6
+~
+~
+0 0 11300
+D7
+~
+~
+0 0 11302
+D8
+~
+~
+0 0 11320
+D9
+~
+~
+0 0 11322
+S
+#11312
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11302
+D1
+~
+~
+0 0 11313
+D2
+~
+~
+0 0 11322
+D3
+~
+~
+0 0 11311
+D6
+~
+~
+0 0 11301
+D7
+~
+~
+0 0 11303
+D8
+~
+~
+0 0 11321
+D9
+~
+~
+0 0 11323
+S
+#11313
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11303
+D1
+~
+~
+0 0 11314
+D2
+~
+~
+0 0 11323
+D3
+~
+~
+0 0 11312
+D6
+~
+~
+0 0 11302
+D7
+~
+~
+0 0 11304
+D8
+~
+~
+0 0 11322
+D9
+~
+~
+0 0 11324
+S
+#11314
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11304
+D1
+~
+~
+0 0 11315
+D2
+~
+~
+0 0 11324
+D3
+~
+~
+0 0 11313
+D6
+~
+~
+0 0 11303
+D7
+~
+~
+0 0 11305
+D8
+~
+~
+0 0 11323
+D9
+~
+~
+0 0 11325
+S
+#11315
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11305
+D1
+~
+~
+0 0 11316
+D2
+~
+~
+0 0 11325
+D3
+~
+~
+0 0 11314
+D6
+~
+~
+0 0 11304
+D7
+~
+~
+0 0 11306
+D8
+~
+~
+0 0 11324
+D9
+~
+~
+0 0 11326
+S
+#11316
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11306
+D1
+~
+~
+0 0 11317
+D2
+~
+~
+0 0 11326
+D3
+~
+~
+0 0 11315
+D6
+~
+~
+0 0 11305
+D7
+~
+~
+0 0 11307
+D8
+~
+~
+0 0 11325
+D9
+~
+~
+0 0 11327
+S
+#11317
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11307
+D1
+~
+~
+0 0 11318
+D2
+~
+~
+0 0 11327
+D3
+~
+~
+0 0 11316
+D6
+~
+~
+0 0 11306
+D7
+~
+~
+0 0 11308
+D8
+~
+~
+0 0 11326
+D9
+~
+~
+0 0 11328
+S
+#11318
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11308
+D1
+~
+~
+0 0 11319
+D2
+~
+~
+0 0 11328
+D3
+~
+~
+0 0 11317
+D6
+~
+~
+0 0 11307
+D7
+~
+~
+0 0 11309
+D8
+~
+~
+0 0 11327
+D9
+~
+~
+0 0 11329
+S
+#11319
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11309
+D1
+~
+~
+0 0 11410
+D2
+~
+~
+0 0 11329
+D3
+~
+~
+0 0 11318
+D6
+~
+~
+0 0 11308
+D7
+~
+~
+0 0 11400
+D8
+~
+~
+0 0 11328
+D9
+~
+~
+0 0 11420
+S
+#11320
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11310
+D1
+~
+~
+0 0 11321
+D2
+~
+~
+0 0 11330
+D3
+~
+~
+0 0 11929
+D6
+~
+~
+0 0 11919
+D7
+~
+~
+0 0 11311
+D8
+~
+~
+0 0 11939
+D9
+~
+~
+0 0 11331
+S
+#11321
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11311
+D1
+~
+~
+0 0 11322
+D2
+~
+~
+0 0 11331
+D3
+~
+~
+0 0 11320
+D6
+~
+~
+0 0 11310
+D7
+~
+~
+0 0 11312
+D8
+~
+~
+0 0 11330
+D9
+~
+~
+0 0 11332
+S
+#11322
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11312
+D1
+~
+~
+0 0 11323
+D2
+~
+~
+0 0 11332
+D3
+~
+~
+0 0 11321
+D6
+~
+~
+0 0 11311
+D7
+~
+~
+0 0 11313
+D8
+~
+~
+0 0 11331
+D9
+~
+~
+0 0 11333
+S
+#11323
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11313
+D1
+~
+~
+0 0 11324
+D2
+~
+~
+0 0 11333
+D3
+~
+~
+0 0 11322
+D6
+~
+~
+0 0 11312
+D7
+~
+~
+0 0 11314
+D8
+~
+~
+0 0 11332
+D9
+~
+~
+0 0 11334
+S
+#11324
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11314
+D1
+~
+~
+0 0 11325
+D2
+~
+~
+0 0 11334
+D3
+~
+~
+0 0 11323
+D6
+~
+~
+0 0 11313
+D7
+~
+~
+0 0 11315
+D8
+~
+~
+0 0 11333
+D9
+~
+~
+0 0 11335
+S
+#11325
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11315
+D1
+~
+~
+0 0 11326
+D2
+~
+~
+0 0 11335
+D3
+~
+~
+0 0 11324
+D6
+~
+~
+0 0 11314
+D7
+~
+~
+0 0 11316
+D8
+~
+~
+0 0 11334
+D9
+~
+~
+0 0 11336
+S
+#11326
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11316
+D1
+~
+~
+0 0 11327
+D2
+~
+~
+0 0 11336
+D3
+~
+~
+0 0 11325
+D6
+~
+~
+0 0 11315
+D7
+~
+~
+0 0 11317
+D8
+~
+~
+0 0 11335
+D9
+~
+~
+0 0 11337
+S
+#11327
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11317
+D1
+~
+~
+0 0 11328
+D2
+~
+~
+0 0 11337
+D3
+~
+~
+0 0 11326
+D6
+~
+~
+0 0 11316
+D7
+~
+~
+0 0 11318
+D8
+~
+~
+0 0 11336
+D9
+~
+~
+0 0 11338
+S
+#11328
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11318
+D1
+~
+~
+0 0 11329
+D2
+~
+~
+0 0 11338
+D3
+~
+~
+0 0 11327
+D6
+~
+~
+0 0 11317
+D7
+~
+~
+0 0 11319
+D8
+~
+~
+0 0 11337
+D9
+~
+~
+0 0 11339
+S
+#11329
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11319
+D1
+~
+~
+0 0 11420
+D2
+~
+~
+0 0 11339
+D3
+~
+~
+0 0 11328
+D6
+~
+~
+0 0 11318
+D7
+~
+~
+0 0 11410
+D8
+~
+~
+0 0 11338
+D9
+~
+~
+0 0 11430
+S
+#11330
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11320
+D1
+~
+~
+0 0 11331
+D2
+~
+~
+0 0 11340
+D3
+~
+~
+0 0 11939
+D6
+~
+~
+0 0 11929
+D7
+~
+~
+0 0 11321
+D8
+~
+~
+0 0 11949
+D9
+~
+~
+0 0 11341
+S
+#11331
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11321
+D1
+~
+~
+0 0 11332
+D2
+~
+~
+0 0 11341
+D3
+~
+~
+0 0 11330
+D6
+~
+~
+0 0 11320
+D7
+~
+~
+0 0 11322
+D8
+~
+~
+0 0 11340
+D9
+~
+~
+0 0 11342
+S
+#11332
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11322
+D1
+~
+~
+0 0 11333
+D2
+~
+~
+0 0 11342
+D3
+~
+~
+0 0 11331
+D6
+~
+~
+0 0 11321
+D7
+~
+~
+0 0 11323
+D8
+~
+~
+0 0 11341
+D9
+~
+~
+0 0 11343
+S
+#11333
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11323
+D1
+~
+~
+0 0 11334
+D2
+~
+~
+0 0 11343
+D3
+~
+~
+0 0 11332
+D6
+~
+~
+0 0 11322
+D7
+~
+~
+0 0 11324
+D8
+~
+~
+0 0 11342
+D9
+~
+~
+0 0 11344
+S
+#11334
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11324
+D1
+~
+~
+0 0 11335
+D2
+~
+~
+0 0 11344
+D3
+~
+~
+0 0 11333
+D6
+~
+~
+0 0 11323
+D7
+~
+~
+0 0 11325
+D8
+~
+~
+0 0 11343
+D9
+~
+~
+0 0 11345
+S
+#11335
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11325
+D1
+~
+~
+0 0 11336
+D2
+~
+~
+0 0 11345
+D3
+~
+~
+0 0 11334
+D6
+~
+~
+0 0 11324
+D7
+~
+~
+0 0 11326
+D8
+~
+~
+0 0 11344
+D9
+~
+~
+0 0 11346
+S
+#11336
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11326
+D1
+~
+~
+0 0 11337
+D2
+~
+~
+0 0 11346
+D3
+~
+~
+0 0 11335
+D6
+~
+~
+0 0 11325
+D7
+~
+~
+0 0 11327
+D8
+~
+~
+0 0 11345
+D9
+~
+~
+0 0 11347
+S
+#11337
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11327
+D1
+~
+~
+0 0 11338
+D2
+~
+~
+0 0 11347
+D3
+~
+~
+0 0 11336
+D6
+~
+~
+0 0 11326
+D7
+~
+~
+0 0 11328
+D8
+~
+~
+0 0 11346
+D9
+~
+~
+0 0 11348
+S
+#11338
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11328
+D1
+~
+~
+0 0 11339
+D2
+~
+~
+0 0 11348
+D3
+~
+~
+0 0 11337
+D6
+~
+~
+0 0 11327
+D7
+~
+~
+0 0 11329
+D8
+~
+~
+0 0 11347
+D9
+~
+~
+0 0 11349
+S
+#11339
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11329
+D1
+~
+~
+0 0 11430
+D2
+~
+~
+0 0 11349
+D3
+~
+~
+0 0 11338
+D6
+~
+~
+0 0 11328
+D7
+~
+~
+0 0 11420
+D8
+~
+~
+0 0 11348
+D9
+~
+~
+0 0 11440
+S
+#11340
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11330
+D1
+~
+~
+0 0 11341
+D2
+~
+~
+0 0 11350
+D3
+~
+~
+0 0 11949
+D6
+~
+~
+0 0 11939
+D7
+~
+~
+0 0 11331
+D8
+~
+~
+0 0 11959
+D9
+~
+~
+0 0 11351
+S
+#11341
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11331
+D1
+~
+~
+0 0 11342
+D2
+~
+~
+0 0 11351
+D3
+~
+~
+0 0 11340
+D6
+~
+~
+0 0 11330
+D7
+~
+~
+0 0 11332
+D8
+~
+~
+0 0 11350
+D9
+~
+~
+0 0 11352
+S
+#11342
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11332
+D1
+~
+~
+0 0 11343
+D2
+~
+~
+0 0 11352
+D3
+~
+~
+0 0 11341
+D6
+~
+~
+0 0 11331
+D7
+~
+~
+0 0 11333
+D8
+~
+~
+0 0 11351
+D9
+~
+~
+0 0 11353
+S
+#11343
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11333
+D1
+~
+~
+0 0 11344
+D2
+~
+~
+0 0 11353
+D3
+~
+~
+0 0 11342
+D6
+~
+~
+0 0 11332
+D7
+~
+~
+0 0 11334
+D8
+~
+~
+0 0 11352
+D9
+~
+~
+0 0 11354
+S
+#11344
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11334
+D1
+~
+~
+0 0 11345
+D2
+~
+~
+0 0 11354
+D3
+~
+~
+0 0 11343
+D6
+~
+~
+0 0 11333
+D7
+~
+~
+0 0 11335
+D8
+~
+~
+0 0 11353
+D9
+~
+~
+0 0 11355
+S
+#11345
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11335
+D1
+~
+~
+0 0 11346
+D2
+~
+~
+0 0 11355
+D3
+~
+~
+0 0 11344
+D6
+~
+~
+0 0 11334
+D7
+~
+~
+0 0 11336
+D8
+~
+~
+0 0 11354
+D9
+~
+~
+0 0 11356
+S
+#11346
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11336
+D1
+~
+~
+0 0 11347
+D2
+~
+~
+0 0 11356
+D3
+~
+~
+0 0 11345
+D6
+~
+~
+0 0 11335
+D7
+~
+~
+0 0 11337
+D8
+~
+~
+0 0 11355
+D9
+~
+~
+0 0 11357
+S
+#11347
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11337
+D1
+~
+~
+0 0 11348
+D2
+~
+~
+0 0 11357
+D3
+~
+~
+0 0 11346
+D6
+~
+~
+0 0 11336
+D7
+~
+~
+0 0 11338
+D8
+~
+~
+0 0 11356
+D9
+~
+~
+0 0 11358
+S
+#11348
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11338
+D1
+~
+~
+0 0 11349
+D2
+~
+~
+0 0 11358
+D3
+~
+~
+0 0 11347
+D6
+~
+~
+0 0 11337
+D7
+~
+~
+0 0 11339
+D8
+~
+~
+0 0 11357
+D9
+~
+~
+0 0 11359
+S
+#11349
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11339
+D1
+~
+~
+0 0 11440
+D2
+~
+~
+0 0 11359
+D3
+~
+~
+0 0 11348
+D6
+~
+~
+0 0 11338
+D7
+~
+~
+0 0 11430
+D8
+~
+~
+0 0 11358
+D9
+~
+~
+0 0 11450
+S
+#11350
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11340
+D1
+~
+~
+0 0 11351
+D2
+~
+~
+0 0 11360
+D3
+~
+~
+0 0 11959
+D6
+~
+~
+0 0 11949
+D7
+~
+~
+0 0 11341
+D8
+~
+~
+0 0 11969
+D9
+~
+~
+0 0 11361
+S
+#11351
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11341
+D1
+~
+~
+0 0 11352
+D2
+~
+~
+0 0 11361
+D3
+~
+~
+0 0 11350
+D6
+~
+~
+0 0 11340
+D7
+~
+~
+0 0 11342
+D8
+~
+~
+0 0 11360
+D9
+~
+~
+0 0 11362
+S
+#11352
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11342
+D1
+~
+~
+0 0 11353
+D2
+~
+~
+0 0 11362
+D3
+~
+~
+0 0 11351
+D6
+~
+~
+0 0 11341
+D7
+~
+~
+0 0 11343
+D8
+~
+~
+0 0 11361
+D9
+~
+~
+0 0 11363
+S
+#11353
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11343
+D1
+~
+~
+0 0 11354
+D2
+~
+~
+0 0 11363
+D3
+~
+~
+0 0 11352
+D6
+~
+~
+0 0 11342
+D7
+~
+~
+0 0 11344
+D8
+~
+~
+0 0 11362
+D9
+~
+~
+0 0 11364
+S
+#11354
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11344
+D1
+~
+~
+0 0 11355
+D2
+~
+~
+0 0 11364
+D3
+~
+~
+0 0 11353
+D6
+~
+~
+0 0 11343
+D7
+~
+~
+0 0 11345
+D8
+~
+~
+0 0 11363
+D9
+~
+~
+0 0 11365
+S
+#11355
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11345
+D1
+~
+~
+0 0 11356
+D2
+~
+~
+0 0 11365
+D3
+~
+~
+0 0 11354
+D6
+~
+~
+0 0 11344
+D7
+~
+~
+0 0 11346
+D8
+~
+~
+0 0 11364
+D9
+~
+~
+0 0 11366
+S
+#11356
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11346
+D1
+~
+~
+0 0 11357
+D2
+~
+~
+0 0 11366
+D3
+~
+~
+0 0 11355
+D6
+~
+~
+0 0 11345
+D7
+~
+~
+0 0 11347
+D8
+~
+~
+0 0 11365
+D9
+~
+~
+0 0 11367
+S
+#11357
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11347
+D1
+~
+~
+0 0 11358
+D2
+~
+~
+0 0 11367
+D3
+~
+~
+0 0 11356
+D6
+~
+~
+0 0 11346
+D7
+~
+~
+0 0 11348
+D8
+~
+~
+0 0 11366
+D9
+~
+~
+0 0 11368
+S
+#11358
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11348
+D1
+~
+~
+0 0 11359
+D2
+~
+~
+0 0 11368
+D3
+~
+~
+0 0 11357
+D6
+~
+~
+0 0 11347
+D7
+~
+~
+0 0 11349
+D8
+~
+~
+0 0 11367
+D9
+~
+~
+0 0 11369
+S
+#11359
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11349
+D1
+~
+~
+0 0 11450
+D2
+~
+~
+0 0 11369
+D3
+~
+~
+0 0 11358
+D6
+~
+~
+0 0 11348
+D7
+~
+~
+0 0 11440
+D8
+~
+~
+0 0 11368
+D9
+~
+~
+0 0 11460
+S
+#11360
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11350
+D1
+~
+~
+0 0 11361
+D2
+~
+~
+0 0 11370
+D3
+~
+~
+0 0 11969
+D6
+~
+~
+0 0 11959
+D7
+~
+~
+0 0 11351
+D8
+~
+~
+0 0 11979
+D9
+~
+~
+0 0 11371
+S
+#11361
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11351
+D1
+~
+~
+0 0 11362
+D2
+~
+~
+0 0 11371
+D3
+~
+~
+0 0 11360
+D6
+~
+~
+0 0 11350
+D7
+~
+~
+0 0 11352
+D8
+~
+~
+0 0 11370
+D9
+~
+~
+0 0 11372
+S
+#11362
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11352
+D1
+~
+~
+0 0 11363
+D2
+~
+~
+0 0 11372
+D3
+~
+~
+0 0 11361
+D6
+~
+~
+0 0 11351
+D7
+~
+~
+0 0 11353
+D8
+~
+~
+0 0 11371
+D9
+~
+~
+0 0 11373
+S
+#11363
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11353
+D1
+~
+~
+0 0 11364
+D2
+~
+~
+0 0 11373
+D3
+~
+~
+0 0 11362
+D6
+~
+~
+0 0 11352
+D7
+~
+~
+0 0 11354
+D8
+~
+~
+0 0 11372
+D9
+~
+~
+0 0 11374
+S
+#11364
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11354
+D1
+~
+~
+0 0 11365
+D2
+~
+~
+0 0 11374
+D3
+~
+~
+0 0 11363
+D6
+~
+~
+0 0 11353
+D7
+~
+~
+0 0 11355
+D8
+~
+~
+0 0 11373
+D9
+~
+~
+0 0 11375
+S
+#11365
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11355
+D1
+~
+~
+0 0 11366
+D2
+~
+~
+0 0 11375
+D3
+~
+~
+0 0 11364
+D6
+~
+~
+0 0 11354
+D7
+~
+~
+0 0 11356
+D8
+~
+~
+0 0 11374
+D9
+~
+~
+0 0 11376
+S
+#11366
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11356
+D1
+~
+~
+0 0 11367
+D2
+~
+~
+0 0 11376
+D3
+~
+~
+0 0 11365
+D6
+~
+~
+0 0 11355
+D7
+~
+~
+0 0 11357
+D8
+~
+~
+0 0 11375
+D9
+~
+~
+0 0 11377
+S
+#11367
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11357
+D1
+~
+~
+0 0 11368
+D2
+~
+~
+0 0 11377
+D3
+~
+~
+0 0 11366
+D6
+~
+~
+0 0 11356
+D7
+~
+~
+0 0 11358
+D8
+~
+~
+0 0 11376
+D9
+~
+~
+0 0 11378
+S
+#11368
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11358
+D1
+~
+~
+0 0 11369
+D2
+~
+~
+0 0 11378
+D3
+~
+~
+0 0 11367
+D6
+~
+~
+0 0 11357
+D7
+~
+~
+0 0 11359
+D8
+~
+~
+0 0 11377
+D9
+~
+~
+0 0 11379
+S
+#11369
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11359
+D1
+~
+~
+0 0 11460
+D2
+~
+~
+0 0 11379
+D3
+~
+~
+0 0 11368
+D6
+~
+~
+0 0 11358
+D7
+~
+~
+0 0 11450
+D8
+~
+~
+0 0 11378
+D9
+~
+~
+0 0 11470
+S
+#11370
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11360
+D1
+~
+~
+0 0 11371
+D2
+~
+~
+0 0 11380
+D3
+~
+~
+0 0 11979
+D6
+~
+~
+0 0 11969
+D7
+~
+~
+0 0 11361
+D8
+~
+~
+0 0 11989
+D9
+~
+~
+0 0 11381
+S
+#11371
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11361
+D1
+~
+~
+0 0 11372
+D2
+~
+~
+0 0 11381
+D3
+~
+~
+0 0 11370
+D6
+~
+~
+0 0 11360
+D7
+~
+~
+0 0 11362
+D8
+~
+~
+0 0 11380
+D9
+~
+~
+0 0 11382
+S
+#11372
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11362
+D1
+~
+~
+0 0 11373
+D2
+~
+~
+0 0 11382
+D3
+~
+~
+0 0 11371
+D6
+~
+~
+0 0 11361
+D7
+~
+~
+0 0 11363
+D8
+~
+~
+0 0 11381
+D9
+~
+~
+0 0 11383
+S
+#11373
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11363
+D1
+~
+~
+0 0 11374
+D2
+~
+~
+0 0 11383
+D3
+~
+~
+0 0 11372
+D6
+~
+~
+0 0 11362
+D7
+~
+~
+0 0 11364
+D8
+~
+~
+0 0 11382
+D9
+~
+~
+0 0 11384
+S
+#11374
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11364
+D1
+~
+~
+0 0 11375
+D2
+~
+~
+0 0 11384
+D3
+~
+~
+0 0 11373
+D6
+~
+~
+0 0 11363
+D7
+~
+~
+0 0 11365
+D8
+~
+~
+0 0 11383
+D9
+~
+~
+0 0 11385
+S
+#11375
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11365
+D1
+~
+~
+0 0 11376
+D2
+~
+~
+0 0 11385
+D3
+~
+~
+0 0 11374
+D6
+~
+~
+0 0 11364
+D7
+~
+~
+0 0 11366
+D8
+~
+~
+0 0 11384
+D9
+~
+~
+0 0 11386
+S
+#11376
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11366
+D1
+~
+~
+0 0 11377
+D2
+~
+~
+0 0 11386
+D3
+~
+~
+0 0 11375
+D6
+~
+~
+0 0 11365
+D7
+~
+~
+0 0 11367
+D8
+~
+~
+0 0 11385
+D9
+~
+~
+0 0 11387
+S
+#11377
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11367
+D1
+~
+~
+0 0 11378
+D2
+~
+~
+0 0 11387
+D3
+~
+~
+0 0 11376
+D6
+~
+~
+0 0 11366
+D7
+~
+~
+0 0 11368
+D8
+~
+~
+0 0 11386
+D9
+~
+~
+0 0 11388
+S
+#11378
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11368
+D1
+~
+~
+0 0 11379
+D2
+~
+~
+0 0 11388
+D3
+~
+~
+0 0 11377
+D6
+~
+~
+0 0 11367
+D7
+~
+~
+0 0 11369
+D8
+~
+~
+0 0 11387
+D9
+~
+~
+0 0 11389
+S
+#11379
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11369
+D1
+~
+~
+0 0 11470
+D2
+~
+~
+0 0 11389
+D3
+~
+~
+0 0 11378
+D6
+~
+~
+0 0 11368
+D7
+~
+~
+0 0 11460
+D8
+~
+~
+0 0 11388
+D9
+~
+~
+0 0 11480
+S
+#11380
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11370
+D1
+~
+~
+0 0 11381
+D2
+~
+~
+0 0 11390
+D3
+~
+~
+0 0 11989
+D6
+~
+~
+0 0 11979
+D7
+~
+~
+0 0 11371
+D8
+~
+~
+0 0 11999
+D9
+~
+~
+0 0 11391
+S
+#11381
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11371
+D1
+~
+~
+0 0 11382
+D2
+~
+~
+0 0 11391
+D3
+~
+~
+0 0 11380
+D6
+~
+~
+0 0 11370
+D7
+~
+~
+0 0 11372
+D8
+~
+~
+0 0 11390
+D9
+~
+~
+0 0 11392
+S
+#11382
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11372
+D1
+~
+~
+0 0 11383
+D2
+~
+~
+0 0 11392
+D3
+~
+~
+0 0 11381
+D6
+~
+~
+0 0 11371
+D7
+~
+~
+0 0 11373
+D8
+~
+~
+0 0 11391
+D9
+~
+~
+0 0 11393
+S
+#11383
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11373
+D1
+~
+~
+0 0 11384
+D2
+~
+~
+0 0 11393
+D3
+~
+~
+0 0 11382
+D6
+~
+~
+0 0 11372
+D7
+~
+~
+0 0 11374
+D8
+~
+~
+0 0 11392
+D9
+~
+~
+0 0 11394
+S
+#11384
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11374
+D1
+~
+~
+0 0 11385
+D2
+~
+~
+0 0 11394
+D3
+~
+~
+0 0 11383
+D6
+~
+~
+0 0 11373
+D7
+~
+~
+0 0 11375
+D8
+~
+~
+0 0 11393
+D9
+~
+~
+0 0 11395
+S
+#11385
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11375
+D1
+~
+~
+0 0 11386
+D2
+~
+~
+0 0 11395
+D3
+~
+~
+0 0 11384
+D6
+~
+~
+0 0 11374
+D7
+~
+~
+0 0 11376
+D8
+~
+~
+0 0 11394
+D9
+~
+~
+0 0 11396
+S
+#11386
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11376
+D1
+~
+~
+0 0 11387
+D2
+~
+~
+0 0 11396
+D3
+~
+~
+0 0 11385
+D6
+~
+~
+0 0 11375
+D7
+~
+~
+0 0 11377
+D8
+~
+~
+0 0 11395
+D9
+~
+~
+0 0 11397
+S
+#11387
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11377
+D1
+~
+~
+0 0 11388
+D2
+~
+~
+0 0 11397
+D3
+~
+~
+0 0 11386
+D6
+~
+~
+0 0 11376
+D7
+~
+~
+0 0 11378
+D8
+~
+~
+0 0 11396
+D9
+~
+~
+0 0 11398
+S
+#11388
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11378
+D1
+~
+~
+0 0 11389
+D2
+~
+~
+0 0 11398
+D3
+~
+~
+0 0 11387
+D6
+~
+~
+0 0 11377
+D7
+~
+~
+0 0 11379
+D8
+~
+~
+0 0 11397
+D9
+~
+~
+0 0 11399
+S
+#11389
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11379
+D1
+~
+~
+0 0 11480
+D2
+~
+~
+0 0 11399
+D3
+~
+~
+0 0 11388
+D6
+~
+~
+0 0 11378
+D7
+~
+~
+0 0 11470
+D8
+~
+~
+0 0 11398
+D9
+~
+~
+0 0 11490
+S
+#11390
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11380
+D1
+~
+~
+0 0 11391
+D2
+~
+~
+0 0 11100
+D3
+~
+~
+0 0 11999
+D6
+~
+~
+0 0 11989
+D7
+~
+~
+0 0 11381
+D8
+~
+~
+0 0 12009
+D9
+~
+~
+0 0 11101
+S
+#11391
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11381
+D1
+~
+~
+0 0 11392
+D2
+~
+~
+0 0 11101
+D3
+~
+~
+0 0 11390
+D6
+~
+~
+0 0 11380
+D7
+~
+~
+0 0 11382
+D8
+~
+~
+0 0 11100
+D9
+~
+~
+0 0 11102
+S
+#11392
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11382
+D1
+~
+~
+0 0 11393
+D2
+~
+~
+0 0 11102
+D3
+~
+~
+0 0 11391
+D6
+~
+~
+0 0 11381
+D7
+~
+~
+0 0 11383
+D8
+~
+~
+0 0 11101
+D9
+~
+~
+0 0 11103
+S
+#11393
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11383
+D1
+~
+~
+0 0 11394
+D2
+~
+~
+0 0 11103
+D3
+~
+~
+0 0 11392
+D6
+~
+~
+0 0 11382
+D7
+~
+~
+0 0 11384
+D8
+~
+~
+0 0 11102
+D9
+~
+~
+0 0 11104
+S
+#11394
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11384
+D1
+~
+~
+0 0 11395
+D2
+~
+~
+0 0 11104
+D3
+~
+~
+0 0 11393
+D6
+~
+~
+0 0 11383
+D7
+~
+~
+0 0 11385
+D8
+~
+~
+0 0 11103
+D9
+~
+~
+0 0 11105
+S
+#11395
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11385
+D1
+~
+~
+0 0 11396
+D2
+~
+~
+0 0 11105
+D3
+~
+~
+0 0 11394
+D6
+~
+~
+0 0 11384
+D7
+~
+~
+0 0 11386
+D8
+~
+~
+0 0 11104
+D9
+~
+~
+0 0 11106
+S
+#11396
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11386
+D1
+~
+~
+0 0 11397
+D2
+~
+~
+0 0 11106
+D3
+~
+~
+0 0 11395
+D6
+~
+~
+0 0 11385
+D7
+~
+~
+0 0 11387
+D8
+~
+~
+0 0 11105
+D9
+~
+~
+0 0 11107
+S
+#11397
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11387
+D1
+~
+~
+0 0 11398
+D2
+~
+~
+0 0 11107
+D3
+~
+~
+0 0 11396
+D6
+~
+~
+0 0 11386
+D7
+~
+~
+0 0 11388
+D8
+~
+~
+0 0 11106
+D9
+~
+~
+0 0 11108
+S
+#11398
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11388
+D1
+~
+~
+0 0 11399
+D2
+~
+~
+0 0 11108
+D3
+~
+~
+0 0 11397
+D6
+~
+~
+0 0 11387
+D7
+~
+~
+0 0 11389
+D8
+~
+~
+0 0 11107
+D9
+~
+~
+0 0 11109
+S
+#11399
+The Great Northwest Ocean~
+You are surrounded by the raging waters of the great northwestern ocean.  The waters
+have long been a graveyard for many a sailor with few islands in its midst.  The
+smell of salt lingers in the air and the oceans expanse seems lonely and limitless.
+~
+0 0 11
+D0
+~
+~
+0 0 11389
+D1
+~
+~
+0 0 11490
+D2
+~
+~
+0 0 11109
+D3
+~
+~
+0 0 11398
+D6
+~
+~
+0 0 11388
+D7
+~
+~
+0 0 11480
+D8
+~
+~
+0 0 11108
+D9
+~
+~
+0 0 11000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11000 100 11300 2 Load a tuna fish
+M 0 11005 100 11302 2 Load an aboleth
+M 0 11005 100 11306 2 Load an aboleth
+M 0 11003 100 11310 2 Load a {Csea{x dragon
+M 0 11000 100 11311 2 Load a tuna fish
+M 0 11008 100 11313 2 Load a jellyfish
+M 0 11008 100 11313 2 Load a jellyfish
+M 0 11008 100 11315 2 Load a jellyfish
+M 0 11008 100 11316 2 Load a jellyfish
+M 0 11000 100 11317 2 Load a tuna fish
+M 0 11000 100 11317 2 Load a tuna fish
+M 0 11008 100 11319 2 Load a jellyfish
+M 0 11003 100 11319 2 Load a {Csea{x dragon
+M 0 11001 100 11320 2 Load a octopus
+M 0 11002 100 11321 2 Load a man o'war
+M 0 11000 100 11322 2 Load a tuna fish
+M 0 11005 100 11322 2 Load an aboleth
+M 0 11006 100 11327 2 Load a dolphin
+M 0 11001 100 11328 2 Load a octopus
+M 0 11002 100 11328 2 Load a man o'war
+M 0 11000 100 11330 2 Load a tuna fish
+M 0 11000 100 11332 2 Load a tuna fish
+M 0 11005 100 11334 2 Load an aboleth
+M 0 11002 100 11335 2 Load a man o'war
+M 0 11008 100 11336 2 Load a jellyfish
+M 0 11005 100 11337 2 Load an aboleth
+M 0 11008 100 11338 2 Load a jellyfish
+M 0 11006 100 11342 2 Load a dolphin
+M 0 11006 100 11349 2 Load a dolphin
+M 0 11003 100 11350 2 Load a {Csea{x dragon
+M 0 11005 100 11352 2 Load an aboleth
+M 0 11005 100 11353 2 Load an aboleth
+M 0 11002 100 11357 2 Load a man o'war
+M 0 11005 100 11364 2 Load an aboleth
+M 0 11006 100 11366 2 Load a dolphin
+M 0 11008 100 11367 2 Load a jellyfish
+M 0 11001 100 11369 2 Load a octopus
+M 0 11005 100 11371 2 Load an aboleth
+M 0 11007 100 11373 2 Load a sea hag
+M 0 11000 100 11375 2 Load a tuna fish
+M 0 11003 100 11381 2 Load a {Csea{x dragon
+M 0 11002 100 11382 2 Load a man o'war
+M 0 11003 100 11388 2 Load a {Csea{x dragon
+M 0 11001 100 11390 2 Load a octopus
+M 0 11000 100 11391 2 Load a tuna fish
+M 0 11000 100 11391 2 Load a tuna fish
+M 0 11005 100 11392 2 Load an aboleth
+M 0 11003 100 11395 2 Load a {Csea{x dragon
+M 0 11006 100 11397 2 Load a dolphin
+M 0 11006 100 11399 2 Load a dolphin
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

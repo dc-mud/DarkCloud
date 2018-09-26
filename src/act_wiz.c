@@ -2455,6 +2455,11 @@ void do_shutdown(CHAR_DATA * ch, char *argument)
     // Close the database
     close_db();
 
+#if defined(_WIN32)
+    // Windows memory leak debugging tools
+    _CrtDumpMemoryLeaks();
+#endif
+
     return;
 } // end do_shutdown
 

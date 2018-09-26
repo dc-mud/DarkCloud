@@ -1434,6 +1434,9 @@ void reset_room(ROOM_INDEX_DATA * pRoom)
 
                 pMob = create_mobile(pMobIndex);
 
+                // Set the home zone for the mobile so we always know where it was reset from.
+                pMob->zone = pRoomIndex->area;
+
                 /*
                  * Some more hard coding.
                  */

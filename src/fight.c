@@ -2122,10 +2122,11 @@ void raw_kill(CHAR_DATA * victim)
     victim->mana = UMAX(1, victim->mana);
     victim->move = UMAX(1, victim->move);
 
-    // Last step, make them a ghost
+    // Last step, make them a ghost and show them appearing wherever they have appeared.
     if (!IS_NPC(victim))
     {
         make_ghost(victim);
+        act("$n fades into existence.", victim, NULL, NULL, TO_ROOM);
     }
 
     return;

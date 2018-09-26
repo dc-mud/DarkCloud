@@ -479,10 +479,15 @@ void do_rank(CHAR_DATA *ch, char *argument)
         return;
     }
 
-    if (!is_same_clan(ch, victim))
+    // If they're not an immortal, make sure they are in the same clan so one
+    // leader cannot rank a player in another clan.
+    if (!IS_IMMORTAL(ch))
     {
-        sendf(ch, "%s isn't in your clan.\r\n", victim->name);
-        return;
+        if (!is_same_clan(ch, victim))
+        {
+            sendf(ch, "%s isn't in your clan.\r\n", victim->name);
+            return;
+        }
     }
 
     // We have two types of ranks.  The first is rank that has a game affect of some

@@ -1998,6 +1998,7 @@ void spell_faerie_fog(int sn, int level, CHAR_DATA * ch, void *vo, int target)
 
 void spell_floating_disc(int sn, int level, CHAR_DATA * ch, void *vo, int target)
 {
+    AFFECT_DATA af;
     OBJ_DATA *disc, *floating;
 
     floating = get_eq_char(ch, WEAR_FLOAT);
@@ -2016,6 +2017,17 @@ void spell_floating_disc(int sn, int level, CHAR_DATA * ch, void *vo, int target
     send_to_char("You create a floating disc.\r\n", ch);
     obj_to_char(disc, ch);
     wear_obj(ch, disc, TRUE);
+
+    // An affect to show them how much longer the floating disc has before it rots
+    af.where = TO_AFFECTS;
+    af.type = sn;
+    af.level = level;
+    af.duration = disc->timer;
+    af.location = APPLY_NONE;
+    af.modifier = 0;
+    af.bitvector = 0;
+    affect_to_char(ch, &af);
+
     return;
 }
 

@@ -712,7 +712,7 @@ Target      0
 MinPos      8
 MinMana     40
 Beats       24
-MsgOff      !Floating disc!~
+MsgOff      The floating disc fades from existence.~
 Race        0
 End
 

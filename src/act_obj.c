@@ -1069,7 +1069,7 @@ void do_give(CHAR_DATA * ch, char *argument)
 
             if (change < 1 && can_see(victim, ch))
             {
-                act("$n tells you 'I'm sorry, you did not give me enough to change.'", victim, NULL, ch, TO_VICT);
+                act("$n tells you '{WI'm sorry, you did not give me enough to change.{x'", victim, NULL, ch, TO_VICT);
                 ch->reply = victim;
                 sprintf(buf, "%d %s %s", amount, silver ? "silver" : "gold", ch->name);
                 do_function(victim, &do_give, buf);
@@ -1083,7 +1083,7 @@ void do_give(CHAR_DATA * ch, char *argument)
                     sprintf(buf, "%d silver %s", (95 * amount / 100 - change * 100), ch->name);
                     do_function(victim, &do_give, buf);
                 }
-                act("$n tells you 'Thank you, come again.'", victim, NULL, ch, TO_VICT);
+                act("$n tells you '{WThank you, come again.{x'", victim, NULL, ch, TO_VICT);
                 ch->reply = victim;
             }
         }

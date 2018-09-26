@@ -544,7 +544,7 @@ void spell_sleep(int sn, int level, CHAR_DATA * ch, void *vo, int target)
     af.where = TO_AFFECTS;
     af.type = sn;
     af.level = level;
-    af.duration = 4 + level;
+    af.duration = 5;
     af.location = APPLY_NONE;
     af.modifier = 0;
     af.bitvector = AFF_SLEEP;

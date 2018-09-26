@@ -307,7 +307,6 @@ void do_power_swing(CHAR_DATA * ch, char *argument)
         {
             // Random 5% boost for a 2 handed weapon
             stun_chance += 5;
-            return;
         }
 
         // 1% to 5% boost for warcry

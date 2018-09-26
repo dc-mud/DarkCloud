@@ -642,8 +642,8 @@ bool stun_effect(CHAR_DATA *ch, CHAR_DATA *victim)
     // Potential for a lucky chance
     chance += number_range(0, 1);
 
-    // No lower than 1% chance, no higher than 10%
-    chance = URANGE(1, chance, 10);
+    // No lower than 1% chance, no higher than 5%
+    chance = URANGE(1, chance, 5);
 
     // Testers can see the stun chance, this should help us trouble shoot issues and balance.
     if (IS_TESTER(ch))

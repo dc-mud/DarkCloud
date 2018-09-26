@@ -55,7 +55,7 @@
 /*
  * Clan Table
  *
- * Name, Who Name, Friendly Name, Death Transfer Room, Recall VNUM, Independent,
+ * Name, Who Name, Friendly Name, Death Transfer Room, Recall VNUM, Independent, Enabled
  * Guild Message, Regen Room Directions
  *
  * Independent should be FALSE if it is a real clan
@@ -69,6 +69,9 @@ const struct clan_type clan_table[MAX_CLAN] = {
     },
     { "renegade",   "[ {WRenegade{x ] ",     "Renegade",     ROOM_VNUM_ALTAR,           ROOM_VNUM_ALTAR,            TRUE,  TRUE,
       "%s has been renegaded.\r\n", ""
+    },
+    { "test",      "[ {WTest{x ] ",        "Test",           ROOM_VNUM_ALTAR,           ROOM_VNUM_ALTAR,            FALSE,  TRUE,
+      "%s walks alone.\r\n", ""
     }
 };
 
@@ -81,31 +84,8 @@ const struct clan_type clan_table[MAX_CLAN] = {
 const struct clan_rank_type clan_rank_table[] =
 {
     { "",            CLAN_NONE,         FALSE },
-    { "Page",        CLAN_KNIGHTS,      TRUE  },
-    { "Squire",      CLAN_KNIGHTS,      FALSE },
-    { "Knight",      CLAN_KNIGHTS,      FALSE },
-    { "Lord Crown",  CLAN_KNIGHTS,      FALSE },
-    { "Entrant",     CLAN_VALOR,        TRUE  },
-    { "Soldier",     CLAN_VALOR,        FALSE },
-    { "Commander",   CLAN_VALOR,        FALSE },
-    { "General",     CLAN_VALOR,        FALSE },
-    { "Peon",        CLAN_MALICE,       TRUE  },
-    { "Henchman",    CLAN_MALICE,       FALSE },
-    { "Overlord",    CLAN_MALICE,       FALSE },
-    { "Minion",      CLAN_CULT,         TRUE  },
-    { "Dark Lord",   CLAN_CULT,         FALSE },
-    { "Nameless",    CLAN_SYLVAN,       TRUE  },
-    { "Named",       CLAN_SYLVAN,       FALSE },
-    { "Regent",      CLAN_SYLVAN,       FALSE },
-    { "Senator",     CLAN_SYLVAN,       FALSE },
-    { "Speaker",     CLAN_SYLVAN,       FALSE },
-    { "Member",      CLAN_WAR_HAMMER,   TRUE  },
-    { "War Council", CLAN_WAR_HAMMER,   FALSE },
-    { "Thane",       CLAN_WAR_HAMMER,   FALSE },
-    { "Apprentice",  CLAN_CONCLAVE,     TRUE  },
-    { "Student",     CLAN_CONCLAVE,     FALSE },
-    { "Sorcerer",    CLAN_CONCLAVE,     FALSE },
-    { "High Wizard", CLAN_CONCLAVE,     FALSE },
+    { "Initiate",    CLAN_TEST,         TRUE  },
+    { "King",        CLAN_TEST,         FALSE },
     { NULL,          CLAN_NONE,         FALSE }
 };
 
@@ -401,72 +381,15 @@ void guild_clan(CHAR_DATA *ch, char *argument)
     // War Hammer, neutral/evil only in Cult, etc.).
     switch (ch->clan)
     {
-        case CLAN_SYLVAN:
-            // Victim must be any elf type, except dark elves (restriction warrants CSR)
-            if (!IS_ELF(victim))
+        case CLAN_TEST:
+            // Victim must be greater than level 1
+            if (victim->level > 1)
             {
-                send_to_char("They are not an elf.\r\n", ch);
+                send_to_char("They must be greater than level 1.\r\n", ch);
                 return;
             }
 
             break;
-        case CLAN_WAR_HAMMER:
-            // Victim must be a dwarf (restrction warrants CSR)
-            if (!IS_DWARF(victim))
-            {
-                send_to_char("They are not a dwarf.\r\n", ch);
-                return;
-            }
-
-            break;
-        case CLAN_CULT:
-            // Must be evil and human (opposite of knights, restrction warrants CSR).
-            if (!IS_EVIL(victim) || victim->race != HUMAN_RACE)
-            {
-                send_to_char("They are neither evil nor a human which is required by the order of the Cult.\r\n", ch);
-                return;
-            }
-
-            break;
-        case CLAN_VALOR:
-            // Must be good or neutral, no race restrictions
-            if (IS_EVIL(victim))
-            {
-                send_to_char("Only those who are good or neutral may join Valor.\r\n", ch);
-                return;
-            }
-
-            break;
-        case CLAN_MALICE:
-            // Must be evil or neutral, no race restrictions
-            if (IS_GOOD(victim))
-            {
-                send_to_char("Only those who are evil or neutral may join Malice.\r\n", ch);
-                return;
-            }
-
-            break;
-        case CLAN_KNIGHTS:
-            // Must be good and human (opposite of knights, restrction warrants CSR).
-            if (!IS_GOOD(victim) || victim->race != HUMAN_RACE)
-            {
-                send_to_char("They are neither good nor a human which is required by the order of the Knights.\r\n", ch);
-                return;
-            }
-
-            break;
-        case CLAN_CONCLAVE:
-            // Must be a mage
-            if (victim->class != MAGE_CLASS
-                && victim->class != PSIONICIST_CLASS
-                && victim->class != WIZARD_CLASS
-                && victim->class != ENCHANTER_CLASS)
-            {
-                send_to_char("They must follow the path of a mage in order to join the towers of Conclave.\r\n", ch);
-                return;
-            }
-
-            return;
         default:
             break;
     }

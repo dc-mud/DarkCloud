@@ -120,7 +120,7 @@ typedef void SPELL_FUN (int sn, int level, CHAR_DATA *ch, void *vo, int target);
 #define MAX_ALIAS          10
 #define MAX_CLASS          13   // top_class
 #define MAX_PC_RACE        17
-#define MAX_CLAN           3
+#define MAX_CLAN           4
 #define MAX_DAMAGE_MESSAGE 41
 #define MAX_LEVEL          60
 #define LEVEL_HERO         51
@@ -1677,13 +1677,7 @@ typedef enum
 #define CLAN_NONE          0
 #define CLAN_LONER         1
 #define CLAN_RENEGADE      2
-#define CLAN_KNIGHTS       3
-#define CLAN_MALICE        4
-#define CLAN_VALOR         5
-#define CLAN_CULT          6
-#define CLAN_SYLVAN        7
-#define CLAN_WAR_HAMMER    8
-#define CLAN_CONCLAVE      9
+#define CLAN_TEST          3
 
 /*
  * Prototype for a mob.

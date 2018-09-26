@@ -61,7 +61,7 @@ extern char strArea[MAX_INPUT_LENGTH];
  */
 void bug(const char *str, int param)
 {
-    char buf[MAX_STRING_LENGTH];
+    char buf[MAX_STRING_LENGTH * 5];
 
     if (fpArea != NULL)
     {

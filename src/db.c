@@ -1979,6 +1979,7 @@ OBJ_DATA *create_object(OBJ_INDEX_DATA * pObjIndex)
     obj->value[4] = pObjIndex->value[4];
     obj->weight = pObjIndex->weight;
     obj->cost = pObjIndex->cost;
+    obj->condition = pObjIndex->condition;
 
     /*
      * Mess with object properties.

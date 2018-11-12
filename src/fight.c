@@ -1305,6 +1305,16 @@ bool is_safe(CHAR_DATA * ch, CHAR_DATA * victim)
         return TRUE;
     }
 
+    // A clanmate cannot wake another clanmate from sleep.
+    if (IS_AFFECTED(victim, AFF_SLEEP)
+        && is_clan(ch)
+        && is_clan(victim)
+        && is_same_clan(ch, victim))
+    {
+        send_to_char("Only a foe can wake a person from magical sleep.\r\n", ch);
+        return TRUE;
+    }
+
     /* killing mobiles */
     if (IS_NPC(victim))
     {
@@ -1423,6 +1433,16 @@ bool is_safe_spell(CHAR_DATA * ch, CHAR_DATA * victim, bool area)
     // Cannot attack a player or attack as a player if you or your victim are a ghost.
     if (IS_GHOST(ch) || IS_GHOST(victim))
         return TRUE;
+
+    // A clan mate cannot wake another clanmate from sleep.
+    if (IS_AFFECTED(victim, AFF_SLEEP)
+        && is_clan(ch)
+        && is_clan(victim)
+        && is_same_clan(ch, victim))
+    {
+        send_to_char("Only a foe can wake a person from magical sleep.\r\n", ch);
+        return TRUE;
+    }
 
     /* killing mobiles */
     if (IS_NPC(victim))

@@ -550,12 +550,9 @@ void spell_sleep(int sn, int level, CHAR_DATA * ch, void *vo, int target)
     af.bitvector = AFF_SLEEP;
     affect_join(victim, &af);
 
-    if (IS_AWAKE(victim))
-    {
-        send_to_char("You feel very sleepy ..... zzzzzz.\r\n", victim);
-        act("$n goes to sleep.", victim, NULL, NULL, TO_ROOM);
-        victim->position = POS_SLEEPING;
-    }
+    send_to_char("You feel very sleepy ..... zzzzzz.\r\n", victim);
+    act("$n falls into a deep magical sleep.", victim, NULL, NULL, TO_ROOM);
+    victim->position = POS_SLEEPING;
 
     return;
 }

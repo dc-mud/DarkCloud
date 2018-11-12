@@ -2506,10 +2506,6 @@ extern DB_BUFFER               * db_buffer_last;
 #define DISABLED_FILE        "../system/disabled.dat"
 #define EXPORT_DATABASE_FILE "../system/game-data.db"
 
-// Exit codes
-#define MUD_EXIT_REBOOT          0                        /* Normal exit */
-#define MUD_EXIT_HALT            1                        /* Exit due to error or signal */
-
 /*
  * Our function prototypes.
  * One big lump ... this is every function in Merc.

@@ -2244,7 +2244,7 @@ ROOM_INDEX_DATA *get_random_room(CHAR_DATA *ch)
     /*
      * Now, we pick a random number and grab the room pointer
      */
-    target_room = number_range(0, room_count);
+    target_room = number_range(0, room_count - 1);
     pRoomIndex = pRooms[target_room];
     free(pRooms);
 

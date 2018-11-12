@@ -47,19 +47,18 @@
     #define srandom( x ) srand( x )
 #endif
 
-#if !defined(OLD_RAND)
-    #if !defined(linux)
-        #if !defined(QMFIXES)
-            long random();
-        #endif
-    #endif
+#if !defined(linux)
     #if !defined(QMFIXES)
-        void srandom(unsigned int);
+        long random();
     #endif
-
-    int getpid();
-    time_t time(time_t * tloc);
 #endif
+
+#if !defined(QMFIXES)
+    void srandom(unsigned int);
+#endif
+
+int getpid();
+time_t time(time_t * tloc);
 
 /* externals for counting purposes */
 extern OBJ_DATA *obj_free;

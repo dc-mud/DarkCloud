@@ -1586,6 +1586,13 @@ void stop_follower(CHAR_DATA * ch)
         affect_strip(ch, gsn_charm_person);
     }
 
+    // Guardian Angel
+    if (IS_NPC(ch) && ch->pIndexData->vnum == VNUM_GUARDIAN_ANGEL)
+    {
+        affect_strip(ch->master, gsn_guardian_angel);
+        affect_strip(ch, gsn_guardian_angel);
+    }
+
     if (can_see(ch->master, ch) && ch->in_room != NULL)
     {
         act("$n stops following you.", ch, NULL, ch->master, TO_VICT);

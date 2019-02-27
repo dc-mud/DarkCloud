@@ -2265,6 +2265,12 @@ CHAR_DATA *get_char_room(CHAR_DATA * ch, char *argument)
     int number;
     int count;
 
+    // If they passed a null in here, return them a null back but -don't- crash.
+    if (IS_NULLSTR(argument))
+    {
+        return NULL;
+    }
+
     number = number_argument(argument, arg);
     count = 0;
 
@@ -2291,6 +2297,12 @@ CHAR_DATA *get_char_area(CHAR_DATA * ch, char *argument)
     CHAR_DATA *wch;
     int number;
     int count;
+
+    // If they passed a null in here, return them a null back but -don't- crash.
+    if (IS_NULLSTR(argument))
+    {
+        return NULL;
+    }
 
     if (!str_cmp(argument, "self"))
         return ch;
@@ -2325,6 +2337,12 @@ CHAR_DATA *get_char_world(CHAR_DATA * ch, char *argument)
     CHAR_DATA *wch;
     int number;
     int count;
+
+    // If they passed a null in here, return them a null back but -don't- crash.
+    if (IS_NULLSTR(argument))
+    {
+        return NULL;
+    }
 
     if ((wch = get_char_room(ch, argument)) != NULL)
         return wch;

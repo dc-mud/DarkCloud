@@ -1289,12 +1289,14 @@ void log_note(NOTE_DATA *note)
         id, note->type, note->sender, note->date, note->to_list, note->subject, note->text, to_all, to_immortal);
 
     // Now, try to log the recipients so that we can easily query them individually.
+    // strtok updates the original string in the pointer, so we need to make a copy of it and we will use that and then free it.
     char *tokenPtr;
+    char *to_list_copy = strdup(note->to_list);
 
     // Initialize the string tokenizer and receive pointer to first token, split the string on spaces and commas.. extra commonly used characters
     // included which will get parsed out.  As an additional note, if ghost recipients (those that no longer exist) we can delete them from this
     // table on boot although I would suggest keeing the original unparsed to line.
-    tokenPtr = strtok(note->to_list, " ,();.");
+    tokenPtr = strtok(to_list_copy, " ,();.");
 
     while (tokenPtr != NULL)
     {
@@ -1306,5 +1308,8 @@ void log_note(NOTE_DATA *note)
 
         tokenPtr = strtok(NULL, " ,();.");
     }
+
+    // Free the copy we created.
+    free(to_list_copy);
 
 }

@@ -1676,8 +1676,9 @@ void do_scan(CHAR_DATA * ch, char *argument)
         {
             if ((pExit = ch->in_room->exit[door]) != NULL)
             {
-                // Can't look through a closed door.
-                if (IS_SET(pExit->exit_info, EX_CLOSED))
+                // Exit isn't null and it's not a closed door.
+                if ((pExit = ch->in_room->exit[door]) != NULL
+                    && !IS_SET(pExit->exit_info, EX_CLOSED))
                 {
                     break;
                 }

@@ -1,5 +1,5 @@
 /***************************************************************************
- *  Dark Cloud copyright (C) 1998-2018                                     *
+ *  Dark Cloud copyright (C) 1998-2019                                     *
  ***************************************************************************
  *  Original Diku Mud copyright (C) 1990, 1991 by Sebastian Hammer,        *
  *  Michael Seifert, Hans Henrik Strfeldt, Tom Madsen, and Katja Nyboe.    *
@@ -121,7 +121,7 @@ void show_login_credits(DESCRIPTOR_DATA *d)
     write_to_descriptor(d->descriptor, BLANK_MENU_LINE, d);
 
     // This line should dynamically space up to a version number
-    writef(d, "{w   |    {G*{x {WDark Cloud{w %s (1998-2018)", VERSION);
+    writef(d, "{w   |    {G*{x {WDark Cloud{w %s (1998-2019)", VERSION);
 
     space = 43 - strlen(VERSION);
 

@@ -1,5 +1,5 @@
 /***************************************************************************
- *  Dark Cloud copyright (C) 1998-2018                                     *
+ *  Dark Cloud copyright (C) 1998-2019                                     *
  ***************************************************************************
  *  Original Diku Mud copyright (C) 1990, 1991 by Sebastian Hammer,        *
  *  Michael Seifert, Hans Henrik Strfeldt, Tom Madsen, and Katja Nyboe.    *

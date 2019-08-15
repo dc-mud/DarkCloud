@@ -1444,20 +1444,6 @@ void do_quit(CHAR_DATA * ch, char *argument)
         }
     }
 
-    /* toast evil cheating bastards */
-    for (d = descriptor_list; d != NULL; d = d_next)
-    {
-        CHAR_DATA *tch;
-
-        d_next = d->next;
-        tch = d->original ? d->original : d->character;
-        if (tch && tch->id == id)
-        {
-            extract_char(tch, TRUE);
-            close_socket(d);
-        }
-    }
-
     return;
 }
 

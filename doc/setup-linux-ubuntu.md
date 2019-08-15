@@ -18,8 +18,8 @@ This tutorial will assume that you have your Ubuntu Linux server setup with the 
 #### Setup Steps
 
 1. Login to your server with an SSH account.
-1. Clone the git repository into the directory of yours choice (git clone https://github.com/cs-mud/CrimsonSkies cs-mud)
-1. Change directory to the "src" directory in the repository you just cloned.  If you are using my naming conventions it would be "cd cs-mud" followed by "cd src".
+1. Clone the git repository into the directory of yours choice (git clone https://github.com/dc-mud/DarkCloud dc-mud)
+1. Change directory to the "src" directory in the repository you just cloned.  If you are using my naming conventions it would be "cd ds-mud" followed by "cd src".
 1. Execute the "make" command to build the code.
 1. After the build succeeds navigate to the area directory "cd ../area"
 1. Set the startup file to have execute permissions "chmod +x startup"
@@ -59,7 +59,7 @@ My rc.local file looks like this:
 #
 # By default this script does nothing.
 
-cd /home/pi/cs-mud/area
+cd /home/pi/dc-mud/area
 ./startup &
 
 exit 0
